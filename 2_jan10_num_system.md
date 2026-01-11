@@ -212,11 +212,17 @@ B ** 3
 Q: In base b, with d digits how many numbers can you represent?
 B ** d
 
+B**d = N
+d = logB(N)
+
 Q: You have a base 12 and to represent 1 million numbers, how many maximum digits do you need?
 12 ** n = 1000_000
+n = log12(1000_000)
 
 Q: How would you find n?
 16 ** n = 1000_000
+
+n = log16(1000_000)
 
 Q: How would find square root of 456. Try guessing and verifying starting a from l= 1 and right = 50. Use python as your calculator.
 
@@ -227,3 +233,37 @@ A: Try various problems:
     - find that value of x for which x**2 - 10x + 4 is minimum, Can you use binary search.
     - find if a number exists in a sorted and unsorted list of numbers.
     - 
+
+Q: What is Log?
+log10(10) = 1
+log10(100) = 2
+
+log(N) = number of zeros in a number.
+2000 -> 3.3
+
+A**B = N
+B = logA(N)
+
+# 
+B ** d = N
+
+d = logB(N)
+
+B ** logB(N) = N
+
+log(A*B) = log(A) + log(B) # zeros get added when we are multiplying - 10 * 100 = 1000
+
+# Information theory say:
+To representing an ambiguity of p = -log(p) bits
+- log(1) -> 0 bits
+
+# Sound
+Sensitivity was proportion to the log of sound.
+decibel log10(actual_sound)
+
+- virus spread
+- nuclear reactions
+
+- Take a paper and keep folding it half. The thickness
+1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8k, 16k, ....
+
