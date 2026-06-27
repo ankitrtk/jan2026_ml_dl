@@ -1,0 +1,479 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/embedded-best-practices-demonstrated-at-arm-tech-con
+
+Embedded Best Practices at Arm Tech-con
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            5 min read
+
+Embedded Best Practices at Arm Tech-con
+
+ James Deutch | Principal Field Applications Engineer
+
+ : 
+
+                Oct 17, 2019 2:13:00 PM
+
+Demo
+
+Multicore
+
+Safety
+
+MCP
+
+Least Privilege
+
+Systems Architecture
+
+Arm Tech Con
+
+Security
+
+Trusted Codebase
+
+embedded systems
+
+partitioning
+
+privilege escalation
+
+development
+
+real-time
+
+Technical Blog
+
+_______________
+
+Lynx participated in this year’s Arm TechCon with a booth in the expo hall, where we demoed 
+Lynx MOSA.ic
+ and its components — 
+LynxSecure
+®
+, Buildroot Linux,
+ LynxOS-178
+®
+, and Lynx Simple Applications (which are bare-metal apps).  It was great to see people walk down the hallways and stop in the aisle to examine the Automotive demo and Industrial demos.
+
+The concepts behind the demos apply across multiple industries and use cases; we simply chose to highlight these concepts in the context of these two markets for the purpose of putting together the demos.  For more information on the Automotive demo, you can read Chris Barlow's 
+blog post
+.  Below you can see a close-up of the architectural graphic shown on the notebook’s screen:
+
+Fundamental Concepts Illustrated by the Industrial Automation Demo
+
+The industrial automation demo shows how a robotics system might conceptually be designed.  There are two types of users to the system – an operator that can run, send commands to, and control the robot’s actions; and an administrator that also has the authority to update the robot’s control applications.  The domains that have been created to facilitate their use cases are:
+
+ A user domain, where a Buildroot Linux has been put in place for the users to interact with the system—this domain has a network connection and a GUI for users to control the robot
+
+ A guard domain that is used to verify the signature of a program and decrypt it before it is loaded on the robot
+
+ A robot domain, which is used to actually control the robot and provide feedback on its status
+
+The three domains are also connected by a set of data flows, or connections.
+
+ A FIFO connects the Buildroot Linux to the update guard. This connection is used to load programs that have been signed by the administrator into the robot domain.
+
+ A set of FIFOs from the update guard to the Lynx Simple Applications (LSAs are also known as bare-metal applications) to update them in a coordinated fashion.
+
+ A pair of FIFOs from the Buildroot Linux to the robot’s control LSA, which are only used to tell the robot to run its pre-loaded application and provide status information back.
+
+The fundamental concepts we are illustrating with the architecture of the industrial automation demo are:
+
+ Simplify your architecture
+
+ The security benefits of a least-privilege architecture
+
+ You don’t always need an RTOS to achieve your real-time safety-critical requirements
+
+Let’s look at each of these in turn—
+
+Simplify Your Architecture
+
+When you use a separation kernel like 
+LynxSecure
+, which is the foundational component of 
+Lynx MOSA.ic
+, you can greatly simplify your architecture.  You can make it more understandable, decompose it into its fundamental units of work, and minimize your trusted codebase.
+
+Functional Decomposition
+
+A separation kernel makes it easier to do a functional decomposition of your design.  You don’t have to cram all the functionality you need into one big system.  For example, just because you happen to want or need the functionality of Linux for a flexible GUI and network stack, or an RTOS for its real-time responsiveness, you don’t want to be forced to use that single OS for all of your system’s functionality.
+
+Instead, think of each piece of the system as being in its own guest environment.  Then ask yourself:
+
+What does this component need to do?
+
+What services do I want the environment (e.g., the guest OS) to provide?
+
+Can this component stand on its own?
+
+What would those communication channels be?
+
+Can I reasonably decompose this component even further?
+
+When you iterate through these questions you can break down the functional components of your architecture and get a handle on what you want it to do, and what you need to support that component.
+
+Improved Architectural Comprehensibility
+
+When you decompose your architecture you are then in a position to make your system more comprehensible.  Each component will be doing a better defined, and more discrete, piece of work.  Each component should be able to operate as a stand-alone component, which helps to eliminate “spaghetti” dependencies.
+
+In the industrial automation demo, there are three domains: an operator domain where the authentication/authorization software and network connection reside (if desired, this domain could be further decomposed); an update guard domain; and a trusted robot control domain.  Within the trusted robot control domain, there is even further functional decomposition that has been done.
+
+Each component serves its unique purpose.  Each component has its communication channels well defined.  Each component only communicates via passed messages, so the interdependencies are minimal and each component’s implementation is clean and easily understood.
+
+Minimize Your Trusted Codebase
+
+What is a trusted codebase? In a security context, it’s determined by the security level that the component must reach.  For example, whether a component has to work at a security level that is secret or top secret.  In a safety-critical context, it’s determined by the safety-criticality level that the component must achieve.  For example, whether a component has to work at DO-178C DAL C, or DAL A.
+
+A benefit of decomposing your architecture with a separation kernel is the ability to minimize your trusted codebase.  For example, you don’t want to be forced to safety certify all of your system to DO-178C DAL A if most of it is only DAL C.  That’s just a waste of time and money.
+
+Decomposition will also help you figure out the right type of operating environments for your required functionality.  If you need to do something in real-time, then use an RTOS for the component that needs it.  If you need a general purpose OS (e.g.  Windows or Linux) to easily create a GUI or for a high-speed network stack, then make that a component.  You don’t have to shoehorn your GUI into an RTOS if it doesn’t have real-time safety-critical requirements.
+
+In the industrial automation demo, the robot’s control software is intentionally isolated from the rest of the system.  The robot control software is the trusted codebase from a safety-critical point of view.  Using a separation kernel to isolate those components, we don’t have to do a safety certification on the component that has the network connection or the authentication/authorization software - it’s not part of the trusted, safety-critical real-time domain.
+
+The Security Benefits of a Least-Privilege Architecture
+
+There’s an abundance of literature and research available on the Internet about why you want to use a least-privilege architecture.  We're not going to be able to rehash all that in a blog post like this one.  What we would like to point out, however, is that by using a separation kernel and decomposing your functionality, you make it easier to identify and isolate the components of your system and the privileges that each component needs.  If you only assign the privileges to the decomposed system components that each needs to do its job, then you can more easily create a least-privilege architecture.
+
+In the industrial automation demo, the components in the robot control domain do not need a network stack (which is a huge attack surface), and access to the protected authentication/authorization keys is not needed either.  The operator’s domain does not need the privileges to stop, update, and restart the guests in the robot control domain, and does not need access to any of the robot’s controls.  The update guard component only needs access to its FIFOs and shared memory resources to orchestrate the updating of the LSAs. It does not need access to a network stack, authentication/authorization keys, or the robot’s controls.
+
+You Don’t Always Need an RTOS to Achieve Your Real-Time Safety-critical Requirements
+
+Whether or not you need an RTOS for your safety-critical needs is an important consideration.  In the industrial automation demo, we decided that we didn’t actually need an RTOS.  Instead, we used a stack of Lynx Secure Applications (LSAs) — which are bare-metal applications — to control the robot.  The stack of LSAs are controlled by a flexible scheduler (Lynx’s “Z-Scheduler”) which donates CPU time to the decomposed robot control functionality.  As mentioned earlier in this blog post, Chris Barlow’s 
+blog post
+ on the automotive demo in our Arm TechCon booth describes LSAs quite nicely. 
+
+Leveraging LYNX MOSA.ic for Your Next Project
+
+Arm TechCon was a great show this year.  We had the opportunity to show both an industrial automation demo with a moving robot arm and an automotive demo with a live model car driving on virtual roads.  Both of those demos highlighted the need for safety-critical and security-critical architectures.  If you have a safety-critical and/or security-critical system you need to create, then please contact us at 
+inside@lynx.com
+ or simply click the Get Started button below.  We’d love to talk to you about your project and possibly schedule a free whiteboarding session.
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

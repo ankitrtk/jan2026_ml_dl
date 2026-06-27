@@ -1,0 +1,955 @@
+URL: https://www.lynx.com/blog/bringing-devsecops-to-embedded
+
+Bringing DevSecOps to Embedded: What's Different from Enterprise Pipelines?
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+BLOG
+
+September 16, 2025
+
+Bringing DevSecOps to Embedded: What's Different from Enterprise Pipelines?
+
+by 
+Melissa Smith | Senior Software Engineer
+
+Share
+
+DevSecOps, the integration of security into every phase of software development and deployment, has become standard practice for many companies over the past decade. Security is no longer an afterthought but an integral part of the process. This “shift left” approach has swept through the tech world growing rapidly and enabling efficient, reliable, and regular releases without sacrificing security [4]. 
+
+This approach leverages continuous integration and continuous delivery pipelines to automate security testing, code analysis, and compliance checks, drastically reducing the time between development and secure deployment. The underlying assumptions that drive these capabilities, constant connectivity, scalable infrastructure, and frequent patch cycle, are not always guaranteed in embedded systems.
+
+This presents a growing problem: as embedded systems have become more connected and increasingly critical, their security surface expands, but their development models have not kept pace [5]. This gap means we must rethink DevSecOps to match the realities of embedded systems. This means rethinking not the core principles of DevSecOps, but the ways we implement them.
+
+ARMv8 a widely used 64-bit architecture known for balancing performance and energy efficiency in embedded and edge devices, is a good example for this transition. ARMv8 supports modern operating systems while operating within the constraints of embedded environments with broad adoption in defense and industrial systems as an ideal example of adapting DevSecOps to embedded challenges.
+
+Enterprise vs Embedded: Different Constraints, Same Goals   
+
+Enterprise systems typically live in cloud environments with flexible infrastructure, standardized platforms, and frequent release cycles. They benefit from continuous integration and continuous deployment, automated monitoring, and the ability to rapidly patch vulnerabilities and address issues. 
+
+Embedded systems on the other hand often operate on tightly constrained hardware with specialized tool chains, rare updates, and once deployed there is usually no physical or network access; they are self-contained systems. They run on microcontrollers or real-time operating systems (RTOS) with strict memory, storage, and processing limitations. Devices may run for years, even decades, without direct maintenance, especially in industrial, automotive, or medical contexts. 
+
+While embedded systems broadly face constraints listed above, ARMv8 platforms occupy a unique middle ground. Unlike simpler controlled or bare-metal systems, ARMv8 architectures support full 64-bit operating systems, virtualization, and advanced security features such as TrustZone. This added complexity enables more sophisticated applications but also introduces challenges in development and security integration. ARMv8 devices are most often power mission-critical systems in defense, industrial, and automotive sectors, where stringent real-time requirements and strict security policies demand tailored DevSecOps practices. The platform’s capabilities require balancing the flexibility of enterprise style workflows with the realities of embedded hardware constraints, making it a good example for how we need to rethink secure and automated development pipelines.
+
+The hardware diversity and long operational lifecycle mean embedded systems often require certification and regulatory approval, constraining frequent software changes and updates. This demands robust upfront validation rather than reactive patching.
+
+Enterprise vs Embedded
+
+Category
+
+Enterprise System
+
+Embedded System
+
+ARMv8 Specifics
+
+Deployment
+
+Cloud, VMs, Containers (scalable)
+
+Bare metal, Microcontrollers, RTOS, fixed hardware
+
+Full OS or hypervisor; fixed function; defense/industrial use 
+
+Updates
+
+Continuous integration and deployment
+
+Rare, manual, or carefully controlled OTA
+
+Secure OTS via  TrustZone; validated for long lifecycles 
+
+Toolchains
+
+Standardized, container-based
+
+Vendor specific cross-compilers, hardware aware toolchains
+
+ARM-specific tools with virtualization and TrustZone support 
+
+Connectivity
+
+Persistent network access
+
+O
+ften intermittent or no connectivity
+
+Low-power, wireless; offline-operation; limited feedback loops 
+
+Security
+
+Runtime monitoring, patching
+
+Secure-by-design, static guarantees, cryptographic signing
+
+TrustZone hardware isolation; secure boot; signed firmware 
+
+Testing Strategy 
+
+Virtualized environments, scalable automation 
+
+Hardware in the loop, emulators, manual staging 
+
+Extensive HIL on ARMv8 boards for timing and peripherals 
+
+Visibility & Logging 
+
+Extensive telemetry and logging 
+
+Limited or no runtime telemetry 
+
+Specialized debug interfaces; optimized logging for constraints 
+
+Lifecycle 
+
+Short (regular patches) 
+
+Long (fewer update opportunities) 
+
+Ongoing security patching; firmware compatibility over time 
+
+These differences help illustrate why embedded DevSecOps in embedded require a specialized approach. Practices common in cloud-native systems will not work in embedded systems, where security must be embedded early, tested differently, and maintained under stricter conditions.
+
+DevSecOps Must be Different
+
+Embedded systems lack many of the assumptions enterprise systems rely on, such as connectivity, scalability, or flexibility. Yet many embedded systems need more security, not less, given their criticality.
+
+It’s not a simple matter of scaling enterprise tools down. The fundamental approach needed to achieve DevSecOps goals in embedded must shift. Many of the assumptions that apply in enterprise workflows break down in embedded systems because:
+
+Connectivity
+: limited or non-existent restricting updates and monitoring
+
+Hardware constraints
+: limited memory, CPU storage, and power availability restrict runtime security tools
+
+Physical Access risks
+: devices may be exposed to tampering or side-channel attacks
+
+Long operational lifecycles
+: Firmware must remain trustworthy and auditable for 10+ years.
+
+Certification requirements
+: For some industries compliance with certifications is required such as aerospace with standards such as DO-178C [3].
+
+ARMv8-based embedded platforms have the processing capability to support advanced operating systems and layered software stacks, but they operate without the abstraction and consistency of typical enterprise environments. Each device may have its own unique hardware configuration, from specialized power states, real time scheduling constraints, custom bootloaders etcetera. These constraints make standard CI/CD models difficult to apply directly.
+
+Security is its own concern. While enterprise systems benefit from layered defenses across infrastructure and network boundaries, embedded systems typically can only enforce trust at the device level. Features such as ARM TrustZone, secure boot, firmware signing, encrypted storage and strict privilege separation are necessary. However, they are a double edge sword, introducing complexity that must continuously be validated and integrated into the development lifecycle.
+
+Rethinking DevSecOps means that while the constraints of embedded don’t change the goals, the strategies for implementation must. The goal is always to deliver high quality software that is secure and reliable. 
+
+Organizational Integration and Cultural Challenges
+
+Adopting 
+DevSecOps
+ in embedded 
+environments is more than just implementing new 
+tools;
+ it requires a cultural and organizational shift. Many embedded software teams 
+operate
+ within traditional waterfall-style processes or half adapted agile methodologies but 
+are 
+still isolated and unaware of the security and operational side of development. Without 
+the cross
+-functional collaboration security 
+remains
+ a separate 
+i
+mplementation,
+ not a core functionality of the software.
+
+Bridging this gap means adopting agile or hybrid methodologies where security and operations teams collaborate closely with embedded developers from the 
+initial
+ design phase. Cross-functional teams should integrate 
+expertise
+ in hardware constraints, firmware development, and cybersecurity to holistically address risks.
+
+Shifting towards DevSecOps, organizations must foster strong collaboration between software, firmware, security, and operational teams. This includes rethinking the team’s structures and embedding cybersecurity knowledge within the embedded teams. Developers need to be empowered to not just write code but understand its security implications across the entire lifecycle, from design to development.
+
+In embedded environments where product cycles are long and systems endure in the field for years or decades, organizational change is essential. Without it even the best DevSecOps tooling will fall short of delivering secure, resilient systems.
+
+Implementation in Embedded Systems
+
+Diagram 1 Reference: 
+Secure Software Development Flow for Embedded Systems on Design to Development
+
+S
+ince DevSecOps in embedded systems is not just pulling enterprise tools and practices into more constrained environments but applying the same values using methods that work within the needs of the hardware, toolchain and lifecycle.
+
+In ARMv8-based systems workflows often start in a host environment, where code is built, analyzed and packaged before being deployed to actual devices. These are often cloud base CI/CD systems think GitLab CI/CD, GitHub actions, or CircleCI, though they may also include on-premises build infrastructure for ait-gapped, regulated, or defense applications. 
+
+The build process relies on toolchains like aarch64-linux-gnu-gcc, the Yocto Project SDK or Buildroot [6] designed for specifically targeting ARMv8 hardware. Static code analysis tools (Cppcheck, Coverity, Clang Analyzer and more) help catch bugs early. Tools that support standards like MISRA C or CERT C help enforce secure and predictable coding practices mitigating risks inherent in safety and security critical applications [7][6][8]. Adhering to these standards is essential in safety and security and security critical applications, where latent defects can lead to system failure or exploitable vulnerabilities.
+
+Open-source scanners (examples) check for known vulnerabilities in third-party components. SBOMs (Software Bills of Materials) generation via tools (examples) enhances transparency of all components, supporting vulnerability management and regulatory compliance [2]. This gives fast and early assurance that code is functional, secure, and compliant.
+
+Despite ARMv8’s 64-bit architecture with full OS systems, virtualization support and secure execution features many critical behaviors cannot be fully verified without testing on the actual hardware. QEMU provides quick feedback for functional correctness, but platform-specific behaviors such as bootloader sequencing, TrustZone enforcement, timing sensitivity and peripheral interactions only show under real execution conditions. In hardware-in-the-loop (HIL) testing setups CI/CDS systems automatically flash firmware onto ARMv8 boards, apply simulated inputs, and verify real-time outputs. These tests validate system functionality and integration with the physical characteristics of the hardware platform [9]. 
+
+Bringing modern CI/CD pipelines with the physical realities of ARMv8-based hardware is what makes embedded DevSecOps distinct. Testing extends beyond functional validation to include hardware-in-the-loop simulations and emulation, assessing real-world conditions, timing constraints, fault tolerance, and resilience against cyber threats relevant to mission-critical and safety-critical systems [5]. Success depends on implementing cloud-based automation, comprehensive security checks, and rigorous hardware validation into a single, repeatable workflow. By giving equal priority to security, testing and deployment even in hardware constrained environments we can enable teams to deliver embedded systems that are functional, resilient, trustworthy and ready for long term operation in the field.
+
+Toolchain Modernization & Automation
+
+For embedded systems to support DevSecOps their development toolchains need to be improved. Traditional embedded workflows often rely on manual steps, outdated tools, and limited visibility. These limitations reduce visibility, hinder scalability and increase the risk of inconsistencies or security gaps especially when targeting complex platforms like ARMv8. Without modernization it becomes increasingly difficult to deliver secure high-quality software at the speed today’s environments necessitate.
+
+Modern ARMv8 development benefits from build frameworks that emphasize automation, consistency, and traceability. Tools like Yocto, Buildroot, and Cmake allow teams to configure and build customized Linux based firmware images suited to a wide range of ARMv8 SoCs. These systems enable consistent compiler configurations, layered security policies, reproducible builds, and board-specific variations. All of which are critical for environments where hardware differences and performance constraints must be handled meticulously. When paired with version control systems like Git, teams can track changes over time, collaborate across variants, and maintain a clear audit trail for compliance and debugging.
+
+Security integration within the ARMv8 build process requires leveraging both architectural features and tailored automation. Static analysis tools can be configured to focus on ARMv8 specific code paths, hardware interfaces, and real-time constraints, uncovering subtle vulnerabilities early in the development cycle. Compiler hardening options help reduce runtime attack surfaces by leveraging ARMv8’s security extensions such as Pointer Authentication and Branch Target Authentication. 
+
+In many ARMv8 embedded deployments, especially those in isolated or highly secure environments, fully automated CI/CD pipelines are often impractical. To compensate teams, benefit from partial automation workflows where possible. Form nightly builds using ARMv8 cross-compilers, scheduled static analysis runs, and automated unit or integration tests designed to exercise ARMv8 specific hardware features and timing requirements.
+
+Ultimately modernizing ARMv8 toolchains for DevSecOps is about tailoring automation and security practices to the constraints and capabilities unique to embedded environments. Respecting hardware specific behaviors, real-time deadlines, and long operational lifecycles enables teams to improve traceability and security outcomes while preparing for emerging threats specific to ARMv8 based systems. 
+
+Consequences of Inaction
+
+In aerospace and defense, and other critical industries, the stakes for embedded system security are exceptionally high. Vulnerabilities in control systems, communication devices, or instruments can lead to mission failure, safety risks, and significant operational disruption. 
+
+The 2018 Specter and Meltdown exploits revealed critical weaknesses in speculative execution, a performance optimization feature used by many ARMv8 processors leaking sensitive data across security boundaries [10]. These flaws stemmed from subtle interactions between hardware optimizations and software and difficult to detect using traditional testing methods. A mature DevSecOps approach with integrated security testing throughout firmware and OS development, including static and dynamic analysis tailored to ARMv8’s architecture, threat modeling focused on speculative execution risks and continuous integration of security patches might have accelerated identification of this issue limiting the window of vulnerability.
+
+Another incident, CVE-2019-1010218 exposed a vulnerability with ARM Trusted Firmware, the low-level software responsible for enforcing secure boot processes and managing TrustZone isolation on ARMv8 devices [11]. Attackers were able to exploit this flaw and bypass security checks enabling privilege escalation and potential full compromise of the device. The flaw itself came from insufficient validation and testing of the secure firmware which could have been caught with more rigorous automated testing, HIL simulation, and continuous security audits embedded into the development pipeline. 
+
+These cases demonstrate that integrating security continuously throughout the ARMv8 embedded software lifecycle is vital.  DevSecOps practices enable earlier detection of complex hardware-software interaction risks, faster patch cycles and stronger assurance that security features work as intended. Without this integration mission & safety critical systems remain exposed to potentially catastrophic breaches, emphasizing why DevSecOps tailored to ARMv8 architectures is essential.
+
+In these high-stakes environments, traditional DevSecOps approaches must be revised and adapted to meet the unique constraints of embedded systems. Doing so ensures that these systems remain secure, dependable and mission-ready throughout their extended lifecycles. 
+
+Reach out to our services team for product offerings and see how we can help. 
+
+References
+
+FDA Medical Device Cybersecurity, U.S Food & Drug Administration, 2023 
+
+Cybersecurity | FDA
+
+NTIA SBOM Initiative, U.S. Department of Commerce, 2023
+SOFTWARE BILL OF MATERIALS | National Telecommunications and Information Administration
+
+N
+IST SP 800-218: Secure Software Development Framework (SSDF), 2022
+SP 800-218, Secure Software Development Framework (SSDF) Version 1.1: Recommendations for Mitigating the Risk of Software Vulnerabilities | CSRC
+
+OWASP DevSecOps Guidelines, 2023
+OWASP DevSecOps Guideline | OWASP Foundation
+
+NIST SP 800-160 Vol2: Cyber Resiliency Considerations for Engineering Trustworthy Secure Systems, 2019
+
+SP 800-160 Vol. 2, Developing Cyber Resilient Systems: A Systems Security Engineering Approach | CSRC
+
+CISA Secure by Design and Default Principles, 2023
+
+Secure by Design | CISA
+
+CERT C Coding Standard, Software Engineering Institute, Carnegie Mellon University
+
+SEI CERT C Coding Standard - SEI CERT C Coding Standard - Confluence
+
+MISRA Guidelines, MISRA Consortium, 2023
+MISRA
+
+Hardware-in-the-Loop Testing for Embedded Systems Development, 2025
+
+Hardware in the Loop Testing for Embedded Systems Development - Embedded Computing Design
+
+Kocher, et al. Specter Attacks: Exploiting speculative execution, 2019 
+
+Spectre attacks: exploiting speculative execution: Communications of the ACM: Vol 63, No 7
+
+CVE-2019-1010218 Detail, 2019
+
+NVD - CVE-2019-1010218
+
+Melissa Smith | Senior Software Engineer
+
+Subscribe Here!
+
+ Seize the Edge 
+
+ Lynx is evolving and our commitment to safety, security, and performance is stronger than ever. We are excited to embark on this next chapter with you. If you have any questions or want to learn more about this transition, we are here to help. 
+
+                Contact Us
+
+Related Blogs
+
+            View All
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

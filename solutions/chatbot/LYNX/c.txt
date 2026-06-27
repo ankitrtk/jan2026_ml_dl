@@ -1,0 +1,23 @@
+URL: https://www.lynx.com/cs/c/?cta_guid=9cbd7d62-abcf-418d-a5ee-28161d24982e&signature=AAH58kEoa-3RyOa7e6FCMm2lO1M-mlCLrQ&utm_referrer=https%3A%2F%2Fwww.lynx.com%2Fcontact%3FhsCtaTracking%3Dd359a7af-0eee-427c-bcf4-c0e9df27a018%7C4e43d481-41d3-4e18-8ce0-9f24e90c2a1f&portal_id=4385221&pageId=82166562475&placement_guid=62960ed4-9202-49dd-84c9-0b9099bf808d&click=a656a050-9173-49a5-8880-93a164f5594a&redirect_url=APefjpEH3dWMRKxmcr1rkBz1UgJ4q8A0v5z6MF_jCNrtIEgra_Xt3ToV6DC6byJQNwc_HA4Ap67KFW1rG2ywtavEhiM3Oe-JYoF1JbXcDQWKd3zneOZTzzWyBwF-gZcKNPcfnqAevR2mtgA13YM9U5V711_fpChzejYucd9uf55sl6Evh4M2LUsf2CSSfFija6EygSkXT05R6bFV36yv0okBiKV1DO1mVFhgAIRKN324mvsww5zKnO__1dufhdOCfrx-DqdBMcq6klo45pilzSuwjdEpfNL_8OCkDMtKIQIdYuPNbqhSlI5at8YUPnUlpzG4xGygZ8iFaPHx5U8EzDly85JJnr9UpvRFnUz0l2IZB_DMiukNqptlUPpkeI0t_1-Ya1W3kpPVhlWQG64rTl7o2i-uQsM4O6lNfhBKWAS_n8tJf_uA5y9fT8qmls-NxI6ndVi8H5ZwIkJ3XrGtBTJNpzzqCOz-tA&hsutk=099127891f90324886eab834b881dc51&canon=https%3A%2F%2Fwww.lynx.com%2Fsupport-portal&ts=1735321589696&__hstc=8031533.099127891f90324886eab834b881dc51.1730908696208.1735267392224.1735321572147.14&__hssc=8031533.3.1735321572147&__hsfp=336580338&contentType=standard-page
+
+Jira Service Management
+
+Atlassian uses cookies to improve your browsing experience, perform analytics and research, and conduct advertising. Accept all cookies to indicate that you agree to our use of cookies on your device.
+Atlassian cookies and tracking notice
+, (opens new window)
+Atlassian uses cookies to improve your browsing experience, perform analytics and research, and conduct advertising. Accept all cookies to indicate that you agree to our use of cookies on your device. 
+Atlassian cookies and tracking notice
+, (opens new window)
+Preferences
+Only necessary
+Accept all
+Lynx Support Center
+Lynx Support Center
+Enter your email to log in or sign up
+Email address
+Next
+Powered by 
+ Jira Service Management
+
+{"xsrfToken":"6dd5fa7a20b50db1541a03441bf6351704b957b0_lout","helpCenterBranding":{"logoUrl":"https://api.media.atlassian.com/file/340d684d-24e3-4b9b-a3f7-863e73a83cd9/image/cdn?token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJlN2RhOTU1My0xZmYzLTQ2ZjUtOTFjMy01N2Q1MzJmNzAwYzEiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpmaWxlOjM0MGQ2ODRkLTI0ZTMtNGI5Yi1hM2Y3LTg2M2U3M2E4M2NkOSI6WyJyZWFkIl19LCJleHAiOjE3ODIyOTA0MzksIm5iZiI6MTc4MjI4OTgzOX0.tvZ-9HObITKIBpyJojT6gsJVAQ-_2F9-W68K8IpXgOo&client=e7da9553-1ff3-46f5-91c3-57d532f700c1&mode=fit","logoId":"340d684d-24e3-4b9b-a3f7-863e73a83cd9","isLogoAvailable":true,"helpCenterTitle":"Welcome to the Lynx Support Center ","sharedPortalName":"Lynx Support Center","translations":{"en-US":{"helpCenterTitle":"Welcome to the Lynx Support Center ","sharedPortalName":"Lynx Support Center","localeDisplayName":"English (United States)"}},"canEditAnnouncement":false,"siteDefaultLanguageTag":"en-US","userLanguageTag":"en-US","portalThemeColor":"#265392","helpCenterTitleColor":"#ffffff","useDefaultBanner":false,"isBannerAvailable":false,"hasTopBarBeenSplit":false},"forgotPassword":{"resetUrl":"/servicedesk/customer/user/forgotpassword"},"login":{"allowCookies":false,"contactAdminLink":"please contact your <a href=\"https://lynxsoftware.atlassian.net/secure/ContactAdministrators!default.jspa\">Jira administrators</a>","elevatedSecurityCheckShown":false,"loginUrl":"/servicedesk/customer/user/login","canReset":true,"sdUserSignUpEnabled":false,"redirectUrl":"https://id.atlassian.com/login","aidEnabled":true,"loginAnnouncementSubject":"","loginAnnouncementMessage":"","loginAnnouncementLocale":""}}
+{"headless":false,"wacLink":"https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_portal_footer&utm_content=lynxsoftware","contactLink":"/secure/ContactAdministrators!default.jspa","serviceDeskVersion":"3.3.0-OD","contextPath":"","xsrfToken":"6dd5fa7a20b50db1541a03441bf6351704b957b0_lout","baseUrl":"https://lynxsoftware.atlassian.net/servicedesk/customer","relativeBaseUrl":"/servicedesk/customer","jiraDisplayUrl":"https://lynxsoftware.atlassian.net","onDemand":true,"mediaApiExternalUrl":"https://api.media.atlassian.com","mediaApiAppClientId":"e7da9553-1ff3-46f5-91c3-57d532f700c1","fabricEmojiUrl":"/gateway/api","helpCenterType":"BASIC","traceId":"a704832b8e6e4c3f9c082a4a1e2b7ae6","siteDefaultLanguageTag":"en-US","featuredValues":{"multiHelpCenterEnabled":false,"hcAIAnswersEnabled":false,"jsmAiConfigEnabled":true,"helpCenterCustomizationEnabled":false},"helpCenterHomePageSlug":"portals","customerAccountAvailabilty":"JSM_AND_JCS","baseUrlCSM":"https://lynxsoftware.atlassian.net","edition":"standard","anonymousEnabled":false,"requestIntroEnabled":true}

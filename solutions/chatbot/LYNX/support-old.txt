@@ -1,0 +1,354 @@
+URL: https://www.lynx.com/support-old
+
+Support
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+LYNX SUPPORT
+
+Here to make your life easier.
+
+ALLOW US TO ASSIST
+
+For more than thirty years, Lynx Software Technologies has been providing and supporting advanced software solutions for safety- and security-critical market segments. Lynx offers four primary support levels and custom engineering services to address every phase of our customer's product life cycles from initial system architecture to deployment.
+Scroll to the bottom of this page to submit an inquiry.
+
+PREMIUM SUPPORT
+
+Time-sensitive projects need a way to quickly address technical challenges. Lynx's dedicated support team work directly with your team to identify and resolve these issues in a timely fashion.
+
+PREMIUMPLUS SUPPORT
+
+Extending the Premium Support offering, Lynx’s PremiumPLUS provides a dedicated support engineer who manages phone support, field engineering resources, and bi-weekly meetings, as well as delivering tighter service level agreements (SLAs) than offered as part of Premium Support.
+
+EXTENDED LONG-TERM SUPPORT 
+
+Extended Long-term Support (eLTS) applies to customer projects that have a lifecycle that extends beyond the standard Lynx software maintenance period.
+
+FROZEN BRANCH SUPPORT 
+
+At any time during GA and eLTS, a frozen branch is offered to customers that need a snapshot of the host and target system being used to 
+deploy a specific software configuration. Under Frozen Branch Support, Lynx maintain the host and target software for the customer.
+
+PREMIUM SUPPORT
+
+Available for current product releases
+
+Standard reference platforms support
+
+Service pack updates
+
+Release updates
+
+Release upgrades (subscription only)
+
+PREMIUMPLUS SUPPORT
+
+Attributes of Premium Support
+
+Designated engineer bi-weekly project coordination calls
+
+Field engineering support
+Live phone support
+
+Point patches
+
+On-site consulting support and product training
+
+Support for custom hardware
+
+EXTENDED LONG-TERM SUPPORT
+
+Designated engineer
+
+Point patches
+
+Service pack updates
+
+Standard reference platforms support
+
+On-site support and product training
+
+Custom hardware support available
+
+FROZEN BRANCH SUPPORT
+
+Maintain specific version (and associated tools to build it) of the software that is deployed in the customer’s environment
+
+Fix safety defects for customers with a valid Certification License
+
+Fix critical bugs (blockers for customers from going into production)
+
+SLAs
+
+Initial response time within 1 business day
+
+First technical response within two business days
+
+Target resolution period (TRP) of critical bugs within 15 business days
+
+SLAs
+
+First technical response within 1 business day
+
+TRP of critical bugs within 10 business days
+
+SLAs
+
+First technical response within 1 business day
+
+TRP of critical bugs within 15 business days
+
+SLAs
+
+First technical response within 1 business day
+
+TRP of critical bugs within 10 business days
+
+SUPPORT INQUIRIES
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

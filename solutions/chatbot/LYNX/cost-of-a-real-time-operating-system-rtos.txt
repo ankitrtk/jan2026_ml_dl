@@ -1,0 +1,613 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/cost-of-a-real-time-operating-system-rtos
+
+What is the Cost of a Real-time Operating System (RTOS)?
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            12 min read
+
+What is the Cost of a Real-time Operating System (RTOS)?
+
+                    Tim Loveless & Lynnette Reese
+
+ : 
+
+                Jul 7, 2020 2:38:44 PM
+
+INTRODUCTION
+
+Choosing an RTOS, regardless of the cost, involves many considerations, including accommodating your specific hardware architecture, the scalability of the RTOS, response requirements, peripheral support, scheduler, services, libraries, middleware, graphical tools, and technical support. No RTOS can offer every option, nor does every combination of technology fit together. When considering a purchase, be aware that buying a commercial real-time operating system (RTOS) is complicated and a long-term investment. There are different architectures and project definitions, licensing, maintenance, and subscription models, and more that all need to be considered when making your decision. Generally speaking, purchasing a commercial RTOS will cost about $10K – $20K for the RTOS and one seat of development tools, but the impact on your project may be quite different.
+
+WHO IS LYNX?
+
+Lynx Software Technologies has built and supported real-time operating systems (RTOSes) since 1988. We have witnessed hardware and embedded software technologies evolve and have supported our customers through the design, development, integration, certification, deployment, and support of software systems across mission-critical applications in 
+AVIONICS
+, 
+INDUSTRIAL
+, 
+AUTOMOTIVE
+, 
+UNMANNED SYSTEMS
+, 
+DEFENSE
+, 
+SECURE LAPTOPS
+, 
+CRITICAL INFRASTRUCTURE
+, and other markets.
+
+Once you have purchased an RTOS, you are committed to that decision. The minimum subscription contract will likely be 1 year, but your technical investment will be deeper. Learning how to use the RTOS is a major commitment in time, and your application will become intimately tied with the RTOS Application Programming Interfaces (APIs). This article covers the costs of commercial RTOSes, some thoughts on building your own, and open source RTOS options. But first
+ be sure you need an RTOS
+, learn
+ how to choose one
+, consider
+ embedded Linux
+, and factor in the
+ cost of an RTOS BSP
+.
+
+Article outline
+
+This article covers the following RTOS cost factors & considerations:
+
+Real-time 
+
+Total costs of commercial RTOSes
+
+Buying an RTOS 
+
+Additional RTOS cost factors
+
+What is the real value of the RTOS?
+
+The build vs buy decision
+
+Open source RTOS
+
+Questions to ask about RTOS pricing
+
+Compatibility concerns
+
+Real-Time (be sure you need an RTOS)
+
+If you are used to PC software prices and the vast amount of free Windows and Linux PC utilities, brace yourself for embedded software pricing. Expect to pay a premium since you are getting a ready-made real-time OS that serves a low volume specialty market. In general, the embedded market is slow to follow advances made in general computing. Concepts like cloud computing and SaaS are more difficult to apply to embedded. The majority of generally available PC software is not written for real-time and so cannot be reused. The first question when shopping for an RTOS is: “
+Do you need real-time?
+”.
+
+“Real-time” is an overused term. Real-time processing involves more than just a fast operating system. An RTOS enables a deterministic response so your system acts predictably to events. The RTOS is designed so that at any time it can drop what it is doing to respond to an event. Task scheduling uses an algorithm that provably meets the deadlines of all tasks. An RTOS in a safety-critical system must also have certification artifacts demonstrating it was built with high-quality software engineering practices. An RTOS is typically small to conserve resources like memory and CPU time.
+
+Some systems are just embedded, but not real-time. For example, Wi-Fi routers, smart meters, and Amazon Echo devices. Your car engine computer and a Segway are both embedded and real-time. Aircraft flight computers are all three, that is, embedded, real-time, and safety-critical. Real-time systems have timing constraints; deadlines that are critical to the usefulness of the system. 
+
+Figure 1: Real-time requires a response within a specific deadline. Figure 1A is not real-time, the usefulness of the response is not greatly impacted if it is late. Figure 1B is “soft” real-time since usefulness declines rapidly but a short delay is tolerable. Figure 1C is “hard” real-time; without an immediate response, usefulness is destroyed.
+
+If the choice of hardware is flexible and you don’t need real-time embedded Linux is strong and popular. There is a vibrant maker community around affordable embedded boards such as Raspberry Pi, Arduino and the BeagleBoard. If embedded Linux is too complex, consider an enterprise Linux distribution like Ubuntu, CentOS or Mint on an embedded PC. If you decide to roll-you-own custom embedded Linux distribution, 
+be wary of forking
+; Linux is “free” and easy to get started with but can lead to a nasty surprise after a few years.
+
+Costs of a Commercial RTOS
+
+The factors related to cost of buying an RTOS are:
+
+RTOS business model
+
+Perpetual
+
+Subscription
+
+Development Seats
+
+Optional tools
+
+Board Support Package (BSP)
+
+Support
+
+In-person, local language, email, forum-based
+
+Scope, reference board only?
+
+Response time (SLA)
+
+Escalation process (on-site?)
+
+Long term?
+
+Maintenance
+
+Minor bug-fix updates
+
+Major version upgrades
+
+Royalties (production licenses)
+
+OEM license
+
+Buying an RTOS (Business Models)
+
+RTOS business models are wide and varied. Perpetual, or paid-up-front (PUF), is the traditional way to purchase an RTOS. The PUF model includes a project license and separate seat licenses for each developer needing to use the RTOS. Sometimes an Original Equipment Manufacturer (OEM) license is also required to give the right to stamp out copies of the RTOS which may also have royalties, or production licenses, to be paid per unit shipped. Support is typically optional after the first year, and maintenance may be included with support or sold separately. In the last decade, subscription licenses have become popular. Subscription licenses bundle everything necessary to use the RTOS into a simple annual subscription fee.
+
+Development seats can be as expensive as $35K per year if loaded with optional RTOS features and tools. Advanced tools such as live patching, tracing, and performance analysis provide greater visibility into the RTOS and into how your applications are running on it. These tools can be important, since RTOSes typically run on resource-restricted embedded targets where software development is more difficult than a normal PC, for example.
+
+Additional RTOS Cost Factors
+
+Perpetual vs Subscription Licenses
+
+Different RTOS business models have a large impact on cost; both on how much and when payments are made. For instance, under the perpetual model, a one-time payment is made to use the software forever. Perpetual licenses are typically project, site, and CPU architecture limited, with these specifics being defined during the purchase. Subscription licenses evolved to encourage multi-project use and to spread the large one-time payment over many years. Subscription models have helped make software more affordable, especially for startups, and can help you stay on the latest RTOS version. A perpetual license may not require an annual purchase, but, as the software ages, it gradually becomes more difficult to use. Host OSes (Windows, Ubuntu) move on, protocols change, and target boards become obsolete.  Paying for maintenance updates can help, but after a few years, your RTOS vendor will eventually end-of-life your version. There is a balance to find between the disruption of upgrading RTOS versions vs the pain of developing with obsolete hardware and software.
+
+Subscription License
+
+Perpetual License
+
+Ownership
+
+Requires an ongoing annual fee (e.g., operating expense). If you stop paying, you lose access to the RTOS tools.
+
+Purchased one time in a relatively large lump sum, upfront (e.g., capital expense).
+
+Maintenance & technical support: Patches/minor updates to fix bugs, etc.
+
+Included in ongoing fee.
+
+Additional optional payment for a maintenance/support agreement. Software that reaches its End-of-Life requires a special arrangement.
+
+New releases with new features & capabilities supporting new technology
+
+Included in ongoing fee.
+
+Upgrade fee required.
+
+Scalability
+
+Only pay for what you use, as needed.
+
+Buy additional licenses as needed.
+
+Architecture
+
+Access to multiple target architecture included.
+
+Restricted to the target architecture purchased.
+
+Royalties
+
+Varies.
+
+Varies.
+
+Software revisions
+
+Upgrades (major version changes) included.
+
+Upgrades (minor version changes) included.
+
+Depending on the duration of your project, you may only need the full seat of the RTOS tools for the first year, which will cost less with a subscription. If you need it for many years in a fixed environment, a perpetual license is likely more attractive.
+
+Royalties
+
+Royalties have a bad reputation in the RTOS industry. People dislike the idea of paying a fee to someone else every time you ship your product containing a copy of their RTOS. But this model can be cleverly used to your advantage. Unplanned events happen with projects and in business such that even with the best of intentions many ventures are less successful than expected. A royalty-based RTOS model can be used to delay payment of your RTOS for years, as well share the risk of your project failing with your RTOS vendor. That is, the RTOS company receives payment for their RTOS years later and only if your project succeeds to sell in volume. This model also encourages the RTOS company to make you successful regardless of any other factor, like paying support, or if they get acquired. Royalties are typically charged based on a discount schedule with wildly different fees as volume increases. If you model your expected shipping volume realistically, choosing royalties can be a shrewd decision.
+
+Board Support Packages
+
+A Board Support Package (BSP) is the glue software that interfaces a board to an embedded OS. The main challenge is that BSPs are both RTOS- and board-specific. There are more than 20 popular RTOSes; all different, all incompatible as well as new target boards coming out all the time. It is a constant challenge for RTOS vendors to have BSPs to support the right boards at the right time. There are always more boards than BSPs and it is hard for RTOS vendors to recoup their investment in writing BSPs. Restricting yourself to readily available BSPs will significantly reduce your choice of both RTOS and board to a common most popular subset. Finding a suitable combination from that subset depends on what compromises you are willing to make. RTOS vendors prioritize support for semiconductor reference design boards (e.g., NXP and Xilinx) since these are the first available for new microprocessors. These first-release boards showcase all the features of the chip, so they tend to be larger and more expensive than others.
+
+Read: Cost of a Board Support Package (BSP)
+
+Large commercial RTOS companies like Wind River tend to have the most BSPs. They can afford to invest in more BSPs with funding from their RTOS, but their RTOS tends to be more expensive as a consequence.  However, if you are determined to use one specific board, that choice will likely consign you to writing a BSP for it, or paying a consultant to do so. Developing a BSP typically takes two to eight weeks, and if done as a consulting project costs between $20K to $100K, depending on complexity. The more proprietary the RTOS, the more the BSP will cost. In some situations,
+ BSP costs can be reduced
+ by using, for example, an architecture-generic BSP, advanced development tools, or a hypervisor.
+
+Support / Long-term Support
+
+Technical support is a mundane but important topic. Good support is important for embedded projects, the entire industry is somewhat bespoke and so embedded software is less thoroughly tested than Microsoft Windows, for example. It is important that your RTOS vendor be capable of providing support on their products. Start with the basics, do they have a presence in your time zone and do they speak your language? Support is about trust and compromise. Servicing a support ticket costs an RTOS company something in the ballpark of $500. They trust that customers will not abuse the system and price support contracts as well as hire staff based on average usage. Good products and documentation help, but customers can ask anything in a support query and inexperienced users may use support instead of training or documentation. So, support contracts and service level agreements (SLAs) tend to be restrictive, allowing RTOS vendors to be more helpful if they can, but not contractually obliged to do so.
+
+Various combinations of live in-person support, 1-on-1 email support and forum-based support are used to build different support tiers. Live in-person support is most expensive, you require the dedicated time of an engineer that can answer questions on the fly. Email support gives the support engineer time to review documentation and ask internal engineers, also, the engineer may be located in a low-cost country such as China or India. Forum based support, where a support engineer responds in a shared forum, does your RTOS company a favor. It allows them to effortlessly build a support knowledge-base by sacrificing the privacy of support conversations.
+
+Support may be restricted to standard reference design boards with off-the-shelf BSPs. Support on custom target boards may be available at extra cost if you provide your board to your RTOS vendor. Support may be limited by number of incidents per year, hours of work, or to named customer contacts.  Long-term support will be available for old and end-of-life products but at significantly higher cost.
+
+Consider the Real Value of the RTOS
+
+Of course, make sure that the value delivered by your RTOS is more than its price (preferably a great deal more). RTOS vendors “build once and sell many,” so, by amortization, anything you can get from an RTOS should be much cheaper than writing it yourself. For the same cost, a ready-to-use RTOS should enable allow you to manage an embedded system containing more functionality than a roll-your-own RTOS.
+
+When buying an RTOS, it is wise to stay close to core RTOS functionality. Little-used RTOS features may be poorly maintained, poorly supported or unexpectedly dropped. Things like FireWire, Wi-Fi, multimedia and Java for example. Other RTOS components such as a network stack or file system are quite difficult to implement correctly and should be scrutinized closely.
+
+Read: Do You Need an RTOS?
+
+Build vs. Buy
+
+Whether to build your own RTOS, or buy one is the classic trade-off that led to the commercial RTOS industry in the 1980’s. Sound business practice is to focus on your business’s core value and buy the commodity items that surround and enable it. Open source RTOS software has shifted the build vs buy balance by reducing the cost of “buying” to zero. In such an environment it is difficult to find any reason to build your own RTOS. Instead you should be comparing the gaps of open source RTOSes with the cost of RTOSes covering your needs. Gaps may include features, technical support, or heavy lifts like safety or security certification artifacts.
+
+Read: How to Choose an RTOS
+
+Open Source RTOS
+
+Led by Linux, open source software has developed into a computing megatrend. Hundreds of thousands of open source projects are available without cost or royalties for you to use, repurpose or modify. The main challenge is finding the right bits to use. Software is highly detailed, so choosing the best pieces to re-use and figuring out what fits together, or not, and where components can be chopped is incredibly hard. A poor choice can increase a project’s costs or timeline and influence its overall success or failure. Starting with a whole 
+open source RTOS, such as 
+FreeRTOS
+, Micrium
+, 
+RTEMS
+, 
+ERIKA
+, 
+or 
+eCos
+ may be a better approach
+, since the functionality of a complete RTOS already works together.
+
+Read: The Problems with Embedded Linux
+
+Questions to Ask About RTOS Pricing
+
+Questions to ask about RTOS pricing include: 
+
+Do you need an RTOS?
+
+Is the license a one-time buy or one which comes up for renewal in a given period?
+
+What sites, projects, and target architectures are included in the base purchase price? Do they cover everything you will need?
+
+Will you need the source code? Source code is now often included but was guarded closely in the past.  However, consider that an RTOS company could go out of business or get bought by your competitor. Does the RTOS vendor allow the source code to be put into escrow?
+
+If support is included, is it live in-person, online chat, email or online reference material only?
+
+Examine the Service Level Agreement (SLA). How quickly will support respond, do you need to pay extra for a 24-hour turnaround?  
+
+What is the policy on updates and bug fixes? Do you have to pay maintenance fees every year, what happens if you skip a year and need an upgrade?
+
+Is a royalty-free or buy-out option available?
+
+Are different feature combinations offered and do they add to the price? Features may include a hypervisor, a minimal RTOS cut down for safety, a multi-core version, a full-featured version.
+
+What is the RTOS vendor’s overall reputation? How long has it been in business?
+
+A Note on Compatibility
+
+A good way to reduce your lock-in to an RTOS is to write a compatibility shim layer to isolate your code from its APIs. These are written and used by experienced RTOS users and sometimes provided by an RTOS provider wanting to encourage migration away from their competitors. An even better approach is to write your application to an industry standard API in the first place. POSIX
+®
+, the portable operating system interface is exactly such an interface. POSIX is an IEEE standard that is so old it is often taken for granted. It is a large standard that defines function call APIs for every possible thing a computer application might need to ask of an OS. There are different layers of POSIX dealing with things like process creation, the C library and input / output. POSIX came out of the UNIX family of operating systems. UNIX is built with POSIX APIs and so are all the utilities that make up a UNIX system, like grep, csh, ls, etc. This means POSIX is incredibly mature and well proven. Additionally, Linux is practically POSIX compliant, so a vast catalogue of open source POSIX compatible software is available.
+
+The oldest RTOSes tend to use proprietary APIs and to stick with them since their users depend on those APIs being stable. Most RTOSes have added POSIX API support, because of customer demand and the benefits discussed. But, few RTOSes are built using POSIX internally—using it natively as their only API, rather than as a bolt-on. LynxOS
+®
+ is built natively with POSIX, it uses POSIX both internally and for user developed applications. This means LynxOS users are not locked into LynxOS, since LynxOS applications are “just” POSIX applications. It also unlocks the tremendous resource of open source POSIX compatible applications, that can be easily ported into LynxOS.
+
+Virtualization is an alternative approach to compatibility. Instead of focusing on making your embedded application portable between RTOSes, an embedded hypervisor allows legacy RTOSes and applications to be migrated as a unit in a complete virtual machine. 
+LYNX MOSA.ic™
+ allows RTOSes, Linux, and bare-metal virtual machines to be combined into the “Goldilocks mix” of just the right OSes for your embedded system.
+
+Conclusion
+
+If you have determined that you need an RTOS, be prepared for the myriad of complex business model options available to license the technology. There is much more to the price of an RTOS than a monetary exchange. Consider the whole value of the RTOS, including your investment of time, the ease of customizing the RTOS, and its maintainability, portability, and technical support. Do your research, it may be possible to cleverly make the business model work in your favor.
+
+Remember too that the choice of RTOS will make a huge impact on the architecture of your embedded system. There are myriad commercial products that may suit your needs, including open source RTOSes, OSes, hypervisors and separation kernels. Be sure to understand the complete picture—including design considerations and innovative approaches—before narrowing your scope to a commercial RTOS. No vendor—Lynx included—can offer every option, nor does every combination of technology fit together.  The matrix of CPU support, RTOSes and features is sparse and ever-changing and will hamper your ability to find the best technology for your project. Take your time and carefully weigh up all aspects before making a decision.
+
+Your next project
+
+Lynx has over 30 years’ experience in helping customers across avionics, automotive, and industrial markets to most efficiently realize their complex safety- and security-critical embedded software systems. To learn more about how to leverage the right virtualization and RTOS technology for your project, please direct your inquiries to inside@lynx.com or fill out the form after clicking the Get Started button below, and a representative will reach out to you within 1-2 business days. 
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

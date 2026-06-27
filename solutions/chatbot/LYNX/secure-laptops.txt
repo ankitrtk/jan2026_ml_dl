@@ -1,0 +1,319 @@
+URL: https://www.lynx.com/industries/secure-laptops
+
+Industries | Secure Laptops
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+separation at the silicon, separation at the foundation
+
+for secure laptops
+
+MARKET TRENDS
+
+The COVID-19 crisis has caused a prolonged work-from-home period, with some companies like Twitter and Fujitsu offering workers the opportunity to work from home permanently. While this is relatively easy to state, CIOs and CISOs have to adjust their IT networks to support this environment. For users handling sensitive or classified information, a traditional endpoint system cannot be trusted when leaving the confines of the corporate/classified network.
+Hackers have been quick to take advantage of this shift. In just ten cyber incidents during 2021, over $600 million in cash was stolen or taken as ransom. Tens of millions of citizen records were stolen, 40,000 businesses’ IT operations were put at risk, one billion airline passenger details were compromised, and at least one bank was effectively shut down for over a week.
+Traditional operating systems such as Windows, MacOS, or Linux/Android that run on endpoints are vulnerable to cyber-attacks, and security updates and anti-virus software cannot be relied on to protect the endpoint. A compromised OS allows the threats full access to the endpoint, the sensitive data residing on the endpoint, and even the encryption keys used to protect the data.
+
+INCREASING CHALLENGES TO SECURITY
+
+$
+0
+
+Average cost of a breach in US companies (2021)
+
+0
+%
+
+Percentage of data breaches due to malicious or accidental incidents from insiders
+
+0
+
+Days to recognize a breach has taken place (2021)
+
+LYNX SOLUTION
+
+In addition to the isolation and security functionalities offered by LynxSecure Separation Kernel Hypervisor, Lynx-MfE provides the following functionality:
+Virtual KVM
+Virtual KVM functionality allows end-users to switch their physical keyboard, video, and mouse between VMs using hotkeys.
+Staged Boot
+
+In certain situations, it is useful to delay the power-on of a specific VM until another VM has reached a certain power-on state. Lynx-MfE's staged-boot functionality provides the staging of the VMs' power-on sequence.
+Pre-Boot Authenticator
+Lynx-MfE includes support for a Pre-Boot Authenticator.
+Over the Air (OTA) Updates
+This feature allows an administrator to update the VM root disk remotely, the Certificate ISO image, or a LynxSecure image. Lynx-MfE supports two distinct types of updates.
+
+A binary delta patch that could be applied to an existing storage device to construct a newer version of the storage device
+
+A newer version of the storage device in its entirety
+
+Last Known Good Configuration (LKGC) 
+Allows an end-user or system integrator to:
+
+Mark the current configuration to be "last-known-good" and
+
+Be able to revert the system to such a marked configuration at a later point in time
+
+Node Wipe
+
+Allows an administrator to wipe clean a given node's storage
+
+The figure below shows a typical secure edge solution based on Lynx-MfE
+
+CUSTOMER BENEFITS
+
+The Lynx solution for secure laptops has fundamental advantages compared to the systems built using traditional hypervisors. These include:
+Least privilege architecture
+This architecture does not include a privileged operating system that can open up the system to vulnerabilities when compromised. This architecture does not have a hypervisor administrator login or an administrative user.
+Immutable hardware partitioning
+The system’s configuration, including the partitioning of hardware resources, interconnects between VMs and peripheral assignment is done prior to boot time. A bad actor cannot do dynamic OS modification or try to execute code from the unsecure operating system into the secure operating system.
+No unprotected OS denial of service against secure OS
+Since the unsecure OS is isolated and partitioned from the secure OS, a denial of service attack on the unsecured OS would not affect the secure OS.
+Strict isolation
+The underlying software foundation preserves strict isolation between security functions and user-facing operating systems. Since the compute resources and peripherals are assigned at runtime, a guest cannot access another guest’s resources. LynxSecure, by itself, does not have access to the guest operating system.
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

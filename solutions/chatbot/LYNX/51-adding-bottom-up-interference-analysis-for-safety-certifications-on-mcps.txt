@@ -1,0 +1,385 @@
+URL: https://www.lynx.com/embedded-systems-blog/tc-16/51-adding-bottom-up-interference-analysis-for-safety-certifications-on-mcps
+
+TC-16/51: Adding Bottom Up Interference Analysis for MCPs
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            3 min read
+
+TC-16/51: Adding Bottom Up Interference Analysis for MCPs
+
+ Mark Brown | Systems Architect
+
+ : 
+
+                Jan 28, 2020 7:54:00 AM
+
+I hadn't heard of "bottom up" avionics certification before I read 
+FAA's TC-16/51
+.  But now, looking back at it, I think the authors from Thales Avionics, including 
+ Xavier Jean, PhD
+, proposed a big change in perspective.  In their own words, here's their proposal to add "bottom up" analysis to aircraft safety certifications on Multi-Core Processors (MCP):
+
+The proposed approach to interference analysis in the context of safety processes is close to partitioning analyses. It is composed of two complementary analyses: a top-down analysis followed by a bottom-up analysis. ... The key point is that the complexity of MCPs no longer allows for claims of exhaustiveness unless the top-down analysis is performed beforehand to bind its (the bottom-up analysis) scope. (Abstract)
+
+Lynx Software Technologies has long been in the business of "partitioning analyses." Since the early 2000's Lynx began to build its commercial separation kernel (originally called the "Lynx Separation Kernel"). At that time, keen interest from the COMPUSEC community was stirring up opportunities under the 
+Separation Kernel Protection Profile (SKPP)
+. As required under SKPP, several kinds of partitioning analyses would be applied during SKPP certification.  First, formal methods-based specification (ADV_FSP) and policy model (ADV_SPM) (etc.) would allow for a top-down analysis and proofs.  Second, Advanced Vulnerability Analysis would be applied by each certifying nation's top red teams, in an attempt to break partitioning. Third, expert Covert Channel Analysis would search out more subtle or surprising kinds of interference that may be violate the strictest definition of partitioning, i.e., "noninterference". Still, before TC-16/51, I hadn't heard of bottom-up partitioning analyses being applied to the safety contexts regulated in the US by the FAA.
+
+For Thales, and by extension the FAA, following safety processes that ranged from top-down to bottom-up and back, now in 2016, seems easy to conceptualize.  Helpfully, TC-16/51 explains why it should have been easy for us too:
+
+The top-down analysis allows for isolating high-level sources of non-determinism affected by the function/task allocation to cores, the software scheduling strategy, and the selection of MCPs based on usage domain (UD). This consideration of UD is used to orient and bound the complementary bottom-up analysis. Finally, the top-down analysis prepares for the determination of mitigation strategies for the sources of non-determinism that remain in the UD. The bottom-up analysis is conventional from a safety standpoint. (Abstract)
+
+The missing link for me had to do with taking a system/safety standpoint.  Is it true that "The bottom-up analysis is conventional from a safety standpoint"? Yes, but this standpoint is better available from the perspective of ARP4751 and ARP4754A than from the perspective of items such as DO-178C Software Items.  In other words, to see "bottom-up analysis (as) conventional," I needed to take a different standpoint or perspective.
+
+This larger "safety standpoint" or perspective has always required feedback from the various subordinate "items" (such as DO-178C Software Items, etc.). Taking a strictly-software standpoint, however, proves too narrow and will fail to fully take into account the problems that COTS MCP hardware interference may cause on the system.  Seen more abstractly, in an aircraft system, the MCP hardware interference sends non-deterministic inputs via the software-as-a-medium, and sometimes the software behaviors themselves will fail to contain the temporal nondeterminism that its has accumulated.    
+
+Helpfully, the Thales authors make it clear "the selection of MCPs" has implications on safety processes. Indeed; selecting any MCP over an SCP is likely to affect safety certification. Additionally, they list factors that affect what "determinism" might mean for any given project, given the kinds of nondeterminism now present in COTS MCPs:
+
+"high-level sources of non-determinism," i.e., present in COTS MCP chips due to "the selection of MCPs"
+
+"the function/task allocation to cores"
+
+"the software scheduling strategy"
+
+"the usage domain (UD)," i.e., the kinds of software functionality deployed to the MCP's cores as functions/tasks
+
+"the determination of mitigation strategies for the sources of non-determinism that remain in the UD"
+
+After thinking about it, I can see that each of these is best analyzed and controlled from a system perspective.  Perhaps others have seen this all along – after all, from which perspective could a problematic interaction between hardware and software be addressed, except at the system level? For me, however, it was TC-16/51 that really worked through and illustrated the issues of MCP hardware interference, and put forward these system-level concerns to jar me out of a software-only perspective.
+
+Avionics
+
+Multicore
+
+FAA
+
+Safety
+
+TC-16/51
+
+CAST-32A
+
+Certification
+
+MCP
+
+RTOS and Linux - Their Evolving Roles in Aerospace and Defense
+
+Erik Vallow | Director of Technical Product Management
+:  
+Oct 29, 2024 3:00:00 AM
+
+In the critical and demanding world of aerospace and defense, selecting the appropriate software components is not just a technical decision; it's a...
+
+linux
+
+embedded linux
+
+rtos
+
+embedded systems
+
+Read More
+
+TC-16/51: Adding Bottom Up Interference Analysis for MCPs
+
+Mark Brown | Systems Architect
+:  
+Jan 28, 2020 7:54:00 AM
+
+I hadn't heard of "bottom up" avionics certification before I read FAA's TC-16/51. But now, looking back at it, I think the authors from Thales...
+
+Avionics
+
+Multicore
+
+FAA
+
+Safety
+
+TC-16/51
+
+CAST-32A
+
+Certification
+
+MCP
+
+Read More
+
+Lynx & ENSCO Demonstrate Avionics Solutions @ DSEI JAPAN 2019
+
+Dan Westerberg | Senior Systems Engineer
+:  
+Nov 17, 2019 7:53:00 AM
+
+The most formidable challenges of modern avionics development programs are often centered around the safety certification process and the...
+
+Demo
+
+Lynx MOSA.ic™
+
+Events
+
+Embedded Blog
+
+Multicore
+
+FAA
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

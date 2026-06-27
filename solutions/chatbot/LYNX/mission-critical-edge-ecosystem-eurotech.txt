@@ -1,0 +1,372 @@
+URL: https://www.lynx.com/executive-blog/mission-critical-edge-ecosystem-eurotech
+
+Growing the Mission Critical Edge Ecosystem: Welcome Eurotech!
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            1 min read
+
+Growing the Mission Critical Edge Ecosystem: Welcome Eurotech!
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Dec 1, 2020 2:28:23 PM
+
+Events
+
+Mindful Musings Blog
+
+Safety
+
+embedded systems
+
+LynxSecure
+
+industrial
+
+partners
+
+eurotech
+
+In the middle of 2020, Lynx Software Technologies announced its 
+first product
+ specifically focused on industrial use cases. The value chain and set of technologies needed to deploy secure, updateable platforms in modern factories, buildings and cities is extremely complex. No one company can deliver all of the elements. It takes a village. Lynx is extremely excited to welcome Eurotech into our ecosystem…and vice versa….Lynx is extremely excited to enter into 
+Eurotech’s set of partners
+!
+As the press release notes, we are just starting the journey. What we hear from end customers is that the system requirements are changing. There is clearly a need to support legacy applications but embrace new cloud connectivity and in-field updates to software functionality while ensuring that critical systems can still meet worst-case execution times (typically 10s or 100s of microseconds) no matter what other applications are executing in parallel. Lynx refers to this as the 
+mission-critical edge
+, with relevancy in industrial, buildings, automotive, avionics, smart cities, and indeed Enterprise applications.
+
+For more information, you can go to the following 
+link
+. Our board advisor, 
+Flavio Bonomi
+, recently presented at the virtual Electronica event, outlining his vision for this space. There is a write-up and a replay of his specific presentation that is accessible.
+
+This industry write-up on the Intel website is an excellent example of what is possible with these capabilities. To be clear, this is NOT a specific use case where Lynx technology is being deployed today…I think it is useful to showcase data points from companies that are not connected with Lynx! There is such a richness of data at the edge of the network that can be harnessed to improve factory processes as shown in this example with Audi.
+
+With this approach, we are working with Eurotech and engaging customers to see how the combination of our technologies can make systems “better”…that might be in terms of system reliability or effectiveness or accuracy or cost. I look forward to sharing specific use cases in future versions of this blog.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

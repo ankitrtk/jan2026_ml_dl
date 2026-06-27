@@ -1,0 +1,735 @@
+URL: https://www.lynx.com/press-releases/xpedite7674-supports-lynxsecure-safety-bundle-for-intel-multi-core-processorsto-deliver-integrated-hardware/software-ima-development
+
+XPedite7674 Supports LynxSecure Safety Bundle for Intel Multi-core Processorsto Deliver Integrated Hardware/Software IMA Development
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+PRESS RELEASE
+
+July 25, 2018
+
+XPedite7674 Supports LynxSecure Safety Bundle for Intel Multi-core Processorsto Deliver Integrated Hardware/Software IMA Development
+
+by 
+Lynx
+
+ Press Release 
+
+Share
+
+Middleton, Wisconsin and San Jose, California, July 25, 2018
+ – Extreme Engineering Solutions (X-ES) today announced the integration of its secure-by-design XPedite7674 board with the LynxSecure Safety Bundle (LSB) from Lynx Software Technologies, the world leader in open, mixed criticality and MILS system development. The integration delivers an ideal platform for 2nd generation IMA development.
+
+LSB is an open system architecture solution that unlocks the potential of multi-core processors such as the Intel® Xeon® D to deliver 2nd generation Integrated Modular Avionics (IMA). Lynx and X-ES have created a Board Support Package (BSP) for LSB on XPedite7674, a family of rugged single-board computers for military and aerospace embedded computing applications offering up to 16 processor cores and extended-temperature support, designed with X-ES’ SecureCOTStm technology.
+Aaron Lindner, Director of Engineering at Extreme Engineering Solutions said, “The announcement by Lynx of the LynxSecure Safety Bundle represents an exciting shift in avionics system design, reducing the time, cost, and design risk associated with developing, certifying, and sustaining mixed criticality avionics designs on complex multi-core architectures. X-ES is proud to lead the way in supporting LSB on XPedite7674, an industry leading secure-by-design, high performance, rugged multiprocessing single board computer.”
+Commenting, Lee Cresswell, Vice President of Global Sales at Lynx Software Technologies, said, “With the release of a board support package for this popular hardware platform, customers can start immediate development of IMA designs based on LSB. Together, Lynx LSB and X-ES XPedite7674 offer customers an open development capability in which they can run bare metal, LynxOS-178, Linux or other RTOS or OS-based system modules or applications together, residing safely and securely in a single multi-core time and space partitioned system. The XPedite7674 is a perfect environment within which to experience the open architecture and complete flexibility that LSB offers.”
+The LynxSecure Safety Bundle (LSB) integrates the complete range of system development services for platform suppliers to build, deploy and sustain their 2nd generation IMA platform.
+The XPedite7674 is a high-performance, 3U VPX-REDI, single board computer based on the Xeon® D processor. The Intel® Xeon® D processor can provide up to 16 Xeon®-class cores in a single, power-efficient System-on-Chip (SoC) package with native extended temperature support for up to 12 core-count SKUs.The XPedite7674 provides secure network interfaces by providing one 1000BASE-X Gigabit Ethernet interface from the FPGA and passing two CPU 10 Gigabit 10GBASE-KR Ethernet interfaces through the FPGA. It also supports a user-configurable Xilinx Kintex® UltraScale™ FPGA for hosting custom functions to protect data from being modified or observed and provides an ideal solution when stringent security capabilities are required.
+About Extreme Engineering
+Extreme Engineering Solutions, Inc. (X-ES), a 100% U.S.A.-based company, designs and manufactures Intel® and Freescale-based single board computers, networking products, storage products, power supplies, and system-level solutions for embedded computing customers. For further information on X-ES products or services, please visit our website: www.xes-inc.com call +1 (608) 833-1155, or email us at sales@xes-inc.com.
+About Lynx Software Technologies
+Through precision engineering, Lynx Software Technologies develops advanced kernel technology that empowers innovative companies to create the safest, most secure systems in the world. Lynx is committed to providing the highest levels of safety and security in its Virtualization and RTOS products. The LynxOS®-178 RTOS is the first and only time- and space-partitioned, FAA-accepted Reusable Software Component (RSC). The latest product in the portfolio, the award-winning LynxSecure offers a secure separation kernel and embedded hypervisor that forms a platform for the development of highly secure systems. Since it was established in 1988, Lynx Software Technologies has created technology that has been successfully deployed in thousands of designs and millions of products made by leading automotive, communications, avionics, aerospace, medical, and transportation companies. Lynx headquarters are located in San Jose, CA.
+
+###
+
+Lynx Software Technologies is a trademark and LynxOS is a registered trademark of Lynx Software Technologies, Inc. Other brand or product names are registered trademarks or trademarks of the respective holders.
+
+Lynx
+
+ON THIS PAGE
+
+ Seize the Edge 
+
+ The future won’t wait, neither should you. Let’s build, secure, and accelerate your next mission together. Contact us today to get started. 
+
+                Contact Us
+
+Latest From Lynx
+
+            View All
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

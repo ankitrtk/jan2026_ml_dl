@@ -1,0 +1,359 @@
+URL: https://www.lynx.com/executive-blog/running-an-engineering-organization-from-home
+
+The Covid-19 Effect: Running an engineering organization from home
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+The Covid-19 Effect: Running an engineering organization from home
+
+ Arun Subbarao | VP Engineering
+
+ : 
+
+                Apr 20, 2020 1:47:50 PM
+
+Mindful Musings Blog
+
+embedded systems
+
+engineering
+
+As I sat down to pen my first blog entry for 
+Lynx Software Technologies
+, I found myself naturally inclined to debate the merits and trade-offs of the latest technology advancement. Instead, based on some gentle prodding by Ian (our VP Marketing), I found myself reflecting on the operational challenges of working from home for the engineering organization. As we enter the 7
+th
+ week of involuntary isolation, the Lynx Engineering organization has stepped up to this challenge to ensure no loss of continuity for our customers who depend on the technology benefits, quality and timeliness of our deliveries. I wanted to share some stories from the trenches as we surmount challenges with communication, equipment handling and onboarding new hires while continuing to deliver industry-leading technology and 
+products
+ that are highly coveted within our customer base.
+
+One of the primary challenges of not being physically in the office is the extra burden of scheduled communication. One does not realize the value of the water cooler or hallway conversation until it is absent. It certainly helps that we are a global team with engineers in the US, Europe, Canada and Asia, already used to dealing with different time zones and virtual communication. However, the office is still the central hub of operations, so the lack of physical presence in the office has resulted in a new challenge for engineering. In such a constrained environment, we have relied on heavily on collaboration tools like Slack to keep the teams interacting across the globe.
+
+The procurement, installation and handling of equipment is another mundane activity that is often considered routine. We also handle sensitive customer equipment that need to be protected in various aspects. All the equipment we handle is installed in the US, and some of them are isolated from the network. While most of our test equipment is enabled for remote access, some of this sensitive equipment requires engineers to be in physical proximity of the equipment. We ended up deriving a “social-distancing-friendly” policy that allows at most one engineer to be physically accessing the system at any one time.
+
+Incredibly, during this pandemic, we have continued selective hiring to bring in great talent into the organization. As we do, we had to get very creative about onboarding new hires. This put a spotlight on an activity that gets routinely handled by the HR and IT departments. Due to the physical distancing directive, new hires can’t come to the office and meet with HR or IT! Undaunted, we have been getting engineers setup with physical, or in some cases, virtual machines. As a platform company interfacing with hardware is a daily occurrence for engineers. Our IT department recognizes the importance of functioning hardware for engineers and sets up these machines to be on the network, and seamlessly onboards the new employee onto his development environment from home.
+
+These are just a few of the many day-to-day issues that engineering is resolving to keep “business-as-usual”. In this era of unprecedented uncertainty, we hope that the clock is winding down on this shelter-in-place and the restrictions will ease soon. However, there is a strong possibility that it will take a long time for business to return to normal. It would behoove us to adapt to these changing times and create an environment, culture and processes to improve operating as a virtual organization. It is in the face of such adversities and constraints that we are forced to reevaluate the workings of a department, a business or even the industry-at-large and emerge from it even stronger.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

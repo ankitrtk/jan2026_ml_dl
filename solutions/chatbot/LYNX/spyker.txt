@@ -1,0 +1,300 @@
+URL: https://www.lynx.com/products/spyker
+
+Spyker: Real Time Trace Software & Debugging Tools for Embedded Systems
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+Spyker: Real Time Trace Software & Debugging Tools for Embedded Systems
+
+With system complexity dramatically increasing and the ever-important focus on improving development timelines, detailed information on the interaction of patterns and timings of system activities is crucial. This is where effective real-time system tracing tools for embedded systems become essential.
+
+SpyKer is a set of products that provide developers with system trace information to enable them to:
+
+•    Comprehend what is going on in a system over time
+•    Track down elusive application bugs
+•    Fine-tune the performance of embedded systems
+
+Spyker 
+
+Traditional performance analysis tools require pre-instrumenting an application with special calls or running it under a specially instrumented kernel. SpyKer, on the other hand, enables an ordinary kernel to be auto-instrumented at run-time by dynamically patching a 
+LynxOS-178
+
+or 
+LynxSecure
+ kernel binary with logging calls. This dynamic patching provides valuable system instrumentation for avionics or secure systems without significant overhead. 
+
+The overhead of a SpyKer trace patch is exceedingly low, minimizing its impact on the target system. This enables truly objective measurements and eliminates any problem of timing invasiveness standing in the way of finding particularly evasive bugs.
+
+Developers are empowered to gather, display, and interact with data concerning their application, making it easy to view normally difficult-to-understand relationships within the application. The front-end GUI displays event data in an easy-to-comprehend fashion, including allowing multiple windows with different visualization to be displayed concurrently.
+
+The SpyKer front-end GUI is written in Java and runs on any workstation equipped with a Java Virtual Machine, hence the front-end can reside locally or remotely from the system to be measured (which can be targeted over a TCP/IP connection).
+
+DECREASED DEVELOPMENT COSTS
+
+Fast, automated, and transparent collection of timing information.
+
+ACCELERATED DEVELOPMENT AND DEBUGGING
+
+Easy, any time visibility in to program execution” with “Simple visibility into program execution. Spyker offers an effective embedded software debugging solution.
+
+ENHANCED PRODUCT QUALITY AND RELIABILITY
+
+ACCURATE, ACTIONABLE PERFORMANCE, TUNING INFORMATION.
+
+SPYKER-TZ POWERED BY TRACEALYZER TECHNOLOGY FROM PERCEPIO
+
+SpyKer-TZ is an enhanced version of Spyker powered by Tracealyzer technology from Percepio, a Lynx partner. Spyker-TZ is a trace analysis tool designed for multithreaded systems featuring LYNX MOSA.ic and bare metal code that support multiple use-cases across many application domains, including profiling of resource usage, timing analysis, system-level debugging and software design analysis. As trace software for embedded systems, Spyker-TZ provides comprehensive insights into system behavior.
+
+The tool displays trace data in multiple views, including an advanced trace view, a CPU load graph and a textual event log. This provides the user with a top-down workflow that is ideal for system-level analysis, where anomalies, such as a spike in the CPU load, can be found visually in graphical overviews.
+
+Additional levels of detail enable the user to drill down into the specific details in the trace view and event log to identical the root cause of the anomaly.
+
+LET'S CONNECT
+
+Lynx is excited to discuss your new project and how our technology and safety/security system knowledge can assist you. Please fill out the form below.
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

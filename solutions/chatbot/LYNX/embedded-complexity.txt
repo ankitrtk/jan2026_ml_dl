@@ -1,0 +1,375 @@
+URL: https://www.lynx.com/executive-blog/embedded-complexity
+
+Embedded Complexity
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            3 min read
+
+Embedded Complexity
+
+ Arun Subbarao | VP Engineering
+
+ : 
+
+                Aug 22, 2023 9:00:00 AM
+
+THROUGH THE LENS OF ENGINEERING 
+
+Recently I read a McKinsey article on “
+Cracking the complexity code in embedded systems development
+”, a brilliant piece that offers a holistic view and describes a methodical approach to analyzing, reducing, and managing complexity to ensure favorable outcomes and business success. It also had me reflecting on the nature of complexity that exists in the mission-critical aerospace and defense domain and my thoughts on how Lynx technology provides 
+pragmatic solutions
+ to deal with this complexity. 
+
+Growth of Software Complexity in Aerospace Systems
+Thousand lines of source code
+Graph from McKinsey
+
+Paraphrasing some of the key concepts of the article for context, it defines three dimensions of embedded system complexity that must be addressed: environmental, system, and an organization's ability to cope with complexity. The article also points out that a company can influence system complexity and an organization’s ability to deal with such complexity, whereas environmental complexity is largely “essential”, and difficult to reduce. There is also a mapping quadrant of system complexity and organizational ability to deal with it.   
+I contend that system complexity has an outsized influence on ensuring favorable outcomes since it is challenging to backtrack from system design choices that may prove unmanageable later. It is intuitively obvious that
+
+simplicity in system design is desirable but achieving that simplicity through sound architectural choices is less obvious. Four strategies for managing complexity are defined in the article, which provides a framework for this discussion and is examined through the lens of platform architecture. 
+Avoid
+The crux of this strategy suggests that if some complexity can be avoided, it should be. One of the areas that I have witnessed customers frequently stumble is the architecture choice between SMP, AMP, and BMP options. While many specific requirements will drive the choice, I often see customers being lured by the promise of symmetric multiprocessing (SMP) in an RTOS. On the surface, SMP promises to optimally harness all processor cores and compute power, but it falls squarely in the “Savage Mountain Zone”. Often, applications are forced to deal with the additional parallelism and concurrency challenges that are inherent in an SMP OS scheduling architecture and end up with resource contention and interference patterns that are frequently unbounded. I would advocate that an Asymmetric Multi-processing (AMP) approach (instead of SMP) is a much better choice, reinforcing the “Avoid” strategy of complexity. 
+Reduce and Drop
+The reduce and drop strategy suggests ways in which companies should examine ways to standardize their approaches to software and hardware and drop unneeded complexity in their system design. Two key concepts become relevant here: API standardization and a micro-service approach. Using standardized APIs such as 
+FACE
+, POSIX, and ARINC one can ensure seamless migration of applications between different sub-systems thereby reducing the unneeded complexity of proprietary interfaces. This approach, coupled with a micro-service architecture like a 
+Unikernel
+, provides an optimal blend of “high cohesion and low coupling”. In an embedded system that has a high regulatory component, it is imperative that discrete functions are independently certifiable and upgradeable without affecting the rest of the system. 
+Contain and Delegate
+This strategy suggests that “one should separate a complex sub-system from the rest of the system to limit interference”. I cannot imagine a better testament than what John Rushby created in 1981 with the concept of separation kernel that Lynx implemented in 
+LynxSecure
+. The separation kernel isolates critical systems from one another to prevent interference. It makes deployment of multicore platforms possible in mission-critical systems along with the notion of mixed criticality where different sub-systems of varying levels of criticality can co-exist on the same platform while preventing interference and improving modularity. 
+Monitor and Manage
+The monitor and manage strategy relies on the previous three strategies to create a system design that brings the best of containment (of sub-systems), avoidance (of sub-optimal architectural choices), and reduction (code management). As the system development lifecycle evolves, the remaining essential complexity should be managed using techniques and tools that provide transparency in the system's inner workings. Our LYNX MOSA.ic 
+Virtual Integration Environment
+ (VIE) development framework allows the instantiation of system design in a simulated environment. Other tools for event tracing, static analysis, and code coverage are all invaluable for managing and monitoring complexity. 
+Integration complexity is never going to disappear. This is why we strongly believe it is worth investing in a system architecture environment to reduce these challenges from the get-go. It is heartening to see industry recognition of the innovation we conceived several years ago at Lynx to help companies deal with embedded system complexity, including the LynxSecure separation kernel, LynxElement Unikernel, our embracing of open standards and the more recent VIE. This topic also deserves deeper discussions tailored to each individual system and use case.  
+At Lynx, we continually work with our customers to help them sift through the vast complexities of embedded system design and recommend simple and elegant architectural approaches that ensure favorable outcomes. Our engineering team works tirelessly to help reduce inherent complexity in platform software and works closely with the Lynx Lab to help customers innovate, simplify, and manage their embedded system complexity. This collaboration is at the heart of the value that LYNX MOSA.ic brings to each customer.  
+Want to learn more? Visit the 
+LYNX MOSA.ic 
+page. 
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

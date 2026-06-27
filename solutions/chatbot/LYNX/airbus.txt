@@ -1,0 +1,288 @@
+URL: https://www.lynx.com/casestudies/airbus
+
+Case Study | Airbus
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+MISSION CRITICAL EDGE CUSTOMER USE CASE
+AIRBUS
+
+CUSTOMER USE CASE
+
+AIRBUS
+
+WHO IS AIRBUS?
+
+Airbus is a European multinational aerospace corporation. Airbus designs, manufactures and sells civil and military aerospace products worldwide and manufactures aircraft in Europe and various countries outside Europe.
+
+WHAT IS THE A380?
+
+The Airbus A380 is a large wide-body airliner developed and produced by Airbus. It is the world's largest passenger and only full-length double-deck jet airliner.
+
+WHO ARE CREATIVE ELECTRONIC SYSTEMS?
+
+Creative Electronic Systems (now Mercury Systems) designed and manufactured complex high-performance avionics, defense, and communication boards, subsystems, and complete systems. They developed the LynxOS-based solutions for the biggest Airbus yet.
+
+WHAT CHALLENGES WERE BEING FACED?
+
+A key goal was to find alternatives to the ARINC429 data bus that would offer lower cost, better performance, more flexibility, and broad applicability in aircraft and avionics systems. Cost considerations included not only non-recurring engineering but also the impact of certification, operations, and logistics. These were weighed against the key performance factors of throughput, latency, and quality of services.
+
+WHY IS IT IMPORTANT?
+
+Today's civil and military aircraft depend on technology to give them range and performance. Their flight test and simulation systems depend on advanced real-time software as the engine to underpin real-time performance. Flight 
+simulators and test rigs for the latest
+ commercial aircraft have high-performance, deterministic, real-time operating systems at the heart of their multiprocessing performance.
+
+WHY WAS LYNX SELECTED?
+
+Modified for the specific requirements of aircraft applications, the Avionics Full Duplex (AFDX) switched Ethernet standard was specified by Airbus. CES developed a range of AFDX hardware modules, with the LynxOS RTOS at their core. LynxOS ensures real-time deterministic computing for flight tests and simulation. The POSIX compliance of LynxOS is helpful in simulation systems since the various contributing equipment vendors can provide specific models for the sub-systems, with the knowledge that compatibility will be assured. 
+
+WHAT IS LYNXOS?
+
+LynxOS is a POSIX, multi-core hard real-time operating system for embedded devices in avionics, automotive, and more. LynxOS has been deployed in millions of embedded devices and has operated reliably for 30+ years across multiple safety- and security-critical embedded markets. It is a tried-and-true approach for hosting applications on a Unix-like OS model wherein all resources and application services reside. 
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

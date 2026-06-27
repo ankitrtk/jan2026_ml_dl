@@ -1,0 +1,227 @@
+URL: https://www.lynx.com/embedded-systems-blog/cache-allocation-technology-cat-demo
+
+Cache Allocation Technology (CAT) Demo- LYNX Embedded Blog
+
+Products
+
+LYNX MOSAic
+
+LYNX MOSAic for Avionics
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+LYNX MOSA.ic.SCA
+
+SpyKer Product Family
+
+VIE
+
+Legacy
+
+LynxOS
+
+LynxSafe
+
+Professional Services
+
+Support
+
+Support Portal
+
+Support Services
+
+Training
+
+Industries
+
+Armored Ground Vehicles
+
+Commercial Avionics
+
+Critical Infrastructure
+
+LEO Satellites
+
+Military Avionics
+
+Urban Air Mobility
+
+Industry Standards
+
+FACE 
+
+MOSA
+
+Resources
+
+Case Studies
+
+Export Compliance
+
+FAQ
+
+Resource Center 
+
+Videos
+
+About Us
+
+Careers
+
+Contact
+
+How Did We Do?
+
+Distributors
+
+Events
+
+Blogs
+
+Lynx Executive Blog
+
+Lynx Technical Blog
+
+Our Business Model
+
+Our Commitment to National Defense
+
+Partners
+
+Press Releases
+
+The Lab
+
+Feedback
+
+Menu Item 1
+
+Sub-menu Item 1
+
+Another Item
+
+Sub-menu Item 2
+
+Menu Item 2
+
+Yet Another Item
+
+Menu Item 3
+
+Menu Item 4
+
+LYNX Embedded 
+Blog
+
+__
+
+Multi-core Cache Allocation Technology (CAT) Demo 
+
+Posted 9/20/2019
+
+Tim Loveless  |  Principal Solutions Architect 
+
+LYNX Software Technologies
+
+This week saw LYNX’s cache partitioning feature for Lynx MOSA.ic™ demonstrated for the first time at the Collins Aerospace Embedded Computing Conference in Cedar Rapids, Iowa. Cache partitioning is a new feature of Lynx MOSA.ic™ released in September 2019 and based on Intel’s Cache Allocation Technology (CAT) CPU hardware feature.
+
+What is Cache Allocation Technology (CAT)?
+
+Cache Allocation Technology (CAT)
+ has been available in Intel chips since 2015. Together with Cache Monitoring Technology (CMT) and Memory Bandwidth Monitoring (MBM), CAT forms a suite of hardware features aimed at mitigating the 
+"noisy neighbor" problem
+. When multiple virtual machines (VMs) are hosted together on the same processor, the last level cache (LLC) is shared. This means that a VM running a memory intensive (noisy) application will hog the cache and reduce the performance, predictability and determinism of a second VM. Cache Allocation Technology enables the processor’s last level cache to be partitioned so that each VM can have their own dedicated subset of the LLC.
+
+When defining the VMs on a multi-core processor (MCP), Lynx MOSA.ic™ version 1.5 has a new configuration parameter that allows you to specify what percentage of LLC should be allocated to each VM. Lynx MOSA.ic™ converts that percentage into a CAT class of service (CoS) bitmask that is used to setup the CAT hardware configuration. Once configured, cache partitioning is handled by dedicated hardware, so its operation is highly efficient imposing no performance overhead.
+
+Leveraging CAT to Mitigate the Noisy Neighbor Problem
+
+LYNX’s CAT demo uses 3 cores of an Intel® Xeon® D-1541 processor. The 12 MB L3 cache is setup so that 2 cores share one cache partition and the 3rd core has its own dedicated cache partition. Two victim applications report the time taken to read an incoming FIFO message while a noisy neighbor application competes with them. The noisy neighbor application is cycled around the 3 cores so that its impact on the victims can be compared when running in the same partition versus isolated. A 4th core is used to send FIFO messages, collect results and control the noisy neighbor’s location.
+
+Cache partitioning does a good job of silencing the noisy neighbor. The case with the noisy neighbor isolated in its own cache partition is indistinguishable from eliminating the noisy neighbor entirely. In both cases, victim applications run in 4.9 – 5.1
+ µs
+. Moving the noisy neighbor into the same cache partition with the victim increases the victim’s runtime to 6.5 
+µs
+, an increase of 30%.
+
+The Lynx MOSA.ic™ Modular Development Framework
+
+Lynx MOSA.ic™ is founded on LynxSecure®—a programmable processor partitioning system which allows a MCP to be divided into virtual machines. At its core, Lynx MOSA.ic™ enables simpler software systems by harnessing CPU virtualization to partition systems into components. Simplicity is achieved by statically subdividing the hardware into smaller compute platforms and by eliminating the need for an operating system (OS) or hypervisor to act as a global resource manager. A modern quad-core system on chip (SoC), for example, could be subdivided into four mono-core compute platforms. The SMP RTOS scheduling processes across the four cores can be eliminated, replaced instead with four bare-metal applications. This approach removes as much complexity as possible between application interfaces and hardware. If an application requires the use of a filesystem, network stack, RTOS, or OS then it may be used, but the developer is not forced to include software that is unnecessary to the design.
+
+LYNX expects cache partitioning to be a valuable tool to improve performance, predictability, and determinism of real-time systems running on multi-core processors. We expect it to find practical application in avionics, automotive, and industrial systems and to be important for mitigating multi-core interference in safety critical systems built to comply with DO-178C, IEC 61508, and ISO 26262.
+
+San José, CA 95138-1018
+
+United States
+
+Phone: 408-979-3900
+
+Fax: 408-979-3920
+
+Email: inside@lynx.com
+
+About Us
+
+Lynx Software Technologies is dedicated to crafting software platforms founded on simple, elegant architectures that adapt to evolving hardware while balancing the need to preserve hosted application compatibility with open standard APIs.
+
+Read More
+
+Industries
+
+Automotive
+
+Avionics
+
+Industrial
+
+IT Infrastructure
+
+Products
+
+Lynx MOSA.ic
+™
+
+LynxSecure
+®
+
+LynxOS-178
+®
+
+LynxOS
+®
+
+Services
+
+Training
+
+Support
+
+Learn
+
+Learning Center
+
+Blog
+
+Company
+
+About
+
+Executive Team
+
+Press Releases
+
+Events
+
+Distributors
+
+Careers
+
+Privacy Policy
+
+ 408-979-3900    © 2020 Lynx Software Technologies, Inc.
+
+Sitemap

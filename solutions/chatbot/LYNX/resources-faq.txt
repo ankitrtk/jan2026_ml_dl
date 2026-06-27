@@ -1,0 +1,1390 @@
+URL: https://www.lynx.com/resources-faq
+
+Lynx Software Technologies - Resources - FAQ
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+LYNX FAQ
+
+Whether it may be general information about Lynx or product details you're looking for, we've got you covered. Scroll along for a list of frequently asked questions. 
+Is there something else we can assist with?
+
+GENERAL
+
+What type of support does Lynx offer?
+
+Lynx offers three support levels and custom engineering services. These are designed to address every phase of our customers’ product life cycles from initial system architecture to deployment:
+Premium Support: 
+Time sensitive projects need a way to quickly address technical challenges. Lynx's dedicated support team will work directly with your team to identify and resolve these issues in a timely fashion.
+Extended Long Term Support (eLTS): 
+Many of our customers have products that wish to remain in full production for a long period of time. Our standard timeframe for keeping a software release in general availability (GA) status is seven years. After this time period, customers can select eLTS to ensure ongoing support
+PremiumPLUS:
+ Extending the Premium Support offering, Lynx's Deluxe Support provides a dedicated support engineer who will manage phone support, field engineering resources, and bi-weekly meetings. This level also includes tighter service level agreements to enable our customers to get through the technical issues (that inevitably occur in the creation of highly complex systems) faster
+
+Additional details can be found on our 
+Support Page
+.
+
+Who are your competitors?
+
+Our core products are real-time operating system (RTOS) and virtualization technologies. Depending on our customers' requirements, they may end up using our RTOS, our separation kernel (hypervisor), or our flagship technology, which is a complete development and integration framework, including Buildroot Linux, FreeRTOS support, and tools for building bare-metal applications.
+Our competitors therefore range between proprietary RTOS companies such as Wind River Systems (now part of a European company called Aptiv), Green Hills Software, DDC-I, and Sysgo to various other proprietary and/or open source virtualization and RTOS solutions.
+For a list of the most common RTOS companies we see being used today for embedded and IoT projects, see our article, "
+What Are the Most Popular Real-Time Operating Systems 2020
+". To learn more about separation kernels and how they are distinct from RTOS-based hypervisors, read: "
+What is a Separation Kernel?
+".
+
+Do you have consulting and professional services?
+
+When Lynx engages with prospective customers and analyzes the system requirements, we often identify gaps between the capabilities of off-the-shelf products and the desired system functionality. How that gap is addressed is really dependent on the preferred approach of the customer. For example, sometimes the intellectual property created in that work is something that they deem differentiated and worthy of owning. Often Lynx will deliver professional services to address the “gap”.
+
+How can I evaluate your products?
+
+Evaluation versions of our products can be requested 
+here
+. 
+A list of our products:
+LYNX MOSA.ic Development Framework
+LYNX MOSA.ic for Avionics
+LYNX MOSA.ic for Industrial
+LynxSecure Separation Kernel Hypervisor
+LynxSafe
+LynxOS-178 RTOS
+LynxOS RTOS
+LynxElement
+
+What tools do you provide?
+
+The primary tools we provide are:
+
+Command line modeling tool – LSK’s autoconfig
+
+Luminosity – Eclipse-based IDE for LynxOS-178 and Buildroot Linux development - 
+Learn more 
+here
+
+Command line tool chains based on GCC/GDB for both LynxOS-178 and Buildroot Linux
+
+FreeRTOS support — GCC/GDB support (pending)
+
+Lynx Simple Applications (bare-metal applications) currently have tool chain support based on GCC. We do not offer GDB support for LSAs.
+
+Can I run Lynx products on custom hardware?
+
+Yes. For a complete explanation of the cost considerations, please see our helpful article, "What is the Cost of a Board Support Package (BSP)?" or contact us directly and we would be happy to discuss your project with you. Note that because LYNX MOSA.ic allows builders to allocate CPU, Memory, and IO resources in a fine grained way (effectively providing architects with a "virtual motherboard"), the details of the system need to be fully described in software.
+
+Can I use Linux with your technology?
+
+Linux fits into LYNX MOSA.ic in two ways. First, Buildroot embedded Linux is included with MOSA.ic as a pre-integrated guest OS. This means Buildroot Linux is easily deployed in one or multiple virtual machines in your design. Linux is useful should you require an advanced filesystem, network protocol, or to take advantage of its vast device driver library, or to run a Linux application, either your own or from the community.
+Heterogenous designs are enabled where Linux is used to host complex software, such as a mySQL database or as a gateway to utilise accelerated hardware such as a GPGPU, for example, alongside another virtual machine running an RTOS to host a safety critical or real-time application. Second, Linux is helpful as a configuration, prototyping or debugging aid. It can be used temporarily during development, for example, to validate USB hardware is working before porting the driver to your RTOS environment.
+
+What other open source/open standards support do your solutions provide?
+
+Lynx uses open source and open standards in many places. Our RTOS is built with, and presents, the POSIX (Portable Operating System Interface), standard API set to applications. UNIX and Linux are built the same way and so are familiar and substantially compatible with LynxOS-178. Both our RTOS, LynxOS-178 and bare-metal target environments are built with the GCC compiler, additionally Lynx uses the GDB debugger and the Eclipse IDE. Lynx does provide a software bill of materials as one of its standard deliverables to customers to grant them full visibility as to which open source packages are being harnessed. 
+
+Do you have any plans to support the RISC-V processor architecture? 
+
+No RISC-V based parts on the market today support hardware virtualization, which is a fundamental requirement for LynxSecure. We are engaged with several semiconductor companies under NDA to understand their RISC-V based product plans. We intend to support this architecture once the necessary components with hardware virtualization support are rolled out. Note that as a result of our acquisition of Timesys announced in December 2023, we do now have a Linux product (Yocto distribution) for RISC-V! Timesys has partnered with Microchip to showcase 
+Vigiles
+ for their PolarFire processor on both Yocto and Buildroot Linux.
+
+Can you share details on your use of 3D diagrams?
+
+In the picture below, the blue represents applications, with the largest one being Linux, the mid-sized one being an RTOS (ours or one from a 3 rd party) and smallest being a bare metal application. We have gone to 3D as we think it helps showcase the differences of our approach. The traditional architecture on the left has a large underlying operating system. The OS takes up space. It owns the hardware resources and the applications are completely reliant on its correct operation. The vertical lines represent calls from the virtual machines requesting processor resources (fork), memory resources (malloc) or IO (open, close, read, write API calls). The Lynx system on the left simply allocates hardware to the different virtual machines/applications. After that, the application has direct access to those resources it has been permitted to use. This allocation of resources cannot be modified after boot.
+
+Do Lynx products support integrated modular avionics? 
+
+Yes. 
+LynxOS-178
+ has native IMA support via the ARINC 653 standard, and 
+LynxSecure
+ supports partitioned architectures that can also be used to build IMA systems.
+
+I have seen the plans to support Rust compilers. Do you have plans to support Python?
+
+We do not have a certified RTOS, LynxOS-178, that supports Python. However, being a POSIX RTOS, it may certainly be possible that Python could be compiled and work on LynxOS-178. At this point, we are not aware of anyone that has pursued this path. While the Python core runtime environment may work, that may not be universally true for the broader set of libraries and packages available for Python. 
+
+Why is Lynx interested in Rust?
+
+Our interest is driven by customer interest. The constructs in Rust are some of the closest you will find to C, but eliminate some of the key problems that we have with respect to pointer management and memory etc. It manages memory but without using garbage collection (present in Python which is non deterministic and challenging to certify). Our view of this some time back was that this language seemed to be eliminating some of the common problems that exist in C without necessarily introducing a radically new concept. Our work over the last year has indicated that the migration of applications from C to Rust is not overly burdensome and it is quite simple to write next Rust applications while harnessing legacy (proven) C libraries.
+
+Is everything in place today for use of Rust in safety certifiable systems?
+
+While there is promise, there are some challenges that the industry needs to address. A key part of adopting a programming language is to learn about its capabilities and, more importantly, determine if it's a good fit for what you're trying to accomplish with your program. In our target markets, there is a need to know that once code has been written in Rust, that it is safety certifiable. It is fair to say the safety ecosystem is at an embryonic stage right now. For example, there is no official coding stand. Somebody has created a draft, but we are some aways away from having an official coding standard. A Rust MISRA standard is still being debated and discussed. Today, there is no commercial tool providing static analysis. Therefore, a company is going to be using whatever comes from the open source of ecosystem to check syntax. It can certainly be worked around as some of the open-source tools offer some static analysis capabilities. More challenging are aspects like code coverage. Today, there is no tool we are aware of providing this for the Rust ecosystem. What that means is that if you have a Rust program today and you need to certify it, you know, there is no coverage mechanism to enable you to get code coverage at the source level. We are also lacking a set of functionally safe set of libraries. Today’s offerings are addressing more general-purpose use cases as opposed to functional safety. That said, given the interest we see in the language, including it being a requirement in some significant RFPs, we are confident that these will be addressed in time.
+
+Does Lynx have plans to support DO-356 certification?
+
+We have seen increased interest in cybersecurity specifications such as DO-356 as platforms become more connected and introduce wired/wireless connectivity to systems outside the plane. Lynx has analyzed these specifications and is able to discuss its product plans in this areas in more detail under NDA.
+
+What systems is Lynx’s technology deployed?
+
+You can find some details in the case studies area of our website
+ here
+ and also on
+ this webpage
+ which outlines our engagement with various defense programs over the past two decades.
+
+What is SEAL and how does it vary from DAL A?
+
+Safety Evidence Assurance Level (SEAL) is the acceptable means of compliance that the US Government uses for military aircraft including the Joint Strike Fighter (F-35). The flow resembles that of DAL A but tends to include artifacts that are specifically owned and generated by the aircraft company themselves. This is in contrast to DAL A where the artifacts are usually provided in a licensable form to the industry at large.
+
+What are Lynx’s thoughts regarding software containers?
+
+We see customers using containers and infrastructure like Kubernetes to deliver software updates to deployed platforms. As with any technology, they need to be embraced in the right way. There have been a number of instances where malware is intentionally or accidentally inserted via containers. The key is to architect systems in  a way where applications and system resources are isolated from each other. See the video 
+here
+ for example.
+
+Does Lynx have a Code of Conduct or Responsible Trading Framework?
+
+Lynx Code of Business Ethics and Conduct applies to everyone who acts on behalf of Lynx, including employees, executive officers, directors, consultants, part-time workers, and interns. 
+It stipulates the following: 
+
+Ethical Workplace Conduct: Workplace Conduct, Equal Employment Opportunity and Non-Harassment, Drug-Free Workplace Act Compliance
+
+ Compliance with Laws: Trafficking in Persons; Anti-Corruption; Anti-Trust/Fair Competition; Export and Import Laws; False Claims; Prohibitions on … Certain Telecommunications and Video Surveillance Equipment; Accurate Timekeeping and Costs; Procurement Integrity Act and Respect for Third Party Information; Gifts, Gratuities, and Business Courtesies
+
+Confidential and Proprietary Information: Confidential Company Information; Protecting Classified Information
+
+Conflict of Interest: Conflict of Interest and Business Ethics; Political Contributions and Lobbying Activities; Recruiting and Employing Current or Former Government Personnel
+
+Compliance with this Code: Employee Responsibilities; Management Responsibilities; Violations of this Code 
+
+Are any of Lynx’s products subject to ITAR?
+
+Lynx products and services are not subject to ITAR. Lynx’s commercial products have never been on the ITAR U.S. Munitions List (USML) (codified in U.S. 22 CFR § 121.1). Lynx Software Technologies’ (Lynx) products and services fall under the jurisdiction of the U.S. Department of Commerce Export Administration Regulations (EAR). Lynx’s software, services, documentation, data, and other information about the Lynx Software Technologies software are “commercial items” as that term is defined in U.S. 48 CFR § 2.101. 
+Lynx products fall within the EAR Export Control Classification Number (ECCN) 5D992.c. In most circumstances products classified under ECCN 5D992.c are eligible for export under license exception “No License Required” (NLR). Services provided by Lynx for porting its software to commercial boards are also not controlled under ITAR. The exception to ITAR related to Lynx products and services is if a board that software is ported to is a U.S. Government proprietary board.
+
+Product   
+
+ ECCN    
+
+Licensing    
+
+Comprises
+
+LynxOS-178        
+
+EAR99    
+
+LYNX MOSA.ic for Avionics
+
+5D992.c
+
+LynxSecure = EAR99
+
+LynxOS-178 = EAR99
+
+Build root Linux = Not subject to EAR
+
+CentOS = 5D992.c
+
+Eclipse = Not subject to EAR
+
+What is LynxFS?
+
+LynxFS is the LynxOS-178 certified file system. As a POSIX RTOS, a filesystem is mandatory. It is the location where applications are stored before they are loaded and executed (automatically at startup) by the RTOS. Devices (device nodes) reside in the filesystem and common APIs are used to open, close, read and write both files and devices. Lynx’s ram disk backed filesystem is used for safety projects and has been certified many times to DO178C DAL A.
+
+What solution does Lynx have for Ada?
+
+Our MfA 2021.11.2 integration is with GNAT Pro Ada 21.6 from Adacore. This GNAT Pro version is AdaCore’s LTS (long term support) version and was specifically selected because it has a superior path to safety certification. AdaCore’s safety artifact set for this profile includes requirements, design, code, test, and test result documents similar to Lynx’s DO-178C deliverables.
+
+What are the DO-178C deliverables you provide to support system certification?
+
+DO-178 requires thorough definition and documentation of the software development process. Lynx delivers documentation associated with each Stage of Involvement (SOI) milestone involved in reviewing a system or sub-system.  
+SOI 1 – Planning Document Set:  
+
+Plan for Software Aspects of Certification (PSAC: project specific)  
+
+Software Development Plan (SDP)  
+
+Software Verification Plan (SVP)  
+
+Software Configuration Management Plan (SCMP)  
+
+Software Quality Assurance Plan (SQAP)  
+
+Sub-Supplier Management Plan (SSMP)  
+
+Software Requirements Standard (SRS)  
+
+Software Design Standard (SDS)  
+
+Software Coding Standard (SCS)   
+
+SOI 2 – Requirement and Design Document Set:  
+The documentation set is dependent on the product components that need to be certified. Each component will have its own requirements, design and traceability documents. As an example, prior work certifying LynxOS-178 produced the following materials;  
+
+High Level Requirements Document  
+
+Software Requirements Data  
+
+Design Description  
+
+Interface Documentation 
+
+Source Code
+
+SOI 3 – Verification (Test) Document Set:  
+This stage is based on SOI 2 requirement, with a focus on verification and test results. Naturally, it matches SOI #2 components on a 1 to 1 basis.  
+
+Software Verification Cases and Procedures  
+
+Software Verification Results   
+
+Trace Data
+
+Stack analysis, timing analysis, memory analysis, partitioning analysis  
+
+MC/DC reports  
+
+Source -to-Object-Correspondence reports  
+
+Tool qualification Reports 
+
+SOI 4 – Software Accomplishment  
+
+Software Life Cycle Environment Configuration Index  
+
+Software Configuration Index  
+
+Problem Reports  
+
+Software Configuration Management Records  
+
+Software Accomplishments Summary  
+
+The final deliverable package includes the above artifacts plus source and executable object code, as well as the code used for the verification test cases and the verification results.   
+
+On the MOSA page, you reference a white paper called “Army Aviation Reusable Operating Environment”. How can I access that?
+
+At the moment, this white paper is being uniquely distributed by the Vertical Flight Society. You can find it 
+here
+.
+
+Does Lynx support secure boot to authenticate the boot image?
+
+Both LynxSecure and LynxOS-178 rely on an external bootloader, and that is where secure boot needs to happen. Setting up secure boot is target specific. We have a how-to for x86 that describes how to digitally sign the LynxSecure binary and add keys to the BIOS to enable secure boot. On Xilinx the ATF (Arm Trusted Firmware) is used to control which parts of the SoC (CPU cores and FPGA) have access to which peripherals and memory. It also controls which SMC (system management calls), like “program FPGA”, the hypervisor and other parts of the SoC are allowed to make. Overall, a highly secure system can be built by following Xilinx specific guidance.
+We have a customer building a secure gateway that has removed uboot and boots LynxSecure (with bare-metal and LynxOS-178 guests) direct from the Xilinx FSBL (first-stage bootloader).
+
+What processor architectures/component suppliers are supported by LYNX MOSA.ic?
+
+Lynx supports Intel, Arm and Power (note that NXP since the early part of 2020 dropped the PowerPC term… we are working through our website and collateral to make these modifications) architectures. We do require hardware virtualization to be present in the component so in the case of Arm, our focus has been on the Armv8 architecture (Cortex-A5x and Cortex-A7x cores). Our primary silicon partnerships today are with Intel, NXP (both Arm and Power elements of the Layerscape families with plans for additional product areas including i.MX and S32x) and Xilinx. We are open to discussions for other silicon chips provided they include hardware virtualization support.
+
+Does Lynx have a patent portfolio?
+
+Yes. We have a strong patent portfolio centered around four primary themes, namely:
+
+Anomaly Detection; Identifying behavioral access patterns inconsistent with regular system operation to detect anomalies and ensure functional correctness of applications
+
+Fault Isolation; Providing hard partitioning to prevent cascading faults from affecting system safety
+
+Fault Tolerance; Providing seamless recovery from system faults to ensure always-on operation
+
+Secure Display Isolation; Isolating applications to only accept connections coming from those authenticated as members of same isolated domain
+
+How is Lynx’s software technology being deployed in AI applications?
+
+We provide foundational software that is focused on keeping applications isolated from each other. With so many companies now harnessing update mechanisms like containers which can be infused with malware, our software ensures that vital system resources are decoupled from the operating systems running those applications; virtual machines are only allowed to access the minimum set of system resources needed to run their applications. Our hypervisor stays out of the dataplane which again reduces the ability for a hacker to infiltrate and modify the system behavior or extract system secrets.
+
+You can read more here on our website 
+here
+ or Tim Reed's guest feature in Forbes, "
+Here We Go Again: GenAI Ushers In A New Age Of Digital Transformation
+".
+
+Does Lynx support or intend to support nVidia platforms for embedded?
+
+Given LynxSecure’s support of Arm Cortex A53 and A72 cores, the base fundamentals are in place to support a broad range of nVidia’s product portfolio. That said, support of components from nVidia is not part of Lynx’s committed roadmap at this moment in time. As Lynx starts to broaden its footprint in markets beyond aerospace, we continue to evaluate the right partnerships and components to align with our technology.
+
+As a result of the acquisition of Timesys announced in December 2023, Lynx does now have a Linux offering that supports nVidia hardware.
+
+Are Lynx products and services subject ITAR controls?
+
+No.
+Lynx Software Technologies’ (Lynx) products and services fall under the jurisdiction of the U.S. Department of Commerce Export Administration Regulations (EAR). Lynx’s software, services, documentation, data, and other information about the Lynx Software Technologies software are “commercial items” as that term is defined in U.S. 48 CFR § 2.101. PLEASE NOTE: LYNX PRODUCTS AND SERVICES ARE NOT SUBJECT TO ITAR. Lynx’s commercial products have never been on the ITAR U.S. Munitions List (USML) (codified in U.S. 22 CFR § 121.1).
+Lynx products classified under ECCN 5D002 are eligible for export under license exception “ENC.”
+
+Does the Lynx development environment run on a Windows host?
+
+The Lynx Development Environment requires a Linux host. We use the RedHat package manager, a popular, open source package management utility. This is supported on Linux systems including RHEL, CentOS and Fedora.
+
+What is the relationship between Lynx and Lynuxworks?
+
+Lynx was founded in 1988 and originally known as Lynx Real-Time Systems. The company changed its name to LynuxWorks in 2000 after acquiring, and merging with, ISDCorp (Integrated Software & Devices Corporation), an embedded systems company with a strong Linux background. In May 2014, the company changed its name to the present name, Lynx Software Technologies.
+
+What are Lynx Simple Applications (LSAS)?
+
+LynxSecure Simple Applications are bare-metal applications which runs directly on the CPU as native applications. With direct hardware access, LSAs can interface natively to almost all devices. A very few must be paravirtualized because certain guests do not have direct access to the underlying hardware; Lynx provides drivers for these paravirtualized LSAs.
+
+Which specific Intel processors does Lynx support?
+
+Most of our recent focus has been on supporting the Intel C3708 processor (previously known as “Denverton”). Lynx continues to work closely with Intel and is planning to support both x6000E (previously known as “ElkHart Lake”), Tiger Lake and other, as-yet-unannounced processors. For additional information, contact us at inside@lynx.com. The summary is if there is a “Lake” in the codename, then Lynx does or shortly will, support it 
+
+How does DMA work with virtual machines that share a CPU core?
+
+What happens to the DMA when it tries to access a VM that not currently scheduled on the core?
+CPUs don’t move the bits in a DMA transaction. A device does not care whether the VM is scheduled (or not) as long as it knows where to put the DMA data. The RAM assigned to the VM is still present and is able to receive DMA transactions even when the VM is NOT currently scheduled on the CPU core.
+
+Is Lynx actively working on multicore designs for systems requiring certifications? 
+
+Multicore safety is an area of expertise and active innovation for Lynx Software Technologies. Multicore designs should be approached with caution and careful planning to understand the complexity and minimize risks. Our experience is that there are large pitfalls and no easy solutions. We are engaged in several multicore avionics design and research projects and would be delighted to discuss multicore safety and partitioning strategies for your next project. 
+
+My system must achieve safety and/or security certifications. Do I need an RTOS?
+
+Not necessarily. Hybrid designs can be certified and supported with a heterogeneous, multi-core safety- and security-partitioning framework.
+
+What is Eclipse?
+
+The Eclipse open source community was started in 2001 when IBM released the Eclipse Integrated Development Environment (IDE) as an open source development framework for Java and other languages. The Eclipse IDE framework provides an excellent platform for development environment interoperability while providing vendors an extensible mechanism through which proprietary plug-ins can be added to the Eclipse IDE. Starting from a single project, the Eclipse foundation has now expanded to over a 100 projects ranging from development tools, modeling tools, web tools and IoT protocols.
+The Luminosity IDE from Lynx Software Technologies utilizes the Eclipse IDE as a framework and extends it through proprietary plugins.
+
+What is Lynx Luminosity IDE?
+
+Based on the popular Eclipse IDE framework (see question and answer above), Luminosity is a full-featured Java™-based IDE for all Lynx cross-development platforms. 
+The Luminosity embedded development tools suite from Lynx offers powerful development, debug and analysis tools integrated into an Eclipse-based environment for maximum interoperability.
+Luminosity offers a modern interface based on open standards, giving a consistent user experience across the Lynx Software Technologies family of real-time operating systems. This consistent look and feel is also maintained across different host development platforms, and when developing for different target processor architectures.
+For more information, please see our 
+Luminosity product page
+.
+
+Does Lynx support subscription license models?
+
+Yes we do. The best summary of how our perpetual and subscription models work can be found 
+here
+.
+
+Does Lynx have any resources or does it conduct any business in China, Russia, Iran or other countries not deemed friendly by the US Government?
+
+No.
+
+What languages can customers use to create applications for LynxOS-178 and LynxElement?
+
+Lynx has supported Ada (via our partner Adacore (link to partner page?), C and C++. Lynx has announced that it is partnering with Ferrous Systems to support Rust for both of these operating systems. We expect this to be available during 1Q23. Find the press release 
+here
+.
+
+What does Lynx refer to as an “SRP”?
+
+The LynxSecure binary executable file is a .srp (system resource package) file. This is a multiboot ELF file that can be launched from anywhere a Linux kernel can (BIOS, PXE boot, HDD, USB etc). The SRP file combines the target boot code, hypervisor binary, HW resource allocations for all VMs and guest OS images. The SRP file is built with a Lynx host utility called autoconfig; here is an example that creates an SRP with LynxOS-178 and Buildroot Linux each with 1 core: 
+K=x86_64-generic-pvlinux-kernel 
+RD=x86_64-generic-pvlinux-ramdisk.img 
+KDI=/home/tim/mfa/subjects/lynxos178/dev/sys/bsp.x86_pv/lynxos-178.kdi 
+autoconfig mksrp sbc3515 \ 
+--subject-pvlinux1=kernel=$K,ramdisk=$RD,cpus=1,NET0 \ 
+--subject-pvlos178A=type=pvlynxos,cpus=1,ram=500M,kdipath=$KDI,COMM2,NET2 \ 
+--output=/var/lib/tftpboot 
+Autoconfig looks at the subject (guest VM) names and, where not explicitly set, uses heuristics to allocate a sensible quantity of RAM, choose the subject type (paravirt, fullvirt) and CPU core to place the VM onto. It makes assumptions and chooses precisely which HPA (host physical) and GPA (guest physical) addresses to allocate the memory regions, the interrupts and the peripherals connected to each VM. The results of these decisions are recorded in an XML file called the human-readable-configuration-vector (HCV). The HCV is like the source code to the hypervisor system. Advanced features such as scheduling of VMs to share cores, and segmented boot (runtime replacement of VM images) require direct modification of the HCV. 
+
+Can Lynx’s software support data in transit) and data at rest architectures?
+
+Data in transit (DIT) and Data at rest (DAR) capabilities are flexibly supported by inserting cryptographic modules in the application layer, virtual I/O, or driver layer of the LYNX MOSA.ic architecture. Modules can be inserted as source libraries linked against standard POSIX and ARINC IPC interfaces or binary appliances connecting to virtual ethernet or virtio component interconnects. 
+NOTE - It is common for Lynx to support configurations where multiple layers of encryption are required to meet local security authority regulations for both DIT and DAR protection.
+DIT protection is enabled through the following configuration options:
+
+ Application Layer – Applications can include SSL libraries provided by Lynx to encrypt data at the socket layer of the data plane
+
+Virtual Bus Layer – Application data can be protected by transparent encryption/decryption VPN components inserted in between the application and network stack interconnect. Lynx supports a variety of third-party VPN components to comply with local government security standards that require specific symmetric, asymmetric, and key exchange protocols for the target environment. Lynx has cryptographic and regulatory policy expertise to assist in the integration of DIT solutions
+
+MAC Layer – for network devices that support 801.1AE, the RTOS network device drivers can be updated to enable the Media Access Control Security (MACSec) features and integrate with the SoC Trusted Platform Module (TPM) to protect authentication key for security association authentication
+
+DAR protection is available through the following configuration options:
+
+Application Layer – Using the Lynx Unikernel (known as LynxElement) runtime environment. Individual applications can have dedicated encryption modules assigned to the edge of the application interface to decrypt data reads and encrypt all data writes before passing the data to the RTOS filesystem to complete persistent block device commits
+
+Partition Layer – Individual drive partitions can be separately encrypted by a software encryption layer that can transparently decrypt/encrypt data read and write requests performed by individual application partitions
+
+Block Device Layer – Full disk encryption is supported through the integration of SED (Self Encrypted Drive) with the Lynx RTOS hardware control interface. Customization of the bootloader will be required to authenticate the drive prior to loading the LYNX MOSA.ic system runtime image
+
+Does Lynx’s RTOS possess the ability to support segregation of data and processes of differing security classifications?
+
+Data and process segregation of security classification is fully supported through the underlying hypervisor used to physically partition resources and map segments of resources to authorized applications. Secure partitioning evidence is provided as part of our airworthiness artifacts required to satisfy the DO-178C DAL A and DO-356A SAL 3 objectives.  
+
+Is Buildroot a Linux distribution?
+
+Buildroot is a set of Makefiles and patches that simplifies and automates the process of building a complete and bootable Linux environment for an embedded system, while using cross-compilation to allow building for multiple target platforms on a single Linux-based development system. Lynx adds LynxSecure-specific paravirtual drivers for shmem, virtfifo, virtuart, and virtnet inter-guest IPC mechanisms. Note that as a result of Lynx’s acquisition of Timesys in December 2023, Lynx is now able to offer support of various Linux distributions, including Yocto. Our intention is, over time, to offer managed Linux services as an optional product in LYNX MOSA.ic. The specific details of this will be announced during 2024.
+
+When creating mission critical systems, is it enough to simply support open standards?
+
+At Lynx, we see the support of standards for mission critical systems as being just the start. That is because APIs don’t define system behavior and timing. Read 
+this piece
+ by our CTO, Will Keegan, for more of our thoughts on this topic. 
+At the 79th Annual Forum of the Vertical Flight Society’s 79th (May 2023), a paper proposed definitions for software modules, operating system properties and key technologies for two distinct Software Operating Environment (SOE):
+
+A mission system SOE
+
+A safety critical SOE intended to address the Army Aviation Airworthiness Release (AWR) 
+
+This was a collaborative paper developed by companies that includes Collins Aerospace, JHNA, Lynx, Parry Labs, RTI and US Army PEO.
+Lynx isn’t allowed to share this paper, but interested readers can find some additional information 
+here,
+
+What software assurance procedures and tools does Lynx use to identify and mitigate vulnerabilities resident in software developed, modified, or remediated specifically for a specific program?
+
+Lynx provides customers with a Software Assurance Plan and Software Assurance Report. 
+As part of the software assurance process Lynx uses the CodeSonar static analysis tool from CodeSecure. The CodeSonar tool allows tunable coding rules to be applied as appropriate to the code base of interest.  Lynx has developed an extensive set of coding rules that are most applicable to the hypervisor and RTOS, and has mapped it to industry standard coding standards like MISRA-C.  The software development process typically ensures that the static analysis tool can be run against the certifiable code base to create an assurance case for the software. The SwAP analyzes the static analysis rules that are derived from industry databases (Example; Common Weakness Enumeration; cwe.mitre.org) and utilize those that are relevant to the Lynx products.
+The dynamic analysis approach involves several tests that are run on the product as part of the certification process. These include resource partitioning and time partitioning tests which are specifically designed to ensure adherence to the ARINC653 standard. In addition to this, the Vectorcast tool is used to ensure 100% code coverage on the software that is being certified. Lynx has also developed tests that analyze maximum stack usage that is used for stack analysis as well as test vectors that exercise boundary conditions on each functional module that is involved in certification. 
+All results are captured as part of the Software Assurance Report.
+
+What motivated Lynx to bundle technology from RunSafe Security?
+
+At a high level, it comes down to improving customers’ program risk, development cycles and costs. In compiled code, memory safety bugs are the single largest class of bugs. Patches are hard to deploy to these complex, fielded systems. Meanwhile, highly resourced and skilled attackers develop cyber kill chains, finding (or buying on the dark web) zero day malware. With RunSafe, systems running Lynx RTOS are protected and future-proofed against the majority of these zero-day attacks without patching.
+
+ Does Lynx plan to supply pre-integrations with technology from 3rd parties in addition to RunSafe Security?
+
+We continue to listen to our customers to understand what challenges they are facing, and then building solutions that address those. We have outlined three horizons as to how our product roadmap is planning to evolve (see video below). Our plans to implement that vision will continue to be based on make versus buy decisions.
+
+What IEEE standards for time sensitive networking (TSN) is Lynx focused on?
+
+Lynx is committed to comply with the IEEE p802.1DP TSN Aerospace Profile. This addresses a diverse set of use cases including:
+
+Safety Critical Systems: Inner loop controls (flight controls, fly by wire, engine controls, autopilot, autonomy-related-functions), Displays (artificial horizon, primary flight display, engine status), Situational awareness communications (cockpit audio, flight control communication, radios) and Flight management systems (navigation, flight planning)
+
+Mission Systems: Mission controls, sensor systems, video/displays, radar, data storage, Flight health management
+
+Weapons Systems
+
+Vehicle to Ground and Vehicle to Vehicle Communications
+
+Why does Lynx like VirtIO?
+
+VirtIO is the recommended approach to realize the MOSA technical objective of Application Binary Interface (ABI) compatibility. This hypervisor feature allows software contained within Virtual Machines (VMs) to communicate between VMs over standard binary interfaces. This unlocks the ability for component developers to build images with their own set of tools instead of being forced to use operating system specific compilation tool chains.
+
+What is Lynx’s approach to DevSecOps?
+
+Lynx’s approach promotes the avoidance of RTOS toolchain dependencies by pushing binary level interoperability and standardization of VM configurability through design languages like AADL to significantly reduce the potential for proprietary dependencies. Our objective is to enable customers to develop modular, certifiable software applications while increasing the fidelity of integration and testing earlier in development by avoiding dependencies such as limited access to specific hardware and software/system integration labs (SILs). Lynx supports hosted (e.g., Azure, AWS), hybrid, and on-premises solutions enabling application developers, integrators, and third parties to develop with speed and autonomy.
+
+Do you have a demonstration as to how RunSafe technology can assist in improving system resilience to cyberattack?
+
+Check out 
+this video
+ created by one of our FAEs.
+
+LYNXOS & LYNXOS-178
+
+I don't need DO-178 certification. Does that mean I don't need LynxOS-178?
+
+LynxOS-178 is built to the high software design assurance standard of DO-178C, but the certification artifacts are optional, which means that all users of LynxOS-178 benefit from this high quality. If your project needs to be certified to some standard or if real-time determinism is needed, then LynxOS-178 is an excellent RTOS.
+If you need certification to some standard (even if it’s not DO-178) you will need
+ LynxOS-178
+. We develop LynxOS-178 using DO-178C processes. This is a rigorous standard, and customers that do not need DO-178 will still benefit from LynxOS-178’s certification package for their certification efforts.
+If you need real-time determinism, then LynxOS-178 is currently the RTOS of choice on the 
+LYNX MOSA.ic™
+ development framework. However, we will soon be supporting 
+FreeRTOS
+ as an out-of-box RTOS solution on LYNX MOSA.ic as well. You will then be able to choose between FreeRTOS and LynxOS-178 as off-the-shelf RTOS solution, according to which out-of-the-box RTOS best fits your system’s needs. We also have customers that have ported their own RTOS solutions in preference to LynxOS-178. We do not force customers to use LynxOS-178 even when they want an RTOS and need real-time determinism.
+If neither certification nor real-time determinism is required for your project, then you do not need LynxOS-178. Buildroot, which is provided as part of LYNX MOSA.ic, or a 3rd party COTS OS (e.g. RedHat Linux or Windows) may be a better OS fit for your product.
+Read: 
+Lynx announces support for FreeRTOS
+Read: 
+Do you need an RTOS?
+Read: 
+How to choose an RTOS
+
+What languages does LynxOS-178 support?
+
+LynxOS-178 supports the C programming language for both production mode and development mode (an enhanced set of APIs and capabilities to aid in development)
+
+LynxOS-178 supports C++11/14 for development mode
+
+LynxOS-178 supports Ada from Lynx’s partners
+
+Lynx can also provide a Rust compiler to enable customers to compile and run Rust applications on LynxOS-178
+
+Does LynxOS-178 support ARINC partitioning?
+
+Yes. LynxOS-178 supports up to 16 ARINC 653 time, space, and resource partitions per OS instance. Each partition has its own allocation of CPU time, memory resources, timer resources, inode (file system) resources, etc.
+To learn more, visit the the "more information" page for LynxOS-178.
+
+Is LynxOS-178 POSIX compliant?
+
+Yes. LynxOS-178 is a native POSIX RTOS. It implements POSIX.1-2008 (2016 Edition), which is POSIX's core functionality, POSIX.1b (the POSIX real-time extensions), and POSIX.1c (also known as POSIX pthreads extensions).
+Click
+ here
+ to learn more.
+
+What GNU C++ compiler versions does LynxOS-178 support?
+
+LYNX MfA use the GNU Compiler Collection (gcc) version 7.1.0. The C11 version of the C programming language is supported, formally known as ISO/IEC 9899:2011. Lynx plans to upgrade to GCC version 11.3 during 2023. LynxOS-178 certification artifacts assume user applications are written in C. 
+
+Does LynxOS-178 support the Future Airborne Capability Environment (FACE) standard? 
+
+FACE compliance refers to software has been modified to support the FACE application programming interfaces (APIs). FACE conformance requires that the software has been tested by third parties and verified to truly meet the standard.
+LynxOS-178 is conformant to the FACE 3.1 specification.
+
+Does Lynx provide a certified IPv6 stack?
+
+Yes. It is offered as a software module for LynxOS-178. This stack is certified to DO178C DAL A.
+
+Does Lynx’s IPv6 software stack have to be used in conjunction with LynxOS-178?
+
+No. Lynx is willing to license this for use with other real-time operating systems.
+
+How does hard partitioning of time, memory and resources work in LynxOS-178?
+
+LynxOS-178 implements a time-slice scheduling algorithm that gives each partition fixed execution time so that the system can be deterministically safe. Additionally, the system allows multiple applications of differing criticality levels within partitions to execute, completely isolated, on the same hardware resource. With LynxOS-178, each task runs protected in its own space for uncompromising reliability within an ARINC 653 partition, enabling easier application certification.
+
+Can you be more specific about the compatibility to ARINC that LynxOS-178 includes?
+
+LynxOS-178 partitions under MFA 2021.11.2 conform to the ARINC 653-1 Application Executive Software (APEX) Interface defined by the ARINC 653-1 standard. LynxOS-178 provides the system service groups: ARINC 653 Partition Management, ARINC 653 Process Management, ARINC 653 Time Management, ARINC 653 Interpartition Communication, ARINC 653 Intrapartition Communication, and ARINC 653 Health Monitoring.
+
+Can you provide more specifics about the ARIC 653?
+
+LynxOS-178 conforms to the ARINC 653-1 APEX Interface defined by the ARINC 653-1 standard, ensuring application portability, software reuse, and interoperability between embedded systems. LynxOS-178 provides the following system service groups in accordance with the ARINC 653-1 standard: Partition Management, Process Management, Time Management, Inter-partition Communication (Sampling and Queuing Ports), Intra-partition Communication (Buffers, Blackboards, Semaphores, and Events), and Health Monitoring.
+
+When a new driver is added to the driver pool for LynxOS-178, must the driver be developed to the highest DO-178 dal that the RTOS will be used for?
+
+Yes, LynxOS-178 must be certified to the highest DAL level of any of the applications running on it. Drivers are part of the OS, and so fall under the same rule. LynxOS-178 drivers are separate binaries that are loaded at boot time. This reduces certification costs because a driver can be added and certified without touching (redoing) the kernel artifacts.
+
+Is LynxOS-178 ARINC-653 compliant or conformant?
+
+The
+ LynxOS-178 RTOS
+ conforms to the ARINC 653-1 Application Executive Software (APEX) Interface defined by the ARINC 653-1 standard. LynxOS-178 and LynxOS-SE provide the following system service groups in accordance with the ARINC 653-1 standard:
+
+ARINC 653 Partition Management: services related to partition management. GET_PARTITION_STATUS and SET_PARTITION_MODE are Partition Management service requests
+
+ARINC 653 Process Management: services related to process management. GET_PROCESS_ID and GET_PROCESS_STATUS are Process Management service requests
+
+ARINC 653 Time Management: services related to time management. TIMED_WAIT and PERIODIC_WAIT are Time Management service requests
+
+ARINC 653 Interpartition Communication: services responsible for communication between processes residing in different partitions. There are two types of Interpartition Communication services:
+
+Sampling Port Services: A sampling port is a communication object allowing a partition to access a channel of communication configured to operate in sampling mode. CREATE_SAMPLING_PORT and WRITE_SAMPLING_MESSAGE are Sampling Port Services service requests
+
+Queuing Port Services: A queuing port is a communication object allowing a partition to access a channel of communication configured to operate in queuing mode. CREATE_QUEUING_PORT and SEND_QUEUING_MESSAGE are Queuing Port Services service requests
+
+ARINC 653 Intrapartition Communication: services responsible for communication between processes residing in the same partition. There are four types of Intrapartition Communication service requests:
+
+Buffer Services: A buffer is a communication object used by processes of a same partition to send or receive messages. CREATE_BUFFER and SEND_BUFFER are Buffer Services service requests
+
+Blackboard Services: A blackboard is a communication object used by processes of the same partition to send or receive messages. CREATE_BLACKBOARD and DISPLAY_BLACKBOARD are Blackboard Services service requests
+
+Semaphore Services: A counting semaphore is a synchronization object commonly used to provide access to partition resources. CREATE_SEMAPHORE and WAIT_SEMAPHORE are Semaphore Service service requests
+
+Event Services: An event is a synchronization object used to notify the occurrence of a condition to processes that may wait for it. CREATE_EVENT and SET_EVENT are Event Services service requests
+
+ARINC 653 Health Monitoring: The Health Monitor (HM) is invoked by an application calling the RAISE_APPLICATION_ERROR service or by the OS or hardware detecting a fault.
+
+Are ARINC partitions "on" by default? Is it possible for an ARINC partition to not use ARINC 653 ports?
+
+ARINC 653 partitions are always enabled in LynxOS-178, but by default everything is in a single partition. 
+Software can be in an ARINC 653 partition and not use ARINC ports. In this sense, there is nothing “special” about a partition—it is just a normal LynxOS-178 application (that is, a set of processes, threads, a filesystem and device nodes). It could be multiple exe files where one calls another, which reads config files from disk and writes output to a network. Each exec file has access to the POSIX API as well as the ARINC API. This whole menagerie (the partition) has a restricted schedule and memory footprint.
+The ARINC 653 partitions in LynxOS-178 are configured in a text file called the VCT (Virtual machine Configuration Table). It defines the CPU schedule for the partitions, how much RAM each gets, what FS each has and what device nodes are visible. VM0 is a privileged partition, think of it as the “root” partition, it can see into the other partitions.
+We also provide an example VCT file with the maximum (16) partitions defined, the VCT file is easy to use, it is made up of about 50 parameters with relatively intuitive names. For additional and related information, please consult the LynxOS-178 User’s Guide.
+
+What is in the LynxOS-178 file system?
+
+By default the FS includes lots of LynxOS-178 ports of standard Unix utilities [see below]. RSH (remote shell) is supported as well as serial, so you can login to bash from serial or network. The intention is this Unix-like command line setup is used for development. Then, when you go to certification, you remove 95% of the file system contents, leaving only the applications you wrote and any support files (config files, log files) they need. You change the start-up script to call your application instead of bash, leaving you with a system with just the minimal necessary components, and hence less expensive to certify.
+Here is the complete list of every command Lynx includes in LynxOS-178 that customers can optionally populate their file system with:
+
+arp       dd          flash_info     lcs_launcher  netstat          route      true
+
+ash       devices     flash_sync     lcsnetstat    nfsstat          rpcinfo    tset
+
+awk       devinstall  flook          legacy_init   nice             rsh        umount
+
+banner    df          fsck           less          nohup            runshell   uname
+
+basename  diff        ftp            lesskey       ntpdate          sdiff      uncompress
+
+bash      diff3       gawk           lipcrm        ntpq             sed        uniq
+
+bashbug   dirname     gdbserver      lipcs         ntptrace         setactive  usbdevs
+
+cat       drinstall   gnutar         ln            pci_bar_mmap_pf  setprio    vi
+
+chgrp     drivers     grep           login         ping             sh         wc
+
+chmod     drm_stat    gunzip         ls            ping6            sleep      which
+
+chown     du          gzcat          microcom      prio             st         xargs
+
+cinit     dynaminst   gzexe          mkcontig      ps               sync       xntpd
+
+clear     echo        gzip           mkdir         pwd              tail       xntpdc
+
+cmp       egrep       head           mkffs         rc               tcpdump    zcat
+
+cofflook  env         hello          mkfs          rcp              tee        zcmp
+
+compress  expr        hostname       mknod         rdc              telnet     zdiff
+
+cp        false       id             mkpart        reboot           termcap    zforce
+
+cpio      ffsck       ifconfig       more          rlogin           tftp       zgrep
+
+cut       file        ixgbevf_start  mount         rm               time       zmore
+
+date      find        kill           mv            rmdir            touch      znew
+
+Does LynxOS-178 include a power-fail safe filesystem?
+
+No, the LynxOS-178 file system is not power-fail safe. Instead, the filesystem is mounted as read-only. Power-fail safety is incredibly difficult to do reliably and expensive (lots of code to certify). So we rely on you setting up just the small bits of the FS you need as writable, specifically for use by your application(s). For eg /tmp is writable by default. It is expected that the system is setup to load the kernel and, let’s say, 5 custom applications from a RAM disk. Then those applications might mount a writable FS on an SSD for bulk data access (large map database for eg) or logging. In this situation, the OS and your apps will always run, and any FS power-fail corruption will be limited to writable areas on the SSD. And, since you have the OS guaranteed to be uncorrupted, you should build in ways to recover if the disk does get corrupted (scripts, the chkdsk utility, etc, called programmatically from your application). Bottom line, if you need to be writing heavily to large files on disk, consider buying a fail-safe filesystem from a 3rd party, or, even better using an embedded database instead of a FS. Disks are just not 100% reliable, they are very good, but think about how many external USB HDDs you have had over the years, and how they occasionally fail.
+
+Does LynxOS have any features for reporting security risks?
+
+First, LynxSecure runs Initial built in test (IBIT) and continuous built in test (CBIT) to validate the crucial hardware registers that control the partitioning of the system remain valid. By design it should be impossible to programmatically change these, so CBIT is intended for things like single-event upset (SEU), ie cosmic rays, but it also protects against a hw faults or weakness (like rowhammer).
+Secondly, LynxSecure has an audit log. Guest VMs can be granted privilege to access the audit log and to receive an interrupt when events are stored. There are about 60 audit events, things like VM lacks permission to set the time, change the schedule, make hypercall X. The events can be filtered and actions defined should you wish to halt or reset a VM that generates event X. This detects badly behaved VMs or VMs attempting to “break out”.
+
+What is the difference between Development Environment and Production Environment for LynxOS-178?
+
+LynxOS-178 contains two environments: The Production Environment and the Development Environment. The Production version of LynxOS-178 has a feature set which supports certification to DO-178C Design Assurance Level A. The Development Environment (a superset of the Production Environment) has additional features that assist in application development and debugging on LynxOS-178 including;
+
+Kernel Features – TTY and ptrace for example 
+
+ Shells and Utilities - bash, tftp, ssh, ps, gzip, and additional file system utilities for example 
+
+Debuggers - Standard gdbserver for working with GDB
+
+Additional Drivers - USB, AHCI and network interface drivers 
+
+These development mode features make LynxOS-178 development as productive and efficient as UNIX or Linux. Lynx does not have supporting DO-178C artifacts for Development Environment features. When application development is complete the project should switch to the Production Environment to eliminate these productivity elements and ready the system for safety certification. 
+
+Is it possible to create shared RAM disks?
+
+When setting up a RAM disk between two subjects, the subjects only have read-only access to the shared memory region. The Lynx Simple Application (LSA) has read-write access. We deliver a new image up to the LSA using the FIFO Image Transfer Protocol (FITP) down into the shared memory region, mount the file systems and create the shared read-only RAM disk. 
+FITP uses lock-step messages to issue commands to the receiver and transfer data between subjects. It has commands to overwrite or zeros the boot image regions of the LynxOS-178 (or 
+LynxElement
+) subjects. It also supports commands to stop, restart, pause and resume subjects. Finally, there are commands to change the scheduling policy of 
+LynxSecure
+. 
+
+Read our blog about RAM disks 
+here.
+
+How can subjects be updated?
+
+The shared memory region must be declared in the autoconfig script so it is identifiable by the LynxOS-178 subjects, meaning that:
+
+The LynxOS-178 subjects must have access to the memory region
+
+The shared memory region must be mapped to a fixed guest physical address (GPA)
+
+Each LynxOS-178 instance’s RAM disk driver needs to have an entry for the RAM disk’s GPA and size. By adding an entry to the LynxOS-178’s VCT file, the RAM disk can autoload on boot.
+Read more 
+here
+ and learn specific commands we use to initiate the creation of this shared RAM disk.
+
+LYNXSECURE & LYNX MOSA.IC
+
+What is LynxSecure?
+
+LynxSecure is a separation kernel, which is a minimal hypervisor. It is a static hypervisor that is configured on your host PC so that when it boots, it allocates target hw resources (cores, memory, peripherals) into fixed immutable virtual machines. The privileged setup code is discarded (for security) so that all that is left of LynxSecure is a set of event handlers to respond to and redirect interrupts and handle management calls like “shutdown”. The separation is achieved by hardware virtualization, which once configured, does not require active management (emulation, scheduling, etc). The goal of a separation kernel is to be minimal, elegant and efficient (LynxSecure is 15K on Arm). Initially (Rushby, 1981) this was so that formal methods could be used to prove separation for security, but more recently these properties have gained traction in the safety arena, to reduce safety certification costs and to provide multicore partitioning.
+Additional reading:
+
+LynxSecure Product Page
+
+What is a separation kernel?
+
+Is LynxSecure an RTOS?
+
+No. In contrast to other popular hypervisors built by software vendors targeting the embedded market, LynxSecure is not an OS, nor is it "built on" an RTOS. LynxSecure nether runs on top of an existing RTOS or explicitly leverages a helper RTOS. It is not a microkernel and only requires only a very minimal board support package (BSP). Additionally, LynxSecure never loads any high-level drivers (these interfaces are left to the Guest OS of your choosing), and does not run any system services (leaving it with no known attack vectors).
+
+What are the origins of LynxSecure?
+
+LynxSecure was created in response to global events in the early 2000's which emphasized the need for improved safety and security. The technology was designed to satisfy real-time high assurance computing requirements in support of the NIST, NSA Common Criteria, and NERC CIP evaluation processes which are used to regulate military and industrial computing environments. It harnessed decades of university, government and corporate research which identified three fundamental principles for a separation kernel hypervisor, namely:
+
+Separate disparate applications into different domains
+
+Ensure each domain runs unaffected by another system
+
+Security-policy enforced information flow between subjects
+
+How big is LynxSecure?
+
+There are about 20k lines of certifiable source code in this product.
+
+What is the difference between LynxSecure and LYNX MOSA.ic?
+
+LynxSecure
+ is a 
+separation kernel
+. LYNX MOSA.ic is a software framework which includes LynxSecure as a foundational element. LYNX MOSA.ic also includes Buildroot Linux, bare-metal tools, and other operating systems (from Lynx, from 3rd parties and soon from open source) which customers can harness to get a head start in their development work.
+
+Is LynxSecure NIAP certified?
+
+Short answer:
+ Lynx offers a NIST 800-53 package for LynxSecure, the current NIAP-supported certification and accredited process for critical systems. No new evaluations have been accepted for years (nor will they be accepted, as the SKPP is effectively dead).
+Detailed answer:
+ The Common Criteria for Information Technology Security Evaluation (ISO/IEC 15408) is an International standard for IT products. Common Criteria defines security evaluation assurance levels (EALs) ranging from EAL1 (least secure) to EAL7 (most secure) to describe the security level achieved by Security Targets (components) being evaluated (tested) against a Protection Profile.
+For or a few years beginning in 2007, the Common Criteria included a profile for separation kernels called the Separation Kernel Protection Profile (SKPP) that real-time operating system (RTOS) providers such as Lynx, Wind River Systems, and Green Hills Software built products toward. The SKPP was sunset in 2011 by NIAP after problems with the first evaluation. The Common Criteria remains a useful standard, but no further SKPP evaluations will be accepted, and the SKPP is effectively dead. Instead, NIAP is directly supporting the certification and accreditation process for critical systems. NIST Special Publication 800-53, “
+Security and Privacy Controls for Federal Information Systems and Organizations
+” is a more general security approach that partly fills the SKPP gap. We offer a NIST 800-53 package for LynxSecure.
+LynxSecure was designed to satisfy real-time, high assurance computing requirements used to regulate military and industrial computing environments, such as NIST, NSA Common Criteria, and NERC CIP. Developed and maintained in San Jose, California in accordance with FAA DO-178 Safety Quality Standards and DoD Risk Management Framework guidelines, LynxSecure is certified, fielded, and maintained on classified DoD networks. The product has undergone many security assessments including penetration testing and design review by independent government security authorities.
+For the last several years, LynxSecure has gone through numerous delta certifications showcasing significant cost savings from the reuse of previously certified components that have remained unmodified throughout the lifecycle of a program’s tech refresh period. The technology has also enabled programs to effortless spawn derivative platforms into adjacent programs further maximizing component reuse. Lynx offers a DoD Risk Management Framework guide to aid the US Army’s security evaluation of the security enforcing properties of the platform. The package includes NIST security control traceability and Common Criteria Security Target traceability into the underlying kernel design requirements.
+
+How are NIST certification artefacts delivered and updated?
+
+Our NIST security artefacts are for LynxSecure on x86. A block of services comes with the artefacts to train users how to adjust them for additional hardware. If desired, Lynx can engage in a discussion about professional services work to enact custom work for a specific customer.
+
+How does LynxSecure ensure software partitioning?
+
+LynxSecure doesn’t partition software, it partitions hardware into virtual machines in which software executes. Each virtual machine can be granted very fine-grained privileges; the system can use one guest to perform one critical system function, and another guest to perform another critical system function. There is no need to bestow all of the system trust in a single guest operating system.
+In LynxSecure there is no root OS, helper OS, master OS, trusted OS, etc. Developers can however choose to emulate this approach by assigning all key system functionality to a guest OS of their choice. LynxSecure configures all partitioning in the system prior to the start of any guest OS. All hardware registers defining partitioning attributes (MMU, interrupt vectors, SMMU, PCIe, etc.) are set to the values required for the hardware to enforce the defined partitioning scheme. This includes CPU schedules, interrupt controllers, memory, devices, PCIe end points, DMA masters, etc. Once these registers are written/set, the code which performed the write is removed from the LynxSecure binary. From this point forward, it is literally not possible for LynxSecure to modify the defined partitioning, privileges, and security policies. Additional details are available in the LynxSecure Architecture guide (product documentation)
+
+Can LynxSecure provide secure communication between operating systems and is it implemented by shared memory regions or via ethernet link?
+
+For every architecture, LynxSecure defines one or more shared memory regions between guest operating systems.
+Each region is uni-directional/single-write.
+Each region is zero copy from the perspective of the Separation Kernel. LynxSecure has no role in copying or moving data from user to supervisor to user privilege modes. This clean approach provides a high performance, secure memory region as the underlying foundation for more advanced protocols. For Linux, Lynx Simple Applications and LynxOS-178, Lynx also provides drivers for FIFOs and vEthernet (Intel now, Arm mid 2020) communications between guests, relying on the underlying zero copy shared memory as transport.
+
+Can LynxSecure provide a secure upgrade mechanism including cryptographic signing, transport encryption, downgrade attack prevention, and other features?
+
+Solutions related to security are very SoC specific and dependent on key storage, cryptographic accelerators, and more. As such, it would be false to state that we have an off-the-shelf solution, when any solution will require a level of hardware-specific customization to leverage available resources.
+Solutions that are based on an underlying RTOS may implement platform-specific solutions which can then be exposed by that RTOS via higher level APIs. However, this will likely require that a comprehensive RTOS BSP is available. LynxSecure is not an RTOS and it relies on fine-grain privileged operating systems to use the software stack selected by our customers for each purpose.
+Customers using LynxSecure have created upgrade mechanisms which are platform or SoC specific solutions customized to their needs.
+
+Does LYNX MOSA.ic support cache partitioning? 
+
+Yes, our hypervisor, LynxSecure (the foundation of LYNX MOSA.ic) does support hardware cache partitioning on Intel architecture. We use the Intel RDT (resource director technology) CAT (cache allocation technology) feature to split the last level cache. Each CPU core or individual VCPU (CPU timeslice, ie VM) can be assigned a cache capacity bitmask to split the cache with the granularity supported by the hardware. Software cache-coloring is not supported today.
+Read blog post: 
+Multicore Cache Allocation Technology (CAT) Demo
+
+Do network services in LYNX MOSA.ic directly contribute to protect the device from network attacks?
+
+The LYNX MOSA.ic framework and architecture allows customers to deploy their favored network protection solution within the guest OS that they prefer and have consequently assigned with the necessary hardware privileges and security policies. Lynx has not invested to incorporate these capabilities within LynxOS-178 as we feel there are more fully featured solutions available at lower cost. On Intel platforms, the Virtual Device Server (VDS), a privilege-restricted Linux guest OS, provides an ideal location where additional network or packet inspection services could be easily added on behalf of the full system
+
+What is meant by "Independent Application Modules"?
+
+LYNX MOSA.ic is described as "a software framework for building and integrating complex multi-core safety- or security-critical systems using independent application modules." What, then, are "independent application modules?" 
+Independent application modules are isolated, static virtual machine environments (and their guests) created by the separation kernel which enable system architects to simplify their system designs by better managing software complexity inheritance. Certain applications may only require simpler bare-metal environments. Others may require more complex Linux environments. Application environments can be (1) bare-metal; (2) RTOS, Windows, or other 3rd-Party OS; (3) Linux. They are governed by an information flow policy that ensures system security and they cannot be dynamically altered during runtime.
+
+Can application modules be combined with different levels criticality, where every application can be certified independently from others?
+
+Yes. LynxSecure is a Separation Kernel that sets up and locks-down device partitioning at boot, prior to the start of guest OS. All security policies, hardware partitioning, and inter-guest memory access privileges are defined according to the engineer’s needs, with few design impositions due to the hypervisor. This allows builders to fine-tune the levels of complexity and safety- or security-criticality for each application module and to certify each module—and only the module(s) that require certification—independently.
+
+How is the architecture configuration policy set up? Is that set up contained within the system or is it external? 
+
+The Architecture Configuration Policy is setup on the host PC using a modeling language, and compiled on the host into a bootable binary. That binary is self-contained and configures the target resources as described in your model immediately on power-on. The privileged code that does that is eliminated after the job is done, leaving the system secure.
+
+Does LynxSecure have any features for reporting security risks?
+
+Firstly, LynxSecure runs Initial built in test (IBIT) and continuous built in test (CBIT) to validate the crucial hardware registers that control the partitioning of the system remain valid. By design it should be impossible to programmatically change these, so CBIT is intended for things like single-event upset (SEU), ie cosmic rays, but it also protects against a hardware faults or weakness (like rowhammer). Secondly, LynxSecure has an audit log. Guest VMs can be granted privilege to access the audit log and to receive an interrupt when events are stored. There are about 60 audit events. The events can be filtered and actions defined should you wish to halt or reset a VM that generates event X.
+
+Does LynxSecure secure the storage of system secrets of any encryption system  or similar?
+
+On x86 there is a module—a bare-metal virtual machine (VM)—called LSAstore that intercepts a block device (disk or partition) and provides transparent encrypted disk storage. But otherwise this is not a standalone feature because this can be trivially done with a bare-metal VM.
+There is a LynxSecure demo where a VM is given access to an encrypted storage area and a Yubikey USB digital key to unlock it and provide secure access to control a robot via IPC (FIFO). Shmem or virtNet IPC is also supported.
+
+Does LynxSecure contain any certified cryptographic libraries?
+
+On x86 there is a module—a bare-metal virtual machine (VM)—called LSAstore that intercepts a block device (disk or partition) and provides transparent encrypted disk storage. LSAstore uses the OpenSSL FIPS object module. 
+But, in general, LynxSecure does NOT contain any certified cryptographic libraries. It is deliberately minimal (no console, no create-VM APIs, no login).
+
+Does LynxSecure require drivers?
+
+No! There are no users. There are no drivers. The hypervisor only understands serial ports, VGA text-mode display, EHCI USB debugging (no USB stack), the virtualization technologies and control of the various system busses, including PCI. The only interface into the hypervisor - hypercalls - is very tightly controlled.
+
+How does certification of a separation kernel hypervisor differ from a traditional hypervisor?
+
+Safety certification of a separation kernel hypervisor is different because the HW register settings to implement the customer-specific multi-VM configuration are compiled into the hypervisor binary. Lynx uses a hybrid safety certification approach to certify LynxSecure. Lynx certifies the regular code of the hypervisor, such as startup code, interrupt handlers, context management, time management and scheduler following the classical DO-178C V-model (waterfall model). However, the HW register settings and page table data responsible for programming the HW to implement the customer specific configuration of VMs are certified following the DO-178C Parameter Data Item (PDI) approach. PDI allows a data file to be verified independently from the software if the data is in a form that is directly usable by the processing unit of the target computer. The PDI approach helps minimize LynxSecure's source lines of code (SLOC) count while enabling cost-effective certification of customer specific VM configurations. It allows the use of standard LynxSecure artifacts prepared by Lynx ahead of time for whatever choice of VM configuration the project chooses.
+
+How does LYNX MOSA.ic for Avionics support containerization?
+
+MfA provides 2 containerization options that may be used independently or in concert. Both enable remote 3rd party creation of binary payloads to be loaded and executed on the target. 
+Hypervisor Dynamic VM Update makes use of existing MfA functionality to allow regular LynxSecure VMs to be dynamically stopped, replaced and restarted in a running system. Dynamic VM Update is controlled programmatically from a purpose-built orchestration application running as a LynxSecure VM. No remote orchestration infrastructure is provided. The orchestration application is set up with a library of pre-prepared VM images, either in its file system or network accessible (e.g., NFS, TFTP, SCP). The orchestration application runs in a privileged VM, with both write access to the boot memory regions of other VMs and control over restarting them. 
+Standard Linux Containers; Buildroot Linux is a full featured embedded Linux distribution that is part of MfA and capable of running the Docker Engine and Linux infrastructure necessary to host and run 3rd party created containers. As an embedded Linux it is smaller than desktop Linux distributions, since its default configuration avoids a graphical desktop, office applications or a package manager. However, Buildroot Linux can run the necessary Docker components: 
+
+runC, the minimal CLI for running Linux containers
+
+docker-containerd, the daemon and API for runC
+
+docker-engine, the cli and api for the Docker application engine
+
+Does LYNX MOSA.ic possess the ability to control privilege of access based on who/what requires access and successful authentication/authorization?
+
+A system configuration can use partitions to restrict access to resources and interpretation, and global system capabilities. On Intel based hardware platforms, LYNX MOSA.ic™ can support over a thousand partitions to create fine-grained access control policy enforcement.
+Partition level authentication is achieved in the hypervisor through the monitoring of system management calls. Each system management call is handled by the hypervisor which contains the access control policy encoded as a permission lookup table created during the system build process. Partition access is granted by matching the hardware context ID of the calling partition against the authorized capabilities listed in the permission table. All system management calls are logged in a protected security log buffer. Policy violations can be programmed to trigger mode switching events to precisely recover from the event.   
+
+How could LYNX MOSA.ic be configured for a Line Replaceable Unit (LRU) application?
+
+The diagram below shows an example of a general-purpose LYNX MOSA.ic™ system configuration to provide clarity on how the BSP is composed to support the target system requirements. This general-purpose configuration specifies four virtual machines that are each allocated a dedicated CPU core, and the LynxOS-178 RTOS guest is loaded into each virtual machine. LYNX MOSA.ic™ permits many alternative options of configuration, allowing different CPU core allocation schemes and can host a variety of guest OS types 
+Notice the indication of virtual machine (VM) types:
+•    Application VM – Guest environment primarily used to host applications.
+•    Control VM – Guest environment primarily used to host asynchronous drivers and hard real-time applications.
+•    Data Service VM – Guest environment primarily used to host high speed DMA device drivers and device sharing services.
+
+Figure 8 - General Platform Configuration
+The virtual machine types are only a characterization profile of the VM. All VMs are permitted to host any device driver or application that the guest OS permits. This example shows that devices can be assigned to arbitrary VMs. It is important to note that for every device assignment, the hypervisor guarantees that the impact of hazardous events created by devices such as erroneous DMA and interrupt pre-emption, is constrained to the VM assigned to the device, protecting the integrity and timing of the other VMs. 
+
+Does LYNX MOSA.ic have support for JTAG debuggers?
+
+Lauterbach and Lynx have enjoyed a longstanding relationship over 10+ years and have performed engineering work to support prior versions of Lynx’s products. Lauterbach is currently performing engineering work to proof out their debugger series with LYNX MOSA.ic. More specific details on status and availability can be provided on request.
+
+Is LYNX MOSA.ic impacted by Reptar (CVE-2023-23583) bug identified in November 2023?
+
+This bug was reported as crashing hypervisors and having the potential to escalate privileges for Intel 10th Generation processors and beyond. We have reviewed the bug and see that there is no impact to LYNX MOSA.ic. Intel is recommending a firmware update and we certainly recommend that course of action for companies with processors that have been identified as being at risk. At the core, though, the architecture of LYNX MOSA.ic enables these issues to be mitigated since:
+
+Permissions for each virtual machine are established at boot up and are immutable
+
+The hypervisor, LynxSecure, is out of the dataplane during operation. Its role is to simply establish permissions for each virtual machine and ensure strong isolation between the applications that are executing in those virtual machines
+
+Does the default resource management of the product protect against exhaustion or denial of service?
+
+The LynxSecure component of LYNX MOSA.ic is not an OS, is not based on an OS, and intentionally does not perform dynamic resource management. All subjects and resources allocated to subjects are fixed at build time according to a model. LynxSecure is thus immune to resource exhaustion and denial of service attacks. 
+The Buildroot Linux component has whatever protections against exhaustion or denial of service attacks are available in Linux, or in the applications written to run on Linux. The LynxOS-178 safety-critical RTOS supports multiple ARINC 653 partitions (up to 16), and resources (e.g. memory, file system nodes, processes, threads, etc.) and time allocated to one partition cannot be used or stolen by another partition.   
+
+Does the product implement run-time verification?  
+
+LynxSecure supports the use of a logging facility and can be used to capture events (e.g. a subject requesting inappropriate hypercalls or restarting). A subject with appropriate permissions can read from these logs and appropriate actions can be taken. When the system is booted, LynxSecure’s initialization code runs a startup BIT (SBIT) to verify the hardware is operating correctly. LynxSecure can also run the BIT tests as an initiated BIT (IBIT) and/or as a continuous BIT (CBIT) testing if desired.
+
+How intensive is it to have the NIST certification artifacts updated around a given piece of hardware? 
+
+Our NIST security artifacts are for LynxSecure on x86. Our business model is that a block of services comes with the artifacts to train users how to tweak them for additional hardware. This task is expected to be easy enough to do within the block-of-time for all but really unusual devices. It would be more work for Lynx to update the NIST package for Arm, possibly a few months of work. But, we are looking for an excuse to do that work, and would be delighted to undertake it should you be interested in NIST security artifacts for LynxSecure on Arm.
+
+How secure is the LynxSecure executable?
+
+Four examples help to illustrate security aspects of the executable:
+
+There is no means to load any application or modify the LynxSecure executable
+
+Guests cannot access LynxSecure memory
+
+LynxSecure cannot access guest memory
+
+No shared kernel memory exists between guests and LynxSecure
+
+What is the LynxSecure hypervisor PCI bar sharing feature?
+
+PCI Base Address Register sharing is a feature where the LynxSecure hypervisor can create a special shared memory region to share portions of a PCI device’s address range. It can be used to share the HWTimeStamp registers of a PTP NIC, or the framebuffer of a graphics card for example. This allows other VMs to share the accurate hardware timer in a simple and efficient way. The VGA usecase allows a physical graphics card to be shared so that multiple VMs can have their own (reduced size) framebuffer and share the screen. Of simultaneous shared access to the screen is useless, the way this works is that LynxSecure provides a mechanism to switch which the screen between each VMs framebuffer.
+For e.g. on an Intel x557 NIC, these 3 registers are shared in read only mode:
+Tx Time Sync Control Register - TSYNCTXCTL (0x00008C00)
+Tx Timestamp Value Low - TXSTMPL (0x00008C04)
+Tx Timestamp Value High - TXSTMPH (0x00008C08)
+PCI BAR sharing is done with the memregion autoconfig command. This example shares address 8000 of the PCI device NET0.IOMEM0 as a 0x1000 long memory region called NET0.TIMESYSNCREGS.
+
+autoconfig mksrp $TARGET \
+
+  --subject-vds0=NET0,...\
+
+  --subject-fv0=NET0#1,memregion=NET0.TIMESYNCREGS:0x1000:RESERVED:RW:auto:auto:UNCACHEABLE:NET0.IOMEM0:00008000
+
+The hwtimestamp registers are only available to the NIC PF (NET0), which is owned by the vds0 VM. The other VM, fv0, must use PCI BAR sharing to access the hwtimestamp because it is only assigned a virtual function (it has virtual function 1 of NET0, shown as NET0#1 in LynxSecure syntax).
+
+Are guest-to-guest communications secure for a LynxSecure based system?
+
+Yes
+
+Resources and security policies are defined at boot
+
+User-space and zero copy memory ensures security-policy enforced guest-to-guest communication
+
+Data does not pass through LynxSecure
+
+Communications are Peer-to-Peer
+
+Does LYNX MOSA.ic support formally modeled systems?
+
+We are familiar with and have supported customers that have used design tools like Simulink and SCADE to formally model systems. Architectural details that transcend functionality such as spatial, relational, and timing requirements of system subjects and objects will natively plug into the configuration interface of LynxSecure.
+
+Can you share details about  certifications for LynxSecure?
+
+LynxSecure is developed and maintained in San Jose, California in accordance with FAA DO-178 Safety Quality Standards and United States DoD Risk Management Framework guidelines. LynxSecure is certified, fielded and maintained on classified DoD networks. The product has undergone many security assessments including penetration testing and design review by independent government security authorities.
+
+In many designs, partitioning alone is insufficient to achieve a secure system. What can LynxSecure offer?
+
+Commonly, critical security function—such as a crypto algorithm, or data filter—and a unique information flow configuration must be established and protected to achieve a secure system. Critical functions can be placed in guests that leverage services of the separation kernel or independent trusted guests to monitor the work, liveliness, or integrity of the critical function. LynxSecure provides the following reference monitor features:
+
+Audit Event Manager;: the kernel contains a runtime state transition manager that can change the execution behavior of the system when a policy exception event occurs. Policy exceptions can come from guest generated hypercall events and hardware generated events – E.g. MMU/IOMMU exceptions. All events are recorded in an audit buffer.
+
+Watchdog: guests can be configured to strobe a virtual watchdog timer that the separation kernel will monitor. If a guest fails to strobe the watchdog in the permitted window of time the separation kernel will trigger a policy exception event.
+
+Signal: guests can us: ge the kernel to trigger hardware events to other guests to wake up interrupt handlers.
+
+Message: guests can use the kernel to send a 64 byte message to another guest in a single direction. Guests must be configured in the mandatory access control policy to have access to the messaging capability and must specifically declare which guest it is permitted to message.
+
+Can you provide a sample of working with hardware security functionally provided by a semiconductor partner?
+
+Lynx developed Xilinx FPGA assisted boot and credential protection prototypes to serve as exemplar of fundamental boot and system initialization security design elements. Using the Xilinx SDK, Lynx integrated two security capabilities:
+
+Using the Xilinx bootgen utilities (pat of SDK), the LynxSecure image was processed to create a signature of Separation Kernel and guest images. This signature is used by the Xilinx MPSoC boot process to ensure the system image has not been subverted. It can only execute on a specific hardware target
+
+In addition to basic boot image and guest image integrity and authenticity protection, an additional capability allows guests to use the Xilinx encryption engine to protect keys used by guest applications
+
+What else can you share regarding security aspects of LynxSecure?
+
+In addition to cert documents and workflows that we are happy to provide upon request (and in addition to offering NIST 800-53 security artifacts), LynxSecure offers other specific security features:
+
+An autoconfig option for the kernel and / or VMs, for Indirect Branch Restricted Speculation (IBRS) mitigation, that is, against Spectre variant 2
+
+An autoconfig option for the kernel and / or VMs, to prevent Foreshadow, also known as L1 Terminal Fault (L1TF)
+
+A high performance IRQ (interrupt) based audit system where the instant a VM attempts to access unauthorized memory or objects, it is frozen by LynxSecure and an IRQ generated into a privileged VM that can view a log and decide what action to take
+
+A hypervisor Module feature that allows binary modules to be added to the hypervisor at build time to add new hypercalls, callable by privileged VMs, to extend it for things like additional health monitoring, and custom firmware calls (like re-program FPGA)
+
+Memory sanitization. GOS memory is cleared before and after every guest restart. Extendable to sanitize user-resources as well
+
+Random number generator disable. VM access to the CPU’s built in Random number generator can be disabled to prevent it being used as a covert information channel
+
+Describe the LynxSecure secure boot solution.
+
+LynxSecure relies on an external bootloader, and that is where secure boot begins. Lynx does provide components from which a secure boot system can be built. Setting up secure boot is target specific. For example, we have a how-to for x86 that describes how to digitally sign your LynxSecure SRP binary and add keys to the BIOS to enable secure boot.
+Following the signed SRP, secure boot can be continued using the LynxSecure segmented boot feature. Additional details regarding this feature can be shared upon request.
+
+PTP (Precision Time Protocol aka IEEE1588) shares time across the network. How can time be shared between VMS? Does SR-IOV help?
+
+SR-IOV VF (virtual functions) do not support PTP. That is, the hwtimestamp capability, which is how PTP and 1588 work, is only available in the NIC’s PF (physical function).
+IEEE 1588 (PTP) lets you synchronize clocks over a LAN. It is important to have a single master clock per network node (PC or target SoC). The standard operation of PTP is that it continuously disciplines (adjusts) slave clocks to keep them accurate with the master. Once a node (SoC) is disciplined, then you want to share that accurate clock with all the LynxSecure VMs running on it. This is where PCI BAR Sharing comes in. It is a LynxSecure feature that allows windows in the PCI Register Address range to be shared by multiple VMs. It does exactly what is required, it directly shares the PTP HW Clock registers with other VMs within a single target.
+Lynx’s intention is to eventually have PTP support in LynxOS-178 guests running on top of LynxSecure. This is not available yet, but it means:
+Extend the LynxOS-178 network stack to support PTP. This will allow it to be a PTP master (provide time) or PTP slave (receive time). At the moment a Linux guest can be used to import PTP time onto the SoC. Once the SoC has an accurate PTP clock, PCI BAR sharing is used to give other VMs access the timer registers. On LynxOS-178 the memmap driver is used to map them into user space, then the adjtime() API is called to synchronize the local VMs time.
+
+How does shared memory IPC (Inter Process Communication) work between LYNX MOSA.ic guest operating systems?
+
+Shared memory is a standard feature of LynxSecure. Memory windows of configurable size, writability, cache ability etc, can be defined and shared between multiple VMs. Accessing shared memory regions the VMs is done:
+
+In Linux we provide a driver that maps memregions as a device node into /dev/lsk/memregion.
+
+In bare metal applications we provide macros that assist querying the RO (read only) page so your code can discover shared memory regions.
+
+In LynxOS-178 the memmap driver is used to map the memory into userspace.
+
+Can FREERTOS really offer the same RTOS determination that LynxOS has?
+
+LynxOS and indeed LynxOS-178 are perfectly valid solutions. We have customers using it today for industrial applications including medical imaging equipment. FreeRTOS is the most widely used real-time operating system in the embedded industry. With an increasing amount of those systems becoming connected to the cloud, Lynx felt It was prudent to attach itself to the software ecosystems that are delivering this functionality. This is FreeRTOS (Amazon) and AzureRTOS (Microsoft). Since Lynx is a relatively new player in the industrial market, the pragmatic approach is to
+
+Show how companies can reuse their existing code bases around FreeRTOS
+
+Articulate a relatively quick an straightforward path to IEC61508 certification via Wittenstein that does this around FreeRTOS
+
+Ride on coattails of cloud companies offering up container frameworks, cloud connectivity etc rather than us doing it ourselves on our RTOS
+
+ How should I think about the boot sequence and boot times for a LynxSecure based system?
+
+Three primary boot “stages” to consider:
+
+Power-on First Stage or Primary Bootloader
+
+LynxSecure Separation Kernel Initialization and Boot
+
+Guest OS Booting
+
+Power-on First Stage or Primary Bootloader
+
+is in reference to the board’s native, power-on firmware and bootloader for the system, i.e. BIOS/EFI/SlimBoot or custom firmware and bootloader. It is the responsibility of this first stage bootloader to initialize the processor and board as needed and copy the LynxSecure System Runtime Package (SRP) binary boot image into main memory from whatever persistent storage device it is kept on, i.e. Flash, SSD, etc. Once loaded into memory, the first stage bootloader will jump to and hand-off control of the system to LynxSecure. Lynx has no control over this part of the boot sequence.
+LynxSecure Separation Kernel Initialization and Boot 
+is the time need by LynxSecure to initialize and configure the partitioning of the processor and system resources, plus the loading of the Guest OS images into their respective execution domains or “rooms”.
+Guest OS Booting
+ is the time needed by a particular Guest OS to boot to some meaningful startup point, which could be anything from when the OS init function is ready to start the first user specified application process to when a user’s application environment is fully operational and ready to perform its stated work. From a LynxOS-178 perspective, we can reasonably specify the startup time to the point at which the OS can launch the first user-specified process that is responsible for the remaining startup of the entire application.
+
+Some factors that can greatly affect that boot time:
+
+Processor operating frequency
+
+DRAM operating frequency
+
+Amount of physical memory in the system
+
+Overall size and number of Guest OS subjects configured to run on the system
+
+Number of physical devices used and assigned to Guest OS subjects in the system configuration
+
+I am familiar with the term “hypervisor” I see Lynx refer to “separation kernel hypervisor”. Can you explain what that is and how it is different?
+
+The best resource to address this question is this technical white paper 
+here
+.
+
+Does Lynx’s hypervisor enable a virtual machine to update software in another VM at runtime?
+
+Yes! LynxSecure enables a virtual machine to update software running in another VM at runtime by granting a privileged VM permission to write into the boot memory region of other VMs. The privileged VM is prepared with a library of OS images in its filesystem, or over the network (NFS, TFTP, SCP). It over-writes the OS image of the VM to be replaced and then makes a hypercall to reboot it which picks up and launches the new OS image. Dynamic VM (also referred to as “dynamic segmented boot” may be combined with multiple hypervisor schedules to allow a set of VMs to be staged with new OS images and then launched via a schedule switch. 
+
+Does Lynx’s network stack support Virtual LAN (VLAN) functionality?
+
+VLAN support was added to LYNX MOSA.ic for Avionics (MfA) 2022.12. A VLAN - virtual LAN - allows multiple network interfaces (eth0, eth1, etc) to be connected to a single physical NIC, allowing that NIC to have multiple IP addresses. A maximum of 4095 VLANs per trunk interface are supported. VLANs are represented as separate LCS network interfaces and identified as interface-name.VLAN-ID, e.g “eth0.100”, consistent with Linux and UNIX systems. VLANs are implemented by adding a VLAN Identification (ID) TAG into the Ethernet packet header. This field, as well as the VLAN Priority field, allows VLAN-aware switches and routers to direct and filter network traffic to create networks with the desired priority and architecture.
+
+Can you share more details about the Ethernet support included in LYNX MOSA.ic?
+
+LynxOS-178 networking performance matches Linux on the same HW. Hypervisor slowdown is statistically insignificant. 30 NIC chipsets (greater than 30 NICs) are supported. PTP (IEEE 1588) is supported. VLAN and Time Sensitive Networking (TSN), IEEE 802.1AS, time-aware shaper (IEEE 802.1Qbv) and credit-based shaper (IEEE 802.1Qav) are supported in MFA 2022.12.
+
+ What does the “IC” in LYNX MOSA.ic stand for?
+
+IC means “Integration Center”. We strong believe our focus should be assisting our customers to combine legacy software, Lynx technology, open source assets and 3
+rd
+ party applications in a safe and secure way.
+
+Is RunSafe’s technology supplied as part of a standard LYNX MOSA.ic software package?
+
+No. Lynx offers a range of SKUs. Some of these include pre-integrated products from 3
+rd
+ parties. Others do not. Contact your point of contact in Lynx’s commercial team for more information.
+
+Does the product implement run-time management automation (e.g. fail-over, restart, etc.)? 
+
+LynxOS-178 for PowerPC was previously awarded a Reusable Software Certification (RSC) by the FAA, the first and only RTOS to do so. The LynxOS-178 safety-critical RTOS includes ARINC 653 Health Management services, restarting ARINC 653 partitions, or the RTOS should a fault occur. 
+The LynxSecure separation kernel has a logging and state transition machine that can cause a transition change from secure mode to insecure mode should an event occur. This can optionally change the system’s active runtime schedule (thus changing the core allocations to the subjects and allowing the system to continue operation, potentially with reduced functionality), restart the offending subject or the system, and/or shutdown the offending subject or the entire system should it be deemed necessary. 
+
+Is an interactive Model Based System Engineering project-wide design package available  
+
+We are working to migrate our XML based architecture configuration tool to MBSE/AADL to improve traceability to system/component level modeling. Lynx is collaborating w/multiple MBSE tool vendors around two things (a) migration of MBSE appropriate airworthiness/security lifecycle data to MBSE format (b) conversion of our LYNX MOSA.ic configuration tool to AADL.
+
+Does the product ensure data integrity at rest, in transit, and in use?  
+
+Yes, it can. LynxSecure protects data in use by separating the memory regions of the different subjects at build time according to the customer’s system model. Lynx also partners with 
+RunSafe Security
+ to implement their technology into the runtime environment, for additional in-use data integrity. Data integrity at rest can be accomplished through the use of encryption subjects as previously done with Lynx’s LSA.store and LSA.connect add-on technologies for data at rest and data in transit respectively. These types of encryption subjects can leverage hardware encryption technologies and/or be layered on top of hardware encryption technologies, as well
+
+Does the product provide a health monitoring feature observed by a separate process or a different hardware device?  
+
+Yes. 
+External monitoring
+: Critical functions can be placed in guests that leverage services of the separation kernel or independent trusted guests to monitor the work, liveliness, or integrity of the critical function. 
+Watchdog
+: guests can be configured to strobe a virtual watchdog timer that the separation kernel will monitor. If a guest fails to strobe the watchdog in the permitted window of time the separation kernel will trigger a policy exception event.  
+
+Do any software components and features support recovery after a failure is identified?  
+
+Yes. The LynxOS-178 Health Monitor can restart an ARINC 653 partition or the OS instance itself, and the LynxSecure separation kernel’s system state machine and logging capability can be used to identify and correct a failing subject so appropriate action can be taken. 
+
+LYNXELEMENT
+
+Do unikernels replace bare metal development?
+
+In our opinion, the introduction of a unikernel reduces the number of use cases where companies need bare metal applications. Unikernels can provide APIs (Lynx’s product supports POSIX for example) which makes it simpler for developers to build applications. That said, while the unikernel can significantly reduce the memory footprint of the software, there is still a place for bare metal in dealing with specific single functions. It will still be dramatically more effective to implement a 500-line application as a bare metal app, (for example working with private keys) than implementing it as a unikernel.
+
+What are the main differences between an operating system and unikernel? 
+
+Unikernels enable programs to link in all operating system services in a single address space, obviating the need to switch into a special kernel mode to call a system service. Applications hosted by the operating systems impose barriers that force applications to exit their context and enter a common kernel space to fulfill the request of calling processes. In the unikernel architecture such as that provided in LynxElement, applications just link to the operating system features needed. The compiler will naturally omit unused features. Because unikernels are no longer context switching and subject to blocking by competing processes, unikernel execution behavior is much easier to observe and characterize.
+
+Unlike an operating system, unikernels do not handle resource allocation. The hypervisor handles direct hardware interoperation. All application-specific system calls are pushed as close to the app as possible. For secure systems, a type-1 hypervisor (where no underlying “helper” OS is present) that runs directly on hardware and loads virtual machines should be used.
+
+Are unikernels new?
+
+Unikernels are not new. There are, however, a number of issues associated with unikernels which have limited their applications until now. These include:
+• Debugging. Since a unikernel has no OS running whatsoever, the approach of directly connecting to its shell and investigating does not work
+• Producing unikernel images is complicated and requires deep knowledge on the subject
+• Current application frameworks have to adapt and produce documentation on usage in unikernels
+• The lack of a safety certifiable/certified unikernel for mission critical applications
+
+Can LynxElement run directly on hardware?
+
+The Lynx solution requires an underlying hypervisor. This is because some software is required to set up the hardware (establish permissions as to what system resources can be accessed by the unikernel, as one example).
+
+For what processor architectures is LynxElement available for?
+
+LynxElement is available for x86 and Arm (Cortex-A and Neoverse) processor architectures.
+
+There are several open source unikernels available? Why did Lynx decide to harness LynxOS-178 as the foundation for its unikernel offering?
+
+There are three main reasons
+
+This approach enables our customers that value DO-178C certification to harness the existing artifacts that are being created for the work on the LynxOS-178 real time operating system.
+
+ Lynx took an extensive review of OSv (the unikernel we determined was the best open source offering) as part of its analysis. For mission critical systems that Lynx’s customers pursue, we felt there was going to need to be some significant enhancements needed to the scheduler, since OSv only offers a fair scheduling option. Mission computers need other options to prioritize certain sub-elements that have challenging real-time deterministic requirements.
+
+The reuse of APIs that exist on LynxOS-178 (FACE, POSIX etc) provide an opportunity for customers to migrate existing applications to LynxElement.
+
+How does LynxElement differ from the POSIX/UNIX process model?
+
+LynxElement is implemented as a Unikernel (also referred to as a “library OS”). As a result, it does not support the POSIX/UNIX process model. Application software is linked directly with the operating system libraries. As a result, only those portions of the OS that are necessary to support the application will be linked into the final executable binary, reducing the attack surface resulting in improved security properties.
+
+Why does Lynx see such opportunity for unikernels in mission critical applications?
+
+Because unikernels are no longer context switching and subject to blocking by competing processes, unikernel execution behavior is much easier to observe and characterize. This reality reduces the burden of multicore timing analysis and makes the safety-certification process more manageable. The intrinsic independence and timing properties of a unikernel simply make it a better unit of integration to compose systems where the integrity and predictability of a system is simpler to verify.
+
+More directly, our industry is discussing the need to reuse software across platforms. We think that unikernels present one of the best paths to accomplish that vision.
+
+How do unikernels differ from containers?
+
+We like this summary 
+here
+.
+ For us, the significance is that the unikernel represents a self contained software module which can be characterized and modeled. Containers are still reliant on other software elements. In practicality, we expect mission critical systems to feature a mix of container technologies. The world of IT has built up a sophisticated amount of scheduling tools and capabilities around container technologies and we fully believe that those will be deployed in new systems that require to be updateable in the field. For functions that have to be characterizable (an example - software that must be sent through a certification process), unikernels present a more effective path.
+
+This is because unikernels are no longer context switching and subject to blocking by competing processes. Execution behavior is, therefore, much easier to observe and characterize. This reality reduces the burden of multicore timing analysis and makes the safety-certification process more manageable. The intrinsic independence and timing properties of a unikernel simply make it a better unit of integration to compose systems where the integrity and predictability of a system is simpler to verify.
+
+Combining unikernels with hypervisors enables architects to compose systems with a higher level of fidelity and also gives them the option to explicitly create pipelines of software stacks out of individual unikernel components, where the components can assume roles of kernel services like network stacks and device drivers.
+
+Timesys
+
+What exactly was announced in December 2023?
+
+Timesys became a wholly owned subsidiary of Lynx Software Technologies. Going forward, Timesys and Lynx are joining forces to create a leading provider of foundational embedded and edge software platforms based on open standards and open-source software products, development tools, and differentiated software engineering services to customers with complex and mission-critical edge computing needs.
+
+What are the financial terms of the deal?
+
+The terms of the transaction were not disclosed.
+
+How will the offerings from the two companies change? 
+
+There are no immediate changes to our product /solution offerings. Lynx and Timesys both will continue to innovate and provide valuable products and services to solve our customer’s mission critical challenges.
+
+Where can I learn more about Timesys’ existing products and services?
+
+ Timesys’s product portfolio includes:
+
+Vigiles
+: A best-in-class vulnerability monitoring and remediation tool that combines a curated Common vulnerabilities and exposures (CVE) database, a security feed based on a customer’s Software Bill of Materials (SBOM) and triage tools for effective management of security vulnerabilities
+
+VigiShield
+: Distilling security feature implementation on embedded platforms that include secure boot, device encryption/secure storage and audit logs/hardening that can be configured to meet regulatory requirements such as NISTIR 8259A and ETSI EN 303
+
+Linux OS/BSP Maintenance
+: Providing long-term security updates and maintenance of Linux OS/BSPs. This is available for Yocto Project, Buildroot and Timesys Factory build systems
+
+Virtual Integration Environment (VIE)
+
+ What is VIE?
+
+VIE stands for Virtual Integration Environment. This is a release of software that enables customers to use the same development environment to create software for Linux and LynxOS-178 that runs on virtual hardware.
+
+What version of QEMU is supported?
+
+As of July 2023, it is v7.1.0.
+
+ Which processors are supported in the current release?
+
+Arm and x86. The software can be requested 
+here
+.
+
+Can VIE be used to create deterministic software?
+
+No. For this type of development, the actual hardware that will be used in the final product is required. The objective of VIE is to create a Cloud-based workflow (initially on-prem, we are committed to adding support for Azure in late 2023) that accelerates the development of software functionality. 
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

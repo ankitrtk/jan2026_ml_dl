@@ -1,0 +1,294 @@
+URL: https://www.lynx.com/products/vie
+
+VIE: Virtual Integration Software for Avionics | MOSA-Based Virtualization Tools
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+VIRTUAL 
+INTEGRATION SOFTWARE FOR AVIONICSEMBEDDED SYSTEMS DEVELOPMENT
+
+With the pressure on collapsing development schedules, Lynx has worked with its partners and identified three areas of opportunity associated with the creation of LYNX MOSA.ic-based systems:
+
+Enable software development for Linux and 
+LynxOS-178
+
+without software developers needing to be experts in hypervisor technology. Here, the focus is on functionality as opposed to cycle accuracy
+
+Developing customer software ahead of target hardware availability
+
+Harnessing existing customer CI/CD development flows for the creation of 
+LYNX 
+MOSA.ic-based
+ systems using virtual environments for embedded software development.
+
+PRODUCT DETAILS
+
+The diagram to the right shows how the system is configured. The Lynx DevOps Server hosts the Virtual Target Emulator and includes a Linux-hosted QEMU. vSwitch supports the LynxOS-178 RTOS or LynxElement (Unikernel) runtime environments. This provides accurate emulation of POSIX/ANSI calls. Client/Server Lynx Target Services (LTS) utility allows users to create/delete and start/stop LynxOS-178 or Unikernel images. Lynx provides command line interface (CLI) and Python APIs to control this. This setup facilitates testing tools for LynxOS-178 in simulation.
+
+To use this package of software, customers: 
+
+Deploy the Lynx DevOps Server with the Virtual Target Emulator and Manager
+
+Deploy the client side of the Virtual Target Manager on the MfA CDK workstations
+
+Build LynxOS-178, Unikernel and Buildroot Linux images
+
+Use the CLI to upload and run the images on the Virtual Target Emulator
+
+Script the deployment and execution of images on the virtual target for CI/CD
+
+SHIFT LEFT YOUR DEVELOPMENT CYCYLE
+
+WITH LYNX MOSA.IC.VIE + LYNX MOSA.IC.EBF (EMBEDDED BOARD FARM) ADD-ON
+
+In today's fast-paced engineering landscape, organizations are shifting development and testing activities left to meet the demands of aggressive deployment schedules. To stay competitive and responsive, companies must reduce time to production, increase deployment frequency, and deliver software updates at “the speed of operations.” LYNX MOSA.ic.VIE, our virtual hardware environment solution, seamlessly integrates into CI/CD pipelines to help you meet these challenges. By adding the LYNX MOSA.ic.EBF Add-On, you gain access to an Embedded Board Farm that combines the advantages of virtual environments with the capabilities of physical hardware, empowering you to optimize your development lifecycle and enhance operational efficiency. This combination provides powerful virtualization tools for avionics software development and virtualization tools for secure embedded systems development. It also enables testing tools for Linux in simulation.
+
+LET'S CONNECT
+
+Lynx is excited to discuss your new project and how our technology and safety/security system knowledge can assist you. Please fill out the form below.
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

@@ -1,0 +1,923 @@
+URL: https://www.lynx.com/blog/how-artificial-intelligence-ai-is-transforming-lynx-into-an-ai-native-company
+
+How Artificial Intelligence (AI) Is Transforming Lynx into an AI-Native Company
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+BLOG
+
+June 04, 2026
+
+How Artificial Intelligence (AI) Is Transforming Lynx into an AI-Native Company
+
+by 
+Les Thompson, V.P. Digital Transformation
+
+Share
+
+Artificial intelligence (AI)
+ is changing how companies design, build, verify, certify, and support complex systems. But for organizations operating in mission-critical environments, AI adoption cannot simply be about moving faster or automating tasks. It must be grounded in trust, operational discipline, security, and human accountability.
+
+At Lynx, we believe the future of AI in high-assurance engineering is not about replacing expertise. It is about amplifying it. That is why Lynx has transformed itself into an AI-native company by embedding AI into the way we engineer, verify, support, and operate while maintaining the rigor, traceability, and control required for 
+mission-critical environments.
+
+Lynx recognizes that AI has the potential to transform every area of the business, from human resources and finance to sales and beyond. But at our core, Lynx is an engineering-first company. For that reason, our primary focus is transforming how engineering works. Accelerating the delivery of capability is our first step toward becoming a truly AI-native company.
+
+Over the past year, Lynx has expanded AI-assisted workflows across software development, verification, 
+certification
+ support, and internal engineering operations, with growing adoption across engineering teams and technical functions
+
+AI-assisted workflows are now used across 
+50% of all
+ engineering
+ and support
+ team
+
+More than 
+75
+% of engineering staff actively use AI-enabled workflows
+
+Lynx has deployed AI across 8 
+core engineering workflows
+
+This transformation is not centered on isolated AI experiments or generic productivity tools. It is focused on applying AI in practical, measurable, and governable ways across engineering workflows, certification activities, customer support, and operational execution.
+
+AI Adoption Starts with Control
+
+One of the biggest challenges with AI adoption in 
+aerospace
+, 
+defense
+, 
+industrial
+, and high-assurance environments is that not all data, workflows, or operational contexts can be treated the same way.
+
+Engineering teams routinely work with:
+
+CUI and export-controlled information 
+
+ITAR-restricted programs 
+
+Third-party and customer intellectual property 
+
+Cleared or disconnected operational environments 
+
+Sensitive engineering artifacts and certification evidence 
+
+In these environments, the deployment model matters just as much as the AI model itself.
+
+That is why Lynx has developed controlled AI environments that align models, deployment architectures, and operational controls to the sensitivity of the work being performed. Depending on the workflow and security requirements, this can include commercial AI environments, internally controlled deployments, on-premises AI systems, and even air-gapped AI solutions for highly sensitive use cases.
+
+For Lynx, responsible AI adoption begins with ensuring the right model operates within the right environment under the right controls. This creates a more practical path for AI adoption in environments where trust, operational constraints, and mission alignment are essential.
+
+Applying AI Across the Engineering Lifecycle
+
+AI becomes far more valuable when it is integrated into real engineering workflows rather than treated as a standalone assistant.
+
+At Lynx, we are applying AI across the engineering lifecycle to help improve consistency, reduce repetitive manual effort, and accelerate complex workflows while maintaining structured review and engineering oversight.
+
+This includes:
+
+Assisting with high-level and low-level requirements development 
+
+Generating software from structured requirements 
+
+Supporting debugging
+ through virtualized hardware environments 
+
+Creating unit tests and supporting documentation 
+
+Assisting low-level requirements-based testing 
+
+Supporting execution on target hardware 
+
+Improving white-box verification workflows including MC/DC activities 
+
+Streamlining certification engineering workflows and evidence preparation 
+
+Rather than introducing AI as an isolated coding tool, Lynx is integrating AI into structured and reviewable engineering processes.
+
+For example, Lynx is using containerized development environments that allow AI-enabled workflows to operate within controlled engineering contexts. Within these environments, AI can interact with codebases, generate draft software from requirements, assist with debugging activities, produce tests and documentation, and prepare changes for formal human review.
+
+This creates a more disciplined model for AI-assisted engineering — one that combines automation with reproducibility, visibility, and governance. Early internal deployments are already demonstrating measurable workflow improvements. In several engineering activities, AI-assisted workflows have reduced first-draft preparation time for requirements, tests, and documentation from days to hours while improving consistency across engineering artifacts and review packages. The teams are also seeing meaningful reductions in repetitive engineering effort associated with requirements decomposition, test preparation, and workflow coordination activities
+
+The result is not simply faster execution. It is a more scalable and more consistent engineering process.
+
+Modernizing Verification and Certification Workflows
+
+Verification and certification
+ remain among the most demanding and labor-intensive aspects of high-assurance engineering.
+
+Low-level requirements testing, target hardware execution, traceability management, structural coverage analysis, and MC/DC-related activities all require significant engineering effort and deep technical expertise.
+
+Lynx is applying AI to help modernize these workflows. AI-assisted workflows are also helping reduce friction across certification engineering activities by improving access to technical information, accelerating preparation of structured evidence artifacts, and reducing time spent navigating fragmented engineering data and documentation processes
+
+AI-assisted verification tools are enabling Lynx engineering teams to move from low-level requirements to structured test creation with greater speed and consistency. AI is also assisting with organizing execution workflows, improving access to information, supporting review preparation, and strengthening white-box verification activities.
+
+Importantly, this work remains grounded in engineering discipline and human oversight.
+
+The objective is not to automate certification decisions. The objective is to reduce repetitive manual effort, improve workflow continuity, and allow engineers to focus more time on analysis, review, and engineering judgment.
+
+This is especially relevant for programs shaped by standards and expectations such as 
+DO-178C
+, MIL-HDBK-516C, and DAL A-level rigor, where confidence and traceability matter as much as productivity.
+
+AI as an Amplifier of Engineering Expertise
+
+The most important part of Lynx’s AI transformation is not the technology itself. It is how the technology helps people work more effectively.
+
+Many engineering organizations face similar challenges:
+
+Increasing system complexity 
+
+Large volumes of fragmented information 
+
+Limited expert bandwidth 
+
+Repetitive workflow steps that consume highly specialized talent 
+
+AI is helping address these challenges by making expertise easier to access and apply.
+
+At Lynx, AI is being used to support engineers, certification specialists, developers, and technical teams by reducing repetitive effort, improving access to information, and helping workflows move more efficiently across systems and teams.
+
+But human expertise remains central.
+
+Engineers remain responsible for review, validation, decision-making, and final accountability. The goal is not to replace engineering judgment. The goal is to give engineers more time for the work where judgment matters most. This is a people-centered approach to digital transformation. Lynx is intentionally employing AI to amplify expertise rather than diminish it.
+
+Extending AI-Enabled Engineering to Customer Outcomes
+
+AI transformation at Lynx is not limited to internal operations. We also see significant opportunities to help customers building on Lynx products adopt AI-enabled engineering workflows in high-assurance environments.
+
+By combining 
+
+Lynx platform technologies, 
+
+AI-enabled engineering workflows, 
+
+domain expertise, 
+
+and Lynx Services capabilities
+
+we are creating a high-touch service model that helps customers improve engineering consistency, reduce workflow friction, and strengthen execution across complex technical programs. 
+
+This is especially important for customers operating in 
+safety-critical
+ or 
+mission-focused environments
+,
+ where modernization must be balanced with certification rigor, operational trust, and long lifecycle expectations. The combination of platform software, engineering expertise, and AI-enabled workflows creates a
+
+differentiated capability, unique to Lynx, that goes beyond generic AI tooling.
+
+From AI Experiments to an AI Platform
+
+Many organizations begin their AI journey through isolated pilots and disconnected experiments. The real challenge is operationalizing AI at scale.
+
+Lynx has moved beyond one-off initiatives. We have created a unified AI platform that supports repeatability, governance, visibility, and long-term operational value.
+
+This includes:
+
+Shared AI infrastructure 
+
+Controlled deployment environments 
+
+Repeatable workflow patterns 
+
+Integrated engineering tooling 
+
+Structured governance and oversight 
+
+Operational visibility into AI-assisted workflows 
+
+Our goal was not to simply deploy more AI tools. Our goal was to build a durable AI capability that can scale responsibly across the business while supporting real engineering outcomes. We wanted to combine best of breed practices for building safety critical software with the gained effectiveness and efficiency of responsible AI.
+
+The Lynx AI safety certification platform is calle
+d “CE (Certification Engineering) Tool Bench”. T
+he platform is integrated across the Lynx enterprise and includes integration with:
+
+source control
+
+change control
+
+development 
+and build tools
+
+virtualized and target hardware test environments and tools
+
+The transition from experimentation to operational capability is what defines becoming AI-native.
+
+Building an AI-Native Future for High-Assurance Engineering
+
+Lynx’s AI transformation is not about chasing hype or replacing people with automation.
+
+It is about building a more effective way to engineer, verify, certify, and support complex systems where trust matters. It is about applying AI responsibly in environments where rigor, security, traceability, and human accountability cannot be compromised. And it is about creating workflows that allow experts to spend less time navigating friction and more time solving hard engineering problems.
+
+AI-native at Lynx means AI-enabled, human-governed, security-aware, and engineered for high-assurance work.
+
+Ready to apply AI in a high-assurance engineering environment?
+
+Lynx is helping organizations evaluate where AI can safely accelerate requirements development, software engineering, verification, certification, and system lifecycle activities while maintaining compliance, traceability, and security.
+
+Schedule an AI Engineering Readiness Assessment with our experts.
+
+Les Thompson, V.P. Digital Transformation
+
+Subscribe Here!
+
+ON THIS PAGE
+
+ Seize the Edge 
+
+ The future won’t wait, neither should you. Let’s build, secure, and accelerate your next mission together. Contact us today to get started. 
+
+                Contact Us
+
+Latest From Lynx
+
+            View All
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

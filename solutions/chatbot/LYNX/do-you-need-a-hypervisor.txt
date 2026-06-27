@@ -1,0 +1,525 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/do-you-need-a-hypervisor?hsLang=en
+
+Who Needs a Hypervisor?
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            7 min read
+
+Who Needs a Hypervisor?
+
+ Tim Loveless | Principal Solutions Architect
+
+ : 
+
+                Feb 25, 2021 12:59:58 PM
+
+Multicore
+
+Safety
+
+CAST-32A
+
+Certification
+
+MCP
+
+embedded systems
+
+hardware
+
+development
+
+hardware interference
+
+software
+
+certifications
+
+DO-178
+
+_______________
+
+The standard benefits of a hypervisor are well known and often touted. Every RTOS has its hypervisor and they do genuinely help embedded designers to:
+
+Partition multicore processors into virtual machines; an elegant way to consolidate OSs
+
+Isolate guests; to improve security and safety
+
+Oversubscribe high performance multicore processors; use time slicing to host more OSes than cores
+
+These benefits and others have led to a “land grab,” as RTOS vendors have rushed to implement a hypervisor to control the target hardware and virtualize their competitors rather than be virtualized. But as we shall see, there is another hypervisor benefit. An important new development often overlooked and missing in hastily conceived hypervisors – robust multicore space partitioning. A nice property that can now be achieved without the baggage of an RTOS.
+
+DO SAFETY-CRITICAL MULTICORE SYSTEMS NEED A HYPERVISOR?
+
+A new hypervisor trend emerged at the 
+HiPEAC
+ (High Performance Embedded Architecture and Compilation) research conference in Jan 2021, where three research projects presented their multicore safety-critical software platforms:
+
+MASTECS
+
+De-RISC
+
+SELENE
+
+All three projects are attacking the same problem – 
+the multicore problem
+ — and all of them are using hypervisors to do it. Before we consider whether hypervisors are needed, let’s take a look at the 
+challenges involved in building safe multicore systems
+.
+
+THE MULTICORE PROBLEM
+
+Taming multicore hardware interference so that safety-critical real-time systems can be consolidated onto a multicore processor is a fiendishly complex and challenging problem the software safety community has been grappling with for a decade. The core issue is that a noisy neighbor application can stress the multicore processor to the point where a safety-critical application running on another core misses its worst-case execution time (WCET) deadline and causes the system to fail.
+
+To safely consolidate applications onto cores of a multicore CPU, applications must be 
+robustly partitioned
+. This is not a casual description, but a formal definition from the reference study, 
+Partitioning in Avionics Architectures: Requirements, Mechanisms, and Assurance
+ written by John Rushby for the 
+FAA
+ in 1999. Rushby defined the Gold Standard for Partitioning as:
+
+“A partitioned system should provide fault containment equivalent to an idealized system in which each partition is allocated an independent processor and associated peripheral and all inter-partition communications are carried on dedicated lines...”
+
+Rushby knew, however, that no such idealized system existed to measure a partitioned system against. So, to help with building, testing, and evaluating real-world software, he introduced this stronger property, named the Alternative Gold Standard:
+
+“The behavior and performance of software in one partition must be unaffected by software in other partitions”
+
+There are two aspects to robust partitioning: (1) robust time partitioning and (2) robust space partitioning. Space partitioning — a partition must be prevented from accessing the code or data of other partitions — is easier. Time partitioning, which requires that the responsiveness of software in one partition cannot be affected by software in another, is more difficult. For example, the CPU performance and memory bandwidth of one partition cannot be impacted by another - noisy neighbors need to be silenced.
+
+The MASTECS, De-RISC and SELENE projects are deliberately running noisy neighbors to stress their multicore processor systems to learn how they behave under pressure. Let’s look at the MASTECS, De-RISC and SELENE projects in more detail.
+
+THREE SAFETY-CRITICAL MULTICORE PROJECTS
+
+MASTECS
+
+Multicore Analysis Service and Tools for Embedded Critical Systems. The project aims to create a commercial offering that provides:
+
+Timing analysis software tools
+
+Tool qualification and documentation to support certification and safety assessments
+
+Expertise for consultancy services
+
+Barcelona Supercomputing Center is leading this project and contributes their software microbenchmarks. 
+RAPITA Systems'
+ software timing analysis expertise and RVS tool is used to characterize multicore interference on an automotive use case from 
+Marelli Europe
+ and avionics use case from 
+Raytheon Technologies
+. The avionics use case is based on NXP PowerPC T2080 component of the Collins Aerospace Civil Certified Vehicle Management computer (CCVMC) and uses the LynxSecure hypervisor. The automotive use case uses Magneti Marelli’s Vehicle Domain Control Module (VDCM), an integrated Powertrain and vehicle control application compliant with the ISO26262 ASIL D. VDCM runs an OSEK AUTOSAR Operating System on an Infineon TriCore™ AURIX™ TC397 Microcontroller.
+
+De-RISC
+
+Dependable Real-time Infrastructure for Safety-critical Computer. The project aims to provide a safety-critical real-time software platform to run on Cobham Gaisler’s multicore RISC-V CPU. The XtratuM hypervisor from Fentiss is used to host 3 use-cases. First, a bare-metal execution environment to run low-level benchmarks, second LithOS, Fentiss’s ARINC 653 RTOS with the LVCUGEN on-board satellite software stack, and third Thales Alenia Space’s satellite Command & Data Handling subsystem.
+
+SELENE
+
+Self-monitored Dependable Platform for High-Performance Safety-Critical Systems. SELENE aims to build a safety-critical multicore computing platform based on open-source components that guarantees functional and temporal isolation. It uses RISC-V cores, GNU/Linux and the Jailhouse hypervisor. Four use-cases will be used, the SPIDER autonomous robot from Virtual Vehicles, an autonomous train from CAF Signaling and two space use cases from Airbus Defense and Space. Barcelona Supercomputing Center is part of the SELENE consortium.
+
+WHAT IS A PARTITIONING HYPERVISOR?
+
+Despite using vastly different use cases, different companies, and a variety of CPU architectures, all three projects have a common goal: to build a safety-critical real-time computer on a multicore processor. What is more interesting though, is what they have in common. Barcelona Supercomputing Center is involved in all 3 projects (BSC are providing their microbenchmark suite to MASTECS and De-RISC, as well as SELENE, one assumes) and all 3 projects use a partitioning hypervisor. In particular, the projects are using:
+
+LynxSecure
+
+XtratuM
+
+Jailhouse
+
+A partitioning hypervisor - also known as a separation kernel - is a special kind of hypervisor whose main purpose is to divide hardware resources into partitions. The partitions are virtual machines that host guest software, such as OSs, RTOSs and bare-metal applications. These hypervisors sacrifice convenience features like on-the-fly partition creation and device emulation to focus on security and minimalism. Their priority above all else is the secure isolation of guests.
+
+The concept of a partitioning hypervisor was first described by John Rushby in his 1981 paper
+ Design and Verification of Secure Systems
+. Rushby wrote:
+
+“...the task of a separation kernel is to create an environment which is indistinguishable from that provided by a physically distributed system: it must appear as if each regime is a separate, isolated machine and that information can only flow from one machine to another along known external communication lines.”
+
+Rushby called it a separation kernel. The concept is that a superior computer can be built if the partitions are enabled before the OS boots. The computer will be more secure, since partitions are protected from each other, and the partitioning will be stronger (than provided by an OS process) because it is implemented separately in a small kernel that is simpler and easier to code than an OS. Simplicity means that a separation kernel’s code can be formally proved to be correct, a mathematical task that Rushby described in his 1982 paper, 
+Proof of Separability
+. Such a computer is also more flexible, since it can host a mix of different OSs simultaneously. All these attractive properties remained theoretical because the CPUs of the day were too slow. Around 2005 Moore’s law gave us the first multicore processors, followed by hardware virtualization (Intel VT-x, VT-d, EPT) and Rushby’s vision became practical.
+
+WHY ARE THESE PROJECTS USING PARTITIONING HYPERVISORS?
+
+3 properties of partitioning hypervisors make them great for multicore safety-critical real-time systems:
+
+Hardware virtualization is very fast, so partitioning hypervisors can be real-time.
+
+Partitioning hypervisors are small and so affordable to safety certify.
+
+Robust space partitioning. Partitioning hypervisors solve the 
+space
+ half of the robust partitioning equation without locking you into an RTOS.
+
+These 3 are a 
+perfect storm
+ in favor of partitioning hypervisors. Without the need for all 3, a normal RTOS would suffice. But the multicore problem is so difficult, if you can solve the 
+space
+ part of robust partitioning with no downside, that is a wise path to take.
+
+Partitioning hypervisors solve robust space partitioning
+
+Space partitioning means that a partition must be prevented from accessing the software or data of other partitions. In an OS is this is achieved with a 
+process
+. A process is an MMU-enforced region of memory that contains tasks. Triggered by the fork() call, processes are created on-the-fly by an OS by configuring the MMU to create a new protected memory region and populating it with a task. The same concept of using the MMU to enforce protected memory regions is used by a partitioning hypervisor. But with 3 differences. A partitioning hypervisor:
+
+Configures the MMU once – at boot time. Partitions are fixed until power down.
+
+Does no task scheduling. Scheduling is left to software running in the partition.
+
+Uses a special MMU - the second level address translation (SLAT) designed specifically to support virtualization.
+
+Intel’s SLAT is called EPT, Extended Page Tables, Arm’s implementation is the Stage-2 MMU. SLAT provides nested MMU paging that allows the hypervisor, running in privileged mode, to map physical memory to create partitions. The trick is that guest OSs running in those partitions have their own MMU and use it as normal from their own kernel space to create their own (MMU protected as normal) user processes. A guest OS running in this type of virtualized environment is oblivious to the presence of the hypervisor.
+
+ABOUT LYNXSECURE
+
+Lynx’s partitioning hypervisor is called 
+LynxSecure®
+. On Intel x86 it uses VT-x, EPT, VT-d and
+ SR-IOV
+ to provide nested CPU control, nested MMU control, DMA isolation and nested DMA control. The hypervisor runs at Ring -1 (VT-x hypervisor mode) and constructs partitions (virtual machines) by mapping memory, peripherals, interrupts and DMA to CPU cores. Using hardware to do the heavy lifting is efficient and elegant and results in LynxSecure being a tiny (45KB on x86) but carefully crafted piece of hardware-intimate code. On start-up, LynxSecure’s role is to configure its partitions and then get out of the way. In operation, all that is left are page tables to map guest physical addresses (GPA) into host physical addresses (HPA) and event handlers to redirect interrupts and handle guest hypercalls like reset or power down.
+
+MULTICORE INTERFERENCE ISOLATION
+
+With robust space partitioning solved by the hypervisor, the problem of time partitioning is left exposed, open for study. Achieving space partitioning without an RTOS improves the accuracy of our interference timing measurements. It’s like polishing the lens of a microscope. Multicore timing effects may be fleetingly brief and unpredictable. Eliminating the RTOS helps in 2 ways. First, it reduces the memory pressure in the system. When executed, every piece of RTOS code and data needs to be loaded into the CPU over the memory hierarchy, consuming memory bandwidth and polluting the caches. Interference caused by contention for these very devices is precisely what you are trying to measure. Second, the RTOS’s memory pressure itself is unpredictable. The RTOS scheduler pre-empts and switches between tasks, generating a complex instruction stream that creates an unpredictable load on the system. In both ways the RTOS creates increased background noise that obscures the interference you are trying to measure.
+
+Barcelona Supercomputer Center’s microbenchmarks are tiny loops of code that specifically target parts of the multicore processor to create contention in a controlled and predictable way. They are perfect for studying the effectiveness of partitioning solutions and mitigations. With the multicore system cleanly and minimally configured the BSC suite of microbenchmarks are used to stress the use-case application. Various combinations of benchmarks are run bare-metal on processor cores inside hypervisor partitions. In this setup robust space partitioning is provided by the partitioning hypervisor and time partitioning can be precisely tested in isolation.
+
+Fig 1. RTOS vs Partitioning hypervisor
+
+HYPERVISOR HYPE
+
+Hypervisors are far from a trendy RTOS add-on. For real-time embedded systems they are a powerful tool to improve the security and flexibility of your design and break RTOS vendor lock-in. The use of partitioning hypervisors is an emerging trend at the forefront of multicore interference research. Robust space partitioning comes “for free” if you choose this kind of hypervisor. Partitioning hypervisors use hardware virtualization features to efficiently host multiple applications on a multicore processor. They are lightweight, preserve real-time and invisible to guest OSs. Partitioning hypervisors are a niche technology, but a handful of options are available, including mature, safety certifiable and open-source implementations. Don’t accidentally choose a regular hypervisor if a partitioning hypervisor is what you need.
+
+YOUR NEXT PROJECT
+
+Multicore safety is an area of expertise and active innovation for Lynx Software Technologies. Multicore designs should be approached with caution and careful planning to understand the complexity and minimize risks. Our experience is that there are large pitfalls and no easy solutions. We are engaged in several multicore avionics design and research projects and would be delighted to discuss multicore safety and partitioning strategies for your next project. As ever, Lynx Software is at your service and is ready to discuss your next project and any multicore, safety or partitioning features you require.
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

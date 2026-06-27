@@ -1,0 +1,350 @@
+URL: https://www.lynx.com/industries/industrial?hsLang=en
+
+Industries | Industrial 
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+Laying the  
+adaptable, safe, secure
+ foundation
+
+for digital transformation
+
+PROCESSING IS SHIFTING TO THE EDGE
+
+We will soon stop using the phrase “the Internet of Things.” We will understand that myriad devices across factories, city infrastructure, energy grids, and buildings are more efficient because they effectively and securely exchange information. Indeed, the longer these systems are deployed, the more effective they become due to the impact of machine learning, with the majority needing to be fully operational for 10, 15, or 20+ years.
+At least three major forces are driving the decision-making on this data nearer to where it's being created:
+
+PRIVACY
+
+Sending metadata up into the cloud instead of traceable data to a specific individual.
+
+LATENCY
+
+Some data are better made locally, in real-time, than sent to the cloud for processing.
+
+COST
+
+A fraction of the data being sent to the cloud is being mined effectively for analysis, but it is all being stored, which costs the enterprise a significant amount of money.
+
+Many more of these systems must deliver deterministic real-time (measured in microseconds) behavior to certain situations as the electronics are not assisting a human. They ARE the system (increasingly working alongside a human). 
+With these systems now connected, a security incursion impacts not just that system itself but potentially any devices accessible from that network connection. Just think back to the 
+Mirai attack in late 2016. 
+The diagram to the right shows how Cap Gemini envisions a connected camera to operate in a modern factory.
+
+WE HEAR FROM OUR CUSTOMERS THAT THE SOLUTION NEEDS TO MEET THESE REQUIREMENTS
+
+•  
+Can be deployed on a consolidated board (and, in an increasing set of cases, a single chip) to improve system power, footprint, and cost.
+•  
+Must run big operating systems like Linux and Windows while guaranteeing the real-time behavior of it-simply-must-always-respond-this-way elements of the platform. What this means is increased use of hypervisors and, in the case of Lynx,
+ separation kernels
+•  
+Applications must be compartmentalized to ensure that specific applications cannot cause other elements of the system to fail
+Connected systems present a threat from both malicious and unintended (poorly written code) threats. In the factory environment, the relatively slow pace of change is understandable since there is a focus on reliability, which translates to increased up-time, reduced accidents, less scrap, etc. Therefore, OT technology is separate networks that connect to the IT networks at a main console level. The desire is to push this fusion of IT and OT worlds out on the factory floor so that machines can make better decisions more quickly. Because of the time technology is deployed, much of the equipment is over ten years old. System architects must provide a path to deliver more functionality without replacing all installed equipment on day one.
+The focus of LYNX MOSA.ic for Industrial is to help system architects address these challenges. This product features a bundle of Lynx and 3rd party software technologies and system integrations, which have been proven to operate together securely and deterministically and effectively provide a bridge from the past to the future.
+Lynx recently announced a partnership with Google
+ to combine leadership cloud technology with the strong isolation and deterministic real-time capabilities that LYNX MOSA.ic provides.
+
+INTRODUCING LYNX MOSA.IC FOR INDUSTRUAL 
+
+LYNX MOSA.ic for Industrial is a software development and integration framework for building robust connected industrial solutions at the mission critical edge.
+
+REGISTER TO LEARN MORE
+
+For additional videos and information regarding the LYNX MOSA.ic for Industrial product, please register by filling out the form below. None of your information will be shared with anyone outside of Lynx and we will NOT spam your inbox or flood your voicemail. Expect (1) a confirmation email and password within 1 business day and (2) a follow-up phone call to learn more about your project.
+Additional videos include:
+•  
+Operation Hierarchy w/ Cloud Services (Level 2)
+•  
+Human-Machine Interface (HMI)
+•  
+Azure IoT Cloud
+
+INDUSTRIAL ROBOT DEMO
+LYNX IN ACTION
+
+Technical Product Manager Chris Barlow discusses the LYNX MOSA.ic industrial robot demo with Ian Ferguson at Embedded World 2020.
+
+WATCH VIDEO
+
+CHALLENGES IN A HYBRID WORLD
+
+Data processing is shifting between the endpoint, the network aggregation points, and the cloud—in some cases, dynamically. Companies are demanding a choice of cloud environments and using on-premise infrastructure. What will remain consistent is that the connected devices must be trusted.
+The Mirai botnet attack in late 2016 would have been partially avoided if systems had self-recognized that they were behaving unintentionally. While encryption and all other standard elements of secure communication are helpful, the system architect must build on a platform foundation that can be trusted to perform to specification over its lifetime (and to be decommissioned in a trusted way).
+
+IIOT SECURITY FRAMEWORK
+
+Given the complex and increasingly dynamic nature of computation and decision-making—from device to edge to cloud— aspects like security and application integrity cannot be viewed as a point solution but must be considered holistically. Industrial standard organizations such as the 
+Industrial Internet Consortium
+
+attest that point solutions are not enough; a comprehensive framework for managing the vast complexities of the pyramid is required. The IIC published Industrial Internet Security Framework surpasses typical recommendations of security controls, documenting stakeholder viewpoints and concerns to ensure proposed solutions are rooted in requirements that comprehensively solve the problem.
+
+A HOLISTIC APPROACH TO ROBUST SECURITY 
+
+To unlock the full potential of IIoT, trust must be established across a network. That trust begins with platform security—the assurance that computing components are authentic, initialized to a well-known state, and resilient to unauthorized changes. Once platform security is in place, systems must incorporate network security and monitoring capabilities to ensure that system-wide integrity is resilient to unauthorized changes.
+
+Point solutions tend to address symptoms of engineering flaws—e.g., patching, updating whitelists, malware signatures, etc. However, reactionary approaches lose effectiveness at scale and fail at catching the first exploit. 
+LYNX MOSA.ic
+TM
+ gives product suppliers the ability to build assurance with the knowledge that their device is precisely designed to execute securely in enterprise or control networks without relying on layers of firewalls, IDS, and patching systems. 
+
+WATCH DEMO
+
+BUILDING A NETWORK OF TRUST ON A ROBUST FOUNDATION
+
+Adopting any digitization security technology requires careful technical scrutiny of claims of assurance, interoperability with legacy systems, and life cycle maintenance costs. The architecture configuration language of LYNX MOSA.ic allows developers to design the security properties of system devices that must be trusted and need to survive in hostile environments.
+With LYNX MOSA.ic, evaluators of security properties, such as government authorities or safety managers, can trace configurations down to processor hardware control, providing formal evidence of robustness and resulting in a holistic approach to system security. Our emphasis for our product roadmap in this area, aligned with the company's vision, is focused on helping companies create robust software stacks for autonomous platforms. 
+
+Examples of relevant security designs include:
+•  Boot Security
+•  Data Protection: Data-In-Transit, Data-At-Rest
+•  Data and Control Plane Separation
+•  Separation of Enterprise and Control Networks
+•  Read-only Monitoring
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

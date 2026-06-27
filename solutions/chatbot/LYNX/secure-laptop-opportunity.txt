@@ -1,0 +1,396 @@
+URL: https://www.lynx.com/executive-blog/secure-laptop-opportunity
+
+A good surprise (to me) at lynx: The secure laptop opportunity
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+A good surprise (to me) at lynx: The secure laptop opportunity
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Mar 11, 2020 2:43:26 PM
+
+News
+
+Mindful Musings Blog
+
+Least Privilege
+
+Security
+
+endpoints
+
+I have now passed the ninety-day tenure milestone at 
+Lynx Software Technologies
+. I was reflecting today as to what the biggest surprise has been since joining from a marketing perspective. Somewhat obviously, the arrival and impact coronavirus has provided on physical events is by far and away the biggest challenge we have faced. My thoughts are, first and foremost, with any families with people that have been diagnosed with this disease. At a more mundane (i.e. not life and death) level, we attended a very different 
+Embedded World 2020
+ and now face a period of uncertainty as to which events will go ahead and which will be canceled. Like many marketing teams, we now have two programs for each show; one assuming the event is held as planned, the other looking at how to repurpose content and 
+demos to be sharable
+ via other channels.
+
+The big positive surprise for me has been the interest that customers have in using our technology for securing laptops in Enterprise, Government and Defense environments. A 
+study by Ponemon Institute
+ that was published in January 2020 highlighted that attacks against endpoints are growing at the same time that detection is getting harder. An average of 80% of successful breaches are new or unknown "zero-day attacks." According to the CISOs that were surveyed, the average time to apply, test, and fully deploy patches to endpoints is 97 days. In many cases, endpoint detection and response technology were not in use.
+
+Our discussions with potential end customers and supporting partners have caused us to look as how 
+LynxSecure
+ can:
+
+Reduce reliance on traditional laptop security software products
+
+Enforce mandatory data transmission through the corporate server or cloud security provider
+
+Provide strong encryption for attached devices so in the case of physical computer loss or theft, the data is unreadable
+
+Ensure protected Windows only connect via VPN, while the user’s unprotected Win10 can have normal web access
+
+The heritage of this separation kernel hypervisor is of course from the mission critical safety systems where equipment like helicopters, aircraft and vehicles simply must continue to operate in a safe and deterministic way whatever is thrown at them. From a laptop point of view, the Lynx technology enables the system to boot securely and delivers immutable, boot-time-defined, hardware partitioning. This strict isolation ensures that
+
+One guest cannot access another guest’s resources
+
+LynxSecure cannot access a guest’s resources
+
+DMA-capable devices cannot access a guest’s resources
+
+System security is enforced as being on all the time. Data encryption is always on. VPN functionality is enabled at all times and USB device insertion is always disabled. The enterprise can establish very specific access permissions. As an example
+
+No
+ hypervisor/management console login
+
+No
+ unprotected OS denial of service against secure OS
+
+No
+ dynamic system modification
+
+We are working through more of the specifics with some lead customers and will be sharing more here and in this area of our 
+website
+ in due course. We look forward to hearing your feedback directly. Is this an area which you see as not being properly addressed by incumbent suppliers? What use case are we missing? Please email us 
+here
+.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

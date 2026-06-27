@@ -1,0 +1,387 @@
+URL: https://www.lynx.com/executive-blog/cybersecurity-in-the-connected-aircraft
+
+Cybersecurity in the Connected Aircraft
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Cybersecurity in the Connected Aircraft
+
+ Arun Subbarao | VP Engineering
+
+ : 
+
+                Oct 18, 2022 9:00:00 AM
+
+Avionics
+
+Lynx MOSA.ic™
+
+Mindful Musings Blog
+
+FAA
+
+Safety
+
+Security
+
+LynxSecure
+
+Safety Critical Systems
+
+LynxOS-178
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+In early October 2022, I participated in a panel discussion at the
+
+Aerospace IT Conference
+
+in Chicago. The panel topic was “Cybersecurity in the Connected Aircraft”. The lively discussion that ensued was highly insightful and informative to the panelists and the audience alike. This blog captures the essence of that discussion to help broaden the dissemination of this topic and increase cybersecurity awareness for aircraft systems design.
+
+One of the main areas of interest for the panelists and the audience was the extent of cybersecurity concerns around the connected aircraft. On commercial aircrafts, significant focus is on improving passenger experience. The continuous availability of wi-fi, access to the broader internet, and even being able to make cellphone calls during flight are all desirable passenger “wants”. On the other hand, there is an effort to ensure that pilots and ground systems have more information from each aircraft with increased communication over IP networks in these systems. The combined effect of these advances leaves the possibility of several cybersecurity threats that affect confidentiality, integrity, and availability of these systems. One of my fellow panelists shared controlled experiments done to show remote hacking of aircraft systems. The consensus was that these security threats are real and will only increase in the wake of greater interconnectivity.
+
+Our attention then turned to potential solutions to counter these security threats. It was pointed out that network security alone is not sufficient and we need platform security. How does one allow connectivity among multiple systems and simultaneously ensure isolation of those critical systems? Platform technologies like 
+separation kernels
+ may have the answer. It brings forth the key concepts of strict isolation, real-time responsiveness, and security policy enforcement, along with DO-178C certified artifacts for airworthiness certification. The 
+LYNX MOSA.ic
+TM
+ for Avionics
+ safety-certified platform for instance combines the best of breed separation kernel (
+LynxSecure
+), a real-time operating system (
+LynxOS-178
+) with a proven pedigree of logging millions of flight hours, along with a safety-certified modern IPv6 stack as a strong foundational base to design safety-critical systems that can address safety and security concerns. A key aspect of this type of platform is that it harnesses modern processor architecture advances in security and safety, like cache isolation or 
+IOMMUs
+, to provide advanced mechanisms that can greatly assist in improving the security posture of mission critical systems.
+
+The regulatory oversight of aircraft systems also seems to be catching up to the changing landscape where several systems within an aircraft are interconnected. Historically the standards coming from the FAA were focused on safety in airborne systems. The RTCA standards like DO-178C, which governs the safety certification of software, and DO-254 which governs the safety certification of hardware for airborne systems. However, more recently there are standards such as 
+DO-356
+, “Airworthiness Security Methods and Considerations”, that outlines a formal security framework for defining security risks for systems, and producing evidence that shows that the aircraft, system or component has an acceptable level of security. A detailed review of the DO-356 standard is beyond the scope of this blog, but an architectural review by Lynx experts is highly recommended if you have security considerations to contend with.
+
+As we concluded the panel discussion, it was noted that despite adherence to emerging standards like DO-356, the scope of that compliance is for one system at a time. However, given the emergent nature of security threats when one or more of these systems are interconnected, the work is far from done by certifying a single system. It is imperative that security is extended at the aircraft level, ground systems that connect to aircrafts and potentially aircraft-to-aircraft communication as well. As I reflect on that panel discussion and other insightful presentations at that conference, I am reminded that the issues of security and safety for airborne systems should be at the forefront of systems design for modern aircraft systems.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

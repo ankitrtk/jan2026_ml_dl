@@ -1,0 +1,1473 @@
+URL: https://www.lynx.com/blog/dm-verity-without-an-initramfs/
+
+DM-Verity Without an Initramfs: How to Cut Boot-Time Overhead Without Weakening Integrity
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+BLOG
+
+January 21, 2025
+
+DM-Verity Without an Initramfs: How to Cut Boot-Time Overhead Without Weakening Integrity
+
+by 
+Nathan Barrett-Morrison
+
+ Security 
+
+Share
+
+What This Article Covers
+
+This article explains:
+
+why initramfs-based DM-Verity is the normal starting point
+
+what changes when you move integrity setup into 
+early device mapping
+
+why root-hash verification still matters even when DM-Verity is enabled
+
+where custom patching enters the picture for early verification
+
+what bootargs, key handling, and device timing can do to the assurance story
+
+when the boot-time payoff is large enough to justify the complexity
+
+For engineering managers and product security leads, the risk is not that DM-Verity fails to work. The risk is that it works in a narrow technical sense while the surrounding trust model remains incomplete.
+
+A device can successfully boot from a verified block device and still have a weak assurance story if the root hash is not trusted, if boot arguments can be modified, if update flows are not tied into signing policy, or if the design has never been validated on the actual target hardware.
+
+That is where careful review matters. The hard part is not only writing the 
+dm-mod.create
+ string. It is confirming that the boot chain, kernel configuration, key handling, update process, and field recovery behavior all support the same integrity claim.
+
+Overview
+
+Updated for 2026:
+ The DM-Verity mechanics in this article are still relevant. What has changed is the level of scrutiny around secure boot, filesystem integrity, update handling, and vulnerability response. Embedded Linux teams are increasingly expected to show that these controls are not only implemented, but documented and defensible.
+
+For products with digital elements placed on the EU market, the Cyber Resilience Act adds a clearer compliance timeline: reporting obligations begin on September 11, 2026, and the main obligations apply from December 11, 2027. This article is not a CRA checklist, but the same underlying question applies: if you optimize the boot path, can you still prove that the integrity model holds?
+
+In many embedded Linux systems, DM-Verity setup is performed from an Initial RAM Filesystem, or initramfs. That is often the simplest and most flexible starting point because it gives you an early user-space environment to calculate or adjust Verity arguments, verify the root hash, create the mapped device, mount the verified root filesystem, and switch into it.
+
+That flexibility can be important. On kernels without in-kernel DM-Verity root-hash signature verification, an initramfs may be necessary if Linux needs to verify the root hash during boot. Even on newer kernels, it remains a straightforward place to handle setup logic.
+
+The tradeoff is boot-time and storage overhead. On constrained systems, loading, verifying, relocating, and unpacking an initramfs can be expensive enough that teams look for another path.
+
+That path is early device mapping. With CONFIG_DM_INIT, the kernel can create a DM-Verity device during early boot from dm-mod.create= command-line arguments, allowing the system to boot from a verified root filesystem without an initramfs.
+
+The design can reduce overhead, but it also moves the trust boundary. If you remove the initramfs, you need a clear answer for what replaces the verification and setup work it used to perform.
+
+DM-Verity without an initramfs is not just an optimization. It is a trust-boundary shift.
+
+Background Principles
+
+What this section covers:
+ the baseline DM-Verity model most teams start from.
+
+Why it matters:
+ before removing the initramfs, you need to understand what jobs it was doing for you in the trust chain.
+
+What to do with it:
+ compare your current DM-Verity flow to the baseline pattern so you know what functionality you are moving or replacing.
+
+The Linux kernel includes a device-mapper subsystem that can remap a physical storage device through a target driver to produce a new virtual device. Two of the most important targets in embedded Linux security work are:
+
+DM-Verity, for filesystem verification
+
+DM-Crypt, for filesystem encryption
+
+This article focuses on DM-Verity.
+
+Starting with an ext4 root filesystem partition, Verity metadata can be generated from the build system with a command like:
+
+DATA_BLOCK_SIZE="4096"
+HASH_BLOCK_SIZE="4096"
+PART_SRC_EXT4=example.ext4
+METADATA_HASH_DEV=example.ext4.metadata
+veritysetup format --data-block-size=${DATA_BLOCK_SIZE} \
+    --hash-block-size=${HASH_BLOCK_SIZE} \
+    ${PART_SRC_EXT4} ${METADATA_HASH_DEV}
+
+The output from this command looks like:
+
+VERITY header information for example.ext4.metadata
+UUID:               e17b33f3-ce02-4d9b-a0a8-90c85ebe3240
+Hash type:          1
+Data blocks:        16384
+Data block size:    4096
+Hash block size:    4096
+Hash algorithm:     sha256
+Salt:               2a4c7638f03b92bdb92d7284a742e0c4407c9ef65fdf2a7ea78ed02fde4a518b
+Root hash:          b96a69664f9279857931dbf64f942caf909076e40fd5bd5ed8d30b53ff922941
+
+Then when we mount and switch into the verified root filesystem from the initramfs during boot, we would do this from the target device:
+
+MAPPER_NAME="verity_example"
+PART_SRC_EXT4="/dev/mmcblk0p1"
+METADATA_HASH_DEV="/dev/mmcblk0p2"
+ROOTHASH="b96a69664f9279857931dbf64f942caf909076e40fd5bd5ed8d30b53ff922941"
+veritysetup \
+    --restart-on-corruption --ignore-zero-blocks \
+    create ${MAPPER_NAME} ${PART_SRC_EXT4} \
+    ${METADATA_HASH_DEV} ${ROOTHASH}
+mkdir -p /newroot
+mount /dev/mapper/${MAPPER_NAME} /newroot
+switch_root /newroot /sbin/init
+
+Now you’re done! Every block of data contained in /newroot will now verified by the kernel before it is used. However, part of the chain of trust is still missing from this example. To understand that, we’ll need to know what the DM-Verity root hash used above is. So, what is the root hash? It’s basically the last/top node of a special binary hash tree called a Merkle Tree. Each block of data is hashed and stored at the bottom level of this binary tree. Pairs of hashes are then subsequently hashed together until a final top hash is derived.
+
+This Merkle Tree is also what’s contained inside the Verity metadata partition or file, along with some additional header information.
+
+Source: Wikipedia, Merkle Tree
+
+So, before running veritysetup to create the mountable Verity-backed /dev/mapper entry, the root hash needs to be verified too. Otherwise someone could break your chain of trust by replacing your entire root file system, metadata file system, and root hash input. You can verify this root hash from your bootloader via some form of trusted/secure boot like UEFI. However, an easy way to perform signature verification isn’t always available in many embedded bootloaders, so we opt to do it from within the kernel. Traditionally, this is done inside the initramfs using a library like OpenSSL.
+
+So for example, from your build system, you could create an RSA-signed roothash via:
+
+ROOTHASH="b96a69664f9279857931dbf64f942caf909076e40fd5bd5ed8d30b53ff922941"
+PRIVATE_KEY="verity_private.pem"
+PUBLIC_KEY="verity_public.pem"
+#Generate RSA Key Pair
+openssl genpkey -algorithm RSA -out ${PRIVATE_KEY} -pkeyopt rsa_keygen_bits:2048
+openssl rsa -pubout -in ${PRIVATE_KEY} -out ${PUBLIC_KEY}
+#Sign the root hash
+echo ${ROOTHASH} | tr -d '\n' > roothash.txt
+openssl rsautl -sign -inkey ${PRIVATE_KEY} -out ${ROOTHASH}.signed -in ${ROOTHASH}
+
+Then on your embedded target, you would store the public key and signed root hash and check the authenticity via your initramfs:
+
+#If this is correctly signed, it will return the roothash from the signed roothash file
+ROOTHASH=$(openssl rsautl -verify -in "roothash.txt.signed" -inkey ${PUBLIC_KEY} -pubin)
+#Result = b96a69664f9279857931dbf64f942caf909076e40fd5bd5ed8d30b53ff922941
+echo ${ROOTHASH}
+
+You can then use this resulting verified roothash to run “veritysetup create”, as shown above.
+
+Linux Kernel-space Signature Verification
+
+What this section covers:
+ moving DM-Verity root-hash signature verification into the kernel, instead of relying on a separate initramfs user-space verification step.
+
+Why it matters:
+ the root hash is the trust anchor for the verified filesystem. If an attacker can replace both the filesystem and the root hash, DM-Verity can still verify the wrong thing.
+
+What to do with it:
+ check whether your design authenticates the root hash at all, then check where that trust is anchored.
+
+In many initramfs-based designs, the initramfs is responsible for setting up the Verity mapping before switching to the real root filesystem. That design can work, but it raises the main question for this section: where is the root hash authenticated, and what is that trust based on?
+
+Linux provides kernel-space root-hash signature verification through:
+
+CONFIG_DM_VERITY_VERIFY_ROOTHASH_SIG=y
+
+This option allows the kernel to verify a signed DM-Verity root hash when the Verity mapping is created.
+
+A certificate can be generated from the build system:
+
+PRIVATE_KEY="verity_key.pem"
+CERT="verity_cert.pem"
+openssl req -x509 -newkey rsa:1024 -keyout ${PRIVATE_KEY} \
+    -out ${CERT} -nodes -days 365 -set_serial 01 -subj /CN=example.com
+
+Then you must add the certificate into your kernel build system with the appropriate config options:
+
+CONFIG_DM_VERITY_VERIFY_ROOTHASH_SIG=y
+CONFIG_SYSTEM_TRUSTED_KEYRING=y
+CONFIG_SYSTEM_TRUSTED_KEYS="verity_cert.pem"
+
+Then we create the signed root hash from the build system:
+
+ROOTHASH="b96a69664f9279857931dbf64f942caf909076e40fd5bd5ed8d30b53ff922941"
+PRIVATE_KEY="verity_key.pem"
+CERT="verity_cert.pem"
+echo ${ROOTHASH} | tr -d '\n' > roothash.txt
+openssl smime -sign -nocerts -noattr -binary -in roothash.txt \
+    -inkey ${PRIVATE_KEY} -signer ${CERT} -outform der -out roothash.txt.signed
+
+Don’t forget to require signatures on the embedded target’s kernel command-line parameters by appending:
+
+dm_verity.require_signatures=1
+
+Then, finally, we can mount the file system from our initramfs:
+
+MAPPER_NAME="verity_example"
+PART_SRC_EXT4="/dev/mmcblk0p1"
+METADATA_HASH_DEV="/dev/mmcblk0p2"
+ROOTHASH="b96a69664f9279857931dbf64f942caf909076e40fd5bd5ed8d30b53ff922941"
+veritysetup \
+    --restart-on-corruption --ignore-zero-blocks --root-hash-signature=roothash.txt.signed \
+    create "${MAPPER_NAME}" "${PART_SRC_EXT4}" \
+    "${METADATA_HASH_DEV}" "${ROOTHASH}"
+mkdir -p /newroot
+mount /dev/mapper/${MAPPER_NAME} /newroot
+switch_root /newroot /sbin/init
+
+At this point, the root hash is no longer merely passed in as an unauthenticated value. The Verity mapping is created with a root-hash signature, and the kernel can verify that signature against the trusted certificate built into the kernel.
+This answers one part of the trust-chain problem: how to authenticate the root hash. It does not, by itself, answer the larger boot-design question this article is concerned with: how to preserve equivalent trust when the initramfs is removed entirely.
+
+How can I do this without an initramfs? CONFIG_DM_INIT=y
+
+What this section covers:
+ the early device-mapping path that allows the DM-Verity mapping to be created directly from kernel command-line parameters.
+
+Why it matters:
+ this is the mechanism that can remove the initramfs from this part of the boot flow and improve boot-time simplicity for constrained systems.
+
+What to do with it:
+ treat this as an optimization path, not as an automatic replacement for the simpler initramfs-based baseline design.
+
+CONFIG_DM_INIT is a kernel mechanism which allows you to pass a device mapper table to the kernel during boot, from the kernel command-line parameters.
+
+So, from a command line perspective, the user-space command transforms from this:
+
+veritysetup --ignore-zero-blocks \
+    create "dm-0" "/dev/mmcblk0p1" "/dev/mmcblk0p2" \
+    "b96a69664f9279857931dbf64f942caf909076e40fd5bd5ed8d30b53ff922941"
+
+To this after we manually pass the DM table information into the kernel:
+
+dm-mod.create="verity,,,ro,0 131072 verity 1 /dev/mmcblk0p1 /dev/mmcblk0p2 4096 4096 16384 1 sha256 \
+               b96a69664f9279857931dbf64f942caf909076e40fd5bd5ed8d30b53ff922941 \
+               2a4c7638f03b92bdb92d7284a742e0c4407c9ef65fdf2a7ea78ed02fde4a518b 1 ignore_zero_blocks"
+
+To break this down a bit further:
+
+dm-mod.create="<name>,<uuid>,<minor>,<flags>,[dm_table_params {dm_verity_params}]"
+
+Where
+dm_table_params="<start_sector> <num_sectors> <target_type> <dm_verity_params>"
+And
+dm_verity_params="<version> <dev> <hash_dev> <data_block_size> <hash_block_size> <num_data_blocks> \
+                      <hash_start_block> <algorithm> <digest> <salt> [<#opt_params> <opt_params>]"
+
+So, in our example:
+
+name="verity"
+uuid="unused/unset"
+minor="unused/unset"
+flags="ro"
+dm_table_params=
+    start_sector="0"
+    num_sectors="131072"
+    target_type="verity"
+    target_args="dm_verity_params"
+        version="1"
+        dev="mmcblk0p1"
+        hash_dev="mmcblk0p2"
+        data_block_size="4096"
+        hash_block_size="4096"
+        num_data_blocks="16384"
+        hash_start_block="1"
+        algorithm="sha256"
+        digest="b96a69664f9279857931dbf64f942caf909076e40fd5bd5ed8d30b53ff922941"
+        salt="2a4c7638f03b92bdb92d7284a742e0c4407c9ef65fdf2a7ea78ed02fde4a518b"
+
+From the “veritysetup format” command above, we can see how a lot of these parameters are derived:
+
+VERITY header information for example.ext4.metadata
+UUID:               e17b33f3-ce02-4d9b-a0a8-90c85ebe3240
+Hash type:          1
+Data blocks:        16384
+Data block size:    4096
+Hash block size:    4096
+Hash algorithm:     sha256
+Salt:               2a4c7638f03b92bdb92d7284a742e0c4407c9ef65fdf2a7ea78ed02fde4a518b
+Root hash:          b96a69664f9279857931dbf64f942caf909076e40fd5bd5ed8d30b53ff922941
+
+For the number of sectors, that is calculated via Verity Data Blocks * Verity Data Block Size / Sector Size. Assuming your sector size is 512 (most common), we then have 16384*4096/512 = 131072.
+
+From U-Boot, I like to set all of this up similarly to:
+
+setenv DATA_BLOCKS 16384
+setenv DATA_BLOCK_SIZE 4096
+setenv DATA_SECTORS 131072
+setenv HASH_BLOCK_SIZE 4096
+setenv HASH_ALG sha256
+setenv SALT 2a4c7638f03b92bdb92d7284a742e0c4407c9ef65fdf2a7ea78ed02fde4a518b
+setenv ROOT_HASH b96a69664f9279857931dbf64f942caf909076e40fd5bd5ed8d30b53ff922941
+setenv DATA_DEV mmcblk0p1
+setenv DATA_META_DEV mmcblk0p2
+setenv bootargs ${bootargs} dm-mod.create="verity,,,ro,0 \${DATA_SECTORS} verity 1 /dev/\${DATA_DEV}
+    /dev/\${DATA_META_DEV} \${DATA_BLOCK_SIZE} \${HASH_BLOCK_SIZE} \${DATA_BLOCKS} 1 \${HASH_ALG}
+    \${ROOT_HASH} \${SALT} 1 ignore_zero_blocks" root=/dev/dm-0 dm_verity.require_signatures=1
+
+Note: /dev/dm-0 is the first device mapper device that is created by this early device mapping procedure. If this is your rootfs, then you must also set root=/dev/dm-0, as we have above.
+
+Also note: long boot arguments can become a real limitation in U-Boot. The original example used a 1024-bit kernel RSA key, which was small enough for the demonstrated bootargs string. With 2048-bit or 4096-bit keys, you may run into U-Boot command-line length limits and need to account for that in the platform configuration.
+This is the optimization point most readers care about, but it is also where the design becomes less forgiving. Instead of letting an initramfs script assemble the Verity mapping at boot, you are moving the mapping into an earlier and more constrained path. That means the device paths, table parameters, root device selection, and root-hash trust model all need to be made explicit.
+
+Wait, what about early root hash signature verification? Where did that go?
+
+Good catch, we can’t use the OpenSSL+initramfs method anymore. Unfortunately, DM_VERITY_VERIFY_ROOTHASH_SIG also does not support early mapping, as it uses the kernel keyring system and does not provide a way to setup the keyring via the kernel command-line arguments.
+
+Alright, fine, let’s fix it. We’ll add a new verity table parameter called “root_hash_sig_hex”, where we can set the incoming root hash signature, without the keyring.
+
+From: Nathan Barrett-Morrison <nathan.morrison@timesys.com>
+Subject: [PATCH 1/1] DM-Verity: Add root_hash_sig_hex parameter to early
+ verity device mapping, so that we can pass a roothash signature in via
+ /proc/cmdline.  This enables the ability to use DM_VERITY_VERIFY_ROOTHASH_SIG
+ alongside early device mapping
+---
+ drivers/md/dm-verity-target.c     |  8 +++-
+ drivers/md/dm-verity-verify-sig.c | 63 +++++++++++++++++++++++++++++++
+ drivers/md/dm-verity-verify-sig.h | 19 +++++++++-
+ 3 files changed, 87 insertions(+), 3 deletions(-)
+diff --git a/drivers/md/dm-verity-target.c b/drivers/md/dm-verity-target.c
+index 3fb02167a590..047dd9a10264 100644
+--- a/drivers/md/dm-verity-target.c
++++ b/drivers/md/dm-verity-target.c
+@@ -930,7 +930,13 @@ static int verity_parse_opt_args(struct dm_arg_set *as, struct dm_verity *v,
+             if (r)
+                 return r;
+             continue;
+-
++        } else if (verity_verify_is_hex_sig_opt_arg(arg_name)) {
++            r = verity_verify_hex_sig_parse_opt_args(as, v,
++                                 verify_args,
++                                 &argc, arg_name);
++            if (r)
++                return r;
++            continue;
+         }
+
+         ti->error = "Unrecognized verity feature request";
+diff --git a/drivers/md/dm-verity-verify-sig.c b/drivers/md/dm-verity-verify-sig.c
+index 919154ae4cae..906e5a2034b5 100644
+--- a/drivers/md/dm-verity-verify-sig.c
++++ b/drivers/md/dm-verity-verify-sig.c
+@@ -28,6 +28,12 @@ bool verity_verify_is_sig_opt_arg(const char *arg_name)
+                 DM_VERITY_ROOT_HASH_VERIFICATION_OPT_SIG_KEY));
+ }
+
++bool verity_verify_is_hex_sig_opt_arg(const char *arg_name)
++{
++    return (!strcasecmp(arg_name,
++                DM_VERITY_ROOT_HASH_VERIFICATION_OPT_HEX_SIG_KEY));
++}
++
+ static int verity_verify_get_sig_from_key(const char *key_desc,
+                     struct dm_verity_sig_opts *sig_opts)
+ {
+@@ -64,6 +70,33 @@ static int verity_verify_get_sig_from_key(const char *key_desc,
+     return ret;
+ }
+
++static int verity_verify_get_sig_from_hex(const char *key_desc,
++                    struct dm_verity_sig_opts *sig_opts)
++{
++    int ret = 0, i = 0, j = 0;
++    uint8_t byte[3] = {0x00, 0x00, 0x00};
++    long result;
++
++    sig_opts->sig = kmalloc(strlen(key_desc)/2, GFP_KERNEL);
++    if (!sig_opts->sig) {
++        ret = -ENOMEM;
++        goto end;
++    }
++
++    sig_opts->sig_size = strlen(key_desc)/2;
++
++    for(i = 0, j = 0; i < strlen(key_desc)-1; i+=2, j+=1){
++        byte[0] = key_desc[i];
++        byte[1] = key_desc[i+1];
++        kstrtol(byte, 16, &result);
++        sig_opts->sig[j] = result;
++    }
++
++end:
++
++    return ret;
++}
++
+ int verity_verify_sig_parse_opt_args(struct dm_arg_set *as,
+                      struct dm_verity *v,
+                      struct dm_verity_sig_opts *sig_opts,
+@@ -93,6 +126,36 @@ int verity_verify_sig_parse_opt_args(struct dm_arg_set *as,
+     return ret;
+ }
+
++int verity_verify_hex_sig_parse_opt_args(struct dm_arg_set *as,
++                     struct dm_verity *v,
++                     struct dm_verity_sig_opts *sig_opts,
++                     unsigned int *argc,
++                     const char *arg_name)
++{
++    struct dm_target *ti = v->ti;
++    int ret = 0;
++    const char *sig_key = NULL;
++
++    if (!*argc) {
++        ti->error = DM_VERITY_VERIFY_ERR("Signature key not specified");
++        return -EINVAL;
++    }
++
++    sig_key = dm_shift_arg(as);
++    (*argc)--;
++
++    ret = verity_verify_get_sig_from_hex(sig_key, sig_opts);
++    if (ret < 0)
++        ti->error = DM_VERITY_VERIFY_ERR("Invalid key specified");
++
++    v->signature_key_desc = kstrdup(sig_key, GFP_KERNEL);
++    if (!v->signature_key_desc)
++        return -ENOMEM;
++
++    return ret;
++}
++
++
+ /*
+  * verify_verify_roothash - Verify the root hash of the verity hash device
+  *                 using builtin trusted keys.
+diff --git a/drivers/md/dm-verity-verify-sig.h b/drivers/md/dm-verity-verify-sig.h
+index 19b1547aa741..2be00114becc 100644
+--- a/drivers/md/dm-verity-verify-sig.h
++++ b/drivers/md/dm-verity-verify-sig.h
+@@ -10,6 +10,7 @@
+
+ #define DM_VERITY_ROOT_HASH_VERIFICATION "DM Verity Sig Verification"
+ #define DM_VERITY_ROOT_HASH_VERIFICATION_OPT_SIG_KEY "root_hash_sig_key_desc"
++#define DM_VERITY_ROOT_HASH_VERIFICATION_OPT_HEX_SIG_KEY "root_hash_sig_hex"
+
+ struct dm_verity_sig_opts {
+     unsigned int sig_size;
+@@ -23,11 +24,13 @@ struct dm_verity_sig_opts {
+ int verity_verify_root_hash(const void *data, size_t data_len,
+                 const void *sig_data, size_t sig_len);
+ bool verity_verify_is_sig_opt_arg(const char *arg_name);
+-
++bool verity_verify_is_hex_sig_opt_arg(const char *arg_name);
+ int verity_verify_sig_parse_opt_args(struct dm_arg_set *as, struct dm_verity *v,
+                     struct dm_verity_sig_opts *sig_opts,
+                     unsigned int *argc, const char *arg_name);
+-
++int verity_verify_hex_sig_parse_opt_args(struct dm_arg_set *as, struct dm_verity *v,
++                    struct dm_verity_sig_opts *sig_opts,
++                    unsigned int *argc, const char *arg_name);
+ void verity_verify_sig_opts_cleanup(struct dm_verity_sig_opts *sig_opts);
+
+ #else
+@@ -45,6 +48,11 @@ bool verity_verify_is_sig_opt_arg(const char *arg_name)
+     return false;
+ }
+
++bool verity_verify_is_hex_sig_opt_arg(const char *arg_name)
++{
++    return false;
++}
++
+ int verity_verify_sig_parse_opt_args(struct dm_arg_set *as, struct dm_verity *v,
+                     struct dm_verity_sig_opts *sig_opts,
+                     unsigned int *argc, const char *arg_name)
+@@ -52,6 +60,13 @@ int verity_verify_sig_parse_opt_args(struct dm_arg_set *as, struct dm_verity *v,
+     return -EINVAL;
+ }
+
++int verity_verify_hex_sig_parse_opt_args(struct dm_arg_set *as, struct dm_verity *v,
++                    struct dm_verity_sig_opts *sig_opts,
++                    unsigned int *argc, const char *arg_name)
++{
++    return -EINVAL;
++}
++
+ void verity_verify_sig_opts_cleanup(struct dm_verity_sig_opts *sig_opts)
+ {
+ }
+
+So, this patch allows the kernel to take the roothash signature in as a hex-formatted string from the command-line arguments and converts it back into raw data when it is copied into sig_opts->sig. This is done inside the verity_verify_get_sig_from_hex() section of the patch.
+
+Now that our kernel is patched, we can do the following from our build system:
+
+ROOTHASH="b96a69664f9279857931dbf64f942caf909076e40fd5bd5ed8d30b53ff922941"
+PRIVATE_KEY="verity_key.pem"
+CERT="verity_cert.pem"
+echo ${ROOTHASH} | tr -d '\n' > roothash.txt
+openssl smime -sign -nocerts -noattr -binary -in roothash.txt \
+    -inkey ${PRIVATE_KEY} -signer ${CERT} -outform der -out roothash.txt.signed
+xxd -p sign.txt | tr -d '\n'
+#This will show a hexdump of a signature that looks like:
+# 3081f906092a864886f70d010702a081eb3081e8020101310f300d06096086480165030402010500300
+# b06092a864886f70d0107013181c43081c1020101301b30163114301206035504030c0b6578616d706c65
+# 2e636f6d020101300d06096086480165030402010500300d06092a864886f70d01010105000481806f196
+# a3081d941d22de98b34fc56f5c1b7ffc827ccd1307be9017bb6773da49026ef556668185c68b30562a60c
+# ec635bbe0a52ad92b878dac9e4ad146f5d36101b48ec5f522d12772b8e915524586598c8659494fba427e
+# e46c02043f30f45e096a1b9a987fc200b815f43bb48d42ad2d64b3f632f5332e6f74890b4541b467d
+
+Then from our target system boot arguments, we can append the new “root_hash_sig_hex” parameters:
+
+setenv DATA_BLOCKS 16384
+setenv DATA_BLOCK_SIZE 4096
+setenv DATA_SECTORS 131072
+setenv HASH_BLOCK_SIZE 4096
+setenv HASH_ALG sha256
+setenv SALT 2a4c7638f03b92bdb92d7284a742e0c4407c9ef65fdf2a7ea78ed02fde4a518b
+setenv ROOT_HASH b96a69664f9279857931dbf64f942caf909076e40fd5bd5ed8d30b53ff922941
+setenv DATA_DEV mmcblk0p1
+setenv DATA_META_DEV mmcblk0p2
+setenv VERITY_SIGNATURE 3081f906092a864886f70d010702a081eb3081e8020101310f300d06096086480165030402010500300
+    b06092a864886f70d0107013181c43081c1020101301b30163114301206035504030c0b6578616d706c652e636f6d020101300d
+    06096086480165030402010500300d06092a864886f70d010101050004818071fcaaf1b252a56448438e0a9350b7380a407b1e9
+    0ae869ec5062466b0eb6cc5358e253a9d57086c358220745bc60c2a6d8dbc30c02fb1714c9c98f10e0679b87deb0c19929675c8
+    fcf89f37c684f043583fca52729ffb6e928eb29b7ee0c9eab3a3b0809a4463f3c8d6d458745c9116a7df1677c707df6352f2323
+    13a62ce20
+setenv bootargs ${bootargs} dm-mod.create="verity,,,ro,0 \${DATA_SECTORS} verity 1 /dev/\${DATA_DEV}
+    /dev/\${DATA_META_DEV} \${DATA_BLOCK_SIZE} \${HASH_BLOCK_SIZE} \${DATA_BLOCKS} 1 \${HASH_ALG}
+    \${ROOT_HASH} \${SALT} 3 ignore_zero_blocks root_hash_sig_hex \${VERITY_SIGNATURE}"
+    root=/dev/dm-0 dm_verity.require_signatures=1
+
+Now you’re really done! Your kernel will verify the DM-Verity file system’s roothash and boot without any requirement for an initramfs.
+
+Other Considerations
+
+1) Here are all of the kernel config options which are related to device mapping and verity:
+
+CONFIG_BLK_DEV=y
+CONFIG_BLK_DEV_LOOP=y
+CONFIG_MD=y
+CONFIG_BLK_DEV_DM=y
+CONFIG_BLK_DEV_MD=y
+CONFIG_DM_INIT=y
+CONFIG_DM_VERITY=y
+CONFIG_DM_VERITY_VERIFY_ROOTHASH_SIG=y
+CONFIG_SYSTEM_TRUSTED_KEYRING=y
+CONFIG_SYSTEM_TRUSTED_KEYS="verity_cert.pem"
+
+2) Your verified file system is only as good as your chain of trust. Every stage in your boot process needs to be properly secured. Our secure boot article outlines this in more detail
+
+here
+.
+
+3) If your U-Boot environment can be tampered with, such that dm_verity.require_signatures can be disabled, then your root file system verification can easily be defeated. You might consider forcefully enabling this with a kernel patch as such:
+
+From: Nathan Barrett-Morrison <nathan.morrison@timesys.com>
+Subject: [PATCH 1/1] DM-Verity: Require dm-verity roothash signatures, with no
+ ability to disable via /proc/cmdline
+---
+ drivers/md/dm-verity-verify-sig.c | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+diff --git a/drivers/md/dm-verity-verify-sig.c b/drivers/md/dm-verity-verify-sig.c
+index 906e5a2034b5..b979e8e6b498 100644
+--- a/drivers/md/dm-verity-verify-sig.c
++++ b/drivers/md/dm-verity-verify-sig.c
+@@ -14,10 +14,12 @@
+
+ #define DM_VERITY_VERIFY_ERR(s) DM_VERITY_ROOT_HASH_VERIFICATION " " s
+
+-static bool require_signatures;
++static bool require_signatures = true;
++/*
+ module_param(require_signatures, bool, 0444);
+ MODULE_PARM_DESC(require_signatures,
+        "Verify the roothash of dm-verity hash tree");
++*/
+
+ #define DM_VERITY_IS_SIG_FORCE_ENABLED() \
+    (require_signatures != false)
+
+4) Small amounts of data corruption can be automatically corrected with CONFIG_DM_VERITY_FEC. If you’re interested in this, consider enabling this configuration option as well.
+
+5) While booting from an MMC device, I observed that the MMC partition enumeration was out of sync with the early device mapping driver’s device lookup, resulting in a race condition. That is, it would attempt to find the enumerated MMC partitions (mmcblk0p1, mmcblk0p2) before they were instantiated and fail. I fixed this with another patch:
+
+From: Nathan Barrett-Morrison <nathan.morrison@timesys.com>
+Subject: [PATCH 1/3] DM-Verity: Wait up to 10 seconds for eMMC/SD partitions
+ to show up before failing dm_get_device()
+---
+ drivers/md/dm-verity-target.c | 16 ++++++++++++----
+ 1 file changed, 12 insertions(+), 4 deletions(-)
+diff --git a/drivers/md/dm-verity-target.c b/drivers/md/dm-verity-target.c
+index 711f101447e3..3fb02167a590 100644
+--- a/drivers/md/dm-verity-target.c
++++ b/drivers/md/dm-verity-target.c
+@@ -18,6 +18,7 @@
+ #include "dm-verity-verify-sig.h"
+ #include <linux/module.h>
+ #include <linux/reboot.h>
++#include <linux/delay.h>
+
+ #define DM_MSG_PREFIX            "verity"
+
+@@ -998,10 +999,17 @@ static int verity_ctr(struct dm_target *ti, unsigned argc, char **argv)
+     }
+     v->version = num;
+
+-    r = dm_get_device(ti, argv[1], FMODE_READ, &v->data_dev);
+-    if (r) {
+-        ti->error = "Data device lookup failed";
+-        goto bad;
++    //Wait up to 10 seconds for devices to become available --
++    //wait_for_device_probe() sort of handles this, but the eMMC/SD probe finishes
++    //and dm_get_device() fails before the eMMC/SD partitions are found
++    for(i = 0; i <= 100; i++){
++        r = dm_get_device(ti, argv[1], FMODE_READ, &v->data_dev);
++        if (r && i < 100) {
++            msleep_interruptible(100);
++        }else if(r){
++            ti->error = "Data device lookup failed";
++            goto bad;
++        }
+     }
+
+     r = dm_get_device(ti, argv[2], FMODE_READ, &v->hash_dev);
+
+Boot Time Comparisons
+
+Testing on a relatively slower ARM processor (ADSP-SC589, Single core 500Mhz ARMv7) shows some major improvements. Keep in mind that this processor is favorable for showing the time difference here, as it has a slower initramfs loading and unpacking time. Newer processors with faster eMMC, DDR, and cores will narrow this margin.
+
+On this processor, there is a total boot time difference of 29.19 seconds.
+
+Using initramfs
+
+Not using initramfs
+
+Difference
+
+Total boot time
+
+53.33 s
+
+24.14 s
+
+29.19 s
+
+U-Boot: Load initramfs from MMC
+
+2.88 s
+
+0.00 s
+
+2.88 s
+
+U-Boot: Verify initramfs
+
+4.07 s
+
+0.00 s
+
+4.07 s
+
+U-Boot: Relocate initramfs
+
+3.81 s
+
+0.00 s
+
+3.81 s
+
+Linux: Unpack initramfs
+
+18.26 s
+
+0.00 s
+
+18.26 s
+
+Linux: Run initramfs, mount partition, start systemd
+
+1.41 s
+
+1.09 s
+
+0.32 s
+
+On a faster, multi-core ARMv8+ processor, I believe you would still see a significant 1-2+ second difference in boot time. Early device mapping can be a very important tool if you are trying to hit a boot time goal of under 10 seconds.
+
+What to Check in Your Own Implementation
+
+If your team is evaluating this design, these are the practical review questions.
+
+1. Is the boot-time or storage pressure real?
+
+Removing the initramfs adds complexity. That may be justified when boot-time or storage constraints are strict, but it should not be treated as the default path just because the mechanism exists.
+
+If the initramfs is not a meaningful contributor to boot time or storage cost on your platform, the simpler design may be easier to validate and maintain.
+
+2. How is the DM-Verity root hash trusted today?
+
+DM-Verity depends on the root hash. If the root hash is not trusted, the rest of the verification model can be bypassed by replacing the root filesystem, metadata, and root hash together.
+
+Before removing the initramfs, document how root-hash trust is currently established.
+
+3. If you remove the initramfs, what replaces that verification step?
+
+An initramfs gives you a flexible place to run user-space verification logic. If that layer goes away, the design needs another way to preserve equivalent assurance.
+
+That may involve kernel-space signature verification, trusted built-in certificates, early device mapping, and custom patching.
+
+4. Are bootargs and U-Boot environment handling protected?
+
+If an attacker can modify boot arguments, they may be able to disable required signature verification or change the mapping behavior.
+
+The bootloader environment should be treated as part of the security boundary.
+
+5. Are you relying on custom patching?
+
+The root_hash_sig_hex approach solves a real integration problem, but it also introduces maintenance responsibility.
+
+Teams should understand:
+
+which kernel versions the patch applies to
+
+who owns forward-porting it
+
+how it is tested
+
+how it is documented
+
+how it affects future update and certification work
+
+6. Have you tested early device discovery on the actual target hardware?
+
+Early mapping depends on device availability earlier in boot. MMC, eMMC, SD, and other storage enumeration timing can matter.
+
+Do not assume that a mapping that works after initramfs initialization will work identically during early kernel setup.
+
+7. Does the update flow preserve the same integrity model?
+
+A verified root filesystem is only one part of the lifecycle. Production systems also need a coherent update process.
+
+That includes:
+
+signing and generating new root hashes
+
+updating metadata safely
+
+protecting rollback behavior where applicable
+
+handling recovery paths
+
+documenting what happens if verification fails
+
+This is one of the places where a working engineering implementation and a defensible product-security story can diverge.
+
+Why This Matters for 2026 Product Security Planning
+
+The basic mechanics of DM-Verity have not changed simply because the calendar has. What has changed is the level of scrutiny around product-security claims.
+
+Embedded device teams are increasingly expected to explain how their devices establish trust at boot, how software integrity is preserved across updates, and how security controls are validated over the product lifecycle.
+
+The EU Cyber Resilience Act is one example of that shift. It does not prescribe this specific DM-Verity architecture, and it does not require “DM-Verity without an initramfs.” But it does raise the importance of secure-by-design engineering, lifecycle security, vulnerability handling, and defensible technical documentation for products with digital elements placed on the EU market.
+
+That makes this tradeoff more relevant, not less.
+
+Removing the initramfs may reduce boot-time and storage overhead, but it also removes a convenient place to perform setup and verification logic. If you take that layer out, you need a clear answer for what replaces it.
+
+For engineering leaders, that is the management-level decision: whether the performance gain is worth the added validation burden.
+
+For product security teams, the question is whether the resulting system still has a complete, testable chain of trust.
+For compliance and customer assurance teams, the question is whether the design can be explained, documented, and defended.
+
+Conclusion
+
+DM-Verity without an initramfs can be the right move when boot-time or storage requirements are genuinely tight. But it only works as a production-grade integrity design if the surrounding trust assumptions are still enforced, especially around root-hash verification, boot arguments, key handling, update workflows, and the broader secure-boot chain.
+
+That is the bigger takeaway. This is not just a boot-time optimization. It is a tradeoff between simplicity and performance that has to be implemented carefully if you want to keep the assurance story intact.
+
+If your team is considering this pattern, the first question is not whether you can remove the initramfs. It is whether the resulting system still has a complete, testable chain of trust.
+
+If you are not sure where the trust boundary moves, which assumptions need to be documented, or how this interacts with secure boot, update signing, field recovery, and 2026 product-security expectations, start with a structured gap review.
+
+Take the Security and Compliance Gap Self-Assessment
+
+Learn About Secure Boot and System Integrity Support
+
+Nathan Barrett-Morrison
+
+Subscribe Here!
+
+ Seize the Edge 
+
+ Lynx is evolving and our commitment to safety, security, and performance is stronger than ever. We are excited to embark on this next chapter with you. If you have any questions or want to learn more about this transition, we are here to help. 
+
+                Contact Us
+
+Related Blogs
+
+            View All
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

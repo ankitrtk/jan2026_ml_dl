@@ -1,0 +1,172 @@
+URL: https://www.lynx.com/products/lynxsecure-separation-kernel-hypervisor/freertos-support
+
+FreeRTOS Support for LynxSecure 
+
+Products
+
+LYNX MOSAic
+
+LYNX MOSAic for Avionics
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+LYNX MOSA.ic.SCA
+
+SpyKer Product Family
+
+VIE
+
+Legacy
+
+LynxOS
+
+LynxSafe
+
+Professional Services
+
+Support
+
+Support Portal
+
+Support Services
+
+Training
+
+Industries
+
+Armored Ground Vehicles
+
+Commercial Avionics
+
+Critical Infrastructure
+
+LEO Satellites
+
+Military Avionics
+
+Urban Air Mobility
+
+Industry Standards
+
+FACE 
+
+MOSA
+
+Resources
+
+Case Studies
+
+Export Compliance
+
+FAQ
+
+Resource Center 
+
+Videos
+
+About Us
+
+Careers
+
+Contact
+
+How Did We Do?
+
+Distributors
+
+Events
+
+Blogs
+
+Lynx Executive Blog
+
+Lynx Technical Blog
+
+Our Business Model
+
+Our Commitment to National Defense
+
+Partners
+
+Press Releases
+
+The Lab
+
+Feedback
+
+Embracing Open Source Software
+
+-
+Free
+RTOS™ Support for Arm-v8 architecture-
+
+"The inclusion of FreeRTOS as a guest of the LynxSecure separation kernel hypervisor will give developers an easy and low-cost path to development and integration of complex systems, with a path to a fully safety-certifiable solution."
+
+Richard Barry 
+
+Founder of FreeRTOS
+
+Moving with the market
+
+Lynx 
+real-time operating systems
+ have been proven and deployed at scale across a wide range of security- and safety-critical applications, especially in aerospace and defense markets. Over the years, we have witnessed increased adoption of open source OSes in embedded systems designs and have decided to embrace a broader set OSes to work out-of-the-box with our secure hypervisor product, 
+LynxSecure
+, and our complete development and integration framework, 
+LYNX MOSA.ic™
+.
+
+Therefore, to deliver further on our commitment to the Modular Open Systems Approach (MOSA) and to accommodate a wider range of customer choices, we announced in February 2020 that we are embracing 
+FreeRTOS
+ as a supported guest OS.
+
+Why
+
+FREERTOS?
+
+Our own research as well as 
+3rd party research indicates
+ that the most popular OSes used in embedded systems are (1) Linux; (2) in-house/custom OSes; and (3) FreeRTOS. Lynx loves 
+Linux
+ and already offers Buildroot in LYNX MOSA.ic™. We also support a number of 3rd party OSes (and will even support competitor OSes) while of course offering our own RTOSes where suitable, but FreeRTOS was noticeably absent.
+
+As the #2/#3 OS of choice currently and as the OS planned for fully a third of upcoming embedded projects, adding FreeRTOS support was a clear choice as we continue to deliver on the vision of MOSA by providing customers with open source solutions within a secure and safe development framework.
+
+Finally, FreeRTOS truly embodies what we think a Guest OS in Lynx technologies should be:
+
+It’s modular
+
+It provides a path to safety certification
+
+Thanks to the investment by Amazon, there are now a broad set of hooks to assist with cloud connectivity which will shorten customer development cycles and costs
+
+Ask the Expert 
+
+FreeRTOS support 
+
+Lynx Director of Product Management, Dave Beal, discusses FreeRTOS guest OS support in LynxSecure with VP Marketing Ian Ferguson.
+
+Watch video
+
+First Steps
+
+Supporting FREERTOS
+
+XILINX Zynq
+
+Based on customer demand, we are starting this engineering work around the Arm architecture, focusing more specifically on the Xilinx Zynq product family. We will be making this available in the summer of 2020.
+
+Email us
+ to be kept up-to-date with progress on this engineering effort. Alternatively, you can start immediately with your code development for 
+Zynq
+, which is available to run on LynxSecure once the port is complete.
+
+Questions? Contact Us
+
+Copyright © 2023 Lynx Software Technologies
+
+Privacy Policy

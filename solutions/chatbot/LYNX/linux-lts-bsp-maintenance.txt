@@ -1,0 +1,891 @@
+URL: https://www.lynx.com/solutions/linux-lts-bsp-maintenance
+
+Embedded Linux LTS & BSP Maintenance
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+Home
+
+Solutions
+
+Linux lts bsp maintenance
+
+ Embedded Linux LTS and BSP Maintenance 
+
+Freezing your platform at launch is not a long-term security strategy.
+LTM gives embedded device teams a managed operating model for keeping Linux OS and BSP software current over the full product lifecycle, so security updates, bug fixes, validation, and release planning do not turn into recurring internal fire drills.
+
+            Talk to the Embedded Linux Maintenance Team
+
+            Take the Security and Compliance Gap Self-Assessment
+
+Are product security updates part of your cybersecurity requirements
+
+Need to address security vulnerabilities reported by your customers?
+
+Looking for a partner who can provide long term security updates for your Linux OS/BSP?
+
+Regardless of your embedded Linux build, you have to maintain your OS and BSP to stay ahead of security threats
+
+The outdated strategy of “freeze and release” — freezing a device’s software at product launch with no plan or process to update it in the field — puts devices at high risk of security compromise. Whether you use Yocto Project, Buildroot, or Factory build system, regular upgrades are needed to ensure device security, to apply bug fixes, and to support newer hardware and technologies.
+
+Take advantage of our deep expertise to maintain your Linux OS and BSP for the full lifecycle of your device
+
+For more than 20 years, Lynx has been the industry’s trusted partner for secure embedded software design and development. We provide device makers and system developers with tools and services to accelerate time to market of more secure products.
+
+What Linux OS and BSP Maintenance Gets You:
+
+Linux OS/BSP Maintenance subscription service provides long-term security updates and maintenance of your Linux OS/BSPs. It is available for Yocto Project, Buildroot and Factory build systems.
+
+Embedded Linux Security Experts
+
+Expertise You Can Trust
+
+Lynx has decades of experience with embedded Linux.
+
+Our Linux experts utilize decades of experience and purpose-built tools to keep your device updated and secure
+
+We provide regular updates that include bug fixes, support for new end-of-life parts, and new package features
+
+Validated Linux OS / BSP on your hardware so there are no surprises
+
+ Read More 
+
+Half the Cost of Doing It Yourself
+
+Results That Don’t Break Your Budget
+
+Maintaining your OS and BSP to stay ahead of security threats is complex and time-consuming, and expensive if you do it yourself.
+
+Linux OS/BSP Maintenance service is less than ½ the cost of a junior engineer
+
+Free up your resources to work on next-gen products
+
+Boost Compliance with a Continuous Security Feed
+
+CVE Monitoring with Our Best-In-Class Tool, Vigiles
+
+Vigiles provides vulnerability alerts, monitoring, and remediation with on-demand reports for easy documentation.
+
+Superior data accuracy: pulls only the data for CVEs that correspond to your SBOM
+
+Automated documentation of fixed vulnerabilities between releases to boost industry compliance
+
+ Read More
+
+ Watch the Video 
+
+ Collaborative Triage and Development for Releases 
+
+Seamless Workflow Integration
+
+Work together to quickly identify the CVEs you want us to fix.
+
+Joint review and analysis to identify CVEs that pose the highest risk
+
+We take action against the largest threats by deploying patches
+
+ Update Cadence That Meets Your Product Security Policy 
+
+Meet Your Release Schedules
+
+With Linux OS/BSP Maintenance, you’re in control of the update schedule.
+
+Choose the cadence and number of updates (1-4) you require each year
+
+Includes updates to Linux kernel, file system, and the bootloader
+
+One emergency release provided in case of a zero day vulnerability
+
+READY TO GET STARTED WITH LINUX OS/BSP MAINTENANCE?
+
+Start the Conversation
+
+Stop worrying about how you are going to find the engineering time and in-house expertise to give your product the professional architecture and security attention it needs.
+
+Schedule a Conversation Today
+
+Set Up Baseline
+
+Your custom board is set up in our Embedded Board Farm and your BSP code is added to a private Lynx Git repo.
+
+Review Reports
+
+We provide monthly vulnerability reports, and on a regular basis we jointly review them to determine what updates and patches you want us to apply.
+
+Deliver UpdatedBSP and Reports
+
+We integrate security patches / package updates and backports for your BSP as per the quarterly review.
+
+Integrate Patches /Updates /Backports
+
+After integrating patches / updates, we validate the BSP by comparing the driver tests against the baseline.
+
+Validate CustomLinux OS
+
+We deliver updated BSP and validation reports for comparison with the previous report.
+
+What Takes Place Each Year
+
+Optimize Your Work With A Common Software Platform Across Multiple Hardware Versions And Product Lines
+
+Schedule a call to learn more about our platforming services
+
+We structure your BSP to be able to support multiple products on one common platform, reducing the workload and costs for product teams. This process leverages one common OS for long term security, updates, and licensing.
+
+Want to learn more about our platforming services?
+
+Let’s talk.
+
+What You Get
+
+Linux OS/BSP Maintenance provides you with long-term security updates and maintenance for your embedded systems. With our subscription service, you can rest assured that your device is up to date and has the strongest security posture possible.
+
+Kernel, Root Filesystem, Bootloader, and Linux OS Software Updates
+
+Regular updates each year include kernel updates, root filesystem updates, bootloader updates, and Linux OS software updates to keep your security posture strong.
+
+Vigiles Prime CVE Monitoring and Reporting
+
+Our vulnerability monitoring and management tool, Vigiles Prime, sets you up for success with vulnerability alerts, filtering, and easy reporting, keeping you ahead of security threats and in compliance with industry standards.
+
+Triage and Fixes
+
+We provide a joint review and analysis of security vulnerabilities so we can take action and apply fixes to the most urgent threats to your device.
+
+                      Call to Action
+
+Testing Performed on Your Hardware
+
+Your custom board is set up in our Embedded Board Farm and your BSP code is added to a private Timesys Git repo so that testing can be performed on your own hardware.
+
+                      Call to Action
+
+Release Cadence Based on Your Needs
+
+We provide updates on your schedule, in line with your product security policy. Choose the number of updates you need per year, and we implement on your timeline.
+
+                      Call to Action
+
+Optional Critical Security Releases as Needed
+
+Zero day vulnerabilities can happen at any time, and can be absolutely disastrous if quick action isn’t taken. With Linux OS/BSP Maintenance, our standard agreement includes one emergency release per year, with an option to purchase more if necessary to keep your device secure.
+
+                      Call to Action
+
+Complete Support for Each OS Update Release
+
+Our Linux security experts work alongside you to ensure each update release is successful. Beyond regularly scheduled collaborative review and analysis, you can contact Timesys support as needed for assistance in your security journey.
+
+                      Call to Action
+
+Long-term Updates for the Full Lifecycle of Your Device
+
+We provide security updates long after the community and system on a chip (SoC) or board vendor stops supporting it.
+
+                      Call to Action
+
+READY TO GET STARTED WITH
+LINUX OS/BSP MAINTENANCE?
+
+Start the Conversation
+
+Avoid frequent maintenance cycles, high staffing costs, and priority conflicts by signing up for Lynx’s Linux OS/BSP Maintenance service. Get long term security updates and maintenance for your embedded device for half the cost of a junior engineer.
+
+Schedule a Conversation Today
+
+Learn More About MOSA.ic
+
+            Explore insights and innovations to help you Seize the Edge
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+ Schedule a Demo for Your Use Case 
+
+ Detect, filter, triage, and remediate vulnerabilities with the industry’s first Software Composition Analysis and CVE monitoring tool targeted at embedded Linux. 
+
+                Schedule a Live Demo Now
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

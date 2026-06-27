@@ -1,0 +1,201 @@
+URL: https://www.lynx.com/products/lynx-mosaic-modular-development-framework/avionic-platform-advantage-with-intel?hsLang=en
+
+LYNX MOSA.ic™ Avionic Platform - Advantage with Intel® Processors
+
+Products
+
+LYNX MOSAic
+
+LYNX MOSAic for Avionics
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+LYNX MOSA.ic.SCA
+
+SpyKer Product Family
+
+VIE
+
+Legacy
+
+LynxOS
+
+LynxSafe
+
+Professional Services
+
+Support
+
+Support Portal
+
+Support Services
+
+Training
+
+Industries
+
+Armored Ground Vehicles
+
+Commercial Avionics
+
+Critical Infrastructure
+
+LEO Satellites
+
+Military Avionics
+
+Urban Air Mobility
+
+Industry Standards
+
+FACE 
+
+MOSA
+
+Resources
+
+Case Studies
+
+Export Compliance
+
+FAQ
+
+Resource Center 
+
+Videos
+
+About Us
+
+Careers
+
+Contact
+
+How Did We Do?
+
+Distributors
+
+Events
+
+Blogs
+
+Lynx Executive Blog
+
+Lynx Technical Blog
+
+Our Business Model
+
+Our Commitment to National Defense
+
+Partners
+
+Press Releases
+
+The Lab
+
+Feedback
+
+AVIONIC SOFTWARE PLATFORM
+
+-Advantage with Intel
+®
+ Processors-
+
+Introduction
+
+LYNX MOSA.ic™ uniquely leverages Intel virtualization-enabled multi-core processors to simplify software stack complexity and unlock rapid development and integration options. It is trailblazing the modernization of avionic software platform design conventions through landmark design wins in military and civil aircraft programs, greatly reducing the technical risk and certification costs for future programs. The technology champions open standards and modular composability to pass forward the cost savings benefits of open proprietary software component.
+
+Intel virtualization-enabled processor (VTx VTd)
+
+BENEFITS
+
+Unleash the performance of Intel CPUs with a fullfeatured, safety-certifiable platform
+
+Reduce NRE costs by rapidly porting any existing legacy code base to an open standard RTOS
+
+Reduce system complexity by decomposing monoliths into highly modularized architectures
+
+Improve real-time performance predictability through low-level hardware control
+
+Mitigate security vulnerabilities through extremely small footprint (<50 KB) trusted code-base
+
+Certify fewer source lines of code (SLOC) by partitioning functionality across multiple critical safety levels
+
+Certification
+
+FAA AC 20-148 Reusable Software Component (RSC) certified RTOS
+
+Intel-specific DO-178C DAL A RTOS and network stack quality artifacts
+
+Intel-specific CAST-32A multi-core certification support
+
+FEATURES
+
+RTOS open standards API support
+
+POSIX, FACE, ARINC 653
+
+DO-178C DAL A IPv6 network stack
+
+DO-178C DAL A filesystem
+
+Intel multi-core support
+
+Intel virtualization
+
+Intel cache partitioning
+
+Intel SR-IOV virtual network device support
+
+Legacy application integration
+
+Model-based system design
+
+GDB debugger
+
+RTOS real-time profiling
+
+Embedded Linux™ application development tools
+
+Bare-metal application development tools
+
+ACCELERATE SAFETY-CRITICAL DEVELOPMENT AND CERTIFICATION CYCLES
+
+In a traditional platform (left diagram), all hardware resources are owned by the real-time operating system (RTOS), which controls CPU cores, memory, and peripherals. It is a monolithic block of code that manages task scheduling, memory partitioning, and device I/O, all of which must be safety certified to the same level and bug-free to be secure. LYNX MOSA.ic™ (right) is based on the LynxSecure® separation kernel, which relies on Intel’s native hardware virtualization to do the heavy lifting. This creates efficient, tamper-proof, and non-bypassable virtual machines (VMs). Hardware resources are robustly partitioned into almost zero overhead VMs populated with a mix of OSes, RTOSes, and bare-metal applications. This partitioning allows systems to be built consisting of multiple safety levels, minimizing high design assurance levels (DALs).
+
+Traditional RTOS architecture vs LYNX MOSA.ic
+
+HARNESS THE POWER OF VIRTUALIZATION W/ INTEL AND LYNX
+
+FAA and EASA avionics certification authorities require all avionic software to comply with RTCA DO-178C development and CAST-32A multi-core certification guidelines. Supporting modern avionic software requirements is incredibly costly; testing alone for DO-178C compliance can cost real-time operating system (RTOS) vendors tens of millions of dollars for a modest set of features to meet Design Assurance Levels (DAL) C or higher. Multi-core integrity and timing analysis for airworthiness certification adds additional program costs and technical risk of comparable magnitude. Lynx is serving major new avionics programs to set new standards in compute capacity, high availability platform design for autonomous flight control. These programs have aided Lynx in achieving DO-178C DAL A quality standards for the LYNX MOSA.ic platform hosted on Intel processor and network controllers - Intel Atom Denverton SoC, Xeon Broadwell DE SoC, and soon to release Atom Elkhart Lake SoC.
+
+ACHIEVE DO-178C DAL A CERTIFICATION FASTER
+
+LYNX MOSA.ic takes advantage of Intel Virtualization Technology to construct VMs by mapping memory, peripherals, interrupts, and DMA to processor cores, resulting in almost zero overhead during context switches. This deep level of virtualization minimizes software stack complexity, while separation maximizes software security. The platform has achieved DO-178C DAL A quality standards, while its compartmentalized framework enables customers to reuse existing certifications for the DO-178C OS (via AC 20-148), with only new software modules needing to be certified. This cuts development costs and reduces time to deployment.
+
+SIMPLIFY SOFTWARE DESIGN W/ LYNX MOSA.ic
+
+LYNX MOSA.ic architecture revolutionizes traditional monolithic software resource management and I/O multiplexing by:
+
+Defining allocation of processor cores before run-time services are loaded
+
+Assigning hardware privileges and rights for specific system functionality to any guest operating system (OS)
+
+Precluding software components from modifying system partitioning or interfering in the operations of other software components
+
+Eliminating the need for a master / root / helper OS
+
+LYNX MOSA.ic software development tool suite includes: 
+
+Model-driven architecture design tools to guide the definition of architectural spatial and timing boundaries of system behavior
+
+Intuitive user model for controlling low-level hardware partitioning, such as cache partitioning and attributes, memory and I/O mapping, and interrupt signaling
+
+Traceability from system-level specification to low-level hardware allocations, facilitating integrity hazard analysis and worst-case execution timing (WCET) analysis
+
+Copyright © 2023 Lynx Software Technologies
+
+Privacy Policy

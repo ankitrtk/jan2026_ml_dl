@@ -1,0 +1,1887 @@
+URL: https://www.lynx.com/blog/securing-u-boot-a-guide-to-mitigating-common-attack-vectors
+
+Securing U-Boot: A Guide to Mitigating Common Attack Vectors
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+BLOG
+
+January 21, 2025
+
+Securing U-Boot: A Guide to Mitigating Common Attack Vectors
+
+by 
+Nathan Barrett-Morrison
+
+ embedded systems 
+,
+
+ development 
+
+Share
+
+What This Article Covers
+
+This article explains:
+
+how to extend trust beyond the first signed bootloader
+
+where U-Boot environment handling becomes a security liability
+
+which command paths commonly leave bypass opportunities open
+
+how a real-world U-Boot bypass can happen even when obvious boot paths are blocked
+
+what to review before deciding your implementation is production-ready
+
+The technical details matter, but the larger question is architectural: can your system still reach unauthenticated code through a path your secure boot design did not account for?
+
+Overview
+
+Updated for 2026:
+ The core U-Boot hardening problem has not gone away. What has changed is the surrounding risk environment. Connected-product manufacturers are preparing for stronger cybersecurity expectations, including the EU Cyber Resilience Act, whose reporting obligations begin in 2026 and whose broader product-security obligations apply in 2027. For embedded Linux products, that makes secure boot validation more than an implementation detail. Teams need to know whether the boot chain they describe in documentation is the boot chain the device actually enforces.
+
+Many embedded teams say they have implemented secure boot when what they really mean is that an early boot stage is signed. That is an important step, but it is not the same thing as having a complete chain of trust.
+
+In real fielded systems, U-Boot is often where that trust model quietly breaks down. A processor ROM may authenticate U-Boot correctly, but if U-Boot can still be used to boot unauthenticated software, alter the boot environment, or expose dangerous command paths, the system may remain vulnerable even though the team believes secure boot is already in place.
+
+We have commonly seen deployed embedded Linux systems with secure boot setups that still fail to mitigate direct execution of unauthenticated software from U-Boot. These failures are rarely caused by one dramatic mistake. More often, they come from normal development conveniences that were never fully removed or constrained before production.
+
+For engineering leaders, the business risk is straightforward: a secure boot implementation that looks complete on paper may still leave a practical path to unsigned code execution in the field. That can affect product integrity, compliance posture, incident response, customer trust, and the cost of later remediation. It can also make it harder to demonstrate that product security controls are implemented, maintained, and validated across the device lifecycle.
+
+To reduce that risk, U-Boot hardening should be reviewed across three areas:
+
+software authentication for later boot stages
+
+environment tamper resistance
+
+command-line and debug-surface limitation
+
+If you are new to these issues, you can skim the deeper example blocks first and come back to them later. The core point is simple: signing U-Boot is only the beginning. The rest of the boot flow still has to preserve trust.
+
+Software Authentication and Signing
+
+What this section covers:
+ how U-Boot verifies the next boot stages after the processor ROM has authenticated the first bootloader.
+
+Why it matters:
+ if the chain of trust stops at signed U-Boot, an attacker may still be able to load or execute unauthenticated components later in the boot flow.
+
+What to do with it:
+ compare this sequence to your own implementation and verify that the kernel, device tree, initramfs, and selected boot configuration are all actually covered by enforcement.
+
+First and foremost, make sure your first bootloader, meaning U-Boot, is signed and authenticated by your processor ROM through whatever mechanism your silicon vendor provides. On NXP processors, this is typically High Assurance Boot, or HAB. This article assumes that step has already been completed and focuses on the remaining problem: building a complete chain of trust for what comes next.
+
+Once signed U-Boot has started execution, U-Boot itself needs to check that the following boot stages are signed before booting into them. Some parts of this are processor-dependent, since some silicon vendors provide ROM-based APIs for authenticating signed binaries. Those specific mechanisms, such as NXP AHAB containerization, are outside the scope of this article, so we will stick to a common pattern.
+
+A common approach is to use a Flattened Image Tree, or FIT, to bundle the next boot stages together. U-Boot has built-in mainline mechanisms that can be used to sign and authenticate the entire FIT bundle before booting.
+
+A FIT image is defined by an Image Tree Source, or ITS, file. A simplified ITS file typically looks like this:
+
+/dts-v1/;
+/ {
+    description = "U-Boot fitImage for Poky (Yocto Project Reference Distro)/1.0/imx8qxp-b0-mek";
+        #address-cells = <1>;
+    images {
+        kernel-1 {
+            description = "Linux kernel";
+            data = /incbin/("Image");
+            type = "kernel";
+            arch = "arm64";
+            os = "linux";
+            compression = "none";
+            load = <0x80200000>;
+            entry = <0x80200000>;
+            hash-1 {
+                algo = "sha1";
+            };
+        };
+        fdt-1 {
+            description = "Flattened Device Tree blob";
+            data = /incbin/("imx8qxp-mek-ov5640-rpmsg.dtb");
+            type = "flat_dt";
+            arch = "arm64";
+            compression = "none";
+            load = <0x83000000>;
+            entry = <0x83000000>;
+            hash-1 {
+                algo = "sha1";
+            };
+        };
+        ramdisk-1 {
+            description = "timesys-initramfs-imx8qxp-b0-mek.cpio.gz";
+            data = /incbin/("timesys-initramfs-imx8qxp-b0-mek.cpio.gz");
+            type = "ramdisk";
+            arch = "arm64";
+            os = "linux";
+            compression = "gzip";
+            load = <0xd0000000>;
+            entry = <0xd0000000>;
+            hash-1 {
+                algo = "sha1";
+            };
+        };
+    };
+    configurations {
+        default = "conf-1";
+        conf-1 {
+            description = "Linux kernel, FDT blob, ramdisk";
+            kernel = "kernel-1";
+            fdt = "fdt-1";
+            ramdisk = "ramdisk-1";
+            hash-1 {
+                algo = "sha1";
+            };
+        };
+    };
+};
+
+In that structure, the main configuration node contains entries for the kernel, device tree, and initramfs. The ITS file is compiled into a fitImage file with:
+
+uboot-mkimage -D "-I dts -O dtb -p 2000" -f image.its fitImage
+
+Then the fitImage can be signed with:
+
+uboot-mkimage -D "-I dts -O dtb -p 2000" -F -k "/key_directory" -r fitImage
+
+Here, /key_directory contains the RSA key pair used for signing the image. Those keys can be generated with OpenSSL:
+
+cd /key_directory
+openssl genpkey -algorithm RSA -out dev.key -pkeyopt rsa_keygen_bits:2048 -pkeyopt rsa_keygen_pubexp:65537
+openssl req -batch -new -x509 -key dev.key -out dev.crt
+
+You’ll also need U-Boot to be set up for FIT image booting and signing, otherwise uboot-mkimage will throw an error:
+
+#ifdef CONFIG_FIT_SIGNATURE
+    fprintf(stderr,
+        "Signing / verified boot options: [-k keydir] [-K dtb] [ -c <comment>] [-p addr] [-r] ...\n"
+        "          -k => set directory containing private keys\n"
+        "          -K => write public keys to this .dtb file\n"
+        "          -G => use this signing key (in lieu of -k)\n"
+        "          -c => add comment in signature node\n"
+        "          -F => re-sign existing FIT image\n"
+        "          -p => place external data at a static position\n"
+        "          -r => mark keys used as 'required' in dtb\n"
+        "          -N => openssl engine to use for signing\n");
+#else
+    fprintf(stderr,
+        "Signing / verified boot not supported (CONFIG_FIT_SIGNATURE undefined)\n");
+#endif
+
+To do this, you can set these config options in U-Boot:
+
+CONFIG_SECURE_BOOT=y
+CONFIG_FIT=y
+CONFIG_FIT_SIGNATURE=y
+CONFIG_FIT_VERBOSE=y
+CONFIG_DEFAULT_FDT_FILE="u-boot-signed-devicetree.dtb"
+
+Then, once U-Boot is compiled, we can add the public key into U-Boot’s compiled DTB. To do that, we’ll first need to create a dummy FIT image using this dummy ITS file:
+
+/dts-v1/;
+/ {
+    description = "U-Boot Simple fitImage";
+    #address-cells = <1>;
+    images {
+        dummy-1 {
+            description = "dummy";
+            data = /incbin/("empty_placeholder_file");
+            type = "kernel";
+            arch = "arm";
+            os = "linux";
+            compression = "none";
+            load = <0x80008000>;
+            entry = <0x80008000>;
+            hash-1 {
+                algo = "sha1";
+            };
+        };
+    };
+    configurations {
+        default = "conf-1";
+        conf-1 {
+            description = "dummy";
+            dummy = "dummy-1";
+            hash-1 {
+                algo = "sha1";
+            };
+            signature-1 {
+                algo = "sha1,rsa2048";
+                key-name-hint = "dev";
+                sign-images = "dummy";
+            };
+        };
+    };
+};
+
+Note: it is important to have the signature-1 node inside the configuration node here, instead of putting signature nodes on each image piece. With this layout, all of the associated image hashes are contained within the configuration signature, so someone cannot swap in different signed images and perform a version rollback attack by changing one image/binary in your FIT bundle separately.
+
+We then package this dummy ITS into a file named simpleFitImage:
+
+uboot-mkimage -D "-I dts -O dtb -p 2000" -f simple.its simpleFitImage
+
+Then we can sign our actual U-Boot DTB, while using the simpleFitImage as a reference (for the signature-1 node):
+
+uboot-mkimage -D "-I dts -O dtb -p 2000" -F -k "/key_directory" -K imx8.dtb -r simpleFitImage
+
+If we decompile the resulting, signed DTB:
+
+dtc -I dtb -O dts -o imx8_decompiled.dts imx8.dtb
+
+Inside, we now see this node:
+
+signature {
+    key-dev {
+        required = "conf";
+        algo = "sha1,rsa2048";
+        rsa,r-squared = <0x26b42979 0xf91dba64 0x11c5cab5 0x8273b76e 0xdc7562f3 0xcdd3742c ... etc>;
+        rsa,modulus = <0xb4aac057 0xbddc7ce8 0x3c4d48b3 0x622d6e95 0xb09eb6c6 0xafc3c9d7 ... etc>;
+        rsa,exponent = <0x00 0x10001>;
+        rsa,n0-inverse = <0x5a7322b9>;
+        rsa,num-bits = <0x800>;
+        key-name-hint = "dev";
+    };
+};
+
+Now, when booting via
+
+bootm
+, if the signature is bad/missing you should see an error similar to this:
+
+## Loading kernel from FIT Image at ... ...
+   Using 'conf@1' configuration
+   Verifying Hash Integrity ... sha1,rsa2048:dev_bad- Failed to verify required signature 'key-dev'
+Bad Data Hash
+
+If there are no errors, each node should show a correct signature check similar to this:
+
+## Loading kernel from FIT Image at ... ...
+   Using 'conf-1' configuration
+   Verifying Hash Integrity ... sha1,rsa2048:dev+ OK
+   Trying 'kernel-1' kernel subimage
+
+U-Boot’s Environment Pitfalls
+
+What this section covers:
+ how U-Boot's environment-driven flexibility becomes a security problem in deployed systems.
+
+Why it matters:
+ if an attacker can interrupt autoboot, access the CLI, or modify stored environment variables, they may be able to bypass otherwise sound secure boot work.
+
+What to do with it:
+ review whether fielded devices still expose a mutable environment, serial access, or command paths that allow alternate execution routes.
+
+One reason U-Boot is so widely used is that the entire boot flow can be controlled through environment parameters. When U-Boot starts, it runs the command sequence listed in the bootcmd variable. By modifying that environment, developers can boot alternate images or make quick changes during board bring-up and debugging.
+
+In a field-deployed embedded system, that flexibility becomes a double-edged sword. You generally do not want someone to tamper with the environment and execute arbitrary U-Boot commands.
+
+Unfortunately, U-Boot does not provide a simple built-in way to sign, authenticate, or encrypt the environment. In practice, it is often easier to disable or constrain the other exploitable paths an attacker could use.
+
+To start, limit access to the U-Boot command-line interface through:
+
+disabling or password-protecting autoboot interruption
+
+disabling the serial console
+
+If your U-Boot environment never needs to change, you can avoid storing it in nonvolatile memory entirely by setting:
+
+CONFIG_ENV_IS_NOWHERE=y
+
+With those measures in place, there is little left for an attacker to turn to when trying to modify the environment. More cumbersome attacks, such as RAM injection via JTAG or similar interfaces, may still exist, but those should be reduced separately in accordance with the processor reference manual.
+
+If your environment does need to remain modifiable for update handling or similar workflows, things get trickier. Once the environment is stored in nonvolatile memory, you are exposed to offline tampering of the storage device. That can still be mitigated effectively by disabling dangerous U-Boot commands. If the enabled command set is benign and properly requires signed software without allowing arbitrary memory modification, the environment becomes much less useful as an attack path.
+
+With that context in place, the next sections cover the main hardening paths.
+
+Autoboot Interruption
+
+I’m sure you’ve seen it before… When U-Boot starts, the serial console displays a 3 second countdown. If you enter a keystroke, you’re taken to U-Boot’s command line interface. So, if this is left enabled, anyone with access to your serial pins can easily stop U-Boot’s autoboot sequence and tamper with everything that’s left available to them (environment modification, unprotected boot commands, etc).
+
+To disable autoboot interruption entirely, you’ll want to set this in your U-Boot configuration:
+
+CONFIG_BOOTDELAY=-2
+
+Note: This does not entirely prevent command prompt access. If a Linux/OS boot fails, U-boot may fall into the CLI. This is why it is still important to disable the serial console entirely. Or, at least patch U-Boot so that it will not enter the CLI after a failed autoboot sequence (appending the
+
+reset
+
+command to the end of your boot sequence can sometimes work as a fall through fail-safe).
+
+Autoboot Password Protection
+
+If disabling autoboot interruption is too extreme for your use case, you can add a sha256-backed interruption password. Be sure to make this string as long as possible, to avoid brute forcing (20+ characters!).
+
+This can be performed by enabling the following in your U-Boot configuration:
+
+CONFIG_AUTOBOOT_KEYED=y
+CONFIG_AUTOBOOT_ENCRYPTION=y
+CONFIG_AUTOBOOT_STOP_STR_SHA256="..."
+
+As previously mentioned, if a Linux/OS boot fails, U-boot may still open up the CLI. So, this does not necessarily offer full protection.
+
+Command Line Disablement
+
+You can also consider disabling the U-Boot command line by turning this off:
+
+# CONFIG_CMD_CMDLINE is not set
+
+Some downstream or older configurations may describe this differently, so verify the exact Kconfig symbol in the U-Boot branch you ship.
+
+In many cases, teams still want some CLI capability for configuration or update handling, so this is not always practical. But it is worth evaluating whether the fielded product genuinely needs an interactive CLI at all.
+
+With the command line disabled, commands fall into this path:
+
+__weak int board_run_command(const char *cmdline)
+{
+    printf("## Commands are disabled. Please enable CONFIG_CMDLINE.\n");
+    return 1;
+}
+
+Console Disablement
+
+To entirely disable the U-Boot console, append this to your defconfig:
+
+CONFIG_DISABLE_CONSOLE=y
+
+You’ll then need to set this in arch_cpu_init(or another corresponding function) to turn it on:
+
+gd->flags |= GD_FLG_SILENT | GD_FLG_DISABLE_CONSOLE;
+
+So for example,
+
+From: Nathan Barrett-Morrison <nathan.morrison@timesys.com>
+Subject: [PATCH] Disable u-boot console
+---
+ arch/arm/cpu/armv7/sc58x/soc.c | 2 ++
+ configs/sc589-ezkit_defconfig  | 1 +
+ 2 files changed, 3 insertions(+)
+diff --git a/arch/arm/cpu/armv7/sc58x/soc.c b/arch/arm/cpu/armv7/sc58x/soc.c
+index c4a4845114..87fa369de4 100644
+--- a/arch/arm/cpu/armv7/sc58x/soc.c
++++ b/arch/arm/cpu/armv7/sc58x/soc.c
+@@ -34,6 +34,8 @@ void v7_outer_cache_enable(void)
+
+ int arch_cpu_init(void)
+ {
++     gd->flags |= GD_FLG_SILENT | GD_FLG_DISABLE_CONSOLE;
++
+ #ifdef CONFIG_DEBUG_EARLY_SERIAL
+     return serial_early_init();
+ #else
+diff --git a/configs/sc589-ezkit_defconfig b/configs/sc589-ezkit_defconfig
+index 7b978aeded..4da70a8f8f 100644
+--- a/configs/sc589-ezkit_defconfig
++++ b/configs/sc589-ezkit_defconfig
+@@ -27,3 +27,4 @@ CONFIG_SPI=y
+ CONFIG_USB=y
+ CONFIG_USB_MUSB_HCD=y
+ CONFIG_OF_LIBFDT=y
++CONFIG_DISABLE_CONSOLE=y
+
+Kernel Command Line Parameters
+
+What this section covers:
+ validating the kernel arguments U-Boot passes downstream.
+
+Why it matters
+: if bootargs can be changed, an attacker may be able to pass unexpected parameters to drivers or set init= or rdinit= to /bin/sh and gain shell access.
+
+What to do with it:
+ decide whether your deployment should enforce exact expected bootargs values rather than trusting a mutable environment.
+
+One straightforward approach is to check that bootargs matches a known-good string. If you have two acceptable argument sets, the logic can look like this:
+
+From: Nathan Barrett-Morrison <nathan.morrison@timesys.com>
+Subject: [PATCH] Add in basic tamper detection for u-boot's bootargs variable,
+ so that someone can not modify kernel boot arguments
+---
+ common/bootm.c | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+diff --git a/common/bootm.c b/common/bootm.c
+index db4362a643..ca913ce945 100644
+--- a/common/bootm.c
++++ b/common/bootm.c
+@@ -524,6 +524,14 @@ int do_bootm_states(cmd_tbl_t *cmdtp, int flag, int argc, char * const argv[],
+     boot_os_fn *boot_fn;
+     ulong iflag = 0;
+     int ret = 0, need_boot_fn;
++    static char* bootargs_a = "root=/dev/mmcblk2p2 console=ttymxc0,115200 rootwait rw";
++    static char* bootargs_b = "root=/dev/mmcblk2p3 console=ttymxc0,115200 rootwait rw";
++    char* bootargs = env_get("bootargs");
++
++    if( (strcmp(bootargs_a, bootargs) != 0) && (strcmp(bootargs_b, bootargs) != 0) ){
++        printf("\nDetected tampering of bootargs: blocking...\n");
++        while(1);
++    }
+
+     images->state |= states;
+
+The exact enforcement strategy may vary, but the principle is the same: do not allow a mutable environment to silently change how the kernel is invoked.
+
+Concerning Commands
+
+Even with signing in place, certain U-Boot commands materially expand the attack surface. The list below is not comprehensive, but it is a good starting point for command review.
+
+U-Boot Configuration
+
+Description
+
+CONFIG_CMD_GO
+
+This is the equivalent of an assembly jump/branch operation. It allows an attacker to change execution to any arbitrary address.
+
+CONFIG_CMD_BOOTI
+CONFIG_CMD_BOOTZ
+CONFIG_CMD_BOOTEFI
+CONFIG_CMD_ELF
+CONFIG_CMD_ABOOTIMG
+CONFIG_CMD_ADTIMG
+
+Assuming we’re using the signed FIT image strategy, these should be disabled (as FIT uses CMD_BOOTM only). These commands open alternate boot paths (booti, bootz, bootelf, bootvx, bootefi, android boot images)
+
+CONFIG_CMD_MEMORY
+
+Enables memory dumping (md), memory writing (mw), and other memory operations
+
+CONFIG_CMD_SMC
+CONFIG_CMD_HVC
+
+Enables injecting secure monitor calls. This could be concerning if you’re using ATF-A + OP-TEE
+
+CONFIG_CMD_NET
+CONFIG_CMD_USB
+CONFIG_USB_STORAGE
+CONFIG_CMD_BOOTP
+CONFIG_CMD_TFTPBOOT
+
+These can be used to externally load images from USB devices, network transfers, etc
+
+CONFIG_CMD_REMOTEPROC
+CONFIG_CMD_ICC
+CONFIG_CMD_FPGA
+
+Enables controlling secondary cores and FPGAs
+
+CONFIG_CMD_IMI
+
+Enables dumping image info (iminfo)
+
+CONFIG_CMD_I2C
+CONFIG_CMD_SPI
+
+Leaving this enabled may allow an attacker to modify your I2C/SPI/etc devices. This could give access to sorts of devices, including power management units.
+
+CONFIG_CMD_DIAG
+CONFIG_CMD_IRQ
+CONFIG_CMD_BDI
+and more
+
+I would classify these as unnecessary information leakage. While not explicitly bad, they may give an attacker information you don’t want them to have (such as stack pointer locations, memory sizes, etc).
+
+Again, this is not a complete list. In fact, it ultimately may be better to create a whitelist of known, acceptable commands and blacklist everything else. If you don’t need a command, disable it!
+
+Also, given we’re booting via a signed FIT image, this uses the
+
+bootm
+
+command. I like to further secure this command by deleting any alternate boot paths from the code (in case someone mistakenly leaves the associated CONFIG options enabled).
+
+To make sure
+
+bootm
+
+requires an authenticated FIT image, I do the following:
+
+From: Nathan Barrett-Morrison <nathan.morrison@timesys.com>
+Subject: [PATCH] Make FIT the only bootm option
+---
+ cmd/bootm.c | 13 ++-----------
+ 1 file changed, 2 insertions(+), 11 deletions(-)
+diff --git a/cmd/bootm.c b/cmd/bootm.c
+index 03ea3b8998..d164f71572 100644
+--- a/cmd/bootm.c
++++ b/cmd/bootm.c
+@@ -163,17 +163,8 @@ int do_bootm(cmd_tbl_t *cmdtp, int flag, int argc, char * const argv[])
+ #else
+
+     switch (genimg_get_format((const void *)image_load_addr)) {
+-#if defined(CONFIG_LEGACY_IMAGE_FORMAT)
+-    case IMAGE_FORMAT_LEGACY:
+-        if (authenticate_image(image_load_addr,
+-            image_get_image_size((image_header_t *)image_load_addr)) != 0) {
+-            printf("Authenticate uImage Fail, Please check\n");
+-            return 1;
+-        }
+-        break;
+-#endif
+-#ifdef CONFIG_ANDROID_BOOT_IMAGE
+-    case IMAGE_FORMAT_ANDROID:
++#ifdef CONFIG_FIT
++    case IMAGE_FORMAT_FIT:
+         /* Do this authentication in boota command */
+         break;
+ #endif
+
+In newer versions of U-Boot, most this logic has moved to common/bootm.c, under
+
+boot_get_kernel()
+
+and
+
+bootm_find_os()
+.
+
+Real-World Example: When the Obvious Paths Are Blocked
+
+What this section covers:
+ how one real board still exposed a bypass path even though other hardening work had already been done.
+
+Why it matters:
+ this is the practical gap teams miss. A board can look secure in several obvious ways and still allow unauthenticated execution through a less obvious command path.
+
+What to do with it:
+ review your own fielded devices for residual commands and alternate boot flows, not just the expected or documented boot path.
+
+Customers commonly send boards with field deployment issues, and many of those boards have already been permanently secured using some form of secure boot technology. In those cases, asking for possession of customer private keys is often undesirable because it expands the customer's attack surface. That means engineers are sometimes left in a position where it would be useful to run new software but impossible to do so through the intended signed path.
+
+Sometimes the answer is to wait for the customer to sign a new image. Sometimes the answer is that an unintended execution path still exists.
+
+On one recent board, the initial boot looked like this:
+
+U-Boot dub-2017.03-r11.2+gf9055c2 (Mar 14 2022 - 12:42:45 +0000)
+CPU:   Freescale i.MX6DL rev1.3 at 792MHz
+CPU:   Industrial temperature grade (-40C to 105C) at 35C
+Reset cause: POR
+I2C:   ready
+DRAM:  512 MiB
+MMC:   FSL_SDHC: 0, FSL_SDHC: 1
+In:    serial
+Out:   serial
+Err:   serial
+Model: ...
+Board: ...
+Boot device: MMC4
+PMIC:  DA9063, Device: 0x61, Variant: 0x60, Customer: 0x00, Config: 0x56
+Net:   Board Net Initialization Failed
+No ethernet found.
+Hit any key to stop autoboot:  0 
+=>
+
+The board had an external SD card slot, so the first question was whether the MMC boot device could be changed from internal eMMC to external SD card:
+
+=> mmc dev 0
+switch to partitions #0, OK
+mmc0(part 0) is current device
+=> mmc dev 1
+switch to partitions #0, OK
+mmc1 is current device
+
+Changing devices worked, but changing the boot device variable did not:
+
+=> printenv bootcmd
+bootcmd=if run loadscript; then setexpr bs_ivt_offset ${filesize} - 0x4020;if hab_auth_img ${loadaddr} ${bs_ivt_offset}; then source ${loadaddr};fi; fi;
+=> printenv loadscript
+loadscript=load mmc ${mmcbootdev}:${mmcpart} ${loadaddr} ${script}
+=> printenv mmcbootdev
+mmcbootdev=0
+=> editenv mmcbootdev
+edit: 1
+## Error: Can't overwrite "mmcbootdev"
+## Error inserting "mmcbootdev" variable, errno=1
+
+That suggested the board had been hardened against changing the MMC boot device. So the next question was whether a modified boot command could be run directly from the SD card instead.
+
+The board also rejected an unsigned kernel boot attempt:
+
+=> fatls mmc 1:1
+  5710976   zImage-imx6.bin
+    51503   zImage-imx6dl-imx6.dtb
+     2430   boot.scr 
+
+=> fatload mmc 1:1 ${loadaddr} zImage-imx6.bin
+reading zImage-imx6.bin
+5710976 bytes read in 289 ms (18.8 MiB/s)
+=> printenv loadaddr
+loadaddr=0x12000000
+=> fatload mmc 1:1 0x18000000 zimage-imx6dl.dtb
+reading zimage-imx6dl-ccimx6-iotest.dtb
+51503 bytes read in 31 ms (1.6 MiB/s)
+=> bootz 0x12000000 - 0x18000000                          
+Kernel image @ 0x12000000 [ 0x000000 - 0x572480 ]
+## Flattened Device Tree blob at 18000000
+   Booting using the fdt blob at 0x18000000
+   Authenticating image from DDR location 0x18000000... FAILED!
+hab entry function fail
+Secure boot enabled
+
+At that point, the obvious path looked blocked. But one residual command remained:
+
+=> go
+go - start application at address 'addr'
+Usage:
+go addr [arg ...]
+    - start application at address 'addr'
+      passing 'arg' as arguments
+
+go
+
+was left enabled on this board and most likely does not contain any signature checking.
+
+Let’s try to jump into a custom built U-Boot version using go. First, let’s dump some memory info.
+
+=> bdinfo
+arch_number = 0x00001323
+boot_params = 0x10000100
+DRAM bank   = 0x00000000
+-> start    = 0x10000000
+-> size     = 0x20000000
+current eth = unknown
+ip_addr     = 192.168.42.30
+baudrate    = 115200 bps
+TLB addr    = 0x2FFF0000
+relocaddr   = 0x2FF4E000
+reloc off   = 0x1874E000
+irq_sp      = 0x2EF3DBA0
+sp start    = 0x2EF3DB90
+Early malloc usage: ec / 400
+
+Okay, so they have 512MB of RAM ranging from 0x10000000 to 0x30000000. We can see most of U-Boot has also been relocated to the upper region of memory. This is important to know, as booting another instance of U-Boot requires not trampling over the current stack/bss/etc.
+
+Lets trick U-Boot into thinking it only has 256MB of RAM and rearrange some addresses so the new instance of U-Boot will not overlap any of these regions:
+
+From: Nathan Barrett-Morrison <nathan.morrison@timesys.com>
+Subject: [PATCH] Allow U-Boot to boot from another currently running version
+ of U-Boot via 'go'
+---
+ arch/arm/imx-common/hab.c       | 4 ++++
+ board/vendor/imx6/imx6.c      | 2 +-
+ common/board_f.c                | 7 ++++---
+ common/board_r.c                | 4 ++++
+ include/configs/imx6_common.h | 5 ++++-
+ 5 files changed, 17 insertions(+), 5 deletions(-)
+diff --git a/arch/arm/imx-common/hab.c b/arch/arm/imx-common/hab.c
+index fc970641d1..ec699967c8 100644
+--- a/arch/arm/imx-common/hab.c
++++ b/arch/arm/imx-common/hab.c
+@@ -629,6 +629,10 @@ static int validate_ivt(int ivt_offset, ulong start_addr)
+
+ uint32_t authenticate_image(uint32_t ddr_start, uint32_t image_size)
+ {
++    //Disable HAB security!    
++    //Always return true, even for unauthenticated images
++    return 1;
++
+     ulong load_addr = 0;
+     size_t bytes;
+     ptrdiff_t ivt_offset = 0;
+diff --git a/board/vendor/imx6/imx6.c b/board/vendor/imx6/imx6.c
+index 3ec90f0369..58d580eb21 100644
+--- a/board/vendor/imx6/imx6.c
++++ b/board/vendor/imx6/imx6.c
+@@ -252,7 +252,7 @@ static struct imx6_variant imx6_variants[] = {
+ /* 0x13 - 55001818-19 */
+     {
+         IMX6DL,
+-        MEM_512MB,
++        MEM_256MB,
+diff --git a/common/board_f.c b/common/board_f.c
+index 7e40a35bb1..1e87cd1b89 100644
+--- a/common/board_f.c
++++ b/common/board_f.c
+@@ -359,13 +359,14 @@ static int setup_dest_addr(void)
+      * thie mechanism. If memory is split into banks, addresses
+      * need to be calculated.
+      */
+-    gd->ram_size = board_reserve_ram_top(gd->ram_size);
++    //Force the RAM size to 256MB
++    gd->ram_size = 0x10000000;
+
+ #ifdef CONFIG_SYS_SDRAM_BASE
+     gd->ram_top = CONFIG_SYS_SDRAM_BASE;
+ #endif
+-    gd->ram_top += get_effective_memsize();
+-    gd->ram_top = board_get_usable_ram_top(gd->mon_len);
++    //Force the top of RAM to be at 0x20000000 instead of 0x30000000
++    gd->ram_top = 0x20000000;
+     gd->relocaddr = gd->ram_top;
+     debug("Ram top: %08lX\n", (ulong)gd->ram_top);
+ #if defined(CONFIG_MP) && (defined(CONFIG_MPC86xx) || defined(CONFIG_E500))
+diff --git a/common/board_r.c b/common/board_r.c
+index 2b14e3d9f8..14747f1b4b 100644
+--- a/common/board_r.c
++++ b/common/board_r.c
+@@ -487,6 +487,10 @@ static int should_load_env(void)
+
+ static int initr_env(void)
+ {
++    //Always use the default environment -- don't read from nonvolatile storage
++    set_default_env(NULL);
++    return 0;
++
+     /* initialize environment */
+     if (should_load_env())
+         env_relocate();
+diff --git a/include/configs/imx6_common.h b/include/configs/imx6_common.h
+index 7061a473d8..c21b0926ce 100644
+--- a/include/configs/imx6_common.h
++++ b/include/configs/imx6_common.h
+@@ -41,11 +41,14 @@
+ /*
+  * RAM
+  */
++//Limit the amount of memory we're allowed to map to 256MB
++#define CONFIG_MAX_MEM_MAPPED       0x10000000
+ #define CONFIG_LOADADDR             0x12000000
+ #define CONFIG_SYS_LOAD_ADDR        CONFIG_LOADADDR
+ #define CONFIG_DIGI_LZIPADDR        0x15000000
+ #define CONFIG_DIGI_UPDATE_ADDR     CONFIG_LOADADDR
+-#define CONFIG_SYS_TEXT_BASE        0x17800000
++//Move the starting text base to a lower region
++#define CONFIG_SYS_TEXT_BASE        0x12800000
+ /* RAM memory reserved for U-Boot, stack, malloc pool... */
+ #define CONFIG_UBOOT_RESERVED       (10 * 1024 * 1024)
+ /* Size of malloc() pool */
+
+Now, we build and store this U-Boot image on our SD card at an offset of 0x1000. Along with our custom Linux kernel, DTB, and file system.
+
+U-Boot 2017.03-r11.2+gf9055c2 (Mar 14 2022 - 12:42:45 +0000)
+...
+=> mmc dev 1; mmc read 0x12800000 8 1000; go 0x12800000
+U-Boot 2017.03-r2.3+g2002510765 (Mar 31 2022 - 22:52:18 +0000)
+...
+=> 
+
+We’ve done it! We’re running an unsigned version of U-Boot!
+
+Finishing the chain, we can boot all the way into Linux via:
+
+U-Boot 2017.03-r2.3+g2002510765 (Mar 31 2022 - 22:52:18 +0000)
+...
+=> setenv mmc dev 1; setenv mmcroot /dev/mmcblk1p2; run mmcboot
+Yocto 2.4-r3 imx6 /dev/ttymxc3
+imx6 login: root
+root@imx6:~# whoami
+root
+
+That is the practical lesson. A board can reject obvious unsigned kernel boot attempts and still be bypassed through a less obvious residual command path.
+
+For product teams, this is why a secure boot review cannot stop at the nominal boot path. The review has to include every remaining command, fallback behavior, update path, debug interface, and recovery mechanism that could become an alternate route to code execution.
+
+Command Whitelisting
+
+What this section covers:
+ a practical whitelist approach for teams that cannot disable the U-Boot CLI entirely.
+
+Why it matters:
+ some products still need a limited operational CLI, but a broad command set leaves too many options available to attackers and support personnel alike.
+
+What to do with it:
+ if you cannot remove the CLI, narrow it aggressively and require an authentication mechanism before exposing more powerful commands.
+
+If you have a known subset of commands that are considered safe, a whitelist can be added to cmd_call():
+
+From: Nathan Barrett-Morrison <nathan.morrison@timesys.com>
+Subject: [PATCH] Lockdown U-boot to allow only a whitelist of commands to be
+ used
+---
+ common/command.c                  | ...
+diff --git a/common/command.c b/common/command.c
+index 0d8bf244be..125dabd162 100644
+--- a/common/command.c
++++ b/common/command.c
+@@ -13,6 +13,7 @@
+ #include <console.h>
+ #include <env.h>
+ #include <linux/ctype.h>
++#include <u-boot/sha256.h>
+
+ /*
+  * Use puts() instead of printf() to avoid printf buffer overflow
+@@ -556,6 +557,42 @@ int cmd_discard_repeatable(cmd_tbl_t *cmdtp, int flag, int argc,
+     return cmdtp->cmd_rep(cmdtp, flag, argc, argv, &repeatable);
+ }
+
++//Create a whitelist of commands that can always be run inside U-Boot
++static char * customer_whitelist_table[] = {
++    "run",
++    "echo",
++    "bmode",
++    "fastboot",
++    "setenv",
++    "saveenv",
++    "mmc",
++    "bootm",
++    "ext4load",
++    "customer_authenticate",
++};
++
++#define CUSTOMER_WHITELIST_LENGTH ARRAY_SIZE(customer_whitelist_table)
++
++extern bool imx_hab_is_enabled(void);
++
++//Check if the current function name is within the whitelist
++static int customer_cmd_whitelist(char * name)
++{
++    if (imx_hab_is_enabled()){
++        for(int i = 0; i < CUSTOMER_WHITELIST_LENGTH; i++)
++        {
++            if(strcasecmp(customer_whitelist_table[i], name) == 0)
++            {
++                return 0;
++            }
++        }
++        printf("CUSTOMER Error: Attempted to run %s while unauthenticated\r\n", name);
++        return -1;
++    }else{
++        return 0;
++    }
++}
++
+ /**
+  * Call a command function. This should be the only route in U-Boot to call
+  * a command, so that we can track whether we are waiting for input or
+@@ -571,6 +608,13 @@ int cmd_discard_repeatable(cmd_tbl_t *cmdtp, int flag, int argc,
+ static int cmd_call(cmd_tbl_t *cmdtp, int flag, int argc, char * const argv[],
+             int *repeatable)
+ {
++    //Only execute commands if they're in the whitelist or we're authenticated
++    if(customer_authentication != 1){
++        if(customer_cmd_whitelist(cmdtp->name) != 0){
++            return -1;
++        }
++    }
++
+     int result;
+
+     result = cmdtp->cmd_rep(cmdtp, flag, argc, argv, repeatable);
+
+Note:
+
+imx_hab_is_enabled()
+
+is checking if secure boot is enabled on an NXP processor and will vary for you. Also, customer_authentication is another command that I will discuss more below. It’s used to give our customers the ability to disable the whitelist if a password is entered.
+
+In cases where our customers do not want the entire CLI disabled, this will allow them to enter the CLI and then run ‘customer_authenticate password’ in order to bypass the whitelist and unlock all of U-Boot’s commands.
+
+To do this, we’ll first enable autoboot password interruption again:
+
+CONFIG_AUTOBOOT_KEYED=y
+CONFIG_AUTOBOOT_ENCRYPTION=y
+CONFIG_AUTOBOOT_STOP_STR_SHA256="..."
+
+We then modify the passwd_abort_sha256 function to allow us to externally hook into it by passing in a password string. This string will be what is sent in from the password portion of ‘customer_authenticate password’.
+
+From: Nathan Barrett-Morrison <nathan.morrison@timesys.com>
+Subject: [PATCH] Modify passwd_abort_sha256 so we can pass in an arbitrary password for verification
+---
+ common/autoboot.c                 | ...
+diff --git a/common/autoboot.c b/common/autoboot.c
+index 0a59b81ae2..13ea153531 100644
+--- a/common/autoboot.c
++++ b/common/autoboot.c
+@@ -75,7 +75,7 @@ static int slow_equals(u8 *a, u8 *b, int len)
+  * @etime: Timeout value ticks (stop when get_ticks() reachs this)
+  * @return 0 if autoboot should continue, 1 if it should stop
+  */
+-static int passwd_abort_sha256(uint64_t etime)
++static int passwd_abort_sha256(uint64_t etime, char * password)
+ {
+     const char *sha_env_str = env_get("bootstopkeysha256");
+     u8 sha_env[SHA256_SUM_LEN];
+@@ -109,32 +109,57 @@ static int passwd_abort_sha256(uint64_t etime)
+      * generate the sha256 hash upon each input character and
+      * compare the value with the one saved in the environment
+      */
+-    do {
+-        if (tstc()) {
+-            /* Check for input string overflow */
+-            if (presskey_len >= MAX_DELAY_STOP_STR) {
+-                free(presskey);
+-                free(sha);
+-                return 0;
+-            }
+
+-            presskey[presskey_len++] = getc();
++    if(password != NULL){
++        //This adds in ability to verify an arbitrary password string
+
+-            /* Calculate sha256 upon each new char */
+-            hash_block(algo_name, (const void *)presskey,
+-                   presskey_len, sha, &size);
++        /* Calculate sha256 upon each new char */
++        hash_block(algo_name, (const void *)password,
++               strlen(password), sha, &size);
+
+-            /* And check if sha matches saved value in env */
+-            if (slow_equals(sha, sha_env, SHA256_SUM_LEN))
+-                abort = 1;
+-        }
+-    } while (!abort && get_ticks() <= etime);
++        /* And check if sha matches saved value in env */
++        if (slow_equals(sha, sha_env, SHA256_SUM_LEN))
++            abort = 1;
++    }else{
++        do {
++            if (tstc()) {
++                /* Check for input string overflow */
++                if (presskey_len >= MAX_DELAY_STOP_STR) {
++                    free(presskey);
++                    free(sha);
++                    return 0;
++                }
++
++                presskey[presskey_len++] = getc();
++
++                /* Calculate sha256 upon each new char */
++                hash_block(algo_name, (const void *)presskey,
++                       presskey_len, sha, &size);
++
++                /* And check if sha matches saved value in env */
++                if (slow_equals(sha, sha_env, SHA256_SUM_LEN))
++                    abort = 1;
++            }
++        } while (!abort && get_ticks() <= etime);
++    }
+
+     free(presskey);
+     free(sha);
++
++    //1 = Authentication successful
++    //0 = Authentication failed
++    customer_authentication = abort;
++
+     return abort;
+ }
+
++//New function to allow us to hook pre-existing password
++//verification infrastructure with a passed string pointer
++int passwd_abort_sha256_string(char * password)
++{
++    passwd_abort_sha256(0, password);
++}
++
+
+On this NXP processor, I also modified the autoboot interruption password to only be enabled while secure boot (HAB) is enabled. So, during development, you can still easily interrupt U-Boot with a single keystroke.
+
+From: Nathan Barrett-Morrison <nathan.morrison@timesys.com>
+Subject: [PATCH] Only check the autoboot password if HAB is enabled
+ common/autoboot.c                 | ...
+...
+ /**
+  * passwd_abort_key() - check for a key sequence to aborted booting
+  *
+@@ -189,6 +214,7 @@ static int passwd_abort_key(uint64_t etime)
+      */
+     do {
+         if (tstc()) {
++            return 1; //Abort if any key is pressed (until HAB fuses are burned)
+             if (presskey_len < presskey_max) {
+                 presskey[presskey_len++] = getc();
+             } else {
+@@ -220,6 +246,8 @@ static int passwd_abort_key(uint64_t etime)
+     return abort;
+ }
+
++extern bool imx_hab_is_enabled(void);
++
+ /***************************************************************************
+  * Watch for 'delay' seconds for autoboot stop or autoboot delay string.
+  * returns: 0 -  no key string, allow autoboot 1 - got key string, abort
+@@ -236,9 +264,8 @@ static int abortboot_key_sequence(int bootdelay)
+      */
+     printf(CONFIG_AUTOBOOT_PROMPT, bootdelay);
+ #  endif
+-
+-    if (IS_ENABLED(CONFIG_AUTOBOOT_ENCRYPTION))
+-        abort = passwd_abort_sha256(etime);
++    if (imx_hab_is_enabled() && IS_ENABLED(CONFIG_AUTOBOOT_ENCRYPTION))
++        abort = passwd_abort_sha256(etime, NULL);
+     else
+         abort = passwd_abort_key(etime);
+     if (!abort)
+
+And finally, we can add in the customer_authenticate command via this patch:
+
+From: Nathan Barrett-Morrison <nathan.morrison@timesys.com>
+Subject: [PATCH] Add in customer_authenticate
+---
+ cmd/Makefile                      | ...
+ cmd/customer.c                    | ...
+ include/u-boot/sha256.h           | ...
+diff --git a/cmd/Makefile b/cmd/Makefile
+index 7c62e3becf..9a2836d8fb 100644
+--- a/cmd/Makefile
++++ b/cmd/Makefile
+@@ -155,6 +155,10 @@
+ obj-$(CONFIG_CMD_FASTBOOT) += fastboot.o
+ obj-$(CONFIG_CMD_FS_UUID) += fs_uuid.o
+
+ obj-$(CONFIG_CMD_USB_MASS_STORAGE) += usb_mass_storage.o
++
++# Customer - Customer Custom Commands
++obj-y += customer.o
++
+ obj-$(CONFIG_CMD_USB_SDP) += usb_gadget_sdp.o
+ obj-$(CONFIG_CMD_THOR_DOWNLOAD) += thordown.o
+ obj-$(CONFIG_CMD_XIMG) += ximg.o
+diff --git a/cmd/customer.c b/cmd/customer.c
+new file mode 100644
+index 0000000000..d02e0bd4ae
+--- /dev/null
++++ b/cmd/customer.c
+@@ -0,0 +1,31 @@
++/*
++ * Copyright 2000-2009
++ * Wolfgang Denk, DENX Software Engineering, wd@denx.de.
++ *
++ * SPDX-License-Identifier:    GPL-2.0+
++ */
++
++#include <common.h>
++#include <command.h>
++#include <u-boot/sha256.h>
++
++uint8_t customer_authentication = 0;
++
++static int do_customer_authenticate(cmd_tbl_t *cmdtp, int flag, int argc, char * const argv[])
++{
++    if (argc > 1){
++        passwd_abort_sha256_string(argv[1]);
++        if(customer_authentication){
++            printf("Customer: Authentication Successful\r\n");
++        }else{
++            printf("Customer: Authentication Failed\r\n");
++        }
++    }
++    return 0;
++}
++
++U_BOOT_CMD(
++    customer_authenticate,    2,    1,    do_customer_authenticate,
++    "Command Authentication for Customer",
++    ""
++);
+diff --git a/include/u-boot/sha256.h b/include/u-boot/sha256.h
+index 6fbf542f67..6ae12193dc 100644
+--- a/include/u-boot/sha256.h
++++ b/include/u-boot/sha256.h
+@@ -5,6 +5,7 @@
+ #define SHA256_DER_LEN    19
+
+ extern const uint8_t sha256_der_prefix[];
++extern uint8_t customer_authentication;
+
+ /* Reset watchdog each time we process this many bytes */
+ #define CHUNKSZ_SHA256    (64 * 1024)
+@@ -25,4 +26,7 @@ void sha256_csum_wd(const unsigned char *input, unsigned int ilen,
+ void sha256_hmac(const unsigned char *key, int keylen,
+         const unsigned char *input, unsigned int ilen,
+         unsigned char *output);
++
++extern int passwd_abort_sha256_string(char * password);
++
+ #endif /* _SHA256_H */
+
+On this particular board, fastboot was left enabled as well. So, we’ll want to further lock down fastboot by incorporating our customer_authenticate mechanism:
+
+From: Nathan Barrett-Morrison <nathan.morrison@timesys.com>
+Subject: [PATCH] Lockdown fastboot commands as well
+---
+ drivers/fastboot/fb_command.c | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+diff --git a/drivers/fastboot/fb_command.c b/drivers/fastboot/fb_command.c
+index 3c4acfecf6..1fdb7544c0 100644
+--- a/drivers/fastboot/fb_command.c
++++ b/drivers/fastboot/fb_command.c
+@@ -108,6 +108,15 @@ int fastboot_handle_command(char *cmd_string, char *response)
+
+     for (i = 0; i < FASTBOOT_COMMAND_COUNT; i++) {
+         if (!strcmp(commands[i].command, cmd_string)) {
++
++            //If not authenticated, this disables all commands except UCmd.
++            //UCmd must remain available to allow for "ucmd customer_authenticate <password>" authentication
++            if(customer_authenticate != 1){
++                if(strcasecmp(commands[i].command, "UCmd:") != 0){
++                    break;
++                }
++            }
++
+             if (commands[i].dispatch) {
+                 commands[i].dispatch(cmd_parameter,
+                             response);
+
+What a Manager Should Take Away
+
+The technical details above can be dense, but the management question is simple: has your secure boot implementation been validated against the ways a real device can actually be used, misused, recovered, updated, and debugged?
+
+A team may have completed several important tasks and still not be finished. For example, the implementation may include:
+
+a signed first-stage bootloader
+
+a fused secure boot configuration
+
+a signed kernel image
+
+basic environment protections
+
+Those are all useful controls. But they do not prove that the device lacks alternate execution paths. A practical review still needs to check what happens through serial access, failed boot fallback, environment storage, removable media, network loading, fastboot, command whitelists, memory commands, and board-specific recovery behavior.
+
+This matters even more in the 2026 planning window. Regulations such as the Cyber Resilience Act do not turn U-Boot configuration into a simple checkbox, and they do not prescribe one universal bootloader setup. But they do raise the importance of being able to show that product security controls are implemented, maintained, and validated. A secure boot claim is much stronger when the team can demonstrate that U-Boot cannot be used to bypass authentication through environment tampering, alternate boot commands, debug access, recovery paths, or unsafe update workflows.
+
+This is where outside review can help. Teams that work on the implementation every day often know the intended path very well. The risk tends to live in the unintended paths: the command that stayed enabled, the recovery mechanism nobody classified as a boot path, the update convenience that became a field bypass, or the environment variable that still changes too much.
+
+A good U-Boot security review should answer three questions:
+
+Is the chain of trust technically complete?
+U-Boot should authenticate what comes next, and the selected kernel, device tree, ramdisk, and boot configuration should be protected together.
+
+Are the alternate paths actually closed?
+Dangerous commands, mutable bootargs, external loading paths, and fallback CLI behavior should be disabled, constrained, or authenticated.
+
+Can the product still be serviced safely?
+Update, recovery, manufacturing, and support workflows should be designed so they do not quietly undermine production security.
+
+Can the implementation be defended as evidence, not just intent?
+Product teams should be able to point to the actual enforced boot paths, command restrictions, signing policy, recovery behavior, and update process rather than relying on the broad statement that “secure boot is enabled.”
+
+What To Check In Your Own Implementation
+
+If you are reviewing your own U-Boot implementation, these are the practical questions to ask:
+
+Is U-Boot itself signed and authenticated by the processor ROM?
+
+Does U-Boot enforce authentication on the next boot stages, not just the first one?
+
+Are configuration-level FIT signatures used so the selected kernel, device tree, ramdisk, and configuration are protected together?
+
+Can bootargs be modified to produce unexpected runtime behavior?
+
+Is autoboot interruption still available on fielded devices?
+
+Does a failed OS boot drop into an exposed CLI?
+
+Is the environment stored in nonvolatile memory, and if so, what can a modified environment still do?
+
+Are dangerous commands such as go, alternate boot commands, network boot, memory access, or device-control interfaces still enabled?
+
+If a CLI must remain, is the allowed command set aggressively narrowed?
+
+Do update, recovery, and support workflows preserve the same trust model as normal boot?
+
+If the answer to any of those questions is uncertain, that uncertainty is worth resolving before the product is treated as hardened.
+
+Conclusion
+
+The hardest part of secure boot is not signing one artifact. It is making sure there is no practical bypass path left between boot stages, environment handling, command exposure, update flow, debug access, recovery behavior, and field configuration.
+
+That is why U-Boot hardening matters. Many teams have done enough work to feel close to finished, but not enough to be confident that unauthenticated execution paths are actually gone. In 2026, that gap is harder to treat as a purely internal engineering concern. Product-security expectations are moving toward lifecycle accountability, vulnerability handling, and evidence that controls work as intended.
+
+If your team is already deep in implementation details, the next step may be to review your broader secure boot and system integrity architecture, especially around environment handling and residual command exposure.
+
+If you are not fully sure whether your current process is covered, not covered, or simply not well validated, start with the Security and Compliance Gap Self-Assessment.
+
+Take the Security and Compliance Gap Self-Assessment 
+[here]
+
+Learn About Secure Boot and System Integrity for Embedded Linux Devices 
+[here]
+
+Nathan Barrett-Morrison
+
+Subscribe Here!
+
+ Seize the Edge 
+
+ Lynx is evolving and our commitment to safety, security, and performance is stronger than ever. We are excited to embark on this next chapter with you. If you have any questions or want to learn more about this transition, we are here to help. 
+
+                Contact Us
+
+Related Blogs
+
+            View All
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

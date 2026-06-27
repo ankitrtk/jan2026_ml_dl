@@ -1,0 +1,955 @@
+URL: https://www.lynx.com/terms
+
+General Terms and Conditions of Sale
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+Home
+
+Terms
+
+ General Terms and Conditions of Sale 
+
+Last Updated July 29, 2025
+
+1.   General Terms and Conditions of Sale 
+
+Unless otherwise specifically agreed in writing the Company (as defined below) provides products and services in accordance with these General Terms and Conditions of Sale (this "Agreement"). All Ordering Documents (as defined below) will be governed by this Agreement and the applicable Supplemental Terms. Additional or differing terms and conditions proposed by Customer are expressly rejected and have no effect unless accepted in writing by Company. In the event of a conflict between this Agreement and the Supplemental Terms, the Supplemental Terms will prevail.
+
+2.  Definitions
+
+2.1 “Company”
+ means Lynx Software Technologies, Inc. or the applicable Company Affiliate specified in an Ordering Document.
+2.2 “Company Affiliate”
+ means Timesys LLC, Thompson Software Solutions LLC and Core Avionics & Industrial Inc.
+2.3 “Company Offerings” 
+means Software, Hardware, SaaS Products, Professional Services, Support Services and other products and services offered by Company.
+2.4 “Customer”
+ means an individual or entity that purchases or licenses a Company Offering.
+2.5 “Hardware”
+ means the equipment provided by Company to Customer as described in the applicable Ordering Document. If Customer purchases Hardware, the Supplemental Terms for Support Services will be applicable in addition to this Agreement.
+2.6 “Improvement” 
+means any improvements to the Company Offerings or any component thereof, including, without limitation, any improvement in the design, appearance, functionality, adaptations, developments, designs, derivatives, enhancements, inventions, innovations, know-how, modifications, or techniques.
+2.7 “Ordering Document”
+ means an order form, purchase order, statement of work or other document agreed to by the parties that details the Company Offerings Company will provide to Customer.
+2.8 “Partner”
+ means a third party that has entered into an agreement with Company that allows it to market and resell Company Offerings.
+2.9 “Professional Services” 
+means the training and implementation services described in an Ordering Document. If Customer purchases Professional Services, the Supplemental Terms for Professional Services will be applicable in addition to this Agreement.
+2.10 “Software”
+ means computer program(s) described in an Ordering Document licensed by Company to Customer. If Customer licenses Software, the Supplemental Terms for Licensed Products will be applicable in addition to this Agreement.
+2.11 “SaaS Product”
+ means software as a service product(s) described in an Ordering Document licensed by Company to Customer.
+2.12 “Supplemental Terms”
+ means the additional governing terms that are associated with each Company Offering, including the 
+Supplemental Terms for Hardware
+, 
+Supplemental Terms for Licensed Products
+, 
+Supplemental Terms for Professional Services
+,
+ Supplemental Terms for SaaS Products 
+ and 
+Supplemental Terms for Support Services
+. 
+2.13 “Support Services” 
+means the maintenance and support described in an Ordering Document provided by Company to Customer. If Customer purchases Support Services, the Supplemental Terms for Support Services will be applicable in addition to this Agreement. 
+2.14 “Third Party Products” 
+means any third-party product(s) provided with or incorporated into Company Offerings, including any Software that is subject to an open source license.
+
+3.  Fees and Payment
+
+3.1 Fees. 
+Customer shall pay Company the applicable fees for the Company Offerings (
+“Fees”
+) set forth in the applicable Ordering Document without offset or deduction. All Fees are payable in USD and are due within thirty (30) days from the date of the invoice. Except as provided in Section 8, Ordering Documents that are accepted by Company cannot be cancelled by Customer, and Fees paid by Customer are non-refundable. Customer shall reimburse Company for all reasonable and pre-agreed expenses Company incurs in connection with the sale or licensing of Company Offerings. If, during the term of the applicable Ordering Document, the costs of goods, labor, or materials increases by more than 3%, either as evidenced by a recognized industry price index, or due to government actions resulting in changes in law, taxes, tariffs, duties, or the like, the parties shall renegotiate the price of the applicable Ordering Document to reflect the actual cost increases.
+3.2 Taxes.
+ All Fees and other amounts payable by Customer are exclusive of taxes and similar assessments. Customer shall pay all sales, use, and excise taxes, and any other similar taxes, duties, tariffs and charges of any kind imposed by any federal, state, or local governmental or regulatory authority (foreign or domestic) other than any taxes imposed on Company’s income. If Customer is required by any governmental authority to deduct any portion of the amount invoiced by Company, Customer shall increase payment to Company by an amount necessary for the total payment to Company to be equal to the amount originally invoiced. The price of Company Offerings in the Ordering Document or other agreement is to be exclusive of transportation and insurance costs, duties, and all taxes, including, but not limited to, federal, state, and local sales, excise, value added, goods and services taxes and any other taxes. Customer shall pay these taxes unless Customer has provided Company with an exemption resale certificate in the appropriate form for the jurisdiction of Customer’s place of business and any jurisdiction to which Products are to be directly shipped hereunder, or unless the sale is otherwise exempt from these taxes. Customer shall indemnify and hold Company harmless for any liability for tax in connection with the sale, as well as the collection or withholding thereof, including penalties and interest thereon. When applicable, Company shall list transportation and taxes separately on Company’s invoice.
+3.3 Late Payments. 
+If Customer fails to make any payment when due, including payments of Fees or royalties, in addition to all other remedies that may be available: (a) Company may charge interest on the past due amount at the rate of 1.5% per month calculated daily and compounded monthly or, if lower, the highest rate permitted under applicable law; (b) Customer shall reimburse Company for all reasonable costs incurred by Company in collecting any late payments or interest, including attorneys’ fees, court costs, and collection agency fees; and (c) If Customer’s failure continues for thirty (30) days following written notice thereof from Company, Company may prohibit access to the Company Offerings (including suspension of license rights, technical support and professional services) until all past due amounts and interest thereon have been paid, without incurring any obligation or liability to Customer or any other person by reason of such prohibition of access or suspension of license rights to the Company Offerings.
+3.4 Records. 
+Customer shall maintain complete and accurate records in accordance with generally accepted accounting principles for a period specified in applicable Supplemental Terms with respect to matters necessary for accurately determining amounts due to Company. Company may, at its own expense, on reasonable prior notice, periodically inspect Customer’s records; provided that if such inspection reveals Customer has underpaid Company any amounts due and payable to Company, including any Fees, Customer shall promptly pay the amounts necessary to satisfy such underpayment, together with interest in accordance with Section 3.3. Customer shall pay for the costs of the audit if the audit determines that Customer’s underpayment equals or exceeds five percent (5%) of amounts due for a calendar quarter.
+
+4. Confidential Information.
+
+4.1 
+Customer and Company acknowledge that it may be necessary, for one party (in such capacity, the
+ “Recipient”
+) to receive or have access to Confidential Information of the other party (in such capacity, the 
+“Discloser”
+). 
+“Confidential Information”
+ includes: (i) software or any portion thereof, including any software in executable code; (ii) all source code files, which are a trade secret of Company; (iii) non-public portions of Company documentation; (iv) any fee and/or revenue reports provided from one party to the other party; and (v) any other information disclosed, whether in writing, orally or otherwise, concerning Discloser’s business affairs and operations, proprietary information and technology, trade secrets, inventions (whether or not patentable), computer programs and code, software design and architecture, computer platform structure and specifications, terms and conditions of use and other details of its products and services, as well as research and development data, know-how, market knowledge, pricing policies, identities of employees, consultants, suppliers and competitors, current and prospective customer and supplier lists, business and product development plans, forecasts, strategies, third party information subject to a confidentiality obligation and any other information that by its nature or the manner of disclosure ought reasonably be regarded as confidential, regardless of whether such information is so marked or designated.
+
+4.2 Restrictions.
+ Recipient shall: (a) hold Discloser’s Confidential Information in strict confidence and protect such Confidential Information from disclosure to others, using the same degree of care used to protect its own confidential information of like importance, but no less than a commercially reasonable degree of care; (b) not divulge any Confidential Information or any information derived therefrom to any third party other than to Recipient’s and its affiliates’ directors, officers, employees, auditors, regulatory authorities, legal, financial and other consultants and advisors who need to know (all of the entities and individuals described in this Section 4.2 are referred to, collectively, as 
+“Representatives”
+); and (c) not make any use of Confidential Information except as authorized under applicable Supplemental Terms. Recipient shall inform a Representative of Recipient given access to Discloser’s Confidential Information by Recipient of the confidentiality provisions herein and ensure that its Representative agrees to be bound by the restrictions herein with the additional restriction that Representative shall not disclose Confidential Information. An unauthorized use or disclosure of the Confidential Information of the Discloser by Recipient’s Representatives will be deemed an unauthorized use or disclosure of the Confidential Information and a breach of this Agreement. Company may keep Confidential Information for as long as required by applicable law, rule, or regulation.
+
+4.3 Exclusions.
+ Restrictions imposed by Section 4.2 do not apply to any Confidential Information that Recipient can establish: (a) is generally available or known to the public through no action or inaction by Recipient or any Representative in breach of these confidentiality provisions; (b) was rightfully in its possession or known by it prior to receipt from or disclosure by Discloser without an obligation of confidentiality; (c) was rightfully disclosed to Recipient by a third party having no obligation of confidentiality; (d) was independently developed by Recipient without use of or reference to any Confidential Information of Discloser; or (e) is required by the order of a court or regulatory agency to be disclosed, provided that for subsection (f), Recipient shall use diligent efforts, to the extent it is legally permitted to do so, to limit disclosure, to request confidentiality assurances from the requestor, and shall notify Discloser of such law or order as soon as reasonably practicable upon its receipt thereof so that Discloser can obtain confidential treatment or a protective order and participate in the proceeding.
+
+4.4 Return/Survival.
+ Upon the expiration or termination of this Agreement, Recipient shall promptly return to Discloser all copies, whether in written, electronic, or other form or media, of Discloser’s Confidential Information, or destroy all such copies and certify in writing to Discloser that such Confidential Information has been destroyed. Each party’s obligations of non-disclosure regarding Confidential Information will survive the termination or expiration of this Agreement.
+
+5. Intellectual Property Ownership and Feedback
+
+5.1 Ownership.
+ Customer acknowledges that, as between Customer and Company, Company owns all legal right, title, and interest, including all intellectual property rights, in and to Company Offerings, without limitation, Improvements and any intellectual property rights or other proprietary rights that subsist in Company Offerings including documentation (whether those rights are registered or unregistered, and wherever in the world those rights may exist). With respect to third-party products, the applicable third-party licensors own all right, title and interest, including all intellectual property rights, in and to the third-party products. Customer is not authorized to use (and will not permit any third party to use) Company Offerings, documentation, or any portion thereof except as expressly authorized by except as authorized under applicable Supplemental Terms. Customer shall not, directly or indirectly: (a) dispute or contest, for any reason, Company’s ownership of any proprietary rights embodied in, related to or derivable from Company Offerings, or the validity or enforceability of any such proprietary rights; (b) oppose or interfere with any application for registration of any proprietary rights embodied in, related to or derivable from Company Offerings; (c) interfere with the manufacture, use or sale of Company Offerings or any future version thereof, by Company or any of its licensees, successors or assigns; or (d) counsel, procure or assist anyone else to do any of the foregoing.
+
+5.2 Use of Aggregated Data.
+ Company may collect and aggregate data derived from the operation of Company Offerings (
+"Aggregated Data"
+), and Company may use such Aggregated Data for purposes of operating Company’s business, monitoring performance of Company Offerings, and/or improving Company Offerings; provided that Company’s use of Aggregated Data does not reveal any Customer data, Customer Confidential Information, or personally identifiable information of authorized users.
+
+5.3 Feedback. 
+If Customer or any of its authorized users sends or transmits any communications or materials to Company suggesting or recommending changes to the Company Offerings or the documentation, including without limitation, new features or functionality relating thereto, or any comments, questions, suggestions, or the like (
+“Feedback”
+). Customer hereby assigns to Company all right, title, and interest in, and Company is permitted to use, without any attribution or compensation to any party, any ideas, know-how, concepts, techniques, or other intellectual property rights contained in the Feedback, for any purpose whatsoever, although Company is not required to use any Feedback.
+
+6. Limitation of Liability
+
+Company is not liable for (i) special, indirect, incidental, punitive, exemplary, or consequential damages arising out of or in connection with the sale or licensing of company offerings or (ii) any damages arising out of or in connection with: (a) company offerings not being available for use by customer, including any costs of obtaining substitute products or services; (b) loss of, corruption of, or loss of use of any company offerings; or customer hardware, software or data; (c) loss of revenue, profit, or business opportunity; (d) business interruption or downtime; or (e) inability to achieve a particular result. To the extent permitted by applicable law, the total liability of company arising out of, or in connection with the sale or licensing of company offerings, will not exceed the amount of the fees paid by customer for the company offering in the six (6) month period immediately preceding the event giving rise to such claim, except for third party hardware which total liability will not exceed ten thousand dollars ($10,000 usd). The limitations herein: (1) apply to company and its licensors, distributors, affiliates, and suppliers (including their directors, officers, employees, and agents); (2) reflect a reasonable allocation of risk between company and customer; (3) apply even if company has been advised of the possibility of the damages and regardless of whether such claims are founded in whole or in part upon alleged or actual negligence of company; and (4) apply regardless of whether such damages are based in contract, warranty, strict liability, negligence, tort, or otherwise, including indemnification. To the extent the foregoing limitations of liability are unenforceable or fail of their essential purpose, the total liability of company to customer is limited to fifty thousand dollars ($50,000 usd).
+
+7. Warranty Disclaimer
+
+Company offerings are provided “as is” without warranty of any kind and company disclaims all warranties, expressed or implied, with respect to all company offerings, including any implied warranties of merchantability, fitness for a particular purpose, title or noninfringement, and any warranties that may arise from usage of trade or course of dealing. Company does not warrant, guarantee, or make any representations regarding the use of or the results of the use of company offerings in terms of correctness, accuracy, reliability, or otherwise. Company does not warrant that the operation of the company offerings will be uninterrupted, free of harmful code or errors.
+
+8. Limitation on Use
+
+8.1 Company Offerings are not authorized to be used in life support equipment or for applications in which the failure or malfunction would create a situation in which personal injury or death could result. Any such use or resale of Company Offerings is at the sole risk of Customer, and Customer shall indemnify and defend Company against, and hold Company harmless from, all claims, suits, causes of action, damages, costs, and expenses, including, but not limited to, attorneys’ fees and costs relating to any lawsuit or threatened lawsuit, arising out of such use or resale.
+
+8.2 Customer may only create Customer Derivatives as set forth in the Supplemental Terms for Licensed Products. Customer agrees to indemnify, defend, and hold Company and its third-party suppliers, harmless from any claims, damages or suits resulting from such Customer Derivatives.
+
+8.3 Customer is responsible for the installation and operation of Company Offerings, including the obtainment of all permits, licenses, or certificates required for the installation or use of Company Offerings.
+
+8.4 Any technical assistance or advice offered by Company in regard to the use of any Company Offerings or provided in connection with Customer’s purchases is given free of charge and only as an accommodation to Customer. Company has no obligation to provide any technical assistance or advice to Customer and if any such assistance or advice is provided, such fact will not obligate Company to provide any further or additional assistance or advice. Company is not liable for the content or Customer’s use of such technical assistance or advice, nor shall any statement made by any of Company’s representatives in connection with Company Offerings constitute a representation or warranty, express or implied. Customer shall not use, duplicate, or disclose any technical data delivered or disclosed by Company to Customer for any purpose other than for installation, operation or maintenance of Company Offerings licensed or purchased by Customer from Company.
+
+9.  Term and Termination.
+
+9.1 Term. 
+An Ordering Document to which this Agreement applies will begin on the effective date of that Ordering Document and will remain in effect for so long as the Ordering Document remains in effect, unless terminated earlier in accordance with the terms of this Agreement.
+9.2 Termination.
+ Either party may terminate an Ordering Document if the other party materially breaches any term of the Ordering Document and/or this Agreement and such breach is not cured within thirty (30) days of written notice, unless such breach is incapable of being cured, in which case termination will be effective immediately. 
+9.3 Insolvency. 
+An Ordering Document will terminate, effective upon delivery of written notice by a party to the other party, setting forth the effective date of termination: (a) upon the institution of insolvency, receivership, or bankruptcy proceedings or any other proceedings for the settlement of debts of the other party; or (b) upon the making of an assignment for the benefit of creditors by the other party.
+9.4 Suspension.
+ Company may immediately suspend use of Company Offerings if Company reasonably believes: (a) there is a significant threat to the security, integrity, functionality, or availability of Company Offerings; (b) Customer or its users are in breach of Company’s licensing terms; or (c) Customer fails to pay when Fees are due.
+9.5 Effect of Termination.
+ Upon termination of an Ordering Document for any reason: (a) all use, and license rights granted regarding Company Offerings will terminate; and (b) Customer shall promptly cease all use of Company Offerings and uninstall all software components. The terms of this Agreement and the applicable Ordering Document that by their nature should survive the termination or expiration will survive such termination or expiration.
+
+10. Due Diligence
+
+An Ordering Document is subject to financial due diligence to be completed by Company prior to final approval of the Ordering Document. Company may require financial security from Customer in the form of a letter of credit or bill of exchange to complete the purchase. Customer shall cooperate with all reasonable due diligence requests of Company, including requests for financial documentation.
+
+11. Continuing Obligations
+
+Customer shall notify Company in writing of any material change in the financial circumstances of Customer which may adversely affect Customer’s ability to perform. Based upon a material change in the financial circumstances of Customer which adversely affects Customer’s ability to perform, Company may require, and Customer shall provide, further financial security acceptable to Company. In addition, upon request from Company, Customer shall provide Company with proof of insurance acceptable to Company relative to the storage and shipment of Company Offerings, if applicable.
+
+12. Equitable Relief
+
+Each party acknowledges that a breach or threatened breach by a party of any of certain obligations under an Ordering Document or this Agreement could cause the other party irreparable harm for which monetary damages would not be an adequate remedy and agrees that, in the event of such breach or threatened breach, the other party will be entitled to seek equitable relief, including a restraining order, an injunction, specific performance, and any other relief that may be available from any court, without any requirement to post a bond or other security, or to prove actual damages or that monetary damages are not an adequate remedy. Such remedies are not exclusive and are in addition to all other remedies that may be available at law, in equity, or otherwise.
+
+13. Assignment
+
+Customer may not assign or transfer any of its rights or delegate any of its obligations under this Agreement or an Ordering Document in each case whether voluntarily, involuntarily, by operation of law or otherwise, without the prior written consent of Company. Any purported assignment, transfer, or delegation in violation of this section is null and void. No assignment, transfer, or delegation will relieve the assigning or delegating party of any of its obligations hereunder. Subject to the foregoing, all rights, and obligations of the parties under this Agreement shall be binding upon and inure to the benefit of and be enforceable by and against the successors and permitted assigns.
+
+14. Governing Law
+
+This Agreement is governed by, and construed in accordance with, the internal laws of the State of California without giving effect to any choice or conflict of law provision or rule that would require or permit the application of the laws of any jurisdiction other than those of the State of California. The parties agree that the United Nations Convention on Contracts for the International Sale of Goods is specifically excluded from application to this Agreement or any Ordering Document or other agreement to which they apply.
+
+15. Jurisdiction
+
+Any legal suit, action, or proceeding arising out of, or related to, this Agreement must be instituted in the federal courts of the United States, or the state courts, each located in the Santa Clara County, California, and each party irrevocably submits to the exclusive jurisdiction of such courts in any such suit, action, or proceeding. Nothing in this Agreement or any Ordering Document prevents a party from applying to a court that would otherwise have jurisdiction for provisional or interim measures, including any claim for preliminary injunction relief. Further, a party may bring a claim alleging non- payment of fees in a court that would otherwise have jurisdiction.
+
+16. Severability
+
+If any provision of this Agreement is invalid, illegal, or unenforceable in any jurisdiction, such invalidity, illegality, or unenforceability will not affect any other term or provision of the Agreement or invalidate or render unenforceable such term or provision in any other jurisdiction. Upon such determination that any term or other provision is invalid, illegal, or unenforceable, the parties shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in a mutually acceptable manner in order that the transactions contemplated hereby be consummated as originally contemplated to the greatest extent possible.
+
+17. Relationship of the Parties
+
+Each of the parties to this Agreement are independent entities. Nothing in this Agreement is intended to create, nor is to be construed to create, a partnership, agency, joint venture, co-ownership, or otherwise as participants in a joint undertaking. Company and Customer do not have any right or authority to create any obligation, or responsibility, express or implied, on behalf of the other party. Neither party is authorized to make any representations, warranties or guarantees on behalf of the other party. Each party may identify the other as a customer or supplier, as applicable.
+
+18. Notices
+
+A party providing any notice, request, demand or other communication (each, a “Notice”) shall: (a) give the Notice in writing via email: (i) to Company at notices@lynx.com; or (ii) to Customer at the email address set forth in the applicable Order Form (or mail to Customer’s physical address if no email address is provided). A Notice is deemed to have been received upon proof that the e-mail was sent. If any Notice is received after 5:00 p.m. (A) on a business day where the recipient is located; or (B) on a day that is not a business day where the recipient is located, then the Notice is deemed received at 9:00 a.m. on the next business day where the recipient is located.
+
+19. Force Majeure
+
+Company is not liable to Customer for its failure to perform any of its obligations under this Agreement or Ordering Document during any period in which such performance is delayed because rendered impracticable or impossible due to circumstances beyond its reasonable control, and without Company’s fault or negligence, including but not limited to, acts of God or of the public enemy, acts of any government authority, fires, floods, epidemics, pandemics, quarantine restrictions, strikes, freights embargoes, or unusually severe weather (a “Force Majeure Event”). Force Majeure Events exclude economic hardship, changes in market conditions or insufficiency of funds.
+
+20. Amendments/Modifications
+
+Any additions or modifications to this Agreement or an Ordering Document must be made in writing and must be signed by an authorized representative of each party. All Ordering Documents are non-cancelable, non-reschedulable, non-changeable, and non-returnable (“NCNR”). Customer cannot cancel, change, or reschedule Ordering Documents without Company’s written consent.
+
+21. Captions
+
+The descriptive headings of the articles, sections, and subsections of this Agreement are for convenience only, do not constitute a part of this Agreement, and do not affect the construction or interpretation of this Agreement.
+
+22. Waiver
+
+No waiver by any party of any of the provisions hereof will be effective unless explicitly set forth in writing and signed by the party so waiving. Except as otherwise set forth in this Agreement or Ordering Document: (a) no failure to exercise, or delay in exercising, any rights, remedy, power, or privilege arising from the Agreement will operate or be construed as a waiver thereof; and (b) no single or partial exercise of any right, remedy, power, or privilege hereunder will preclude any other or further exercise thereof or the exercise of any other right, remedy, power, or privilege.
+
+23. Export Restrictions
+
+Company Offerings may be subject to U.S. export control laws. Customer shall not, directly or indirectly, export, reexport, release, or otherwise transfer Company Offerings to, or make Company Offerings accessible from, any jurisdiction or country to which export, reexport, release, or transfer is prohibited by law, rule, or regulation. Customer shall comply with all applicable laws, regulations, and rules, and complete all required undertakings (including obtaining any necessary export license or other governmental approval), prior to exporting, reexporting, releasing, or otherwise making Company Offerings available outside the U.S. Customer hereby acknowledges its agreement with the requirements set forth in the U.S Export Controls Compliance Commitments attached as Exhibit A hereto. Company may require Customer to complete an Export Compliance End Use Certification prior to delivery of the Company Offering or during the term of the applicable Ordering Document. Customer must provide Company notice and receive instructions from Company prior to providing Company any requirements, items or technical data subject to the International Traffic in Arms Regulations (ITAR). All purchase orders or requests for quotation that involve Customer ITAR controlled items or technical data must include the following statement, in a conspicuous format, on the item or technical data supplied to Company: “ITEMS OR TECHNICAL DATA SUBJECT TO ITAR”. Company disclaims any liability whatsoever that may result from Company's inadvertent disclosure of Customer’s ITAR-controlled items or technical data to a "foreign person" (as that term is defined in the ITAR) resulting from Customer’s failure to abide by the foregoing requirement. In addition, Customer agrees to indemnify, defend, and hold Company and its third-party suppliers, harmless from any claims, damages or suits resulting from its failure to comply with this Section.
+
+24. Additional Features
+
+Development, release, and timing of any additional features or functionality of Company Offerings remains at Company’s sole discretion. Customer acknowledges that it is purchasing products and services based solely upon features and functions that are currently available as of the time an Order Form is accepted by Company and not in expectation of any future feature or function.
+
+25. Partial Deliveries
+
+Early and partial deliveries are permitted and will not, under any circumstances, justify the refusal to pay for the delivered Company Offerings.
+
+26. US Government Rights
+
+Each of the Company Offerings including documentation is a “commercial item” as that term is defined at 48 C.F.R. § 2.101, consisting of “commercial computer software” and “commercial computer software documentation” as such terms are used in 48 C.F.R. § 12.212. Accordingly, if Customer is an agency of the US Government or any contractor therefor, Customer only receives those rights with respect to the software, the source code, or the documentation, as applicable, as are granted in this Agreement and applicable Ordering Document, in accordance with (a) 48 C.F.R. § 227.7201 through 48 C.F.R. § 227.7204, with respect to the Department of Defense and their contractors, or (b) 48 C.F.R. § 12.212, with respect to all other US Government licensees and their contractors.
+
+27. Third Party Products
+
+Company may distribute or incorporate certain Third-Party Products with Company Offerings. Such Third-Party Products are subject to their own license terms.
+
+28. Third Party Beneficiaries
+
+This Agreement does not, and is not intended to, confer any rights or remedies upon any person or entity other than Company and Customer.
+
+29. Partners
+
+If Customer purchases Company Offerings from a Partner, fees and payments to Company may not apply.
+
+30. Entire Agreement
+
+This Agreement constitutes the final agreement between Company and Customer. All prior and contemporaneous negotiations and agreements between Company and Customer on the matters contained in this Agreement and any agreement to which they apply are expressly merged into and superseded by this Agreement and any Ordering Document. The provisions of this Agreement and any agreement to which they apply may not be explained, supplemented, or qualified through evidence of trade usage or a prior course of dealings. Neither party has relied upon any statement, representation, warranty, or agreement of the other party except for those expressly contained in this Agreement. There are no conditions precedent to the effectiveness of this Agreement, other than those expressly stated in this Agreement. There shall be no force or effect to any different or additional or pre-printed terms of any Customer order form, purchase order, confirmation or similar form. Quotations issued by Company to Customer are for informational purposes only and are non-binding.
+
+EXHIBIT A - U.S. Export Controls Compliance Commitments
+
+I/we understand and acknowledge that the software provided by Company is subject to U.S. export control laws and regulations, including the U.S. Export Administration Regulations set forth in the U.S. Code of Federal Regulations at 15 C.F.R. §§730-774.
+
+I/we will not export, reexport, or otherwise transfer Company Offerings to (or to a national resident of) any embargoed or restricted destinations including, but not necessarily limited to, Cuba, Iran, North Korea, Syria, and the Crimea, Donetsk, and Luhansk regions of Ukraine unless authorized by the U.S. Government.
+
+I/we understand that exports involving China, Russia, Belarus, and some other destinations such as Venezuela should be subjected to more scrutiny to ensure no export or reexport licensing requirements apply and no restricted parties are involved.
+
+I/we will not export any software provided by Company to Russia without a U.S. Department of Commerce Bureau of Industry and Security export license or authorization, or other necessary authorization from the U.S. Government.
+
+I/we will not provide, export, reexport, or otherwise transfer, directly or indirectly, Company Offerings in support of the exploration or production for deep-water, Arctic offshore, or shale projects that have the potential to produce oil in Russia, in maritime areas claimed by Russia, or in any location for the benefit of Russia.
+
+I/we will not export or transfer Military Goods or controlled products or technical data to any destination, especially China (including Hong Kong) Russia, Belarus, Burma (Myanmar), Cambodia, Nicaragua, or Venezuela without the proper license or authorization from the U.S. Government.
+
+I/we will not use, sell, export, reexport, or otherwise transfer Company Offerings for any end-uses directly or indirectly associated with nuclear, chemical, or biological weapons or related systems, equipment, or components; or for the design, development, production, testing, stockpiling or use of any weapons of mass destruction; or for any other use that the U.S. Government prohibits.
+
+I/we acknowledge and understand that U.S. law prohibits or restricts the sale, transfer, export or reexport to, or participation in any export transaction involving Company's goods with individuals, companies, or entities listed on the U.S. Department of Commerce Bureau of Industry and Security’s Denied Persons List, Entity List, Unverified List, or Military End User List, the U.S. Department of the Treasury Office of Foreign Assets Control’s Specially Designated Nationals List and Sectoral Sanctions Identifications List, the U.S. Department of State Directorate of Defense Trade Controls Debarred List or any equivalent list of another sovereignty designated as an approved destination as per both U.S. export regulations and Company policy.
+
+I/we understand that Company reserves the right to screen or review its present and potential clients and partners as the Company deems necessary in support of the Company’s export control regulations within the scope of such regulations.
+
+I/we will abide by all applicable U.S. export control and economic sanctions laws and regulations for any software licensed from Company and will not transfer such technology to a third party without obtaining any licenses or prior approvals required by the U.S. Government prior to such transfer which would result in an export or reexport of Company’s software.
+
+I/we will ensure that in the event Company software is embedded into a product for the purposes of distribution, the end user(s) of such product will execute a certification representing compliance with the restrictions set forth herein.
+
+Terms and Conditions of Purchase
+
+Use the link below to see terms and conditions of purchase.
+
+ Lynx Software Technologies Inc. and Affiliates Terms and Conditions of Purchase 
+
+Supplemental Terms
+
+Use the links below to see additional supplemental terms.
+
+ Supplemental Terms For SAAS Products 
+
+ Supplemental Terms for Company Hardware and Third Party Hardware 
+
+ Supplemental Terms for Licensed Products 
+
+ Supplemental Terms For Professional Services 
+
+ Supplemental terms for Support Services 
+
+Previous Agreements
+
+Use the links below to see previous agreements.
+
+ Lynx Support Services Agreement - November 2024 
+
+ Lynx Master Services Agreement - March 2024 
+
+ Lynx License Agreement - January 2024 
+
+ Lynx Master Services Agreement - March 2021 
+
+ Seize the Edge 
+
+ The future won’t wait, neither should you. Let’s build, secure, and accelerate your next mission together. Contact us today to get started. 
+
+                Contact Us
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

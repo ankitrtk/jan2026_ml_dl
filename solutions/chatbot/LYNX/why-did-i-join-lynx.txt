@@ -1,0 +1,407 @@
+URL: https://www.lynx.com/executive-blog/why-did-i-join-lynx
+
+Why Did I Join Lynx
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            3 min read
+
+Why Did I Join Lynx
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Jan 6, 2020 2:00:00 PM
+
+Mindful Musings Blog
+
+Behind highly visible, glamorous appliances like smartphones, televisions and in-car infotainment, there exists a broad range of technology largely hidden from its users. These systems have grown from closed systems to complex and connected “systems of systems”. They simply
+
+must work
+
+no matter what challenges humans, the environment or IT infrastructure throw at them. They must work for years… in some cases, for decades.
+
+Imagine the challenge for a manufacturer supplying a fully autonomous vehicle (one billion lines of software code being required?). If ANYTHING goes wrong, that company will be in the headlines. So how do they manage the diverse set of system suppliers in a way that maximizes
+
+safety
+? How does a city ensure that their lighting network in a connected city continues to operate
+
+securely 
+where there are so many potential access points? I cannot detail the specifics, but you can imagine that the level of testing needed is not dissimilar to that undertaken in aircraft to maintain safety, even where multiple electronics platforms are obliterated.
+
+I joined Lynx as VP Marketing and Strategic Alliances on December 1st. Six days later, we announced the selection of
+
+Lynx’s MOSA.ic framework
+
+for the
+
+TR3 modernization of the F-35 Lightning II
+, ousting one of our primary competitors in the process. This is a massive tribute to the work of Lynx’s engineering and sales teams over a very long period. The most important point, though, is that Lynx technology has been selected in what is one of the most complex aircraft ever to take the air—a massive validation of our technology. As we outlined here, a key element of TR3 is the adoption of commercial-off-the-shelf (COTS) technology and an Open System Architecture (OSA) as an approach to addressing this challenge.
+
+I met Lynx
+
+Executive Team
+
+members Gurjot,
+
+Keith, 
+and 
+Flavio
+
+for lunch in October. I could see a strong parallel between Lynx today and
+
+Arm
+, my ‘previous’ professional home, when it spun out of Acorn Computers in 1990. Then, Arm focused its value proposition around energy efficiency when everyone else was focused on performance. Over the years, a broad set of applications became far more concerned about the performance that can be delivered inside a power envelope. Lynx is focused on safety and security, attributes that its customers mainly (but not exclusively) in the avionics and defense industries have relied on for over thirty years. In a similar way, these attributes are becoming relevant in broader applications including autonomous vehicles, robotics and critical IT infrastructure. Markets are moving towards Lynx in 2020 in the same way as they moved towards Arm.
+
+I was struck by the openness and transparency of my conversations with the executive team… to the extent that when I joined, the areas of strength and the areas for improvement were completely clear.
+
+Day 8 of my tenure was spent at our mid-year sales meeting (we have a quirky financial year). One of our sales team played a video from a customer that outlined how strongly we have been supporting them. By the end of that week, we had a new mission statement posted on our site, reflecting the depth of collaboration and partnership we believe in.
+
+Job 1 is to take care of the customers we have got in the A&D segment and build on this recent news and other (as yet undisclosable) customer adoptions of our technology. As I mentioned above though, this set of bulletproof safety and security software technologies are applicable in other areas
+
+Ensuring fast, deterministic, accurate decision making for
+
+Level 4 and Level 5
+
+autonomous vehicles
+
+Robotics in industrial factories and warehouses
+
+For the infrastructure of a power grid for a city
+
+What can you expect to see from the marketing team at Lynx in the coming weeks and months?
+
+ Creation of a vibrant partner ecosystem. These systems are simply too complex for one company to develop, certify and deploy everything. And project schedules are under intense pressure. We will engage with providers of compelling, complementary technology to create “better together” value propositions and simplify the work of our mutual customers
+
+We want to hear from you. The team I have inherited has already started to generate more engaging methods of outreach. Expect to see more blogs and less press releases. We want to hear from you; about the challenges you are facing. We will be open and transparent as to the areas where we can and cannot help
+
+Updated collateral and website; We have already started to look at all of our material and applying the lens of our target audiences to see whether we are delivering the right information for those people. We will have a new website live by the end of February
+
+I will be sharing more in future blogs. As part of item 2 above, I welcome you
+
+reaching out to me
+
+and sharing your thoughts. What am I missing?
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

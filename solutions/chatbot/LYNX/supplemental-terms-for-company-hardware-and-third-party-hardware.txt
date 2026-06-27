@@ -1,0 +1,758 @@
+URL: https://www.lynx.com/supplemental-terms-for-company-hardware-and-third-party-hardware
+
+Supplemental Terms for Company Hardware and Third Party Hardware
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+Home
+
+Supplemental terms for company hardware and third party hardware
+
+ Supplemental Terms For Company Hardware and Third Party Hardware 
+
+Last Updated July 29, 2025
+
+1.   Supplemental Terms for Company Hardware and Third Party Hardware 
+
+Company will provide certain Company Hardware and Third Party Hardware (as defined below) and related services to Customer in accordance with the General Terms and Conditions of Sale (the “Agreement”) as supplemented by these Supplemental Terms for  Company Hardware and Third Party Hardware (“Supplemental Hardware Terms”). In the event of a conflict between these Supplemental Hardware Terms and the Agreement, these Supplemental  Hardware Terms will prevail. Capitalized terms not otherwise defined in these Supplemental Hardware Terms have the meanings ascribed to them in the Agreement.
+
+2.  Definitions
+
+2.1    “Company  Hardware ” 
+means equipment sold by Company described in an Ordering Document.
+
+2.2    “Manufacturer”
+ means the third party original equipment manufacturer identified by name or associated part number in an Ordering Document.
+
+2.3    “Services”
+ means services performed by Company or a third party;
+
+2.4    “Third Party Hardware”
+ means the equipment sold by Company described in an Ordering Document that is manufactured by a Manufacturer.
+
+3.  Delivery
+
+Company is not obligated to deliver or transfer any Company Hardware and Third Party Hardware prior to receipt by Company of complete written instructions from Customer. Company shall ship Company Hardware and Third Party Hardware Ex Works Incoterms 2020 Company’s facility or place of origin. Subject to Company’s right of stoppage in transit, Company’s delivery of Company Hardware and Third Party Hardware to the carrier or to a Company facility or third-party facility for storage is to constitute delivery to Customer with risk of loss and title thereupon passing to Customer. Company has the right to select the carrier and delivery route unless specified by Customer. Customer acknowledges that delivery dates provided by Company are estimates only and that Company is not liable for delays in delivery or for failure to perform due to causes beyond the reasonable control of Company, nor is the carrier an agent of Company. In the event of delay caused by that event, the date of the delivery will be extended for a period of time equal to the time lost as a consequence of the delay in delivery without subjecting Company to any liability or penalty. Company’s delivery of a quantity which varies from the quantity specified will not relieve Customer of the obligation to accept delivery and pay for Company Hardware and Third Party Hardware delivered. Delay in delivery of one installment will not entitle Customer to cancel other installments. Company may refuse or delay any shipment if Customer fails to satisfy or fulfill any contractual obligations to Company, whether pursuant to these Supplemental Hardware Terms or any agreement between Company and Customer. Claims for shipment shortage are to be deemed waived unless presented to Company in writing within forty- five (45) days of the invoice date.
+
+4.  Declaring Higher Value to Third Parties
+
+Third parties to whom the Company Hardware and Third Party Hardware are entrusted may limit liability for loss or damage. Company is not required to request excess valuation coverage unless specific written instructions are given to Company from Customer. Customer shall pay any charges for excess valuation coverage. In the absence of written instructions or the refusal of the third party to agree to a higher declared value, Company may tender the Company Hardware and Third Party Hardware to the third party, subject to the terms of the third party's limitations of liability or terms and conditions of service or both.
+
+5.  Insurance
+
+Company is neither an insurer nor a guarantor and disclaims all liability in such capacity. Customers seeking a guarantee against loss or damage should obtain appropriate insurance. If Company holds Company Hardware and Third Party Hardware  in storage, or elsewhere, Company will not insure the Company Hardware and Third Party Hardware unless Company receives specific written instructions from Customer and Company confirms in writing.
+
+6.  
+Third Party Storage and Services
+
+6.1   
+ Customer acknowledges that Company may enter into an agreement with a third party for the storage or servicing of Company Hardware and Third Party Hardware.
+6.2   
+ Company represents that the storage facilities referred to in a third-party contract will comply with or exceed Manufacturer’s recommendations for long-term storage of Company Hardware and Third Party Hardware. Company is not liable for any costs, losses, damages, expenses, or other liabilities arising out of the failure to comply with any specifications agreed upon by Company and Customer to the extent that failure is caused by third party’s breach of the third-party contract.
+6.3     
+Company is not liable for any costs, losses, damages, expenses, or other liabilities arising out of the failure of Hardware to comply with specifications to the extent that the failure is caused by a Third-Party breach of the provisions of the relevant contract.
+
+7.  
+Limited Warranty
+
+7.1     Limited Warranty for Company Hardware. 
+For a period of sixty (60) days from  the date of shipment (the “Warranty Period”), Company warrants that the Company Hardware will be free of defects in materials and workmanship that cause the Company Hardware to fail to substantially conform to the then applicable Company specifications (“Limited Warranty”). If Customer notifies Company in writing of an alleged defect or non-conformance within the Warranty Period, and Company determines that a defect or non-conformance exists, Company will, in its sole discretion: (a) repair or replace the affected Company Hardware, or (b) refund the fees paid for the affected Company Hardware. Repaired or replaced Company Hardware will be warranted as written above for the remainder of the original Warranty Period or thirty (30) days, whichever is longer. If Company elects to repair or replace Company Hardware, Company may use new, or refurbished parts or products that are equivalent to new in performance and reliability and are at least functionally equivalent to the original Company Hardware. Customer must obtain a return merchandise authorization (“RMA”) number from Company before returning any Company Hardware under warranty to Company. Customer shall pay all costs, including but not limited to shipping and insurance expenses, related to shipping the affected Company Hardware to Company. If Company determines that a defect or non-conformance exists and Company elects to repair or replace the affected Company Hardware, Company shall pay all costs, including but not limited to shipping and insurance expenses to return the repaired or replaced Company Hardware to the Customer. If, however, Company concludes after examining and testing returned Company Hardware that the Company Hardware is not covered by the Limited Warranty, Company shall notify Customer and return the Company Hardware to Customer at Customer’s expense, including all costs related to inspection of the Company Hardware. This Limited Warranty does not apply if the defect of the Company Hardware resulted from improper or inadequate maintenance, installation, repair, or calibration (performed by a party other than Company); unauthorized modification; improper environment; use of an improper Company Hardware or software key; improper use or operation outside of the specifications for the Company Hardware; improper voltages; accident, abuse, or neglect; or a hazard such as lightning, flood, or other act of nature. THE REMEDIES SET FORTH IN THIS SECTION ARE EXCLUSIVE AND THE CUSTOMER’S SOLE REMEDIES AND APPLY EVEN IF SUCH REMEDIES FAIL OF THEIR ESSENTIAL PURPOSE.
+7.2    Limited Warranty for Third Party Hardware. 
+ Company represents that it has title to Third Party Hardware and that Third Party Hardware generally conforms to the description in the Agreement. Third Party Hardware descriptions consist of a part number and Manufacturer. 
+“Part Number”
+ means the generic part number or the original Manufacturer’s part number of the Third Party Hardware when so identified. 
+“Manufacturer”
+ in this section means the original Manufacturer of Third Party Hardware when so identified. 
+Third Party Hardware sold under these Supplemental Hardware Terms are sold “as is” and “with all faults”
+. Except as otherwise expressly provided herein, Company makes no warranty of any kind, either express or implied, as to the merchantability, fitness for a particular purpose, design and condition, quality, capacity, suitability, construction, performance, or any other matter with respect to Third Party Hardware. Customer acknowledges that Company is acting solely as a distributor of Third Party Hardware and that the licensor or Manufacturer of Third Party Hardware is solely liable to Customer and third parties for all liability, claims, damages, obligations, and costs and expenses related to Third Party Hardware sold by Company. Customer shall look solely to Manufacturer for compliance with Manufacturer’s warranty, if any, and for any maintenance, support, or repair of Third Party Hardware. Any warranty delivered to Company by Manufacturer or other vendor of Third Party Hardware will be assigned to Customer to the extent such assignment is permitted by the terms thereof. Company makes no representation, covenant, or warranty with respect to the extent or enforceability of Manufacturer’s warranty, if any. No repair or replacement of Third Party Hardware by Company or Manufacturer will extend the warranty period, if any, of Manufacturer. Company neither assumes nor authorizes Customer or any other person to assume on behalf of Company, any other liabilities in connection with the use, sale, or resale of Third Party Hardware; Company warrants: (a) for sixty (60) days after delivery of Third Party Hardware to Customer, value-added services, if any, performed by Company on Third Party Hardware will conform to the process specifications; and (b) for sixty (60) days after performance of value-added services by Company, if any, the value-added services will conform to the process specifications. For purposes of this provision, Customer is to be deemed the Manufacturer of Third Party Hardware on which value- added services have been performed. Value-added services performed on Third Party Hardware are to be deemed to not conform to process specifications if: (i) Under proper use, a possible defect becomes known to Customer no later than sixty (60) days after the Third Party Hardware has been delivered to Customer; (ii) Customer notifies Company in writing of the claimed defect within ten (10) days of Customer having knowledge of the possible defect; (iii) Company determines that the defect arises solely from Company's storage and handling of Third Party Hardware or a breach of a Company warranty; and (iv) Third Party Hardware claimed by Customer to be defective is returned to Company at the expense of Customer. If Company determines value-added services performed on Third Party Hardware do not conform to process specifications, Company shall, at its option: (a) repair or replace defective Third Party Hardware; or (b) return the purchase price of defective Third Party Hardware to Customer if Customer has already paid the purchase price or relieve Customer of its obligation to pay the purchase price. THE REMEDIES SET FORTH IN THIS SECTION ARE EXCLUSIVE AND THE CUSTOMER’S SOLE REMEDIES AND APPLY EVEN IF SUCH REMEDIES FAIL OF THEIR ESSENTIAL PURPOSE.
+
+8.  
+General Lien and Right to Sell Customer's Property
+
+8.1
+     Company has a general and continuing lien on the Third Party Hardware until Customer makes payment in full, and on all Third Party Hardware stored by Company or third party, or coming into Company's actual or constructive possession or control, for money owed to Company with regard to the storage or shipment on which the lien is claimed or a prior shipment(s) or both;
+8.2 
+   Company shall provide written notice to Customer of its intent to exercise this lien, the exact amount of money due and owing, as well as any on-going storage or other charges; and
+8.3
+    Customer shall notify all parties having an interest in its shipment(s) of Company's rights and the exercise of such lien unless, no later than thirty (30) days of receiving notice of lien, Customer posts cash or letter of credit at sight, or, if the amount due is in dispute, an acceptable bond equal to 110% of the value of the total amount due, in favor of Company, guaranteeing payment of the money owed, plus all storage charges accrued or to be accrued, Company has the right to sell such shipment(s) at public or private sale or auction and any net proceeds remaining thereafter shall be refunded to Customer.
+
+9.  
+Component Resale
+
+Unless authorized by Company in writing, Customer shall not sell Company Hardware and Third Party Hardware in component form. Customer may only sell the component as part of a finished system.
+
+ Seize the Edge 
+
+ The future won’t wait, neither should you. Let’s build, secure, and accelerate your next mission together. Contact us today to get started. 
+
+                Contact Us
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

@@ -1,0 +1,392 @@
+URL: https://www.lynx.com/executive-blog/welcome-timesys
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+ Tim Reed | CEO
+
+ : 
+
+                Dec 12, 2023 6:00:00 AM
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+I joined Lynx in June 2022
+ as a result of the
+ acquisition of Lynx by OceanSound Partners
+. One of my first priorities was a collaborative effort involving the entire 
+leadership team
+ to define and align around an overall company vision and strategy.  
+
+We agreed that we are in a “software-defined-anything” world where trusted and committed partners empower customers to
+ overcome the status quo and innovate at the Edge. We needed to innovate at customers' speed to counter emerging threats and hazards in a dynamic, unpredictable world. Our mission is to improve the economics of our customers and ecosystem partners to design, develop, deploy, and service high-assurance edge applications.
+From my broad discussions with diverse customers in the aerospace and defense sector, it is clear that they are wrestling with huge challenges in terms of development timelines, costs, and program risk in the face of spiraling system complexity. The growth in complexity is driven by the desire to include new functionality such as artificial intelligence, deterministic system-to-system communication, information sharing and decision making, and increased resiliency to cyberattacks. The investor support that the OceanSound acquisition provides offers our leadership team three different paths to deliver more value to this industry, namely:  
+
+Make:
+
+Our work to disaggregate 
+LYNX MOSA.ic
+ into modular elements and deliver capabilities in a form that aligns with our customers' CI/CD flows is one example of this
+
+Partner:
+ Recent examples are the engagement with 
+RunSafe Security
+ to increase the immunity of deployed systems to cyberattack and our partnership with Percepio which provides the system observability functionality needed to create highly complex, certifiable systems that harness modern multicore processors
+
+Buy:
+ Complete technology and teams that we feel can accelerate the delivery of industry-leading capabilities 
+
+welcome, timesys!
+
+I am thrilled to welcome the entirety of the 
+Timesys team
+ into the Lynx family. I have been really impressed with the capabilities of the technology and, as important, if not more, of the openness and transparency of the team during the due diligence process. 
+
+Linux has been broadly adopted across a diverse set of markets. A comprehensive set of our customers are using this as their development environment of choice. Our early (and continued) commitment to industry standards has customers telling us we provide the easiest path to migrate software from Linux to a real-time operating system (RTOS). We see a growing interest for Linux to be deployed in military and aerospace applications as one piece of the puzzle to accelerate the deployment of next-generation airborne, ground, and below-the-waterline crewed and autonomous systems.
+Effectively, the desire is to harness proven elements from IT infrastructure without compromising the safety and security levels of their systems. Achieving that, coupled with deployment cycles measured in decades and increasing government legislation to prove systems are patched to address the latest known vulnerabilities, is not for the faint of heart. Customers need a software bill of materials (SBOM), and tools that can track common vulnerabilities and exposures (CVE) and provide a path to address those issues with software updates. They are increasingly concerned about protecting their intellectual property from rival nations looking to challenge the USA. Today, Lynx has an industry leadership position in delivering software platform technology, 
+LYNX MOSA.ic
+, for mission-critical systems, particularly those associated with avionics. The acquisition of Timesys technology and its team adds these capabilities for us to provide an operational solution to our customers that is valid for the entire lifecycle of their products.
+
+If you are an existing customer or partner of Timesys, there is no need to be concerned. There are no plans to change existing products, committed product roadmap items, or personnel. Going forward, Timesys and Lynx are joining forces to create a leading provider of foundational embedded and edge software platforms based on open standards and open-source software products, development tools, and differentiated software engineering services to customers with complex and mission-critical edge computing needs. Thanks again to OceanSound for their unwavering support in setting Lynx up to be an increasingly important partner in the industry on which we have decided to focus.
+I will share more about our forward journey in due course. In the meantime, let's connect. Please feel welcome to fill out the form below or click "Contact Us".
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

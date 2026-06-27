@@ -1,0 +1,206 @@
+URL: https://www.lynx.com/products/luminosity-eclipse-based-ide
+
+Lynx Software Technologies- Products - Luminosity Eclipse Based IDE
+
+Products
+
+LYNX MOSAic
+
+LYNX MOSAic for Avionics
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+LYNX MOSA.ic.SCA
+
+SpyKer Product Family
+
+VIE
+
+Legacy
+
+LynxOS
+
+LynxSafe
+
+Professional Services
+
+Support
+
+Support Portal
+
+Support Services
+
+Training
+
+Industries
+
+Armored Ground Vehicles
+
+Commercial Avionics
+
+Critical Infrastructure
+
+LEO Satellites
+
+Military Avionics
+
+Urban Air Mobility
+
+Industry Standards
+
+FACE 
+
+MOSA
+
+Resources
+
+Case Studies
+
+Export Compliance
+
+FAQ
+
+Resource Center 
+
+Videos
+
+About Us
+
+Careers
+
+Contact
+
+How Did We Do?
+
+Distributors
+
+Events
+
+Blogs
+
+Lynx Executive Blog
+
+Lynx Technical Blog
+
+Our Business Model
+
+Our Commitment to National Defense
+
+Partners
+
+Press Releases
+
+The Lab
+
+Feedback
+
+Based on the popular Eclipse IDE framework, Luminosity is a full-featured Java™-based IDE for all Lynx Software Technologies cross-development platforms.  
+
+The Luminosity embedded development tools suite from Lynx offers powerful development, debug and analysis tools integrated into an Eclipse-based environment for maximum interoperability.
+
+Luminosity offers a modern interface based on open standards, giving a consistent user experience across the Lynx Software Technologies family of real-time operating systems. This consistent look and feel is also maintained across different host development platforms, and when developing for different target processor architectures.
+
+Eclipse—the De Facto Open-Standards Platform
+
+The Eclipse framework is the industry-standard platform for embedded software development. Now in its third generation, Eclipse offers enterprise-strength functionality and stability and provides an open environment that embedded software vendors and developers can customize to meet their own needs while maintaining a standard user interface. Eclipse is available across different host systems and is generally independent of the embedded target architecture.
+
+Open-Standards Support
+
+Designed to accelerate time to market for embedded system developers, Luminosity provides a fast and easy way to create, edit, compile, manage, debug and profile C/C++ embedded and realtime applications as well as effectively build and debug kernel downloadable images from configurable Lynx Software Technologies operating systems. Luminosity combines the best in open-standards-based tools with the Lynx Software Technologies operating systems and advanced system visualization products.
+
+As part of Eclipse, many open-source projects are available to provide standard and example environments that plug into the Eclipse framework and allow for a greater integration of the underlying tools. These projects provide a standard collection of views (an Eclipse term for a window in the IDE), and perspectives (an Eclipse term for a collection of views that logically fit together for a specific job function).
+
+Luminosity utilizes the CDT (C and C++ development tools) project for various tasks in the development life cycle and then extends the standard CDT perspectives to support Lynx Software Technologies operating systems for build and debug. This powerful development environment means that Lynx Software Technologies customers get best-in-class tools for their target environment without having to learn a new set of proprietary tools and interfaces.
+
+Eclipse Perspectives
+
+The C/C++ build perspective brings together the open CDT project, GNU compilation tools and an advanced environment for building Lynx Software Technologies OS images and embedded applications to run on them. Luminosity streamlines project management with the build-perspective tools available inside Eclipse views. Build options may target individual files or the entire project. Environment settings serve to customize compiler and linker options, and the target environment to be built.
+
+Wizard-Driven Project Management
+
+With Luminosity, the creation of projects is all driven by user-friendly wizards. A developer can use the New Project Wizard to easily create a project-coding framework (C, C++), and then use the cross process viewer in the build perspective to view all process and thread activity on the target. Projects can be created from a variety of code templates based on POSIX®, device drivers, or a user can create an empty project and import existing code. Luminosity's "Lynx Software Technologies C/C++" project option allow users to directly edit and manage their makefiles. Luminosity will manage the makefiles automatically if the "Managed Make C/C++" project option is chosen. Developers can use the Luminosity Driver Wizard to create a skeleton driver project that serves as a starting point.
+
+Luminosity Target Administration
+
+The target administrator wizard manages authentication for target accounts and simplifies connecting to the target. Windows verify that all communications protocols are working correctly and that the host and target are ready for development.
+
+Advanced Debugger, Event Tracing & Plug-Ins
+
+Based on the CDT build perspective, Luminosity provides a powerful debugger that allows access to the running target system. Luminosity provides standard debugging views such as breakpoints, memory, register and variable views, code disassembly, target connection views, source file navigation and console output windows.
+
+Luminosity also adds extra views in the debug perspective for Lynx Software Technologies operating systems. These extended views report on the state of the operating system and its communication mechanisms such as message queues, semaphores, condition variables, and mutexes. The debugger also provides views for multiple threads and the ability to dynamically attach to new processes in the system. For time- and space-partitioned operating systems such as LynxOS-178, additional partition awareness facilitates debugging applications running in different partitions.
+
+Luminosity provides an incredibly useful "tracepoints" feature that allows a developer to observe a program's behavior without interrupting it. This helps solve the problem that, in some applications, delays introduced by a debugger can change a program's behavior drastically, or perhaps cause it to fail, even if the code itself is correct.
+
+The Luminosity debugger supports debugging of the kernel and device drivers at the symbolic level. For systems with multiple processors or cores, the Luminosity debugger supports separately configured connections to multiple targets.
+
+Access to the Running System
+
+Quickly identify system bottlenecks by using Luminosity's cross process viewer, which accurately monitors running targets and their processes. View usage statistics for the system and CPU statistics on multi-core systems. This tool is available as a view in any of the existing perspectives, or as its own perspective allowing the user to quickly zoom in and out on their target system.
+
+Debug, diagnose and optimize embedded system performance. Monitor all the events on your embedded system with SpyKer™, the first dynamically instrumented system trace tool. SpyKer provides information on the interaction between tasks, patterns of execution of the processor and timing of system activities. Developers can understand what is executing in a system over time, track down elusive application bugs and fine-tune the performance of embedded systems.
+
+SpyKer allows you to:
+
+Comprehend the timing of events in your embedded Linux® or 
+LynxOS®
+ system— fast, transparent collection of timing information
+
+Track down elusive embedded application bugs— easy, anytime visibility into program execution
+
+Fine-tune the performance of your embedded system— accurate, actionable information lets you build a more reliable product
+
+With SpyKer™, you gain a better understanding by observing low-level systems operations. You can improve your embedded application—and the functional tests that you run against it.
+
+Advanced System Analysis
+
+SpyKer™
+ trace tool takes advantage of the Eclipse framework's extensibility and displays detailed information about the processes running on the actual kernel that is deployed. The exceedingly low overhead of a SpyKer trace minimizes impact on the target system. This results in objective measurements and eliminates potential timing-invasiveness problems that could conceal elusive bugs.
+
+For example:
+
+Developers can trace an extensive range of events including system calls, interrupts, context switches, processor exceptions and many other system events
+
+Trace points can be statically and dynamically inserted into shared library calls, enabling users to visualize library routines by their familiar names
+
+Spyker can also capture events manually (referred to as user events) which allows customizing Spyker for a particular debugging task.
+
+User events can be added both at the kernel and shared application levels 
+SpyKer™
+ enables kernels and active applications to be auto-instrumented at run time, with no need for lengthy instrumentation cycles and reboots. (Traditional performance-analysis tools require pre-instrumenting an application with special calls, or running it under a specially instrumented kernel.)
+
+Spyker also reports on CPU-time utilization and memory-usage statistics. For rapid analysis of timing problems, an event-histogram tool enables easy visualization of time spent in interrupt service routines (ISRs) or between any two event points in a system. A histogram displays time differences between points; with a single mouse click, the user jumps to the first occurrence of the selected data in the trace.
+
+Open Host-Target Communications
+
+The Luminosity Open Communications Interface (LOCI) offers embedded developers and Lynx Software Technologies partners the opportunity to easily link host-based development tools with target-resident debug and analysis agents. This open interface, along with the plug-in nature of Eclipse, allows new tools to be integrated with Luminosity, which can then interact with, control, debug, or execute applications and kernels on the embedded target system.
+
+LOCI benefits include:
+
+Full-featured services and sessions easily available to host-based tools and applications
+
+Simplified porting of host-based tools by isolating OS differences to the target server and target agents
+
+OS abstraction
+
+Proprietary OS data structures hidden behind the LOCI API Allows partners to port tools to Lynx Software Technologies OS family more easily
+
+Abstracts communication channels to support TCP/IP, serial, and JTAG
+
+Luminosity Validated Plug-In Program
+
+Luminosity uses a standard, unmodified Eclipse framework, so additional tools required as part of the software development life cycle can be easily plugged in to Luminosity using the standard Eclipse plug-in notations. Also, the use of CDT allows for additional integration with other tools that take advantage of the extension points offered by CDT.
+
+Many popular development tools used in the enterprise or desktop world are useful in embedded-systems development as well. So, by using a framework that seamlessly allows them to plug in alongside the embedded specific tools is a real benefit to productivity. This open approach to tools integration offers embedded developers the best of both worlds. They have the ability to select best-in-class tools, and still have them integrated together to provide the best development environment for their embedded system.
+
+The Luminosity validated plug-in program has been designed to validate that other tools from either open-source or commercial vendors will plug-in and work in the Luminosity environment. Tools such as editors, compilers, high-level design tools, source-code managers, and test and analysis tools are generally available as Eclipse plugins. Luminosity and Eclipse can provide a single environment with a common user interface for all the tools needed through the entire embedded software development life cycle.
+
+This open approach to solving embedded development issues is very much in Lynx Software Technologies' nature, and the Luminosity development environment is simply another in a long line of products designed to make embedded development easier.
+
+Copyright © 2023 Lynx Software Technologies
+
+Privacy Policy

@@ -1,0 +1,411 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/ram-disks
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+ James Deutch | Principal Field Applications Engineer
+
+ : 
+
+                Sep 18, 2023 9:00:00 AM
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Based on several customers inquiries the purpose of this blog is to outline how to 
+
+Allocate memory to a RAM disk
+
+Mount and unmount a RAM disk
+
+Create a shared read-only RAM disk between two subjects
+
+allocating memory to a ram disk
+
+The root file system is commonly a RAM disk that is a shared resource, potentially across multiple partitions inside the LynxOS-178 operating system. Because it's a shared resource, it is configured to be read-only. To provide a read-write RAM disk to each partition, a private RAM disk is allocated to each partition and mounted as the partition’s /tmp directory.
+The size of the RAM disk is specified in the VCT file. The amount of memory for this comes from the total amount allocated to the partition. One can adjust the partition’s private RAM disk through the VCT file. This is a simple way to create more RAM disk space. Customers carry large payloads, such as another 
+LynxOS-178
+ image in the RAM disk (for example: to run FITP protocols discussed in another blog), so adjusting the RAM disk’s size is a common practice. A simple change to the VCT file and a reboot will provide a LynxOS-178 subject with a new-sized RAM disk.
+File system images (lynxfs) can be created using the host development utility mkimage. When a LynxOS-178 (or indeed LynxElement) Kernel Downloadable Image (KDI) is designed with “make all”, the mkimage utility is run. This takes the .spec file in LynxOS-178 and creates the RAM disk for the root file system. That RAM disk is then appended to the kernel itself (a.out) and is used to create the KDI file or MDI file depending on the headers that are appended. 
+
+mounting vs. unmounting
+
+There are several command line utilities and APIs which can be used in both “dev” and “production” mode.
+
+“dd”; Perform read/write operations to/from files and devices (which are POSIX file system nodes)
+
+“mount” and “unmount”; As the names suggest, these utilities and like-named API calls are used by apps to mount and unmount devices
+
+“rdc”; A wrapper for the RAM disk driver’s ioctl() functions. There are three ioctl calls:
+
+One to allocate memory to a RAM disk
+
+One to deallocate memory
+
+One to glean information about the different RAM disks that are connected
+
+How can these be used?
+
+The image to the right shows the steps that can be taken to load a RAM disk with a lynxfs image. More specifically, this shows how to allocate one megabyte of memory to this particular RAM disk (in this case, raw RAM disk seven).
+
+Setting Up A Shared RAM Disk
+
+Let’s look at how to set up a RAM disk that is shared between two subjects. The subjects only have read-only access to the shared memory region. The Lynx Simple Application (LSA) has read-write access. We deliver a new image up to the LSA using the FIFO Image Transfer Protocol (FITP) down into the shared memory region, mount the file systems and create the shared read-only RAM disk. 
+FITP uses lock-step messages to issue commands to the receiver and transfer data between subjects. It has commands to overwrite or zeros the boot image regions of the LynxOS-178 (or 
+LynxElement
+) subjects. It also supports commands to stop, restart, pause and resume subjects. Finally, there are commands to change the scheduling policy of 
+LynxSecure
+. 
+
+In order to do this, the shared memory region must be declared in the autoconfig script, so it is identifiable by the LynxOS-178 subjects, meaning that:
+
+The LynxOS-178 subjects must have access to the memory region
+
+The shared memory region must be mapped to a fixed guest physical address (GPA)
+
+The RAM disk driver of each LynxOS-178 instance needs to have an entry for the RAM disk’s GPA and size. By adding an entry to the LynxOS-178’s VCT file, the RAM disk can autoload on boot.
+The image to the right shows the specific commands we use to initiate the creation of this shared RAM disk.
+
+Let's connect or continue the conversation! If you have questions or comments, don't hesitate to reach out. Just fill out your details in the form below. 
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

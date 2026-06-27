@@ -1,0 +1,245 @@
+URL: https://www.lynx.com/products/lynx-mosaic-for-unmanned-aerial-systems-and-satellites
+
+LYNX MOSA.ic for UAVs and Satellites | Lynx Software Technologies
+
+Products
+
+LYNX MOSAic
+
+LYNX MOSAic for Avionics
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+LYNX MOSA.ic.SCA
+
+SpyKer Product Family
+
+VIE
+
+Legacy
+
+LynxOS
+
+LynxSafe
+
+Professional Services
+
+Support
+
+Support Portal
+
+Support Services
+
+Training
+
+Industries
+
+Armored Ground Vehicles
+
+Commercial Avionics
+
+Critical Infrastructure
+
+LEO Satellites
+
+Military Avionics
+
+Urban Air Mobility
+
+Industry Standards
+
+FACE 
+
+MOSA
+
+Resources
+
+Case Studies
+
+Export Compliance
+
+FAQ
+
+Resource Center 
+
+Videos
+
+About Us
+
+Careers
+
+Contact
+
+How Did We Do?
+
+Distributors
+
+Events
+
+Blogs
+
+Lynx Executive Blog
+
+Lynx Technical Blog
+
+Our Business Model
+
+Our Commitment to National Defense
+
+Partners
+
+Press Releases
+
+The Lab
+
+Feedback
+
+MIXED-CRITICALITY PLATFORM FOR UNMANNED SYSTEMS
+
+LYNX MOSA.ic for UAVs & Satellites is a set of Lynx software packages, 3
+rd
+ party technologies, and associated tools which Lynx has proven to reliably work together for rapidly building robust avionics systems, including: 
+
+LynxOS-178
+®
+ (Safety RTOS)
+
+Buildroot
+ (Linux)
+
+LynxSecure
+ (Separation kernel)
+
+Lynx Simple Applications (bare-metal apps)
+
+LSA.store
+
+Tools
+
+WHY LYNX MOSA.ic for UAVs & SATELLITES?
+
+Despite that the software complexity of unmanned systems continues to grow, these systems simply must work all the time. Increasingly, there is a need for these platforms to transmit data streams in a highly secure manner. The best path for meeting these challenges is to harness mixed criticality systems, partitioning them such that standard software stacks running on Linux can be combined and isolated from the system elements that must be responsive in microseconds to real-time events. In many instances, bare metal applications that cannot be disabled can be used to encrypt specific data streams.
+
+PRODUCT OVERVIEW
+
+LYNX MOSA.ic for UAVs & Satellites is founded on our secure-by-design, lightweight hypervisor, 
+LynxSecure
+. At its core, LynxSecure enables simpler software systems by harnessing CPU virtualization to partition systems into components. Simplicity and increased security are achieved by subdividing your chosen hardware platform into smaller compute platforms, eliminating the need for an operating system (OS) or traditional  hypervisor to act as a global resource manager (and single point of failure). A truly distributed, least-privilege architecture, LYNX MOSA.ic is naturally resilient to advanced persistent threats and side channel attacks.
+
+3-Dimensional Architecture Comparison
+
+Compare to Traditional RTOS platforms
+
+COMPONENT DETAILS
+
+LynxOS-178 (Safety RTOS)
+LynxOS-178 is a native 
+POSIX
+®
+, hard real-time partitioning operating system developed and certified to FAA DO-178B/C DAL A safety standards. It has been awarded a 
+Reusable Software Component (RSC)
+ certificate from the FAA for re-usability in DO-178B/C certification projects. LynxOS-178 is the primary host for real-time POSIX and 
+FACE™
+ applications within the 
+LYNX MOSA.ic™ development and integration framework
+. LynxOS-178 native POSIX implementation satisfies the PSE 53/54 profiles for both dedicated and multi-purpose real-time as well as FACE applications.
+Linux (Buildroot)
+Buildroot is a simple, efficient, and easy-to-use tool to generate embedded Linux systems through cross-compilation. Its kernel-like menuconfig, gconfig and xconfig configuration interfaces make building a basic system with Buildroot easy, typically taking between 15-30 minutes.
+LynxSecure
+®
+ (Separation Kernel Hypervisor)
+LynxSecure is a 
+separation kernel
+ which provides isolated environments in which multiple safety critical and general purpose operating systems can perform simultaneously without compromising safety, security, reliability or data integrity. LynxSecure offers both time* and space partitioning and was designed from the ground up to be small, real-time, and safety and security certifiable. 
+
+Lynx Simple Applications (LSAs)
+LSAs are true bare-metal applications, each running directly on hardware without any underlying operating system components. When needing to meet the strict timing requirements of complex and safety-critical systems, Lynx Advanced Scheduling can be used to precisely control the execution and timing of the LSA components in the system. Communications interconnects provide security-policy enforced, zero copy, fast and low latency communications between critical functions hosted on LSAs and guest operating systems. Any LSA or guest OS can be securely connected with any other LSA or guest to efficiently move data through the processing pipeline
+
+LSA.store
+LSA.store is a bare-metal crypto module. 
+
+Tools 
+Lynx tools
+ support LynxOS-178 RTOS, Linux, LSA, and LynxSecure across fundamental tasks including application development, debug, trace and visualization. Luminosity, SpyKer and TraceCompass are Eclipse based environments that allow intuitive build and debug of applications and drivers, event trace and visualization for LynxOS-178 and Linux guests. For LynxSecure users, the CDK includes tools to define and create system configurations, generate the human-readable and binary configuration files, and to build the boot images and files.
+*
+HW and usage domain dependent, multicore safety guidelines still evolving
+
+FEATURES AND BENEFITS
+
+FEATURE
+
+BENEFIT
+
+Fine-grained system control of hardware resources
+
+Guaranteed real-time determinism of key subsystems, coupled with increased security
+
+System immutability
+
+Once system boots, system cannot be reconfigured, which translates to increased system uptime and reliability
+
+LynxSecure has 20k lines of certifiable source code
+
+Accelerated (and cost reduced) path to system certification
+
+Key system functions decentralized and distributed
+
+Improved system reliability since there is no reliance on a single RTOS
+
+Suite of Built-in tests (BITs) on boot and while systems are operating to ensure system maintains a secure state
+
+Continuously monitor the state of the system and ensure that the conditions for continued secure operation are being maintained
+
+LSAs created to enable specific datastreams to be encrypted
+
+Enables sensitive data to be securely transmitted and received over public networks
+
+DO-178 certification and reusable software component (RSC)
+
+For those customers requiring a path toward certification, Lynx will accelerate that path and reduce the costs due to the elements of pre-certified code and creation of immutable, isolated partitions
+
+A LYNX MOSA.IC PRODUCT
+
+LYNX MOSA.ic was announced as a software framework in 2019. It is founded on the 
+LynxSecure
+®
+ separation kernel hypervisor and enables a number of other Lynx products and third-party products to be combined in a way where applications are given fine grained control over specific CPU and memory resources. In contrast to traditional RTOS platforms, where hardware control, real-time scheduling, security, multimedia, and application runtime services are integrated into a common stack servicing all applications on all CPU cores, LYNX MOSA.ic allows system architects to subdivide systems into smaller, independent stacks which include only the dependencies required. Lynx has used this framework to create specific products for specific applications. 
+LYNX MOSA.ic for UAVs & Satellites includes RTOSes, Linux (Buildroot), and bare metal applications such as Lynx Simple Applications (LSAs).
+
+FOUNDED ON LYNXSECURE
+
+As a true separation kernel, LynxSecure is often meaningfully described by what it isn't, as much as by what it is. With LynxSecure there is no system configuration change after startup. This means no hardware re-mapping, device assignment, memory allocation, or changes to security or scheduling policies. With LynxSecure, the system architect can rely on the following facts:
+
+Guest software CPU cycles are guaranteed
+
+LynxSecure executable is secure
+
+No means to load any app. or modify the LynxSecure executable
+
+Guests cannot access LynxSecure memory
+
+No shared kernel memory between guests and/or LynxSecure
+
+Guest-to-Guest communications are secure
+
+Resources and security policies defined at boot
+
+User-space, zero copy memory for security-policy enforced guest-guest communications
+
+Data does not pass through LynxSecure
+
+Communication (using FIFOs, Ethernet or device emulation) between guest operating systems is highly regulated
+
+LynxSecure provides a protected, secure channel of communication using a message passing API
+
+Message transmission is generally asynchronous and unidirectional for security concerns.
+
+The security policy defines the authorized communication between two different guests and can be defined as unidirectional or bi-directional
+
+Copyright © 2023 Lynx Software Technologies
+
+Privacy Policy

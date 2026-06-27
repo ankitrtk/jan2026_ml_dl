@@ -1,0 +1,285 @@
+URL: https://www.lynx.com/casestudies/generalatomics
+
+Case Study | General Atomics
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+MISSION CRITICAL EDGE CUSTOMER USE CASE
+GENERAL ATOMICS
+
+CUSTOMER USE CASE
+
+GENERAL ATOMICS
+
+WHO IS GENERAL ATOMICS?
+
+General Atomics (GA) is a defense and diversified technologies company, founded in 1955 as a Division of General Dynamics and acquired by the Blue family in 1986. GA and affiliated companies operate on five continents, including GA Aeronautical Systems, Inc. (GA-ASI).
+GA-ASI produces a series of uncrewed aircraft and provides electro-optical, radar, signals intelligence, and automated airborne surveillance systems. GA’s Electromagnetic Systems Division produces electromagnetic aircraft launch and recovery systems for the US Navy, satellite surveillance, electromagnetic rail guns, high-power lasers, hypervelocity projectiles, and power conversion systems.
+
+WHAT IS THE GRAY EAGLE EXTENDED RANGE?
+
+Gray Eagle Extended Range (GE-ER) Unmanned Aircraft System (UAS) is a next-generation advanced derivative of the battle-proven Gray Eagle Unmanned Aircraft System (UAS). GE-ER delivers long-endurance UAS surveillance, communications relay, and weapons delivery missions supporting the warfighter. The aircraft delivers an advanced UAS capability for the Army, adding significantly increased endurance, considerably improved reliability/maintainability, and much greater payload and weapons capacity. The Gray Eagle is a multi-mission UAS with sensors, including color and thermographic cameras, and is piloted remotely from a ground-control station via satellite data link or optionally by line-of-sight data link.
+
+WHY IS IT IMPORTANT?
+
+An early goal of the software modernization sought to integrate a new and advanced video codec implemented on the Zynq UltraScale+ adaptable multiprocessor system on chip (MPSoC) from Xilinx, Inc. 
+Desiring a path to future certification led the customer to think about a mixed-criticality environment, including Linux and a deterministic real-time operating system. 
+
+WHAT CHALLENGES WERE BEING FACED?
+
+Given the nature of the use case, there was a need for a software implementation that would securely partition networking, security, safety, and multimedia domains from each other with prescriptive, defined, and immutable allocation of hardware resources to each. This was important since it would allow the incorporation of the Xilinx hardware without compromising hardware dependencies or the performance and determinism of other time-critical processes.
+
+WHY WAS LYNX SELECTED?
+
+After a customer review, it was determined that LYNX MOSA.ic was the best path to incorporate dedicated-for-purpose software enclaves, each defining access permissions immutably to the precise set of required applications. The benchmarking work also revealed that the secure, low latency inter-process communication enabled in the LYNX MOSA.ic product would meet their real-time response requirements.
+
+WHAT IS LYNX MOSA.IC?
+
+LYNX MOSA.ic
+ is a software framework for building and integrating complex multicore safety- or security-critical systems using independent application modules. Its elegant, modular architecture enables developers to collapse development cycles when creating, certifying, and deploying robust platforms for manned, autonomous and increasingly connected systems.
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

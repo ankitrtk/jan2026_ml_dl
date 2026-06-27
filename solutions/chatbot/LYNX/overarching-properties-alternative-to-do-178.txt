@@ -1,0 +1,471 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/overarching-properties-alternative-to-do-178
+
+Overarching Properties: An Alternative to DO-178
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            5 min read
+
+Overarching Properties: An Alternative to DO-178
+
+ Tim Loveless | Principal Solutions Architect
+
+ : 
+
+                Nov 16, 2019 10:20:00 AM
+
+Avionics
+
+FAA
+
+Safety
+
+Certification
+
+_______________
+
+Overarching Properties
+—
+an alternative design assurance approach to DO-178C—marks the biggest change in airborne software safety certification since DO-178B was unveiled in 1992. Intended to be more efficient and flexible than DO-178C, the approach was introduced as DO-178C and the Overarching Properties Initiative during FAA Chief Scientist George Romanski’s keynote address at the High Integrity Software Conference in Bristol, United Kingdom (UK).
+
+What is DO-178?
+
+Since 1992, DO-178B (and later, DO-178C) have become the standard approach for building safety critical software for aircraft systems. DO-178C is the latest version of the standard, 
+Software Considerations in Airborne Systems and Equipment Certification
+, which describes a means of compliance by which certification authorities such as FAA and EASA approve all commercial software-based aerospace systems.
+
+DO-178 was written by the commercial avionics industry to improve the quality of safety critical airborne software. It prescribes sound practices to build safe software systems including defining 5 failure condition levels and associated design assurance levels (DALs) ranging from catastrophic (DAL A) to no-effect (DAL E). The most critical systems, such as flight controls and cockpit displays, are labelled DAL A; whereas less critical systems, such as telemetry and communications are labelled DAL C or DAL D. Each DAL prescribes distinct levels of rigor in the software development process. There are 71 objectives defined for meeting DAL A, for example, compared to 26 objectives for DAL D.
+
+DO-178C defines a detailed process, following the V-Model, where a project begins by defining its 
+system requirements
+, then progresses to 
+high level requirements
+, followed by 
+functional requirements
+ and, finally, to writing 
+source code
+ which is compiled into 
+executable binary code
+. At every stage, testing is to be performed to verify that the implementation matches the requirements. Tools are used to verify every object code path (a) has been covered, (b) corresponds to source code and can be traced to a functional, high level and system requirement, and (c) that zero unexpected code is present.  This results in a vast library of documentation that dwarfs the source code in both size and cost.
+
+Aviation Software Challenges
+
+The software content of aviation systems continues to grow, pushing the cost of certification ever higher. Under FAA regulations, large (part 25 - transport category) aircraft have a good safety record, but small (part 23 - normal, utility, acrobatic and commuter) do not. In small aircraft, safety systems are lacking. These aircraft are low cost, cable operated and advanced electronic systems are optional.  Small aircraft are either “going without” electronic systems, or “making do” with uncertified electronic systems because they cost too much. For example, a storm warning instrument might cost $5000 for a certified version compared to $2000 uncertified. The unfortunate effect, across the entire aviation industry, is that certification is making small aircraft less safe.
+
+There is also the problem of drone companies building large and heavy unmanned aircraft, attracted by the less stringent small aircraft (part 23) rules. This is the opposite of what the FAA wants, as these drones have high levels of software automation and should be moving towards large aircraft (part 25) regulations—not away from them.
+
+Innovation is another aspect. Artificial Intelligence (AI) is likely the best approach for computer vision, but AI systems, which lack requirements, are incompatible with DO-178C (for which requirements are integral). Exactly how AI systems work is complex, but they are not coded according to a detailed set of requirements. Instead they are trained on libraries of stock images, which tune large arrays of numbers that when taken together encode in complex ways the ability to recognize objects.
+
+Against this background, the FAA was given an order in 2013 by the United States Congress to improve the current prescriptive design requirements. The FAA responded with its Streamlining Initiative, of which Overarching Properties is one part.
+
+Overarching Properties Explained
+
+Overarching Properties aims to simplify the certification process and reduce the burden on both applicants and the FAA while maintaining the same level of safety. It is a framework for showing that a product possesses the characteristics necessary to behave correctly and safely. It is another means of compliance; that is, an alternative to the DO-178C standard.
+
+DO-178C focuses the majority of its process around showing correctness to requirements, but it is light on how to define good requirements. Detractors of DO-178C see it as highly prescriptive, unapproachable, “safety by checklist” which prescribes unnecessary work and sometimes fails to focus on important areas. Overarching Properties aims to address these concerns.
+
+Overarching Properties Objectives
+
+Overarching Properties distills DO-178C's 71 objectives down into "meta objectives", or 3 Overarching Properties:
+
+Intent
+
+Correctness
+
+Innocuity
+
+Intent
+
+is similar to requirements.
+Correctness
+
+means it was built right.
+Innocuity
+
+means unused pieces are either removed or harmless.
+
+Overarching Properties condenses the essence of the entire standard into 3 sentences:
+
+The defined intended behavior is correct and complete with respect to the desired behavior.
+
+The implementation is correct with respect to its defined intended behavior, under foreseeable operating conditions.
+
+Any part of the implementation that is not required by the defined intended behavior has no unacceptable safety impact.
+
+There is no implied order; rather, the 3 properties "live together".
+
+Under Overarching Properties, you have to show that your product possesses the 3 Overarching Properties. A product that possesses the three Overarching Properties will:
+
+Be speciﬁed properly
+
+(Intent)
+
+Do the right things
+
+(Correctness)
+
+Do no wrong things
+
+(Innocuity)
+
+It is recommended to build an assurance case—that is, lines of inductive reasoning via bottom-up logic—that tie the Overarching Properties to evidence. A structured, compelling argument should be built using the Toulmin Method or with a notation like Goal Structuring Notation (GSN). Over time, it is expected that templated lines of reasoning will emerge and that these can be reused, saving time and improving safety for both certification authorities and those seeking certification.
+
+"Defeaters" are a new concept intended to remove bias in the safety case. Defeaters are counter arguments that are included in the argument to show how they are mitigated, forming a record that they have been considered so that reviewers avoid duplicating work.
+
+Overarching Properties is more flexible than DO-178C and allows new arguments to support things like "safety nets" around non-deterministic parts of the system. For example, it may be possible to use 3 independent, redundant compute systems to mitigate risk factors. This is still being researched, but Overarching Properties is more flexible in this regard than DO-178C.
+
+Current Status
+
+In 2016, the FAA issued a notice of proposed rulemaking, announcing that it would remove current prescriptive design requirements and replace them with performance-based airworthiness standards. Overarching Properties was first presented to the public in September, 2016, at the FAA Streamlining Assurance Processes Workshop in Richardson, Texas. It was unveiled to a wider audience at the High Integrity Software Conference in Bristol, UK in November, 2019, but remains in a draft state.
+
+The FAA has already been using Overarching Properties for 3 years with 4 test projects currently trialing the approach. The projects are:
+
+RESSAC:
+
+Re-Engineering and Streamlining Standards for Avionics Cert, a European worked case-study to test Overarching Properties on a small drone
+
+NASA:
+
+Geofencing app
+
+Adacore:
+
+QGen tool qualification with Verocel
+
+UTC
+
+(United Technologies Corporation): Full Authority Digital Engine Control (FADEC)
+
+Controversy 
+
+There is some controversy from those who prefer the more prescriptive approach of DO-178C. Having a spreadsheet checklist is simple and attractive if things go wrong. In an enquiry, for example, whomever approved the system will be asked to substantiate what they did to prove the system is safe. If they can point to a checklist and show that every box is checked, then that seems simpler than having to explain a path of logical reasoning. Under Overarching Properties, it is hoped that the paths of reasoning should be obvious enough that they are clear to any sensible human being. The concern, however, is real, as Overarching Properties requires more thought and explanation.
+
+It remains to be seen how Overarching Properties is adopted by the aviation software safety community. It is certainly an appealing approach that offers flexibility and the opportunity to improve design assurance efficiency. Change is afoot in the avionics software certification world, as innovative new entrants take advantage of the Overarching Properties flexible safety approach.
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

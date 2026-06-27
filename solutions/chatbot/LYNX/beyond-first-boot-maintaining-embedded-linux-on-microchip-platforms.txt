@@ -1,0 +1,989 @@
+URL: https://www.lynx.com/blog/beyond-first-boot-maintaining-embedded-linux-on-microchip-platforms
+
+Beyond First Boot: Maintaining Embedded Linux on Microchip Platforms
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+BLOG
+
+June 05, 2026
+
+Beyond First Boot: Maintaining Embedded Linux on Microchip Platforms
+
+First boot proves the platform path. Production ownership starts when the Yocto/BSP foundation, security workflow, vulnerability response, hardware validation, and release evidence can be maintained across the product lifecycle.
+
+by 
+The Lynx Linux Team
+
+Share
+
+The board boots. The demo works. The reference BSP did its job.
+
+Then a critical CVE lands eighteen months later, and the team has to answer harder questions: what shipped, whether the vulnerable path is reachable, whether a vendor patch already changed the affected code, and whether the fix can be applied without breaking board-specific behavior.
+
+That is where first boot stops being the milestone that matters most.
+
+If you own a Microchip-based embedded Linux product past evaluation, especially across BSP maintenance, security response, field updates, or customer evidence, first boot is only the beginning of the risk surface.
+
+A Linux-capable Microchip evaluation environment, such as a 
+PolarFire SoC FPGA
+ kit or board, can get an embedded Linux team moving quickly: validate the core hardware path, prove the first application assumptions, and start learning before the custom board and production image settle. That is the right starting point.
+
+The harder question comes later: can the reference environment become a product-owned Linux platform the team can maintain, secure, and support for the device's full field life?
+
+First boot proves the platform path. Production ownership starts when the Yocto/BSP foundation, security workflow, vulnerability response, hardware validation, and release evidence can be maintained across the product lifecycle.
+
+The lifecycle question becomes especially visible on heterogeneous platforms such as 
+Microchip's RISC-V-based PolarFire SoC FPGA family
+, where Linux, FPGA fabric, and real-time requirements may all be part of the same product architecture. The platform can give teams a strong starting point, but the software image, hardware design, boot and update model, and validation plan still have to move together.
+
+This is the core frame: a Microchip-based evaluation path can provide a strong technical starting point. The lifecycle work is what has to be owned once that Linux design becomes a fielded product.
+
+A maintained embedded Linux product needs clear ownership of five connected areas: the BSP and Yocto baseline, the security and update model, the software inventory, the vulnerability-response workflow, and the release evidence that proves decisions later.
+
+Together, those areas form the operating model behind a fielded embedded Linux product.
+
+CRA readiness makes that operating model easier to question. The core engineering question remains the same: can the team explain what shipped, what changed, what is exposed, what was fixed, and how the decision was validated?
+
+A Booting Linux Image Starts the Work; It Does Not Define Ownership
+
+A reference image is supposed to reduce uncertainty. It gives the team a known-good starting point for bootloader behavior, kernel initialization, device support, and application exploration. On Linux-capable Microchip evaluation platforms such as 
+PolarFire SoC FPGA designs
+, that early enablement can be the difference between spending weeks on basic bring-up and getting quickly to product-specific questions.
+
+The ownership boundary changes once the system diverges from the reference path.
+
+A production image usually brings together custom hardware, board-specific Linux changes, product applications, update behavior, security policy, and manufacturing constraints. The product may also need to support multiple board revisions, customer variants, or fielded software branches.
+
+At that point, "Linux boots" establishes a baseline. Support requires a clearer record of what was inherited from the vendor BSP, what became product-owned, what defines the release, what actually ships in the image, and which tests prove that a fix works on representative target hardware.
+
+That record is what turns a future advisory, customer questionnaire, or CRA readiness review from archaeology into engineering response.
+
+The practical consequence is support speed. When a customer asks whether a shipped product is affected, the team should not have to rediscover its own build history before it can answer.
+
+Yocto Layer Control Determines Whether the BSP Can Be Supported Later
+
+Yocto gives teams a practical way to build and customize embedded Linux. Maintainability comes from controlling the build metadata around layers, recipes, branches, and patches.
+
+During evaluation, a team may only need a vendor BSP, a reference configuration, and a working image. During production, the same team needs release discipline: pinned inputs, documented overrides, reproducible builds, and a clear branch strategy for future fixes. 
+Yocto build and BSP customization
+ become part of the support model, not just the initial bring-up path.
+
+A useful review looks less like "does the image build?" and more like this:
+
+Evaluation assumption
+
+Production question
+
+Evidence needed for lifecycle support
+
+The reference BSP boots
+
+Which kernel, U-Boot, device tree, and driver changes are product-owned?
+
+BSP manifest, branch lineage, patch inventory
+
+Yocto produces an image
+
+Are all layers, recipes, and revisions pinned for the release?
+
+Layer manifest, build metadata, reproducible build notes
+
+The image includes needed packages
+
+Are unused services, debug tools, and development packages removed or justified?
+
+Image manifest, package review, hardening notes
+
+Board-specific changes work
+
+Are they documented against hardware revisions and product variants?
+
+Device tree diffs, board revision notes, validation logs
+
+The build can be repeated
+
+Can the release be rebuilt for support, audit, or patch integration?
+
+Source archive, build instructions, CI records
+
+The BSP is current enough
+
+Who owns backports when the product branch cannot simply move forward?
+
+Maintenance plan, patch intake records, release decision notes
+
+The common failure mode is accumulated product-specific decisions without ownership.
+
+A patch added during bring-up, a device tree change made for one board spin, a recipe override introduced for compatibility, or a boot argument changed during debug may all be reasonable at the time. They become lifecycle risk when nobody can reconstruct why the change exists, whether it is still required, or how it affects the next update.
+
+That is why BSP lineage is part of the security story. If the product team knows what it ships, how it was built, where it diverges from the vendor baseline, and which branches are supported, vulnerability response becomes tractable. If that lineage is unclear, each CVE or BSP update can become a new archaeology project.
+
+Security Features Need a Preserved Trust Boundary Across Boot, Storage, and Updates
+
+Embedded security mechanisms are easiest to discuss one at a time: secure boot, firmware integrity, protected storage, cryptography, and field update authentication. 
+Security feature implementation
+ only becomes product security when those mechanisms are integrated and maintained together.
+
+Products experience those mechanisms as one connected trust boundary.
+
+A team implements secure boot and validates that the expected boot stages authenticate correctly. The product ships. Six months later, a kernel vulnerability requires a field update. The update mechanism works, but the recovery path - what happens if the update fails or power is lost mid-flash - was never validated against the secure boot chain. The device can brick in the field, or the recovery path can bypass the trust boundary the team thought it had.
+
+A secure boot implementation may authenticate early boot stages. The complete product update path still has to preserve the same trust model. The review has to follow the chain from manufacturing through field maintenance: the root of trust, boot stages, Linux image, 
+root filesystem
+, key handling, update failure behavior, rollback handling, recovery, and service procedures.
+
+The mechanism works when the surrounding assumptions are validated.
+
+For embedded Linux products built on Microchip silicon, these details often sit at the boundary between hardware capability and software implementation. Security-capable hardware and cryptographic building blocks still need product-specific integration in the build system, provisioning flow, update process, recovery behavior, and target-hardware validation.
+
+Security also has to remain maintainable. A locked-down boot path with no safe update path creates one risk profile. An updateable system with weak integrity controls creates another. The stronger model preserves the trust boundary while still allowing the team to patch fielded products over the supported lifetime.
+
+The practical consequence is update confidence. A strong boot trust model needs a patch process that preserves the same assumptions that made the design trustworthy.
+
+SBOM Generation Starts the Inventory; Product Review Determines Exposure
+
+An SBOM answers a basic release question: what software is in the image?
+
+Product risk analysis starts from that inventory and adds product context.
+
+The next step is connecting the inventory to vulnerability intelligence and product-specific triage. CVE monitoring can identify known vulnerabilities. Embedded teams also need affectedness review that accounts for product branch, configuration, and reachability.
+
+Lynx Vigiles
+ supports this kind of embedded workflow by connecting SBOM generation, vulnerability monitoring, triage, remediation, and lifecycle reporting to the software actually present in the device. The goal is to connect vulnerability intelligence to product software and preserve the reasoning behind remediation decisions.
+
+The product decision still requires affectedness review.
+
+A CVE match opens an exposure question for the fielded device. The team has to distinguish inventory data from product risk: what code is present, how the product is configured, whether the vulnerable path is reachable, and what has already been patched or mitigated.
+
+CVE signal
+
+Product review question
+
+Release evidence
+
+Component appears in the SBOM
+
+Is the component present in the shipped runtime image or only in the build environment?
+
+SBOM, image manifest, package classification
+
+Version appears affected
+
+Is the vulnerable code present in this branch, or has the fix been backported?
+
+Patch review, branch comparison, advisory notes
+
+Vulnerable feature exists upstream
+
+Is the feature enabled in kernel config, build options, or runtime configuration?
+
+Kernel config, recipe options, service configuration
+
+Code path is present
+
+Is the path reachable under the product's attacker model?
+
+Threat model notes, exposure analysis, network/service review
+
+Fix is available
+
+Can it be integrated without breaking board-specific behavior?
+
+Patch integration record, build results, regression results
+
+Fix has been merged
+
+Has it been validated on target hardware and included in the correct release?
+
+Test logs, release notes, field update records
+
+This distinction is especially important for embedded Linux products. They often ship modified kernels, vendor BSP patches, pinned packages, stripped-down userspace, custom network exposure, and long-lived maintenance branches. A generic vulnerability result can raise the question. Product context makes the decision.
+
+The decision depends on product context: configuration, reachability, branch lineage, runtime exposure, compensating controls, and validation.
+
+The practical consequence is signal quality. Teams need fewer unreviewed alerts and more defensible decisions about the software that actually ships.
+
+CRA Readiness Depends on Evidence the Engineering Process Can Reproduce
+
+The 
+Cyber Resilience Act
+ entered into force on December 10, 2024, with reporting obligations starting September 11, 2026, and main obligations applying from December 11, 2027. For embedded Linux teams, the practical pressure is evidence.
+
+Many embedded teams already face security expectations from customers, procurement teams, industry standards, or internal product governance. CRA adds a broader regulatory driver for connected products sold into the EU market.
+
+The organization needs to show which shipped products are affected, how exposure was assessed, what remediation decision was made, and whether the updated image was validated on target hardware.
+
+The final question is often the most important one: can the team explain the decision later?
+
+Those questions cut across engineering, security, release management, support, and product ownership. They are also the questions that determine whether a vulnerability workflow is sustainable or just a recurring fire drill.
+
+For a fielded Linux product built from a Microchip evaluation path, the starting platform may provide a strong start. CRA readiness depends on what happens after that start: inventory, affectedness, remediation, validation, and maintenance ownership.
+
+Hardware Validation Turns a Patch Decision Into a Release Decision
+
+Vulnerability workflows often look clean until the fix has to run on the actual device.
+
+A package update may build cleanly but change runtime behavior. A kernel patch may apply with minor conflicts but affect a board-specific driver. A bootloader update may touch storage timing, secure boot configuration, or manufacturing assumptions. Even a small Linux change can surface integration problems that only appear on the target hardware.
+
+On heterogeneous designs, the validation boundary can be wider than the Linux image itself. A 
+Microchip PolarFire SoC FPGA design
+, for example, may require a Linux update to be evaluated against the real product context: real-time workloads, FPGA fabric behavior, boot configuration, firmware interfaces, and board-specific I/O. The patch decision is not complete until the system behavior is validated on the target hardware configuration that will actually ship.
+
+For embedded Linux products, target-hardware validation is part of vulnerability response.
+
+The release process needs a defined path from alert to product decision:
+
+Confirm whether the component and vulnerable code matter for this product.
+
+Decide whether to patch, mitigate, defer, or document the risk.
+
+Integrate the decision into the correct supported branch.
+
+Validate on representative target hardware.
+
+Preserve the triage, test, and release evidence.
+
+When that path is unclear, teams tend to oscillate between two weak responses: treating every alert as urgent without product context, or delaying action because every fix feels risky. For fielded embedded products with long lives, neither response is sustainable.
+
+The stronger model is a repeatable process that turns a vulnerability signal into a documented product decision.
+
+Recurring CVE Friction Usually Means the Release Process Lacks Ownership
+
+When teams struggle with vulnerability response, the visible symptom is often a long CVE list. The deeper issue is usually somewhere in the operating model.
+
+If the team cannot tell what software is in each shipped product, the first gap is inventory. SBOM generation and image-level software visibility need to become part of the release process.
+
+If the team has an inventory but cannot determine which findings matter, the gap is affectedness review. The workflow needs to account for branch lineage, configuration, reachability, backports, and runtime exposure.
+
+If the team knows a finding applies but cannot integrate the fix, the gap is maintenance. Long-lived kernel, bootloader, BSP, and userspace branches need ownership.
+
+If fixes repeatedly stall before release, validation capacity is part of the security problem. Target-hardware regression, board access, and release automation need to be designed into the response path.
+
+If security features are available but not consistently implemented, the gap may be architecture. Secure boot, key handling, storage protection, update behavior, and recovery need to preserve the same trust assumptions across development, manufacturing, and field support.
+
+These gaps rarely exist in isolation. A team may have partial inventory but weak affectedness review. Or strong security architecture but no validation capacity. The engineering support model needs to map to the actual failure point.
+
+Board bring-up matters when the product diverges from the reference design. Custom Yocto work matters when image ownership and reproducibility are unclear. Security implementation matters when hardware capabilities need to become a validated trust model. SBOM and CVE management matter when teams need to separate noise from meaningful exposure. Long-term Linux maintenance matters when fielded products cannot simply move to the newest upstream release. 
+Lynx engineering support
+ should map to the failure point.
+
+First Boot Proves the Platform Path; Maintenance Proves the Product Path
+
+Microchip Linux-capable platforms can give embedded teams a strong foundation for connected products: capable processing options, Linux enablement, and security-relevant hardware building blocks. That foundation reduces early uncertainty and helps teams get to product-specific engineering faster.
+
+The lifecycle foundation is the next layer.
+
+A maintained embedded Linux product needs ownership across the platform baseline, software inventory, security model, vulnerability response, hardware validation, and release evidence.
+
+That gap separates a system that boots from a product that can be supported.
+
+The technical issue that starts the investigation may be a kernel advisory, a package CVE, a customer questionnaire, a new board revision, or a CRA readiness discussion. The product decision depends on context: configuration, reachability, patch lineage, validation, and evidence. Teams that can answer those questions quickly are maintaining a product. Teams that treat every alert as a new fire drill are managing a crisis.
+
+Lynx helps embedded teams close that lifecycle gap across custom Yocto builds, board bring-up, BSP and kernel maintenance, security implementation, vulnerability management, target-hardware validation, and long-term embedded Linux support for customer-owned products.
+
+If these answers are hard to produce today, the gap is probably bigger than one update or one vulnerability report. The team may need to strengthen the process for understanding exposure, integrating fixes, validating safely, and preserving release evidence across the product lifecycle. Start with the operating model for 
+maintaining embedded Linux products built on Microchip-based designs
+.
+
+Lynx Engineering Team
+
+Subscribe Here!
+
+ON THIS PAGE
+
+ Maintain Microchip-Based Linux Platforms Beyond First Boot 
+
+ From BSP maintenance to CVE remediation and release evidence, Lynx helps embedded teams keep Microchip-based Linux systems secure and supportable after launch. 
+
+                Plan Your Linux Lifecycle
+
+Latest From Lynx
+
+            View All
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

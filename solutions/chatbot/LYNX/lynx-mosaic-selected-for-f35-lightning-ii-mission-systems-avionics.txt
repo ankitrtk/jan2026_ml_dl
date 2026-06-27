@@ -1,0 +1,168 @@
+URL: https://www.lynx.com/lynx-mosaic-selected-for-f35-lightning-ii-mission-systems-avionics
+
+LYNX MOSA.ic™ Selected for F-35 Lightning II TR3
+
+Products
+
+LYNX MOSAic
+
+LYNX MOSAic for Avionics
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+LYNX MOSA.ic.SCA
+
+SpyKer Product Family
+
+VIE
+
+Legacy
+
+LynxOS
+
+LynxSafe
+
+Professional Services
+
+Support
+
+Support Portal
+
+Support Services
+
+Training
+
+Industries
+
+Armored Ground Vehicles
+
+Commercial Avionics
+
+Critical Infrastructure
+
+LEO Satellites
+
+Military Avionics
+
+Urban Air Mobility
+
+Industry Standards
+
+FACE 
+
+MOSA
+
+Resources
+
+Case Studies
+
+Export Compliance
+
+FAQ
+
+Resource Center 
+
+Videos
+
+About Us
+
+Careers
+
+Contact
+
+How Did We Do?
+
+Distributors
+
+Events
+
+Blogs
+
+Lynx Executive Blog
+
+Lynx Technical Blog
+
+Our Business Model
+
+Our Commitment to National Defense
+
+Partners
+
+Press Releases
+
+The Lab
+
+Feedback
+
+LYNX MOSA.ic™
+
+Selected for F-35 Lightning II Mission System Avionics 
+
+The
+
+Announcement Details
+
+Joint Strike Fighter (JSF) Program Office Accepts Lockheed Martin's Recommendation for LYNX MOSA.ic
+
+The F-35 Joint Strike Fighter Program Office has accepted the recommendation from
+
+Lockheed Martin
+
+to adopt the
+
+LYNX MOSA.ic
+
+framework
+
+to support the upgrade of the mission system avionics for the F-35 Lightning II as part of the “Technology Refresh 3” (TR3) modernization program.
+
+LYNX MOSA.ic will be deployed to support the development of key components of the next generation F-35 Lightning II avionics platform, including the Integrated Core Processor (ICP) being developed by
+
+Harris Corporation
+. The ICP acts as the brains of the F-35, processing data for the aircraft’s communications, sensors, electronic warfare, guidance and control, cockpit and helmet displays.
+
+The TR3 program is expected to generate large reductions in production and sustainment costs at the same time as delivering significant increases in computing power. A key element of the program is the adoption of commercial-off-the-shelf (COTS) technology and an Open System Architecture to enable the flexibility to add, upgrade and update future capabilities.
+
+The
+
+Technology Refresh 3 (TR3)
+
+Why is it important?
+
+The F-35 Lightning II Program (also known as the Joint Strike Fighter Program) is the US Department of Defense's focal point for defining affordable next generation strike aircraft weapon systems It is intended to replace a wide range of existing fighter, strike, and ground attack aircraft for the United States, the United Kingdom, Italy, Canada, Australia, the Netherlands, and their allies. After a competition between the Boeing X-32 and the Lockheed Martin X-35, a final design was chosen based on the X-35. This is the F-35 Lightning II, which will replace various tactical aircraft.
+
+What challenges were being faced?
+
+There is a tremendous amount at stake when procuring software platforms. From CPU architecture, to firmware, I/O services, standard APIs, and certification evidence, layers of complexity abound. A key element of the “Technology Refresh 3” (TR3) modernization program for the F-35 Lightning II avionics platform is the adoption of commercial-off-the-shelf (COTS) technology and an Open System Architecture as an approach to addressing this. The Integrated Core Processor (ICP) in this platform processes data for the aircraft’s communications, sensors, electronic warfare, guidance and control, cockpit and helmet displays.
+
+Why
+
+LYNX MOSA.ic
+
+Why was Lynx Selected? 
+
+The F-35 Joint Program Office accepted the recommendation from Lockheed Martin to adopt the Lynx MOSA.ic framework for this program as it enables the TR3 subsystems to be cleanly architected from reusable software components that avoid proprietary dependencies. This approach also provides additional flexibility to integrate components of varying degrees of complexity and quality, including open source components, without undermining architectural assurance properties.
+
+In addition to the technology benefits, the adoption of technology from Lynx for the TR3 program enables to development-, sustainment- and acquisition costs to be drastically reduced and provides the necessary flexibility to implement system upgrades well into the future.
+
+For over thirty years, market-leading military and avionics companies have harnessed software technologies from Lynx to create their safety- and security-critical systems and we are honored to have been selected to support this highly visible, strategic program.
+
+What is LYNX MOSA.ic?
+
+LYNX MOSA.ic is a framework for development and integration of complex multi-core safety or security systems. Built on the LynxSecure separation kernel hypervisor, LYNX MOSA.ic supports a variety of operating systems such as LynxOS-178, Linux, Windows, third-party RTOS and bare metal applications including Lynx Simple Applications. LYNX MOSA.ic runs on Intel
+®
+, Arm
+®
+ and PowerPC
+®
+ architectures.
+
+Questions? Contact Us
+
+Copyright © 2023 Lynx Software Technologies
+
+Privacy Policy

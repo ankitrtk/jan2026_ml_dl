@@ -1,0 +1,489 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/costs-of-board-support-packages-bsps
+
+What is the Cost of a Board Support Package?
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            7 min read
+
+What is the Cost of a Board Support Package?
+
+ Tim Loveless | Principal Solutions Architect
+
+ : 
+
+                Oct 1, 2019 10:35:00 AM
+
+Multicore
+
+Certification
+
+MCP
+
+embedded systems
+
+TCO
+
+hardware
+
+development
+
+BSPs
+
+board support
+
+costs
+
+_______________
+
+INTRODUCTION
+
+The board support package (BSP) is the glue software that allows an embedded real-time operating system (
+RTOS
+) to run on a specific target board.  Creating a BSP for your chosen board is a detailed software engineering task that takes 2 to 8 weeks.  Expect an embedded software consultant to charge $20,000 to $100,000 for the work.  The task involves interfacing the RTOS to the new board’s memory layout as well as to a timer, a serial console, and a network interface, at least.  The BSP is the foundation of your software, so it is important that it be high quality and support all the peripherals you need.  This article will guide you through the minefield of getting the right BSP and suggest options to reduce or eliminate the cost.
+
+FIRST: A WORD ABOUT US
+
+Why trust us when it comes to the details on pricing a BSP? Because Lynx Software Technologies has built and supported real-time operating systems (RTOSes) since 1988. We have witnessed hardware and embedded software technologies evolve and have supported our customers through the design, development, integration, certification, deployment, and support of software systems across mission-critical applications in 
+AVIONICS
+, 
+INDUSTRIAL
+, 
+AUTOMOTIVE
+, 
+UNMANNED SYSTEMS
+, 
+DEFENSE
+, 
+SECURE LAPTOPS
+, 
+CRITICAL INFRASTRUCTURE
+, and other markets.
+
+Where to look for a Board Support Package?
+
+There are hundreds of different embedded boards available—such as the Raspberry Pi, BeagleBoard, Arduino, etc.—and you will need a BSP for your RTOS if you want to run it on your board.  Boards and BSPs are a “chicken and egg”-type problem.  Often you will choose the perfect board only to find there’s no BSP or vice versa.  In some cases, commercial off-the-shelf (COTS) board vendors include BSPs—or sell BSPs for their boards—but the largest BSP libraries tend to reside with RTOS vendors, who strive to support as many BSPs as they can.  If a suitable BSP exists, they will typically provide it free of charge to enable a sale.
+
+The open-source Zephyr RTOS supports about 160 BSPs and VxWorks v7 lists 77 BSPs. In general, commercial RTOSs support fewer BSPs than open source OSes like Linux.   However, be careful with large BSP lists—while everyone wants an impressive list, the devil lies in the details.   Consider the following questions when looking for a BSP:
+
+How recent are the BSPs?
+
+Do they support modern processors, boards, and RTOS versions?
+
+What features are included?
+
+The core challenge is that BSPs are a moving target—new processors, boards and RTOS versions come out all the time—so that RTOS vendors are forever playing catch-up.
+
+Choosing the ‘Right’ Board
+
+Target boards vary in price and features, from $30 hobbyist systems to rugged rack-mounted systems that cost upwards of $20,000. This cost is in addition to the cost of paying for a consultant to create a BSP.  When considering a project, the target board is carefully chosen to closely match the needs of the project.  Many factors are considered, including:
+
+Cost
+
+Size, weight
+
+Performance
+
+Power consumption
+
+Peripherals (USB, networking, wifi, Bluetooth)
+
+A common trap is to spend too much time trying to find the 
+perfect
+ board; that is, a board with exactly your preferred processor and peripheral mix.  Across all available boards, BSP support is sparse, meaning that if cost is a key driver, then you will likely end up switching to a “compromise” board with an off-the-shelf BSP, as this will be far cheaper than paying for a custom BSP.
+
+Impacts on Board Support Package Cost
+
+Board Support Package cost is a function of how much software engineering work is required to fill the gap between what software is available and what your BSP needs.  Complex peripherals (such as graphics and USB) or high speed peripherals requiring Direct Memory Access (DMA) will cost more.  The task will be much easier if your RTOS already supports a similar board, but if it does not, then the engineer will look for BSPs from other RTOSes (or, failing that, for code from Linux).  Open source software can be of help, as some existing libraries of BSP source code are accessible without commercial licensing fees.  However, the best professional consultants will already have access to commercial RTOS products.
+
+Two factors have such a large effect on BSP cost that they warrant separate discussion:
+
+Custom Target Boards
+
+Certified BSPs
+
+Custom Target Boards
+
+Some embedded projects are specialized to the point that no existing ready-made board is suitable.  They may be such high volume that aggressively pruning their hardware back to the bare minimum to do the job is financially justified.  That is, reducing the processor speed, the RAM, and the FLASH memory to save a few pennies is a sound decision over the manufacturing run of millions of water meters, for example.  Other embedded boards need to withstand extreme thermal, vibration or shock loads or fit into tightly constrained spaces.  Custom built hardware is justified in these situations.  If an existing target board can be redesigned with only physical re-routing and removal of components, its existing off-the-shelf BSP will work with easy changes, but if more significant changes are needed a custom BSP will be required.
+
+Certified Board Support Packages
+
+In certain industries, safety or security is so important that regulatory authorities dictate systems must adhere to certification. This has been true in aviation since the 1990s, and, more recently, in the industrial automation and automotive industries. The Federal Aviation Administration (
+FAA
+) and European Union Aviation Safety Agency (
+EASA
+) regulate all aspects of civil aviation from engines to airframes. That includes embedded computer systems controlling safety-critical aircraft systems, such as flight computers and cockpit displays. Airborne electronic hardware must comply with 
+DO-254
+ and software with 
+DO-178C
+. Other safety standards include 
+IEC 61508
+ for industrial and 
+ISO 26262
+ for automotive.
+
+The situation with BSPs for certified systems is even more challenging; not only are the target boards likely to be custom, but the BSP and OS must be built following the rigor of the relevant certification standard.  This involves heavy-weight processes that begin at high-level software requirements and work down to branches in the machine code in order to rigorously ensure that every piece of the software in the system is necessary, correct and tested.  The cost of the extra rigor and work is tremendous—typically between $50 - $200 per line of source code—and prohibitively expensive for Linux, for e.g.  In aviation, the safety standard dictates that unused code must be removed.  With such a cost per line, however, carefully controlling the size and features of the OS and BSP makes sense.  Unfortunately, removing lines of code and features makes your BSP incredibly bespoke to your application and practically impossible for other projects to reuse.  For certified BSPs, anticipate them being custom and costing 2 to 4 times as much as regular BSPs.
+
+Minimizing Board Support Package Cost
+
+PC-Compatible Target Boards
+
+If a PC-compatible target board is suitable, then the need for a custom BSP can likely be avoided.  RTOS vendors tend to have a generic x86 PC BSP that works on most PC-compatible boards.  This works because Intel-based boards have better hardware backward compatibility than other embedded boards.  PC-compatible boards have a BIOS to help them boot and layers of operating modes so that a BSP written to use a common subset can run on practically any board. 
+
+Highly Integrated SoCs
+
+BSP work can be reduced on modern System on Chips (SoCs) if they are so highly integrated that they are practically self-contained (except for RAM).  That is, if every peripheral is implemented inside of the main chip, then an RTOS’s BSP for any board using that chip will be highly compatible with other boards using the same chip. 
+
+Auto-Generated BSPs
+
+Another possibility for reducing costs is with advanced development tools that are smart enough to automatically generate a BSP for you.  These tools are rare, but they do exist.  The 
+Xilinx Software Development Kit
+ (SDK), for example, is capable of automatically generating BSPs for FreeRTOS on Xilinx parts based on Arm Cortex-R5, Cortex-A9, Cortex-A53 and Xilinx Microblaze processors.  The SDK includes canned BSP source code templates that are automatically cut and pasted to construct complete BSPs.  Drivers for peripherals are included as necessary and parameters are automatically populated into address maps.  Xilinx can do this because their SDK is setup to build combined processor and FPGA based SoC systems on their FPGA hardware platforms.  The Xilinx SDK includes both the intellectual property (IP) for hardware peripherals, knows the complete system memory map and has the software drivers to run them.  Cleverly combining these using a FreeRTOS BSP source code template results in a buildable and executable BSP.
+
+Hypervisor-Based Systems
+
+Using a hypervisor to host your RTOS in a virtual board isolates the RTOS from the underlying target board.  The RTOS BSP is simplified because board specific target initialization code is eliminated from the RTOS BSP, being done instead by the hypervisor as it boots up.  If the RTOS is expecting a specific target board, the hypervisor can even be configured to make a virtual machine emulate that target board.  For example, the memory map, available peripherals, and their locations can be tuned to look like a real target board.  This is useful to host legacy applications without recompiling them, for example. Lynx MOSA.ic™ is an example of such a hypervisor based system.  Lynx MOSA.ic™ is a development framework that allows a multicore processor (MCP) to be partitioned into virtual machines into which RTOS, Linux, and bare-metal guests can be hosted.  It includes the LynxOS-178® RTOS, Buildroot Linux, and Lynx’s bare-metal environments configured with generic BSPs to run as guests.
+
+Hardware Device Trees
+
+A 
+device tree
+ is a machine readable hardware catalogue with the potential to further automate the creation of BSPs. It is a data structure that describes the hardware components of a target board so that an operating system (OS)—typically Linux—can run on it. The normal use of a device tree file is to pass it to a bootloader that loads it, along with a Linux kernel image, in order to boot Linux. Since Linux is usually the first OS ported to new boards, those new boards all come with pre-written device tree files. Lynx MOSA.ic™ takes advantage of device trees to further reduce BSP costs. The internals of Lynx MOSA.ic™ are built to support specific SoCs, but in addition, it reads device tree files to automatically account for differences between boards using the same SoC. In combination, this means Lynx MOSA.ic™ is able to automatically generate binary code to boot target boards without requiring a BSP for those boards. Lynx MOSA.ic™ first reads the device tree file to build a hardware catalog, then, using an architecture description language, an engineer assigns those hardware resources to create virtual machines ready for guest software workloads. Lynx MOSA.ic™ auto-generates the bootcode and virtual machine creation code, combining them together with guest images into a single executable file that can be launched by the boot loader.
+
+BSP Support & Maintenance
+
+Other considerations when paying for a BSP are who owns it, who supports it, and who maintains it in the future.  An RTOS vendor certainly has the expertise to build you a BSP for their RTOS and—as long as your board is not completely niche—they will likely be keen to support it and maintain it going forward.  Of course, they will want to offer it to other customers as well.  Do consider what happens when your RTOS moves to the next version; unless your board is incredibly popular, your RTOS vendor is unlikely to port it forward to their new version.
+
+Avoid Unnecessary BSP Costs In Your Next Project
+
+Lynx has been helping customers build high quality, reliable and safe embedded systems for over 30 years.  We would be happy to discuss how to minimize BSP costs in your project and whether you even need an RTOS.  To learn more about choosing the right embedded software framework and how to reduce or eliminate BSP costs in your next project please direct your inquiries to 
+inside@lynx.com
+ or fill out the form linked to the button below, and a representative will reach out to you within 1-2 business days.
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

@@ -1,0 +1,373 @@
+URL: https://www.lynx.com/executive-blog/dr-justin-pearson-joins-lynx
+
+Charting a New Course to Support Safety, Security, and Capability Enabling Modular Open Systems Approaches
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Charting a New Course to Support Safety, Security, and Capability Enabling Modular Open Systems Approaches
+
+ Dr. Justin Pearson | Director of System Architecture
+
+ : 
+
+                Aug 17, 2023 9:00:00 AM
+
+Lynx MOSA.ic™
+
+Safety
+
+Systems Architecture
+
+Security
+
+Cybersecurity
+
+MOSA
+
+VIE
+
+My journey to lynx software technologies
+
+After dedicating more than 12 years to project office roles with a deep focus on software airworthiness, cybersecurity, system safety, MOSA, and architecture, along with 10 years in academia, concluding at the Doctoral level with a dissertation on "Addressing Cybersecurity and Safety Disconnects within Army Aviation" and a specialization in Cybersecurity and Information Assurance, the opportunity to join Lynx Software Technologies as the Director of System Architecture was a highly relevant, appealing, and thrilling new challenge.
+
+Prior to joining Lynx, I gained a wealth of experience supporting crucial roles in influential projects like the Future Long-Range Assault Aircraft (FLRAA), UH-60V, and the Modular Open Systems Approach (MOSA) Transformation Effort within the Program Executive Office for Aviation (PEO AVN). I was also the Product Office Software and Cybersecurity Lead for the very first fielded PEO AVN Open Systems Architecture (OSA) in UH-60V, serving in the same capacity when UH-60V won Quad A program of the year.
+
+At Lynx, I can work closer to the core capabilities that have been and will continue to be essential for our customers, such as the soldiers utilizing Army Aviation systems that require enabling technologies such as 
+LYNX MOSA.ic
+TM
+ to support the level of safe, secure, and modular rapid capability insertion necessary to stay ahead of the evolving threat. What drew me to Lynx was the notion of transitioning from a support capacity to a more proactive role, where I could directly influence and shape the products our customers need, as well as interface with customers with the level of understanding I’ve gained from years of supporting the opposite side.
+
+It has been clear from day one that our work at Lynx is rooted in both innovation and listening to the needs of the customer. This is demonstrably proven by our solutions like LYNX MOSA.ic
+TM
+ and the “Open DevSecOps Ready," solution facilitated by our 
+Virtual Integration Environment
+ (VIE), which set us apart in the industry. It is also evident throughout Lynx that it's not just about delivering software; it is about supplying and sustaining the operating environment that can adapt and evolve according to our customers’ changing landscapes. One of the many refreshing things about Lynx is the proactive and forward-thinking nature of the team to posture our current and future customers with truly scalable, safe, secure, and certifiable 
+MOSA 
+and Multicore Processing implementations. It has been clear for too long now that simply pushing the traditional customer purchase of an OS/BSP for a one-off Single Board Computer (SBC) implementation negatively constrains the customer’s future ability to update and insert capabilities and is contrary to what MOSA is really trying to accomplish.  
+
+Not only does Lynx already possess solutions that disrupt this cost-prohibitive old way of business common among typical OS providers, but our roadmap builds upon the daily feedback of our customer base to refine this solid foundation of safe, secure, and tailorable MOSA products. The proactive problem-solving approach I have become accustomed to executing on the project office side is harmoniously aligned with Lynx's agile methodology, empowering us to deliver rapidly to our customers and keep pushing the boundaries of what is possible in our field while doing so safely and securely. 
+I am honored to be part of this dynamic team and eager to contribute my expertise to our ongoing mission. I look forward to sharing more about my Lynx journey in due course.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

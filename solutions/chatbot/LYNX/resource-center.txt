@@ -1,0 +1,1107 @@
+URL: https://www.lynx.com/resource-center
+
+Resource Center 
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+RESOURCE CENTER
+
+Browse Lynx content covering a diverse range of software topics related to building secure, safe, and adaptable mission-critical systems. Click the headings below to filter results by content type.
+
+All
+
+NEWS FEATURES
+
+TECH ARTICLES
+
+BROCHURES & DATA SHEETS
+
+WHITE PAPERS
+
+By leveraging detailed trace analysis, SpyKer-TZ can reduce your certification efforts by up to 30%, giving your teams clearer insights into real-time system behavior.
+
+SPYKER-TZ
+
+DATASHEET | OCTOBER 2024
+
+Software Composition Analysis for Supply Chain
+
+LYNX MOSA.ic.SCA
+
+DATASHEET | SEPTEMBER 2024
+
+Research shows that 31% of cost overruns result from insufficient analysis of systems requirements and underestimating technology complexity in early stages of planning. Getting the design right from day one drastically reduces these costs. LYNX MOSA.ic™ helps you achieve this.
+
+LYNX MOSA.ic 
+
+DATASHEET | SEPTEMBER 2024
+
+Save an amazing 45% of your development cost through simulation, automation, and asset management.
+
+LYNX MOSA.IC.VIE+EBF Add-On
+
+DATASHEET | SEPTEMBER 2024
+
+The aerospace and defense (A&D) ecosystem – including the military, private sector, academia, and government – must consider a huge number of factors as autonomous systems become more common in the sea, on the land, and above the battlefield.
+
+AI, MOSA, and the Future of Secure Uncrewed Warfare
+
+NEWS FEATURE | 3-13-24
+
+Today's most advanced aerial platforms—whether a commercial airliner, fighter jet, helicopter or unmanned system—compete as much based on their computing and electronic sophistication as traditional performance benchmarks.
+
+The Weakest Link: How To Avoid Aerospace And Tech Vendor Lock-In
+
+GUEST FEATURE | 1-18-24
+
+Rust offers a promising solution for more secure, reliable code and has the potential to transform safety-critical software development.
+
+The Benefits of Using Rust for Mission-Critical Systems
+
+GUEST FEATURE | 1-16-24
+
+With the 2021 SolarWinds breach, attackers proved the value of manipulating the codebase of a popular enterprise monitoring program to infiltrate and spread along the software supply chain. 
+
+2024 Trends Affecting Software Product Security
+
+NEWS FEATURE | 1-3-24
+
+The pace of technological change presents opportunities and challenges for every organization today. And no industry is poised to be more transformed by the latest innovations than aerospace and defense.
+
+Innovate Vs. Upgrade: New Technologies And Legacy Systems
+
+GUEST FEATURE | 12-14-23
+
+From providing support products and services for space-focused efforts to leveraging newly acquired access to unique resources, an exciting time for new tech startups may be on the horizon. Below, 20 members of Forbes Technology Council discuss ways tech companies could soon both serve and benefit from the burgeoning space industry.
+
+20 Ways Tech Startups Could Tap Into A Trillion-Dollar Space Industry
+
+GUEST FEATURE | 11-29-23
+
+We strongly believe our focus should be increasingly centered on integration. If there is a compelling, complementary technology to what Lynx offers, we focus on proving that our customers can efficiently and effectively harness the 3rd party technology in a low-risk way. Learn more about this concept and our LYNX MOSA.ic product from Lynx VP of Marketing, Ian Ferguson.
+
+An Intro to LYNX MOSA.ic
+
+VIDEO | 11-20-23
+
+Multi-access edge computing is a network architecture designed to bring technology resources closer to client devices and end users by providing computing and cloud-based processes at the edge of the network. We ask industry leaders how it all works.
+
+How ‘Multi-Access Edge Computing’ Brings the Edge Closer to Home
+
+GUEST FEATURE | 11-24-23
+
+Rust is a new systems-programming language that eliminates dangerous memory bugs while providing high performance. It has the potential to transform safety-critical software development through its innovative ownership model guaranteeing memory safety. 
+
+A New Hope for More Secure Defense Systems?
+
+GUEST FEATURE | 11-20-23
+
+With high-profile breaches making headlines daily, no company today can afford to neglect cybersecurity. But for those developing mission-critical technologies, ones where lives are on the line, protecting systems and data is more than just a priority.
+
+No Excuses: Prioritizing Security For Mission-Critical Technology
+
+GUEST FEATURE | 10-30-23
+
+Cybersecurity vulnerability looms over the worldwide aviation industry, calling for a firm embrace on cybersecurity awareness, standards and best practices
+
+Cyber Threat: Aviation’s Clear and Present Danger?
+
+GUEST FEATURE | 10-25-23
+
+Today, edge computing is playing a major role in virtually every industry by enabling data analysis in real-time or near-real-time and delivering key business insights. See our feature in this highlight.
+
+6 Real-World Edge Computing Use Cases
+
+NEWS FEATURE | 10-4-23
+
+Lynx CEO, Tim Reed is featured in the September 2023 issue of the Military Embedded Systems Resource Guide. Read up on his piece covering MOSA, AI, and unsafe programming languages.
+
+MOSA, AI, AND UNSAFE PROGRAMMING LANGUAGES
+
+GUEST FEATURE | 9-20-23
+
+The DevOps philosophy is simple: Bring development and operations teams closer together in the tech product building process. Companies that swear by DevOps tout improvements in team speed, efficiency and collaboration as well as higher-quality finished products.
+
+20 DevOps Best Practices Tech Teams Too Often Overlook
+
+GUEST FEATURE | 9-8-23
+
+The concept of “digital transformation” is hardly new. Since the ‘90s, the phrase has become a widely used—some would say overused—term to describe strategic initiatives organizations undertake to leverage technology and drive innovation in their operations.
+
+Here We Go Again: GenAI Ushers in a New Age of Digital Troansformation
+
+GUEST FEATURE | 8-17-23
+
+Tim Reed and John McHale of Military Embedded Systems discuss how MOSA benefits the warfighter and what it means to be certified conformant other the FACE Technical Standard.
+
+MOSA, AI, and Unsafe Programming Languages
+
+PODCAST | 7-27-23
+
+The U.S. Department of Defense wants to scale up the production of hypersonic weapons — but the supply chain to make that happen doesn’t exist.
+
+DOD Wants Hypersonic Weapons. But the Supply Chain to Support Production Isn’t There
+
+GUEST FEATURE | 7-24-23
+
+Have a clear purpose. I have found this to be invaluable. Several times I have taken leadership of a team that simply didn’t understand how their activities were connected to the company’s larger objectives. If you outline the purpose of the task and the effects, the quality of the work improves.
+
+How to Lead a Successful Marketing Management Team
+
+GUEST FEATURE | 7-16-23
+
+To maintain a defensive edge over its adversaries, the military is always looking for ways to modernize and innovate. One area that has seen significant progress in recent years is the development and use of uncrewed vehicles on land, sea and air. 
+
+How To Address Cyber Threats Facing Uncrewed Military Vehicles
+
+GUEST FEATURE | 7-11-23
+
+ChatGPT – an artificial intelligence (AI) chatbot – has emerged as a potential game-changer in the adoption of AI across all industries. For aerospace and defense, it can assist in increasing automation and data-driven analysis from the supply chain to aftermarket services.
+
+How ChatGPT Can Help Modernize Defense & Aerospace
+
+GUEST FEATURE | 6-14-23
+
+Aerospace and defense, while central to the country's physical security and a key sector in the economy, has traditionally lagged behind other vital industries, such as financial services, telecommunications and high tech, when it comes to adopting digital workflows.
+
+What Goes On In A&D Doesn’t Stay In A&D
+
+GUEST FEATURE | 6-12-23
+
+The massive tech industry layoffs that began in 2022 show no signs of slowing down. In fact, technology companies large and small laid off more than 150,000 workers in the first quarter of 2023.
+
+Tech Layoffs Offer Chances To Grow Engineering Expertise Across Industries
+
+GUEST FEATURE | 5-12-23
+
+Certifying avionics software has been, is, and always will be a daunting, time-consuming task for avionics hardware and software designers. Thanks to advances in aircraft technology, modernized software, a shift in the programming languages used, and the emergence of artificial intelligence and machine learning (AI/ML) technology, certification continues to get more complex.
+
+AI and ML Add Complexity to Military Avionics Safety Certification
+
+NEWS FEATURE | 5-11-23
+
+20 members of Forbes Technology Council, including Lynx CEO Tim Reed discuss some of the new technologies they believe have the most potential to have a widespread positive impact, and why.
+
+20 New And Notable Tech Developments That Could Lead To Widespread Positive Change
+
+NEWS FEATURE | 5-9-23
+
+Experts Michel Genard and Chris Hughes say shifting left on cybersecurity is a good thing, but liability will be hard to enforce.
+
+Shifting Left on Software Product Liability
+
+NEWS FEATURE | 5-3-23
+
+Project team productivity is critical to meeting program timelines and budgets. Lynx offers three, four, and five-day training courses to ramp your engineering team, instill best practices, and maximize their potential.
+
+LYNX MOSA.ic Technical Training
+
+TRAINING SHEET | MAY 2023
+
+Lynx Software Technologies and RTI have successfully worked together for over two decades, with a wide range of industry design wins and use cases.
+As we reflect back over those years, we have found three challenges our joint customers face that Lynx and RTI address, which when combined deliver immense benefits to the creators of connected mission-critical systems.
+
+Lynx and RTI: The Art of Driving Down Mission-Critical System Costs
+
+GUEST BLOG FEATURE | 4-25-23
+
+Lynx is committed to providing world-class support. Our dedicated team of engineers, architects and support staff gives direct access to superior customer service 
+and development services.
+
+Lynx Support
+
+DATA SHEET | APRIL 2023
+
+Lynx has announced that it’s LYNX MOSA.ic software supports the Layerscape Processor LS1028A product family from NXP Semiconductors.
+
+Lynx to Support Communication Protocols for Deterministic Systems Based on NXP Processors
+
+NEWS FEATURE | 3-29-23
+
+What's the prescription for getting more women to join - and stay in - industries like tech and A&D?
+
+Women’s Advancement in A&D and Tech
+
+NEWS FEATURE | 3-10-23
+
+GrammaTech, a leading provider of application security testing products and software research services, today announced that Lynx is using CodeSonar to maintain the safety and security of its software.
+
+Lynx Selects GrammaTech CodeSonar to Ensure the Safety and Security of Mission Critical Military Aerospace Applications
+
+NEWS FEATURE | 2-22-23
+
+A recent survey released by Lynx Software Technologies reveals widespread adoption of DevSecOps practices across the mission-critical aerospace and avionics industries, particularly those related to government and defense. 
+
+DevSecOps Top of Mind in Aerospace and Defense Industries
+
+NEWS FEATURE | 2-15-23
+
+Embedded software vendors for defense applications have a confession to make: there is more they can do to support customers adopting the modular open systems approach.
+
+MOSA; Standards Are Just The Start
+
+NEWS FEATURE | 2-15-23
+
+Artificial Intelligence (AI) is an exciting technology being deployed across a range of industries to deliver more effective (faster, lower cost, fewer joules expended, etc) decision-making. Its adoption in aerospace and defense markets presents significant challenges in aligning with existing certification processes. 
+
+Flying into the Future with Safety-Critical AI Capabilities
+
+WEBINAR | 2-14-23
+
+DevSecOps – first defined more than 40 years ago – brings a lot of value to modern development of military embedded systems, as the world sees global instability, ransomware attacks, and shortened development cycle.
+
+Everything You Wanted to Know About DevSecOps (but were afraid to ask)
+
+GUEST BLOG FEATURE | 2-2-23
+
+McCarthy joins the board of Lynx after serving as 24th Secretary of the U.S. Army until January 2021 after being confirmed by unanimous consent by the U.S. Senate in September 2019.
+
+Lynx Appoints Ryan D. McCarthy, Former Secretary of the U.S. Army to its Board of Directors
+
+NEWS FEATURE | 1-5-23
+
+DevSecOps – which stands for development, security and operations – integrates security throughout the software development lifecycle, starting with the initial design phase through integration, testing, deployment and delivery, automatically.
+
+New Data from Lynx Reveals DevSecOps Implementation is Top Priority for A&D Industry
+
+NEWS FEATURE | 12-16-22
+
+It’s hard to escape the headlines around the Modular Open Systems Approach (MOSA), open standards, and individual initiatives such as those from The Open Group FACE Consortium, the creators of the Future Airborne Capability Environment (FACE) Technical Standard. 
+
+FACE in Military Avionics Systems: Now Let’s Integrate It
+
+NEWS FEATURE | 12-2-22
+
+Multicore safety research from Barcelona Supercomputer Centre says that a robustly partitioned hardware and software platform is practically impossible. With today’s multicore processors (MCPs), current RTOS, and hypervisor technology Dr. Francisco Cazorla sees no path to robust partitioning. 
+
+Robust Partitioning is Dead - What Now?
+
+TECH ARTICLE | 10-19-22
+
+For companies still feeling a staffing strain, video-based quality systems are emerging as a key technology advancement for enhancing performance and quality of output.
+
+The Importance of Validated and Secure Visual Inspection
+
+NEWS FEATURE | 9-28-22
+
+Lynx announced the appointments of experienced industry executives Michel Genard and Ed Dolanski to its Board of Directors.
+
+Lynx Software Technologies Announces Appointment of Michel Genard and Ed Dolanski to its Board of Directors
+
+NEWS FEATURE | 9-25-22
+
+Virtualization technology, where multiple operating systems can be run on shared hardware, is easy to understand yet inefficient in terms of its resources.
+
+Containerization…Trouble in Paradise?
+
+NEWS FEATURE | 9-23-22
+
+It's important for manufacturers to understand the options available to ensure that quality of widgets is upheld and relationships between manufacturers and customers aren’t impacted.
+
+Ensuring the Quality of Widgets and Relationships as a Manufacturer
+
+NEWS FEATURE | 9-21-22
+
+Mission-critical software company LDRA announced that it has been chosen as the FACE [Future Airborne Capability Environment] Verification Authority (VA) for Lynx Software Technologies, a company that develops open architecture software solutions for mission-critical embedded systems.
+
+Lynx Chooses LDRA as FACE Verification Authority for Mission-Critical Avionics
+
+NEWS FEATURE | 9-13-22
+
+LDRA today announced its selection as the FACE (Future Airborne Capability Environment) Verification Authority (VA) for Lynx Software Technologies, a developer of open architecture software solutions for mission-critical embedded systems.
+
+Lynx Teams with LDRA to Validate Conformance with Newest FACE Technical Standard
+
+NEWS FEATURE | 9-13-22
+
+Lynx Software Technologies’ newly appointed CFO Amanda Blum said in an interview that the company will look to scale the software solutions provider both organically and through strategic initiatives and acquisitions. 
+
+New Lynx CFO Plans for Company Growth
+
+NEWS FEATURE | 9-13-22
+
+Increasing amounts of processing are being done on the edge, but how the balance will change between what’s computed in the cloud versus the edge remains unclear.
+
+Tradeoffs Between Edge Vs. Cloud
+
+NEWS FEATURE | 9-9-2
+
+Lynx Software Technologies announced the appointment of Amanda Blum as Chief Financial Officer.  Blum was previously with Green Hills Software, an established provider of embedded safety and security solutions, where she served as the Corporate Controller. She will oversee finance, accounting and other administrative support functions and report into CEO Tim Reed.
+
+Lynx Software Technologies Announces Appointment of Amanda Blum as Chief Financial Officer
+
+NEWS FEATURE | 9-5-22
+
+A selection of news from the world of embedded, this week featuring, Arm, Astera Labs, Imagination Technologies, Lynx Software Technologies, Nissan, NXP Semiconductors, Qualcomm, Realtek Semiconductor, Siemens, Skyworks Solutions, Soundskrit, STMicroelectronics, and u-blox.
+
+Siemens at Nissan, MEMS Mic, CXL Memory, and More Embedded
+
+NEWS FEATURE | 9-5-22
+
+Lynx announced that LYNX MOSA.ic for Avionics was recognized among the best solutions by the 2022 Military + Aerospace Electronics Innovators Awards. An esteemed and experienced panel of judges from the aerospace and defense community recognized Lynx as a Platinum honoree.
+
+Lynx Software Technologies Honored By 2022 Military + Aerospace Electronics Innovators Awards
+
+NEWS FEATURE | 9-1-22
+
+Described by Lynx Software Technologies as a major leap forward in the design of security and safety-critical systems, the LynxElement is claimed to be industry’s first unikernel to be Portable Operating System Interface (POSIX) -compatible and available for commercial use. LynxElement will be offered as part of the LYNX MOSA.ic portfolio for mission-critical use cases.
+
+POSIX-Compatible Unikernel is a First, says Lynx Software Technologies
+
+NEWS FEATURE | 9-1-22
+
+Military & Aerospace Electronics has announced the 2022 Technology Innovators Awards to recognize companies offering substantial military, aerospace, and avionics design solutions.
+
+2022 Military & Aerospace Technology Innovators Awards Announced for Aerospace and Defense Achievement
+
+NEWS FEATURE | 8-31-22
+
+Six years after the formation of the Overarching Properties Working Group, early participants have shared their experiences in applying Overarching Properties (OP) to next-generation safety platforms.
+
+Exploring Overarching Properties as a COTS Software Platform Vendor
+
+NEWS FEATURE | 8-26-22
+
+Deployment of Google Anthos bare metal can help enable deployment of any containerized service to the mission critical edge without compromising security or performance. 
+
+Enabling a Secure Edge in Cloud-Based AI with Google Anthos Bare Metal
+
+TECH ARTICLE | 8-11-22
+
+Enterprise vs B2B Product Management
+
+WEBINAR | 8-5-22
+
+Visual Inspection AI for Manufacturing
+
+WEBINAR | 8/2022
+
+Lynx  announced the appointment of Tim Reed as Chief Executive Officer. Reed was previously with Green Hills Software, an established provider of embedded safety and security solutions, where he served as the Senior Vice President of the Advanced Products division and as a member of the executive leadership team.
+
+Lynx Software Technologies Announces Appointment of Tim Reed as CEO
+
+NEWS FEATURE | 6-29-22
+
+Lynx has received a strategic investment from affiliates of OceanSound Partners, LP (“OceanSound”), a private equity firm that invests in technology and technology-enabled services companies serving government and enterprise end markets.
+
+Lynx Software Technologies Receives Strategic Investment from OceanSound Partners
+
+NEWS FEATURE | 6-23-22
+
+Lynx Software Technologies is claiming industry’s first unikernel to be Posix compatible and available for commercial mission-critical use.
+
+Embedded World: Posix-Compatible Unikernel for Critical Missions
+
+NEWS FEATURE | 6-13-22
+
+Lynx Software Technologies has announced that its MOSA.ic platform supports the deployment of Google Anthos Bare Metal at the mission-critical edge providing a validated solution for secure, video-based quality inspection in industrial and energy facilities.
+
+Lynx & Google Partner On Industrial Quality Inspection Solution
+
+NEWS FEATURE | 5-3-22
+
+Pavan Singh, VP of Product Management at Lynx Software Technologies looks at how Artificial intelligence (AI) can now be paired with Machine Vision (MV) to enable the inspection of every component coming off the line in an automotive manufacturing process – a level of quality assurance that was, until recently, simply not feasible.
+
+Combining AI and MV to Improve Quality and Reduce Costs
+
+NEWS FEATURE | 5-3-22
+
+Google Cloud has partnered with industrial edge specialist Lynx Software Technologies to support Google Anthos Bare Metal on the LYNX MOSA.ic industrial edge platform. 
+
+Lynx, Google Visual Inspection AI at Edge
+
+NEWS FEATURE | 5-3-2
+
+Lynx Software Technologies has announced that the LYNX MOSA.ic platform now supports deployment of Google Anthos Bare Metal at the mission-critical edge.
+
+Lynx Software to Support Google Anthos Bare Metal and Google Visual Inspection AI Service
+
+NEWS FEATURE | 5-3-22
+
+In mission critical applications, the biggest challenge is how to securely deploy artificial intelligence (AI) from the cloud to the edge. When you’ve trained the AI and machine learning models in the cloud, the question at operational level is then how to deploy these cloud-based workloads to the edge and ensure security of the local system.
+
+Lynx’ Google Anthos Bare Metal Support Secures Kubernetes to Cloud
+
+NEWS FEATURE | 5-3-22
+
+A white paper jointly authored by Collins Aerospace, LDRA, and Lynx Software Technologies
+
+FACE 3.1 Enhancements
+
+WHITE PAPER | 2022
+
+The cybersecurity skills gap has become a growing issue throughout the United States as The Biden administration has accelerated its efforts to fill over half a million (almost 600,000) vacant cybersecurity positions in the public and private sectors.
+
+How Automation Can Mitigate the Cybersecurity Skills Gap
+
+NEWS FEATURE | 1-26-22
+
+There’s no doubt the complexity of aerospace design systems is constantly increasing, driven by new demands on architecture and next-generation technologies. As a result, the costs and time associated with the creation, certification and deployment of mission-critical electronics hugely heighten if the systems are not managed in a new way.
+
+The Future of Managing Mission-Critical Systems
+
+NEWS FEATURE | 4-1-22
+
+In just ten cyber incidents during 2021, over $600 million in cash was stolen or taken as ransom, tens of millions of citizen records were stolen, 40,000 businesses’ IT operations put at risk, one billion airline passenger details compromised and at least one bank was effectively shut down for over a week.
+
+Secure Endpoint Solution
+
+BROCHURE 
+
+The avionics industry continues to evolve rapidly and today’s avionics solutions need to provide higher performance with more capabilities. 
+
+LYNX MOSA.ic for Avionics Drives Next-Generation Aerospace Development
+
+BROCHURE
+
+Adhering to functional safety standards is costly and time consuming. For an application to be compliant with the most demanding SIL (IEC 61508), ASIL (ISO 26262), Class (IEC 62304), or DAL (DO-178) in industrial, automotive, medical or avionics applications respectively, the overhead can be considerable.
+
+Introducing the Z-Application-Bridging the Gap Between Bare Metal and RTOS
+
+TECH ARTICLE | 8-12-21
+
+What makes an effective tech strategy?" Boldly press into technical novelty, assure tech solves a valuable problem and reduce risk with early customer validation."
+
+CTO Sessions: Will Keegan, Lynx Software Technologies
+
+NEWS FEATURE | 8-11-21
+
+Has there been a ramp up in cyberattacks or are we now just starting to pay attention more? This article will highlight the cybersecurity pitfalls that occur when security isn’t prioritized.
+
+Security Must Be Top Priority in Bringing Critical Infrastructure Online
+
+NEWS FEATURE | 8-2-21
+
+When I started the research for this article, I was looking for how OEMs could keep their systems safe from hackers. By the time I finished the research, it became clear to me that my vision was not accurate.
+
+You Will Be Hacked. Be Ready For It
+
+NEWS FEATURE | 6-23-21
+
+Many consumers regard skydiving and swimming with sharks safer than riding in an AV.
+
+Autonomous Driving: Consumer vs Investment
+
+NEWS FEATURE | 6-16-21
+
+There is increasing excitement surrounding the seamless integration of robots in automation and Industry 4.0 strategies. However, we are a long way from writing human operatives out of the equation.
+
+Collaborative Robotics are Central to Successful Industry 4.0 Strategies
+
+NEWS FEATURE | 5-21-21
+
+Are cobots working alongside, rather than replacing humans, the answer to today’s manufacturing challenges? Ian Ferguson, VP of Marketing and Strategic Alliances at Lynx Software Technologies looks at how such an approach can be made safe and secure.
+
+Cobots are Set to Revolutionize Manufacturing
+
+NEWS FEATURE | 5-17-21
+
+Lynx announced the availability of LynxSafe, a family of products that now allows enterprise IT teams to apply Lynx’s long-standing expertise in secure mission critical systems to end-points. 
+
+Lynx Launches LynxSafe for Improved Performance and Military Grade Security For Enterprise IT
+
+NEWS FEATURE | 4-6-21
+
+Lynx Software Technologies has applied its aerospace separation kernel security expertise to enterprise IT systems.
+
+Lynx Takes its Aerospace Tech into Enterprise IT
+
+NEWS FEATURE | 4-2-21
+
+Single Root I/O Virtualization (SR-IOV) virtualizes network interface cards (NICs) to allow a single NIC to present itself as dozens of virtual NICs to a hypervisor. It is a hardware standard, part of the PCI-SIG (Peripheral Component Interconnect - Special Interest Group) and is heavily used in data centers.
+
+Single Root I/O Virtualization Pt. 2
+
+TECH ARTICLE | 3-16-21
+
+As a testament to the celebrated success of FACE (Future Airborne Capability Environment), mandatory conformance requirements for mission-system software have flowed down for nearly every applicable military program since the publication of FACE 2.0.
+
+Virtualization: A FACE Life for Vehicle Control
+
+TECH ARTICLE | 3-15-21
+
+The coronavirus outbreak and lockdown forced many organizations to close their offices and shift employees to a remote work setup. But such a quick and abrupt transition opened the door to a host of security risks, especially from people who are unaccustomed to working remotely.
+
+How Organizations Can Combat the Security Risks of Working Remotely
+
+NEWS FEATURE | 3-10-21
+
+The standard benefits of a hypervisor are well known and often touted. Every RTOS has its hypervisor and they do genuinely help embedded designers. 
+
+Who Needs a Hypervisor?
+
+TECH ARTICLE | 2-25-21
+
+The term “the internet of things” was coined by Kevin Ashton in 1999. Some people may argue that the benefits of connecting systems started a long time prior to the late 1990s.
+
+Infrastructure Breaches Show the Importance of Locking Down IoT Systems
+
+NEWS FEATURE | 2-24-21
+
+Industry 4.0? Edge computing? Call it what you will, the fact remains that our industry moves slowly. Obstacles must be overcome before we can claim that edge computing has evolved from theories and experiments to true industrial deployment.
+
+Edge Computing is Here. What's Next?
+
+WHITE PAPER | 2-7-21
+
+This week’s Fish Fry podcast is all about mission critical edge and solar flare-inspired rocket thrusters. (Mars here we come!) First up, we take a closer look at a groundbreaking idea for a new type of rocket thruster that could take us to Mars and beyond.
+
+To The Skies And Beyond: Securing the Mission Critical Edge and A New Rocket Thruster to Mars
+
+NEWS FEATURE | 2-5-21
+
+There are substantial challenges in building secure and safe systems on multicore processors (MCPs). Last level cache contention is undoubtedly the largest source of multicore interference, and a significant challenge for real-time systems. Here we discuss a proposed solution, called cache coloring.
+
+What is Cache Coloring?
+
+TECH ARTICLE | 2-5-21
+
+The term “architecture” seems to be in ever increasing use in its technological context. As an extrapolation from the construction term that Frank Lloyd Wright would have been familiar with, its definition as the “overall design of a computing system and the logical and physical interrelationships between its components” is intuitively obvious.
+
+On Reference Architectures
+
+TECH ARTICLE | 1-8-21
+
+In the coming year, we expect a renewed focus on security, as much of the global workforce continues to work from anywhere but the office, autonomous automobiles become closer to mainstream and global tensions put a spotlight on maintaining national control of mission-critical systems. Read along for  five trends to keep an eye on in 2021.
+
+Is 2021 the Year of Mission Critical Systems
+
+NEWS FEATURE | 12/28/20
+
+In this Solution Brief, Intel describes the Flight Safety Evidence Pack (FSEP) they have created to assist aerospace suppliers achieve certification.
+
+Intel's First DO-254 hardware Certification Evidence - It's on a Multicore
+
+TECH ARTICLE | 12-18-20
+
+What is mission critical? It’s one of those, “ask five people and you’ll get five different answers” questions.
+
+Embedded Executive: Arun Subbarao, VP of Engineering, Lynx Software Technologies
+
+NEWS FEATURE | 12-18-20
+
+Anyone who travels with a laptop soon develops a bittersweet relationship with international power adaptor plugs. Sure, they turn your homeland plug into something that approximates to what’s needed. But we’re all too familiar with the questionable connections, the weight that pulls away from the wall, and the bulk that baulks adjacent sockets.
+
+Conformance vs Compliance 
+
+TECH ARTICLE | 12-2-20
+
+Enterprise IT teams need a robust, proven alternative to perimeter-based security, answering the unprecedented challenges of extended, fragmented workforces on top of the mounting threats they were already facing.
+
+Partitioned Endpoints Pair Security with Convenience for Home Working
+
+NEWS FEATURE | 12-1-20
+
+Artificial intelligence (AI) has widely been covered as of late, especially as the pandemic has prompted many companies to accelerate digital transformation efforts. As MIT Media Labs’ Dr. Kate Darling recently mentioned, while some conversations seem to focus on automation “taking” the jobs of humans, some are forgetting the power of collaboration between human and machine.
+
+Humans and AI: Collaboration is Key
+
+NEWS FEATURE | 12-1-20
+
+Common sense should tell us that rushing safety engineering processes, building with brand new technology that regulators are still wrapping their heads around, and generating an ROI on aircraft with historical 30-yr production lifecycles, isn’t going to work.
+
+Urban Mobility; What Has to Happen to Realize the 'Jetson' Future – Part Two
+
+NEWS FEATURE | 11-10-20
+
+Weak economic conditions and technical challenges make the short-term prospects for higher functioning self-driving cars unrealistic. Longer term, the marker looks better.
+
+Cutting Through the Self-Driving Hype: A Realistic View of an Exciting Opportunity
+
+NEWS FEATURE | 11/3/20
+
+COVID-19 has harshly impacted many industries, and industrial manufacturing has proven to be one of them as 80% of manufacturers expect the pandemic to have a financial impact on their business and a majority of those in the sector believe the pandemic will affect operations.
+
+How to Capitalize on Cobots in Post-COVID Industry
+
+NEWS FEATURE | 10-27-20
+
+Flying cars are being demonstrated and are close to becoming a reality as the urban mobility segment experiences significant investment. We’ve also had discussions with an automotive manufacturer who is looking to build avionics platforms.
+
+Flying Vehicles: Are We There Yet?
+
+NEWS FEATURE | 10-22-20
+
+In September, the House of Representatives passed a bill requiring that all internet of things (IoT) devices purchased by the government meet minimum security requirements.
+
+The Good and Not So Good of the IoT Cybersecurity Improvement Act of 2020
+
+NEWS FEATURE | 10-16-20
+
+COVID-19 is driving the demand for Collaborative robots (Cobots), which are designed to interact with humans in a shared space or to work safely in close proximity.
+
+Safe, Secure, and Commercial Cobots for the Post-COVID Workplace
+
+NEWS FEATURE | 10-13-20
+
+Gartner has started to postulate that in a few years’ time, laws could be made and enforced where CEOs are held liable for the (mis)operation of IoT systems that a specific company produces.
+
+CEOs Will be Responsible for IoT Security – Where Do They Start?
+
+NEWS FEATURE | 10-12-20
+
+It was interesting as most of the pieces about 5G have been about the elements of this technology that a customer can tangibly see, such as improved performance and, more importantly for industrial and automotive applications, improved latency. 
+
+5G: The Part of the Iceberg Below the Line
+
+NEWS FEATURE | 10-7-20
+
+Factories are increasingly expected to be nimble and adept. Instead of creating 
+hundreds, thousands or even millions of the same thing, the new move is toward 
+flexibility, allowing swift reconfiguration of equipment to support different builds.This might involve information 
+that is extremely sensitive, which could result in OEMs writing some or all of 
+the associated manufacturing software themselves.
+
+Building Safe, Secure, Connected Cobots
+
+NEWS FEATURE | 9/2020
+
+We are seeing exciting and innovative work in autonomous cars, especially around Level 4, where the car is in complete control of
+certain parts of the driving. 
+
+Avionics Successes at the Heart of Autonomous Vehicles
+
+NEWS FEATURE | 9/2020
+
+Factories are increasingly being challenged to be nimble and adept. Instead of creating hundreds, thousands or even millions of the same thing, the new paradigm is flexibility allowing swift reconfiguration of equipment to support different builds.
+
+How Will Cobots Integrate into the Post-COVID Workplace?
+
+NEWS FEATURE | 8-14-20
+
+UAVs and flying taxis (that bring controlled democratisation of access to airspace), affordable satellite technology (low-cost satellite vehicles and launchers), industrial digital transformation, and self-driving
+vehicles, are among today's most exciting trends.
+
+The Mission Critical Edge
+
+NEWS FEATURE | 7/28/20
+
+Choosing an RTOS, regardless of the cost, involves many considerations, including accommodating your specific hardware architecture, the scalability of the RTOS, response requirements, peripheral support, scheduler, services, libraries, middleware, graphical tools, and technical support. No RTOS can offer every option, nor does every combination of technology fit together. 
+
+What is the Cost of a Real-Time Operating System?
+
+TECH ARTICLE | 7-7-20
+
+Edge computing offers connected applications improvements in flexibility, intelligence and lifecycle management. By integrating software tools and systems that support safety, security and real-time determinism, mission-critical applications can also benefit from these properties without the need for inflexible, closed-off embedded implementations.
+
+Development Framework for Mission-Critical Edge Applications
+
+NEWS FEATURE | 6-30-20
+
+Thanks to certification steps, Lynx Software’s MOSA.ic virtual-machine partitioning system becomes easier to use.
+
+Making Hard Partitioning Easy
+
+NEWS FEATURE | 6/30/20
+
+The opportunity for self driving cars remains extremely exciting even if the short-term prospects look difficult in a post-Covid economy.
+
+Autonomous Driving: Lessons from Heaven
+
+NEWS FEATURE | 6-23-20
+
+Lynx Software Technologies has added three new product bundles to its MOSA.ic platform to enable secure mission critical edge computing capabilities to be added to industrial, avionics, satellite and UAV applications. The first of these will be rolled out for industrial robotics.
+
+Separation Kernels and VMs Enable Secure Mission Critical Edge Computing
+
+NEWS FEATURE | 6/16/20
+
+At the time of writing, no multicore safety critical software systems exist. That is, no system that utilizes a multi-core processor to execute multiple applications in parallel has been certified for flight by the Federal Aviation Administration (FAA) in the US or by the European Union Aviation Safety Agency (EASA).
+
+Challenges Building Safe Multicore Systems
+
+TECH ARTICLE | 6/15/20
+
+Lynx refers to this as the Mission Critical Edge, which it estimates to be a $16bn software opportunity.
+
+Lynx Software Targets Mission Critical Edge
+
+NEWS FEATURE | 6-15-20
+
+Lynx Software Technologies is aiming at high-reliability multi-core edge computing with three custom software bundles for industrial, avionic and UAV/satellite applications.
+
+Lynx Hones Secure Firmware for Industrial, Drone, and Avionics Markets
+
+NEWS FEATURE | 6-15-20
+
+Zurich-based Daedalean has written a 136 stage report with the European Union Aviation Safety Agency on assurance for the emergent properties of neural networks for autonomous aircraft.  
+
+Certifying Neural Networks for Autonomous Aircraft
+
+NEWS FEATURE | 6-9-20
+
+Lynx Software Technologies has built and supported real-time operating systems (RTOSes) since 1988. We have witnessed hardware and embedded software technologies evolve and have supported our customers through the design, development, integration, certification, deployment, and support of software systems across mission-critical applications in avionics, industrial, automotive, medical, and other markets. 
+
+Best Real-Time Operating System Vendors 2020
+
+TECH ARTICLE | 5-8-20
+
+As recently as March 2020, AI analyst Emerj pointed out that despite the bullish public pronouncements of the auto industry CEOs it is “still a long way off before self-driving vehicles become available to people at any legitimate scale."
+
+Cutting Through the Self-Driving Hype
+
+NEWS FEATURE | 5-7-20
+
+Fears over catching the coronavirus have led to chaos during this normally busy trade show season.
+
+Coronavirus Fears Spark Show Chaos
+
+NEWS FEATURE | 5/2020
+
+LYNX MOSA.ic is a software framework for building and integrating complex multi-core safety- or security-critical systems using independent application modules. Its elegant, modular architecture enables developers to collapse development cycles when creating, certifying, and deploying robust platforms for manned and autonomous and increasingly connected systems.
+
+LYNX MOSA.ic for Mission Systems
+
+BROCHURE | 3-11-20
+
+The proposed approach to interference analysis in the context of safety processes is close to partitioning analyses. It is composed of two complementary analyses: a top-down analysis followed by a bottom-up analysis. 
+
+TC-16/51: Adding Bottom Up Interference Analysis for MCPs
+
+TECH ARTICLE | 1-29-20
+
+Linux is ubiquitous. It runs most internet servers, inside Android* smartphones, and is used on millions of embedded systems that, in the past, ran Real-Time Operating Systems (RTOSes). Linux can (and should) be used were possible for embedded projects, but while it gives you extreme choice, it also presents the risk of extreme complexity.
+
+What are the Problems with Embedded Linux?
+
+TECH ARTICLE | 1-13-20
+
+Unique safety and security software platform for industrial systems.
+
+Lynx for Industrial Applications
+
+BROCHURE | 2020
+
+LYNX MOSA.ic™ for Avionics supports Xilinx UltraScale+ MPSoC processors to simplify software stack complexity, unlock rapid development and integration options, and enable complex, heterogeneous and powerful solution architectures to greatly reduce the technical risk and certification costs for future safety and performance-critical programs.
+
+Lynx MOSA.ic - Advantage with XILINX
+
+BROCHURE
+
+LYNX MOSA.ic™ uniquely leverages Intel virtualization-enabled multi-core processors to simplify software stack complexity and unlock rapid development and integration options.
+
+Lynx MOSA.ic - Advantage with Intel
+
+BROCHURE
+
+We have learned that over the years that, depending on the type of system being built, our RTOS products may not always provide the best fit. And that’s OK. We want you to choose Lynx products because they make the most sense for your project and understanding your options is critical to that process. 
+
+What are the Most Popular Real-Time Operating Systems?
+
+TECH ARTICLE | 11-14-19
+
+Do Real-Time Operating Systems consistently provide the most effective platform for realizing your embedded software system design? Most RTOS vendors seem to think so, frequently citing RTOS benefits while rarely discussing the disadvantages.  Too often, the question "Do You Need an RTOS?" is interpreted, "Which RTOS Do You Need?"
+
+Do you Need a Real-Time Operating System?
+
+TECH ARTICLE | 11-11-19
+
+Lynx participated in this year’s Arm TechCon with a booth in the expo hall, where we demoed Lynx MOSA.ic and its components — LynxSecure®, Buildroot Linux, LynxOS-178®, and Lynx Simple Applications (which are bare-metal apps). 
+
+Embedded Best Practices at Arm Techcon
+
+TECH BLOG | 10-17-19
+
+Choosing an RTOS is not as simple as choosing a car.  We know about cars; we know their strengths and weaknesses and we intuitively understand compromises like performance vs practicality or luxury vs price.When choosing an RTOS, the middle ground is crowded—dozens of general-purpose RTOSes with broadly similar characteristics compete.
+
+How to Choose an RTOS
+
+TECH ARTICLE | 10-14-19
+
+In POSIX, an executing instance of a program is called a process.  To be conformant with the POSIX standard, processes must be kept separate through the use of memory protection.  An operating system (OS) that supports multiple processes is referred to as a “multiprocessing” OS.
+
+What are POSIX Processes and Virtual Memory?
+
+TECH ARTICLE | 10-11-19
+
+The complexity of today’s automobiles is increasing with every new model on the market.  A modern car can contain hundreds of electronic control units and with connectivity and autonomy becoming commonplace, this is increasing dramatically as we enter the 2020s. 
+
+Realizing Modern Automotive Software Enviornments
+
+TECH ARTICLE | 10-9-19
+
+This week saw LYNX’s cache partitioning feature for Lynx MOSA.ic™ demonstrated for the first time at the Collins Aerospace Embedded Computing Conference in Cedar Rapids, Iowa. Cache partitioning is a new feature of Lynx MOSA.ic™ released in September 2019 and based on Intel’s Cache Allocation Technology (CAT) CPU hardware feature.
+
+Multicore Cache Allocation Technology (CAT) Demo
+
+TECH ARTICLE | 10-3-19
+
+The FACE™ standard defines the software environment and interFACEs for building portable components for US military avionics systems. The FACE™ Consortium is composed of industry and government member organizations, their representatives, and advisers, creating an acquisition-neutral setting where industry can work together with government customers to produce open standards and to influence procurement and policy. 
+
+Field Notes: September 2019 FACE™
+
+TECH BLOG | 9-24-19
+
+Single Root I/O Virtualization (SR-IOV) is the complex name for a technology beginning to find its way into embedded devices.  SR-IOV is a hardware standard that allows a PCI Express device – typically a network interface card (NIC) – to present itself as several virtual NICs to a hypervisor.
+
+What is SR-IOV and Why is it Important for Embedded Devices?
+
+TECH ARTICLE | 10-7-19
+
+The board support package (BSP) is the glue software that allows an embedded real-time operating system (RTOS) to run on a specific target board.  Creating a BSP for your chosen board is a detailed software engineering task that takes 2 to 8 weeks.
+
+What is the Cost of a Board Support Package?
+
+TECH ARTICLE | 10-1-19
+
+Protecting Systems of Meltdown
+
+TECH ARTICLE 
+
+Certifiable COTS RTOS for safety-critical computing LYNX MOSA.ic compatible module
+
+LynxOS-178 Data Sheet 
+
+DATA SHEET | 2019
+
+LYNX MOSA.ic is a software framework for building and integrating complex multi-core safety- or security-critical systems using independent application modules. Its elegant, modular architecture enables developers to collapse development cycles when creating, certifying, and deploying robust platforms for manned and autonomous and increasingly connected systems.
+
+LynxSecure Data Sheet
+
+DATA SHEET | 2019
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

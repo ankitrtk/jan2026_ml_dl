@@ -1,0 +1,382 @@
+URL: https://www.lynx.com/executive-blog/open-source-and-mission-critical-systems
+
+Open Source—“When” and “If” in mission critIcal systems
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Open Source—“When” and “If” in mission critIcal systems
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Nov 20, 2020 11:50:13 AM
+
+Lynx MOSA.ic™
+
+Events
+
+Mindful Musings Blog
+
+Safety
+
+embedded systems
+
+LynxSecure
+
+aerospace & defense
+
+Earlier in November I was speaking as part of a track on cybersecurity at (Virtual) Electronica, a tradeshow held every two years in Munich. One of the questions related to when open source hypervisors will appear at the heart of mission critical systems. Mission critical systems are those that simply have to work all the time in a predictable way. Relevant applications include avionics, rail infrastructure, self- driving vehicles.
+
+Almost every popular open source hypervisor (E.g. Xen, KVM, seL4) has been used to demonstrate the ability to host virtual security appliances, facilitate secure software updates, and partition system designs to reduce attack vectors compared to operating system (OS)-based designs.
+
+At a high-level, the ability to partition hardware and software, and provide virtual networking, has become a commoditized property afforded by hypervisors. From our discussions with customers and, indeed, institutions like the US Army, fundamental gaps are revealed which must be addressed in order to realize the vision of autonomous mission systems. Primarily they fit into three main themes;
+
+Real-time Suitability
+; As companies consolidate system functionality on single multicore processors to reduce cost, power and footprint, legacy software will need to be ported while maintaining underlying platform assumptions when transitioning from real to virtual/emulated hardware. Time-sensitive interfaces must be carefully managed to preserve timing characteristics. Placing operating systems on hypervisors introduces layers of abstraction
+
+Validation of System Properties
+; Gaining confidence in the assurance of safety and security properties of software systems has become incredibly difficult as designs have reached overwhelming levels of complexity. Technologies such as the seL4 microkernel have successfully provided proof of correctness and resiliency of hypervisor functionality (E.g. adding/removing VMs). But system integrators are still left with a tremendous burden of developing/integrating the complex software stacks needed to implement the application platform dependencies (E.g. filesystems, IP networking). Many industry solutions fail to help the verification of system integration correctness and overarching validation of acceptable system behavior
+
+Safety & Security Certification
+; Almost every large-scale mission critical system is subject to safety regulations to ensure passengers and bystanders are reasonably protected from catastrophic failures due to integrity or security vulnerabilities. Manufacturers adhere to stringent software development standards prescribed in standards such as avionic DO-178C DAL A and automotive ISO26262 ASIL-D
+
+These are the areas where we focus the 
+LYNX MOSA.ic framework
+, on which we construct a number of specific-to-application products for 
+Avionics
+, 
+UAVs/Satellites
+ and 
+Industrial
+ markets.
+
+Open source has clearly made great inroads into a diverse range of applications. We see open source used in avionics platforms, but sand boxed to implement specific system features that are unrelated to the must work all of the time in a predictable way functionality. I think we will see increasing adoption of open source in the long term and will need a software company to implement a business model analogous to what RedHat has done to drive Linux adoption across Enterprises.
+
+If you want to know more about what Lynx discussed at Virtual Electronica, read 
+this piece here
+.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

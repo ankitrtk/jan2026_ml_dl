@@ -1,0 +1,451 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/tag/lynx-mosa-ic
+
+Lynx Software Technologies | Learning Center  | Lynx MOSA.ic™
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+TECHNICAL ARTICLES
+
+Filter by Tag
+
+Show All
+
+10G
+
+Arm Tech Con
+
+Automotive
+
+Avionics
+
+BSPs
+
+Benchmark
+
+CAST-32A
+
+CVEs
+
+Cache Allocation Technology
+
+Cache-partitioning
+
+Certification
+
+DO-178
+
+Demo
+
+Events
+
+FAA
+
+FACE TIM
+
+Future Airborne Capabilities Environment (FACE™)
+
+Least Privilege
+
+Lynx MOSA.ic™
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+MCP
+
+Multi-core
+
+Multicore
+
+Open Group
+
+Open Standards
+
+Open Systems
+
+PCI-E
+
+POSIX®
+
+Press Release
+
+RAM
+
+Ram Disk
+
+Reference Architecture
+
+SR-IOV
+
+Safety
+
+Security
+
+Single-root IO Virtualization
+
+Standards
+
+Subjects
+
+Systems Architecture
+
+TC-16/51
+
+TCO
+
+TTM
+
+Technical Blog
+
+Trusted Codebase
+
+Virtual Machines
+
+architecture
+
+board support
+
+certifications
+
+costs
+
+development
+
+embedded linux
+
+embedded systems
+
+hardware
+
+hardware interference
+
+hypervisors
+
+linux
+
+meltdown
+
+partitioning
+
+privilege escalation
+
+real-time
+
+reusable software
+
+rsc
+
+rtos
+
+separation kernel
+
+side channels
+
+software
+
+spectre
+
+virtualization
+
+vulnerabilities
+
+Lynx MOSA.ic™
+
+Field Notes: Safety-Critical Systems Symposium 2020
+
+Tim Loveless | Principal Solutions Architect: 
+
+Feb 24, 2020 12:34:50 PM
+
+                    _______________
+
+Read More
+
+Lynx & ENSCO Demonstrate Avionics Solutions at DSEI JAPAN 2019
+
+Dan Westerberg | Senior Systems Engineer: 
+
+Nov 18, 2019 2:29:00 PM
+
+                    The most formidable challenges of modern avionics development programs are often centered around the safety certification process and the corresponding requirements and costs. Equally as challenging to any large development program are the design...
+
+Read More
+
+How to Choose a Real-Time Operating System
+
+Tim Loveless | Principal Solutions Architect: 
+
+Oct 14, 2019 10:32:00 AM
+
+                    _______________ Choosing an RTOS is not as simple as choosing a car. We know about cars; we know their strengths and weaknesses and we intuitively understand compromises like performance vs practicality or luxury vs price. We see all kinds of...
+
+Read More
+
+Realizing modern Automotive Software Environments
+
+Chris Barlow | Technical Product Manager: 
+
+Oct 9, 2019 2:17:00 PM
+
+                    _______________ The complexity of today’s automobiles is increasing with every new model on the market. A modern car can contain hundreds of electronic control units and with connectivity and autonomy becoming commonplace, this is increasing...
+
+Read More
+
+Multi-core cache allocation technology (CAT) demo
+
+Tim Loveless | Principal Solutions Architect: 
+
+Oct 3, 2019 2:04:00 PM
+
+                    _______________ This week saw LYNX’s cache partitioning feature for Lynx MOSA.ic™ demonstrated for the first time at the Collins Aerospace Embedded Computing Conference in Cedar Rapids, Iowa. Cache partitioning is a new feature of Lynx MOSA.ic™...
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

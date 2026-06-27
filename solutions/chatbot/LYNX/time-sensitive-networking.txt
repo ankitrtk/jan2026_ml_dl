@@ -1,0 +1,914 @@
+URL: https://www.lynx.com/time-sensitive-networking
+
+Time-Sensitive Networking for Aerospace & Defense
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+Home
+
+Time sensitive networking
+
+ Time-Sensitive Networking for Aerospace & Defense 
+
+            Contact Us
+
+            Our CEO on the Future of TSN
+
+Lead the Future: DO-178C DAL A TSN Aircraft Communications with LYNX MOSA.ic 
+
+Time-Sensitive Networking (TSN) is a set of IEEE standards that provide real-time, reliable, and synchronized communication across networks. 
+
+In 
+aerospace and defense
+, where systems must perform flawlessly and deliver data on time, TSN ensures the reliable network performance needed for these critical functions. Using 
+LYNX MOSA.ic
+ with TSN, you can connect all avionics systems, 
+creating a safe and secure environment that meets the
+ DAL A 
+ objectives of the 
+DO-178C standard
+.
+
+%
+
+By 2028, the global time-sensitive networking (TSN) market is expected to grow at a compound annual growth rate (CAGR) of 58%.
+
+%
+
+TSN is estimated to reduce overall costs in avionics systems by 20%.
+
+Why LYNX MOSA.ic for TSN
+
+TSN is essential in environments where data must be transmitted and received with strict timing, ensuring information arrives exactly when needed. This precision is critical for avionics, radar, UAVs, and other systems where even a fraction of a second can impact success. In the 
+aerospace and defense
+ TSN ensures synchronized, real-time communication across networks, whether processing sensor data or coordinating multi-core operations.
+
+LYNX MOSA.ic 
+is an ideal platform for TSN in 
+military and aerospace
+ applications. Its advanced modular framework supports reliable, deterministic communication and real-time data handling across diverse and demanding environments, ensuring efficient connectivity and enhanced performance in mission-critical systems.
+
+ Why LYNX MOSA.ic for TSN 
+
+TSN is essential in environments where data must be transmitted and received with strict timing, ensuring information arrives exactly when needed. This precision is critical for avionics, radar, UAVs, and other systems where even a fraction of a second can impact success. In the aerospace and defense TSN ensures synchronized, real-time communication across networks, whether processing sensor data or coordinating multi-core operations.
+
+LYNX MOSA.ic is an ideal platform for TSN in military and aerospace applications. Its advanced modular framework supports reliable, deterministic communication and real-time data handling across diverse and demanding environments, ensuring efficient connectivity and enhanced performance in mission-critical systems.
+
+Features of LYNX MOSA.ic Time-Sensitive Networking for Aerospace and Defense 
+
+ Determinism 
+
+Flight-by-wire systems are highly affected by jitter, which should not exceed 1 us. TSN ensures that network communication is predictable and consistent, with data packets delivered within a specified time window, critical for real-time operations like flight control and radar processing.
+
+Why LYNX MOSA.ic
+
+LYNX MOSA.ic 
+supports multiple guest operating systems, including 
+ARINC 653-conformant
+ LynxOS-178 RTOS, 
+Linux
+,
+
+bare meta
+l
+, and single-thread unikernels, all designed specifically to fulfill the stringent needs of multithreaded and multiprocessor applications in safety-critical real-time systems. This guarantees real-time determinism of key subsystems, coupled with increased 
+security
+, aimed to coordinate the data transmission, the data ingestion, and the data processing with accurate timing at each stage.
+
+ Predictable Latency 
+
+Today, a typical flight control loop expects network latency below 1 ms. Expect a lower value to be required in the future. 
+In
+ aerospace and defense, 
+ Time-Sensitive Networking ensures predictable latency and reliable data delivery through traffic scheduling and priority-based queuing, critical for real-time operations in avionics and mission systems. This guarantees low, predictable latency communication even in complex environments. 
+
+Why LYNX MOSA.ic
+
+LYNX MOSA.ic
+
+provides the Lynx Certifiable Stack (LCS) with simple APIs to manage the scheduled traffic, the reserved traffic and the best effort traffic. The deep integration of the network stack with the network hardware minimizes the Lines of Code (LOC) required for 
+DAL A certification
+, while still delivering data with precise timing, meeting the maximum accuracy expected by the TSN fabric hardware.
+
+ High Reliability 
+
+Even a single frame loss can negatively impact the operation of flight control or the weapon release system. 
+In mission-critical environments, TSN provides robust and dependable network performance and redundancy, needed to maintain system integrity, even under challenging conditions. 
+
+Why LYNX MOSA.ic
+
+The
+
+LYNX MOSA.ic
+ Certifiable Stack offers a redundant data communication layer that is transparent to the applications. For best performance, the data replication and elimination in real time is offloaded to the hardware, keeping the Lines of Code (LOC) at a minimum, while preserving the network redundancy as requested by the Aerospace Profile (P802.1DP).
+
+ Time Synchronization 
+
+The synchronization accuracy, with respect to the reference clock, is in the order of few 100s of nS. 
+TSN enables precise synchronization of network devices, ensuring that operations across the network are perfectly timed and coordinated. 
+
+Why LYNX MOSA.ic
+
+LYNX MOSA.ic
+
+is designed to match the high demands of the Aerospace Profile (P802.1DP) for timing availability and precision. The architecture of the precision time protocol in the Lynx Certifiable Stack (LCS) is ready to handle multiple time domains for availability, the design is tailored to the underlying hardware for accurate time tracking, while the protocol implementation minimizes the convergence time.
+
+ Scalability and Flexibility 
+
+Today, on a 
+large passenger aircraft
+, the network includes around 5 switches and 100 nodes to transport thousands of data flows. Expect to see networks with several hundreds of nodes and tens of switch hops in the future. 
+TSN scales to support everything from simple network setups to complex, multi-domain environments typical of modern 
+aerospace
+
+and 
+defense
+ systems, ensuring flexibility for a wide range of use cases. 
+
+Why LYNX MOSA.ic
+
+On a traditional RTOS platform, all hardware control, real-time scheduling, 
+security
+, multimedia, and application services are integrated into a single stack that serves all applications across all CPU cores. In contrast, 
+LYNX MOSA.ic
+
+enables system architects to subdivide systems into smaller, independent stacks, each containing only the runtime dependencies required for each specific application and the cost savings of the Ethernet technologies are available to the airspace and defense community, even for the most critical and time dependent applications.  
+
+Lynx TSN Solution
+
+Thanks to TSN, the proven performance and cost-efficiency of Ethernet are accessible to the 
+aerospace and defense
+ sectors. This technology is designed to meet the demands of even the most critical, time-sensitive applications, delivering reliable performance where it matters most.
+
+What We Provide
+
+Lynx is a leading developer of reliable embedded operating systems and software.
+ LYNX MOSA.ic 
+ enables developers to create, certify, and deploy secure, mission-critical platforms using independent application modules. Real-time applications run as virtual machines on the LynxSecure separation kernel hypervisor, while the LynxOS-178 RTOS provides POSIX and ARINC runtime services.
+LynxOS-178 includes the Lynx Certifiable Stack (LCS), a TCP/IP and UDP protocol stack designed for safety-critical avionics, offering manufacturers a low-cost, low-risk certification path for networked applications. LCS supports TSN features, including P802.1DP compliance, precision time protocols, and network redundancy. LynxSecure, LynxOS-178, and LCS are certifiable to DO-178C Level A.
+
+Standardization Activities
+
+IEEE started the P802.1DP™ project to define a profile for using IEEE 802.1 Time-Sensitive Networking (TSN) for aerospace onboard Ethernet communications. The project is a joint effort of the IEEE 802.1 Working Group and SAE Avionics Networks AS-1 A2 Committee. The profile aims to select the standards and features needed to deploy secure, highly-reliable converged networks, and enable certification as a basis for compliance and design assurance.  
+
+Lynx has been involved in the DP Working Group since 2022 and it is fully committed to comply with the standard. 
+
+Ecosystem
+
+By leveraging a collaborative ecosystem of trusted partners, our TSN solution offers unmatched performance, reliability, and scalability for demanding, real-time environments.
+
+What We Provide
+
+Lynx is a leading developer of reliable embedded operating systems and software. Lynx MOSA.ic enables developers to create, certify, and deploy secure, mission-critical platforms using independent application modules. Real-time applications run as virtual machines on the LynxSecure separation kernel hypervisor, while the LynxOS-178 RTOS provides POSIX and ARINC runtime services.
+LynxOS-178 includes the Lynx Certifiable Stack (LCS), a TCP/IP and UDP protocol stack designed for safety-critical avionics, offering manufacturers a low-cost, low-risk certification path for networked applications. LCS supports TSN features, including P802.1DP compliance, precision time protocols, and network redundancy. LynxSecure, LynxOS-178, and LCS are certifiable to DO-178C Level A.
+
+Standardization Activities
+
+IEEE started the P802.1DP™ project to define a profile for using IEEE 802.1 Time-Sensitive Networking (TSN) for aerospace onboard Ethernet communications. The project is a joint effort of the IEEE 802.1 Working Group and SAE Avionics Networks AS-1 A2 Committee. The profile aims to select the standards and features needed to deploy secure, highly-reliable converged networks, and enable certification as a basis for compliance and design assurance.  
+
+Lynx has been involved in the DP Working Group since 2022 and it is fully committed to comply with the standard. 
+
+Ecosystem
+
+By leveraging a collaborative ecosystem of trusted partners, our TSN solution offers unmatched performance, reliability, and scalability for demanding, real-time environments.
+
+Use Cases
+
+TSN builds upon the highly successful family of Ethernet technologies. A question often asked, “I don't know what the next-gen network will be, but I know it will be called Ethernet.” With its massive market presence and substantial investments, Ethernet remains incredibly competitive in terms of price and performance. 
+Now, thanks to TSN, the proven performance and cost-efficiency of Ethernet are accessible to the 
+aerospace and defense
+ sectors. This technology is designed to meet the demands of even the most critical, time-sensitive applications, delivering reliable performance where it matters most.
+
+The TSN network infrastructure enables the transition from the Domain-Based Architecture to the Zonal Architecture. The design transitions from physically separated networks, with disparate data buses, to a converged physical network or Digital Backbone (DBB). Being modular and based on a common open standard (P802.1DP), the TSN-based DBB enables reaching the full potential of the Integrated Modular Avionics (IMA). 
+
+ Use Case 
+
+ Satellites and Space 
+
+Satellites 
+are an example of the convergence of mixed criticality traffic. The same network infrastructure handles the flight control and a massive amount of miscellaneous data from the payload. TSN isolate this traffic with bandwidth reservation or even handling these data as best effort.
+
+Flight Control System: Platform Flight Control (PFC)
+
+Flight control and instruments, engine controls
+
+Mission Control Systems: Payload Network (PLN)
+
+Communication transponders, cameras, scientific research instruments, etc.
+
+ Use Case 
+
+ Commercial Aircraft 
+
+Large 
+commercial aircraft
+ drive scalability requirements
+: the number of end nodes reaches an upper boundary of 100 today, expected to become 500 in the future. 
+The Information Services are characterized by a medium throughput and are partially affected by jitter. TSN handles most of this data as traffic with bandwidth reservation. 
+
+Flight Control Systems: Aircraft Control Domain (ACD) 
+
+Flight control and instruments, engine controls, autopilot, crew alert system
+
+Airline Information Service Domain (AISD)
+
+Weather reports, engine and system performances, flight health management, connectivity off-aircraft
+
+Cabin Management:  Passenger Information and Entertainment Services Domain (PIESD)
+
+Passenger entertainment, audio broadcast, passenger Wi-Fi
+
+ Use Case 
+
+ Military Aircraft 
+
+The 
+military aircrafts
+, either fixed-wing or rotary-wings, are at the forefront of the design for performance.  
+The flight controls are characterized by a relatively low throughput, but this traffic is highly affected by jitter, which should stay within 1us. The upper boundary for tolerance to latency is tight, ranging from 1 ms today to an expected 100 us in the future. TSN handles this case as scheduled traffic, with a fine-grained configuration. 
+
+Flight Control Systems: Air Vehicle System (AVS)
+
+Flight controls and instruments, engine controls, autopilot, crew alert system
+
+Mission Control Systems: Vehicle Mission System (VMS)
+
+Mission controls, sensor systems, video, radar, weapons
+
+Zonal Architecture: Digital Backbone (DBB)
+
+Flight controls, mission control, sensor systems, video, radar, others
+
+Want to learn more?
+
+Learn more about the technical advantages of TSN, how it integrates with multi-core processor systems, and the best practices for implementing TSN in mission-critical environments.
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

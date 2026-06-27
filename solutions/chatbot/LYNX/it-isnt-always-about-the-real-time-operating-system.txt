@@ -1,0 +1,409 @@
+URL: https://www.lynx.com/executive-blog/it-isnt-always-about-the-real-time-operating-system
+
+It isn't always about the rtos
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            3 min read
+
+It isn't always about the rtos
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Apr 23, 2020 10:52:35 AM
+
+Lynx MOSA.ic™
+
+Mindful Musings Blog
+
+Systems Architecture
+
+rtos
+
+embedded systems
+
+TCO
+
+TTM
+
+virtualization
+
+The world has changed drastically since my last 
+blog at the end of February
+. We had just returned from Embedded World, but of course today it’s all about webinars, 
+video
+ and additional 
+technical content
+ in lieu of physical tradeshows. I had planned to write about the world of Lynx marketing in the current (and hopefully soon-to-be post) COVID-19 era… Then Arun, my colleague that runs the engineering team, posted 
+his blog about life in this new normal
+,
+ so I felt I had to pivot to another theme...
+
+A colleague then joked, “You know, you could cover the fact that it sure is odd to be a VP of Marketing for a company known for supplying real-time operating systems, when we increasingly see that RTOSes don’t solve all our customers’ problems”. So, here we are.
+
+[Further reading: 
+Do You Really Need an RTOS?
+]
+
+A recent major design win we got originally came into us via a Request for Information (RFI). Like many other initial customer engagements, this arrived into the Lynx HQ requesting we complete a series of details about functionality that needed to be included in an RTOS. In these cases, it can sometimes be clear that we’re not the first company that has been contacted about the opportunity, for which I blame whomever is 
+in charge of marketing at Lynx…
+
+The client had a long list of requirements. We quickly realized that such a large amount of functionality was going to make the approach of creating, certifying, and deploying this system on a single RTOS instantiation extremely expensive—both in actual costs and in terms of delayed entry of the product into the market.
+
+Therefore, we did what we have done before and increasingly are doing: We showed the customer that there was a better way to solve the system problem:
+
+Break down the system into smaller, more manageable tasks
+
+Harness the power of Linux with its broad set of applications
+
+Minimize the functionality where real-time determinism is required
+
+Compartmentalize and isolate each functional block to simplify the path to system certification
+
+For us, this is the 
+LYNX MOSA.ic
+ software framework:
+
+I am obviously being generic here, since if I yield too much information, then it will become easier to narrow down the application and potential customer names. For the point of this blog though, it is relevant for me to note that we are seeing this scenario increasingly play out.
+
+As it has in applications like cloud servers, system architects of embedded and IoT systems increasingly view proprietary approaches as dead. Companies desire conventional, open interfaces that line up with Linux. This also bolsters the immunity of a system to being hacked. The power of the Linux movement is that this is the place where the best security software and the earliest patches to new malware are applied…. Embedded developers can ride that wave. Indeed, it is a topic that our CEO discussed on a 
+podcast
+ with Open Systems Media in March.
+
+System consolidation, for cost, power and footprint reasons (it can also improve the immunity of systems to being hacked), means that there will often be a need to ensure there is deterministic behavior for a number of real-time functions. This can be implemented in a sandbox type of environment, however, either with bare metal or through using a simple real-time kernel. The value proposition for Lynx has, for many years, been focused around safety. Increasingly, this is transitioning into a stronger value proposition around “scalable security”; that is, software components which can be isolated, certified, and reused. One application cannot either maliciously or accidentally access prohibited parts of memory or additional CPU cores or even IO chips. And this needs to be provable from system specifications down to the behavior of actual hardware.
+
+Our (~50kB) 
+separation kernel
+ takes advantage of underlying hardware virtualization technology to construct virtual machines (VMs) by mapping memory, peripherals, interrupts, and direct memory access (DMA) to processor cores, resulting in almost zero overhead during context switches. This deep level of virtualization minimizes software stack complexity, while separation maximizes software security. Defining allocation of processor cores before run-time services are loaded and preventing software components from modifying system partitioning or interfering in the operations of other software components without the need for a master / root / helper OS is really at the core of what we offer from a technology point of view.
+
+[Further reading: 
+What is a Separation Kernel?
+]
+
+Explore 
+LYNX MOSA.ic
+ to learn about how our technology can be used to build a secure and safe system out of previously developed and/or open source software components. Also feel free to schedule a zero obligation whiteboarding session with one of our experts to see how our technology can meet your specific requirements by clicking the "Get Started" button below and telling us a bit about your project.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

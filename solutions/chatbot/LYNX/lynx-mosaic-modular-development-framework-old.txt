@@ -1,0 +1,865 @@
+URL: https://www.lynx.com/products/lynx-mosaic-modular-development-framework-old
+
+LYNX MOSA.ic: Modular Mission-Critical Software Platform
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+Home
+
+Solutions
+
+Lynxmosaic
+
+ LYNX MOSA.ic™ 
+
+The Foundation for Mission-Critical Edge Computing
+
+MOSA.ic accelerates safety certification for secure multi-core systems through a modular separation-kernel architecture that enables deterministic partitioning, mixed-criticality consolidation, and open systems integration.
+
+            Download MOSA.ic Datasheet
+
+            Contact Us
+
+ What is LYNX MOSA.ic? 
+
+LYNX MOSA.ic™
+ is a modular software framework and architecture purpose-built for mission-critical edge computing. Based on the
+
+Modular Open Systems Approach (MOSA)
+, it provides a flexible foundation for building secure, scalable, and certifiable embedded systems.
+
+Rather than relying on a traditional monolithic operating system, MOSA.ic uses a high-assurance separation kernel to securely run multiple operating environments side-by-side on a single multi-core processor. This includes support for a real-time operating system (RTOS) and a lightweight 
+unikernel,
+ enabling developers to match the right runtime environment to each application.
+
+This architecture ensures that highly critical, real-time functions remain fully isolated from lower-priority software, even while sharing the same hardware delivering strong security, mixed-criticality support, and a clear path to certification.
+
+                  Read the Whitepaper
+
+ Key Benefits 
+
+Accelerated Certification: 
+By leveraging a modular architecture and tightly scoped, purpose-built components such as unikernels, MOSA.ic helps reduce overall certification effort and streamline recertification when changes are required, enabling faster time to deployment with lower program risk.
+
+Optimized for Multi-Core Processors
+:
+ Designed to take full advantage of modern multi-core architectures while aligning with CAST-32A and AC 20-193 guidance. Organizations can consolidate mixed-criticality workloads onto shared multi-core platforms with strong partitioning and controlled resource management that minimizes interference risk and supports robust safety arguments.
+
+Future-Proof Modularity: 
+Because the architecture is highly modular, individual software components can be updated, reused, or swapped out independently. This prevents vendor lock-in, reduces program risk, and makes legacy systems cost-effective to upgrade.
+
+Core Architecture
+
+The MOSA.ic software framework is powered by three foundational technologies designed for absolute security and determinism:
+
+LynxSecure (The Hypervisor)
+
+A high-assurance separation kernel and hypervisor designed to deliver strong isolation, security, and predictable performance in mission-critical systems. It enforces robust separation between virtual machines and tightly controls hardware resource allocation using a strict least-privilege model.
+
+ Learn More About LynxSecure 
+
+LynxOS-178 (The RTOS)
+
+A deterministic, safety-focused real-time operating system purpose-built for aerospace and defense applications. It delivers predictable, certifiable performance while maintaining compatibility with key industry standards such as POSIX, FACE™, and ARINC, enabling portability and long-term program flexibility.
+
+LynxElement (The Unikernel)
+
+A lightweight, purpose-built unikernel built on a safety-certified RTOS foundation. It is designed to run single-function applications with exceptional efficiency, reducing system complexity, simplifying integration and certification efforts, and minimizing attack surface through a dramatically smaller code footprint.
+
+ Learn More About LynxElement 
+
+ Key Benefits 
+
+Accelerated Certification: 
+By leveraging a modular architecture and tightly scoped, purpose-built components such as unikernels, MOSA.ic helps reduce overall 
+certification effort
+ and streamline recertification when changes are required, enabling 
+faster time to deployment
+
+with lower program risk.
+
+Optimized for Multi-Core Processors
+:
+ Designed to take full advantage of modern multi-core architectures while aligning with 
+CAST-32A
+
+and AC 20-193 guidance. Organizations can consolidate mixed-criticality workloads onto shared multi-core platforms with strong partitioning and controlled resource management that minimizes interference risk and supports robust safety arguments.
+
+Future-Proof Modularity: 
+Because the architecture is 
+highly modular
+, individual software components can be updated, reused, or swapped out independently. This prevents vendor lock-in, 
+reduces program risk
+, and makes legacy systems cost-effective to upgrade.
+Did you know the LYNX MOSA.ic operating environment was
+
+selected by Bell
+
+to support the U.S. Army’s Future Long Range Assault Aircraft (FLRAA)?
+
+                  Team FLRAA Use Case
+
+ Key Benefits 
+
+Accelerated Certification: 
+By leveraging a modular architecture and tightly scoped, purpose-built components such as unikernels, MOSA.ic helps reduce overall certification effort and streamline recertification when changes are required, enabling faster time to deployment with lower program risk.
+
+Optimized for Multi-Core Processors
+:
+ Designed to take full advantage of modern multi-core architectures while aligning with CAST-32A and AC 20-193 guidance. Organizations can consolidate mixed-criticality workloads onto shared multi-core platforms with strong partitioning and controlled resource management that minimizes interference risk and supports robust safety arguments.
+
+Future-Proof Modularity: 
+Because the architecture is highly modular, individual software components can be updated, reused, or swapped out independently. This prevents vendor lock-in, reduces program risk, and makes legacy systems cost-effective to upgrade.
+
+Who is it for?
+
+MOSA.ic is designed for industries that cannot afford system failures
+
+Aerospace
+
+Real-time avionics for commercial aircraft, defense systems, and unmanned aerial systems (UAS).
+
+Defense
+
+Secure, multi-core solutions for combat, surveillance, and communication systems.
+
+Industrial
+
+Scalable platforms for robotics and automation.
+
+Autonomous Mobility
+
+Safety-critical software for autonomous and connected vehicles.
+
+Space
+
+High-reliability computing platforms for satellites, launch systems, and autonomous space missions.
+
+ Additional Features & Integrations 
+
+ Works Across Multiple OSs and Platforms 
+
+Optimized
+ for x86 
+and ARM architectures
+. While built around Lynx's core infrastructure, it seamlessly supports running Linux and other OS platforms in isolated partitions.
+
+ Additional Features & Integrations 
+
+ Enhanced Security Partnerships 
+
+Features immutable boot, automated CVE vulnerability management, and integration with 3
+rd
+ parties such as RunSafe Security to deliver a memory-safe environment.
+Watch: 
+How Lynx and RunSafe are creating the first memory-safe RTOS
+Download Whitepaper: 
+Integrating RunSafe Protect with LYNX MOSA.ic
+
+ Additional Features & Integrations 
+
+ TSN Ready 
+
+Supports 
+Time-Sensitive Networking (TSN)
+ stacks for complex real-time networking needs.  
+
+In 
+aerospace and defense
+, where systems must perform flawlessly and deliver data on time, TSN ensures the reliable network performance needed for these critical functions. Using LYNX MOSA.ic with TSN, you can connect all avionics systems, creating a safe and secure environment that meets the 
+DAL A 
+objectives of the 
+DO-178C
+ standard. 
+
+ Additional Features & Integrations 
+
+ AI Ready 
+
+MOSA.ic
+, powered by 
+CoreSuite
+, delivers an AI-ready architecture for mission-critical systems, securely consolidating safety-critical control and 
+GPU-accelerated
+
+AI workloads on modern multi-core platforms.
+
+Read blog:
+
+Modernizing the Mission Critical Edge without Breaking Assurance
+
+ Get in Touch 
+
+ Deadlines and budgets are tight, and expectations are higher than ever. MOSA.ic ensures you deliver your system on time, on target, and ready for mission-critical success. 
+
+                Contact Us Today
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

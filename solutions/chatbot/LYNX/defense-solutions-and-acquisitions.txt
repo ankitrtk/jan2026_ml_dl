@@ -1,0 +1,418 @@
+URL: https://www.lynx.com/executive-blog/defense-solutions-and-acquisitions
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            3 min read
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+ Tim Reed | CEO
+
+ : 
+
+                Jan 9, 2024 6:00:00 AM
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Strategic Expansions and Future Capabilities in MilAero Market
+
+In December, we unveiled 
+Lynx’s acquisition of Timesys
+, our first major growth since 
+OceanSound Partners acquired Lynx
+ in June 2022. With 
+today’s announcement
+ of Thompson Software Solutions (TSS) joining the Lynx family, I wanted to give a little background on the rationale for this addition, what the combination of 
+Timesys
+ and 
+Thompson
+ will enable Lynx to provide in terms of capabilities to the 
+MilAero
+ market segment on which we focus, and what the industry can expect from us during 2024.
+
+The Background: Navigating Defense Challenges with Cutting-Edge Solutions and a Customer-Centric Approach
+
+The Department of Defense (DoD) and the ecosystem that services it is facing significant transformation challenges. In the face of spiraling system complexity and a shortage of technically-skilled labor, the US and its allies must deliver best-in-class systems on time and within budget. Furthermore, these systems must deliver innovation, flexibility, and interoperability to systems that remain competitive for the entirety of their deployment cycle – a period usually measured in decades.
+Our focus on customer success led Lynx to prioritize providing the most competitive software platform based on open standards, including the DoD-preferred 
+Modular Open Systems Approach (MOSA)
+ operating environment. 
+
+What Sets Thompson Software Solutions Apart?
+
+TSS brings a team of American software engineers, almost all of whom hold clearance levels of secret and above, coupled with expertise spanning high-integrity software architecture and development, DevSecOps, cybersecurity, airworthiness certifications, open systems architecture, simulation and training, and AI and machine learning. In collaborating with TSS, we've seen firsthand how they transcend the typical “butts in seats” consultancy role. Their clients don't just see TSS as service providers; they're true partners providing strategic guidance, armed with exceptional technical prowess and a knack for tailored insights. People who work with TSS trust them and rely on them to get the job done.
+This uniquely positions Lynx to advise customers in their earliest phase of new programs regarding system architecture, the opportunity to accelerate the development of their systems, drive team productivity with DevSecOps implementation, and future-proof systems for the useful lifespan of the platform.
+
+A Powerhouse of Expertise and Partnership Transforming Defense Solutions
+
+Let me touch on what the combination of the capabilities from Lynx, Timesys, and TSS create in terms of an opportunity for our customers and us, and how it will revolutionize the economics for customers and ecosystem partners that design, develop, deploy, and service high-assurance edge applications. It can be framed around three themes, namely;
+
+Derisk:
+ With TSS, Lynx can support the customer through a longer engagement cycle, in part due to the access gained through security clearances and physical proximity to the program teams, and in part due to the proven consultative nature of their business.
+
+Accelerate:
+ With LYNX MOSA.ic, customers start with a solid foundation, enabling them to focus on their area of value-add differentiation (typically this relates to the applications themselves). Timesys delivers this set of attributes around Linux and TSS can augment customer’s development teams.
+
+Perform: 
+Timesys complements our proven track record around safety with their strong work around security and managed services, such as Software Bill of Materials (SBOM) generation and management and Common Vulnerabilities and Exposures (CVE) monitoring and remediation. 
+
+Lynx's Quantum Leap into Delivering Comprehensive Software Architectures for the Future
+
+The TL;DR here is simple: Up until 2023, Lynx was an avionics-safety operating platform company. In 2024 and beyond, Lynx is a defense system software solutions company. 
+We’re now able to deliver more than the core software platform for mission computers; we’re now able to provide solutions for any defense-focused software architecture in any edge or embedded system, from the bootloader to the applications that directly engage with the warfighter. These acquisitions, coupled with milestone design wins achieved in 2023, allow Lynx to leapfrog many of its competitors and move us into a new category.
+Before these milestones, customers who knocked on Lynx’s door knew they needed an aviation-grade software platform to manage multi-core systems. We still provide that and are growing that solution for the future. But now we can address programs that are still in the conceptual stages and need a trusted advisor to help them construct scalable and maintainable systems for their future without any preconceptions on the type of software architecture to be used – we have solutions for all cases and the security clearance to engage these stakeholders.
+
+Realizing Horizon 2: Navigating the Evolution to Cloud Native in Aerospace and Defense with Recent Acquisitions
+
+In the context of the 
+three horizons
+ that Michel Genard articulated in 
+his recent blog 
+where he shared his thoughts about the vector of travel for our product roadmap, these two acquisitions also help realize the “Evolution to Cloud Native” element (horizon 2) of the product roadmap. 
+The industry needs to look at markets where the dream of software flexibility and migration is being realized today. An example of this is Enterprise Information Technology (IT). Using enterprise and cloud hypervisors that host standards-based virtual machine (VM) image formats, device I/O, etc., has made it possible to deploy, update, archive, and migrate workloads far more effectively. No longer are IT teams forced to deal with OS-level or API-level compatibility issues when deploying application services to their organizations.
+
+For the 
+MilAero market
+, it is critical to achieve this “shift left” without compromising system safety and security.
+
+Evolving Beyond Expectations and Pioneering the Future of Software Solutions
+
+Our mission is to scale up as a provider of indispensable mission-critical software solutions, addressing the intricate challenges of safety, security, and interoperability. With the additions of TSS and Timesys, Lynx is set to enhance the capabilities of aerospace and defense leaders, expediting their end-to-end processes, and streamlining their product lifecycle from conception to deployment. 
+I am very excited about the year that lies ahead and look forward to engaging with many of you on the exciting and challenging journey!
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

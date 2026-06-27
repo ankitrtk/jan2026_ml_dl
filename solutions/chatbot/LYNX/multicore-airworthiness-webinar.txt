@@ -1,0 +1,427 @@
+URL: https://www.lynx.com/executive-blog/multicore-airworthiness-webinar
+
+Airworthiness and Multicore: Intel, Mercury, and Lynx webinar
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Airworthiness and Multicore: Intel, Mercury, and Lynx webinar
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Nov 9, 2020 10:30:32 AM
+
+Lynx MOSA.ic™
+
+Events
+
+Mindful Musings Blog
+
+F-35
+
+Multicore
+
+FAA
+
+Safety
+
+CAST-32A
+
+MCP
+
+embedded systems
+
+SR-IOV
+
+LynxSecure
+
+DO-178
+
+aerospace & defense
+
+Lynx Software Technologies was invited, along with 
+Mercury Systems
+ (a partner), to participate in a webinar sponsored by Intel that focused on harnessing multicore processors for use in mission critical avionics platforms.
+
+During the webinar, Intel announced they were licensing a Flight Safety Evidence Package for the Intel C3708 processor (I still have to use the brand names though….this is Denverton!). This package was developed to support Lockheed Martin’s certification efforts for the 
+F-35 joint strike fighter
+ and have been one of the primary programs that has generated a great working relationship over the last few years between the two companies. A great Intel Solution Brief is located 
+here
+ if you need additional information.
+
+Multicore processors are becoming more popular to reduce size, cost, and power of platforms. One pretty recent example that is public I can reference that points the way is from Army Aviation. The AMCS program has the objective to deploy a 
+“cloud server in the sky”
+.
+
+This directly highlights digital convergence and the demand for increased performance in mission critical applications. Based on the published articles, the Army’s objectives are to converge applications into an Airborne Common Server, leveraging MOSAs (Modular Open Systems Approach) such as OpenVPX and SOSA profiles to provide a more affordable, agile, and adaptable system. Achieving the goal of supporting this on a platform is going to require significant processing performance improvements (maybe 20- 50x) over legacy processors.
+
+There are numerous 
+challenges in building safe systems on multicore processors
+. Current multicore processors exhibit non-deterministic memory access delays when competing for shared resources. When multiple applications stacks run in parallel on multicore processors, interference occurs. Interference can be caused from both hardware and software level contention.
+
+Examples of identified interference channels with their impact include:
+
+Unpredictable hit/miss response times from every shared-cache, due to competition across cores
+
+Unpredictable miss latency and core stall durations due to flooding of cache miss buffers
+
+Unpredictable latency due to cores’ competitions for memory controllers’ transaction queue/ arbiter hardware resources
+
+Unpredictable latency within DRAM devices, especially due to memory transaction re-ordering and other intractable problems that arise due to the mismatch between where data is stored vs. the sequence of memory transactions that arrive at DRAM devices in real-time
+
+The industry is aware of the impact of multicore interference channels, led by the avionics industry, and increasingly the automotive industry. Companies like Intel are adding functionality to ease the challenge and this webinar started to touch of some of those aspects, including 
+Intel Resource Director Technology
+.
+
+Of course, this needs to be complemented with software technology that can help with fine grained allocation of hardware resources to specific virtual machines and strongly isolate applications from each other to improve the immunity of the system to single point failures and malicious/intentional system attacks.
+
+Lynx’s delivery for the Denverton processor includes 
+LYNX MOSA.ic
+ (that name is not a coincidence – it was 
+designed to deliver MOSA
+) which consists of a separation kernel hypervisor, 
+LynxSecure
+, that fully harnesses the component’s multicore support, virtualization, cache partitioning, and 
+SR-IOV virtual network device functionality
+. 
+
+The 
+LynxOS-178 operating system
+ provides API support for POSIX, FACE and ARINC 653 and includes pre-certified software components to simplify the path to system certification. The journey starts here. We are committed to delivering software to support a diverse range of Intel’s future processors including ElkHart Lake and Intel’s 11
+th
+ generation Core processor, Tiger Lake.
+
+To listen in to the recording of the webinar, simply register 
+here
+. You can also explore our Learning Center, where we cover topics such as 
+The Benefits of POSIX
+, 
+Challenges Building Safe Multicore Systems
+, and 
+How to Choose an RTOS
+.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

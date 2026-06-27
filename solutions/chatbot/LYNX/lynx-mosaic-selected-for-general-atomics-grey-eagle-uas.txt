@@ -1,0 +1,167 @@
+URL: https://www.lynx.com/lynx-mosaic-selected-for-general-atomics-grey-eagle-uas
+
+LYNX MOSA.ic™ Selected for General Atomics Grey Eagle UAS
+
+Products
+
+LYNX MOSAic
+
+LYNX MOSAic for Avionics
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+LYNX MOSA.ic.SCA
+
+SpyKer Product Family
+
+VIE
+
+Legacy
+
+LynxOS
+
+LynxSafe
+
+Professional Services
+
+Support
+
+Support Portal
+
+Support Services
+
+Training
+
+Industries
+
+Armored Ground Vehicles
+
+Commercial Avionics
+
+Critical Infrastructure
+
+LEO Satellites
+
+Military Avionics
+
+Urban Air Mobility
+
+Industry Standards
+
+FACE 
+
+MOSA
+
+Resources
+
+Case Studies
+
+Export Compliance
+
+FAQ
+
+Resource Center 
+
+Videos
+
+About Us
+
+Careers
+
+Contact
+
+How Did We Do?
+
+Distributors
+
+Events
+
+Blogs
+
+Lynx Executive Blog
+
+Lynx Technical Blog
+
+Our Business Model
+
+Our Commitment to National Defense
+
+Partners
+
+Press Releases
+
+The Lab
+
+Feedback
+
+LYNX MOSA.IC
+
+Selected for General Atomics Gray Eagle Extended Range UAS
+
+The
+
+Announcement Details
+
+LYNX MOSA.ic supports Gray Eagle modernization
+
+The GE-ER is a multi-mission UAS including surveillance and other intelligence gathering. The air vehicle carries sensors including color and thermographic cameras, and is piloted remotely from a ground-control station via satellite data link or optionally by line-of-sight data link. An early goal of the software modernization sought to integrate a new and advanced video codec implemented on the Zynq UltraScale+ adaptable multiprocessor system on chip (MPSoC) from Xilinx, Inc. The modularity of LYNX MOSA.ic enabled the team to achieve an efficient and robust solution in a mixed criticality environment including both Linux and a deterministic real-time operating system. LYNX MOSA.ic securely partitions networking, security, safety and multimedia domains from each other with prescriptive, defined and immutable allocation of hardware resources to each. This allowed the incorporation of the Xilinx hardware without compromising hardware dependencies or the performance and determinism of other time-critical processes. Although DO-178 certification isn’t an immediate requirement for the system, GA-ASI views the fact that Lynx provides a proven DO-178 certified OS with a path to DAL-A support as a significant advantage.
+
+Why
+
+LYNX MOSA.ic?
+
+Secure. Safe. Adaptable. 
+
+LYNX MOSA.ic was found to meet General Atomics' software-modernization targets for the Grey Eagle Extended Range (GE-ER) unmanned aerial system (UAS) program, which includes safety and cost efficiency, as well as the introduction of new features, increasing system robustness, and securing future flexibility. 
+
+Supporting today’s computing trends moving towards multicore processors and hardware acceleration leveraging complex programmable SoCs, LYNX MOSA.ic enables real-time operating systems (RTOS), commercial OSes, and bare-metal software to coexist on the same platform and maintain robust separation. The platform’s open integration framework promotes safe software re-use to help realize cost efficiencies and shorten development and integration cycles. With unique features to optimize hardware on boot-up and securely lock-down the configuration to prevent unintentional modification or malicious interference, LYNX MOSA.ic ensures operational safety and robustness and provides state-of-the-art cybersecurity.
+
+What is LYNX MOSA.ic?
+
+LYNX MOSA.ic is a framework for development and integration of complex multi-core safety or security systems. Built on the LynxSecure separation kernel hypervisor, LYNX MOSA.ic supports a variety of operating systems such as LynxOS-178, Linux, Windows, third-party RTOS and bare metal applications including Lynx Simple Applications. LYNX MOSA.ic runs on Intel
+®
+, Arm
+®
+ and PowerPC
+®
+ architectures. Industry-specific bundles for LYNX MOSA.ic are available for Avionics, Industrial, and UAV & Satellite applications. 
+
+What is
+
+LYNX MOSA.ic for UAVs?
+
+PRODUCT OVERVIEW
+
+LYNX MOSA.ic for UAVs and Satellites is a set of Lynx software packages, 3
+rd
+
+party technologies, and associated tools which Lynx has proven to reliably work together for rapidly building robust unmanned aerial and satellite systems. Specifically, LYNX MOSA.ic for UAVs and Satellites includes the following: 
+
+LynxOS-178
+®
+
+(Safety RTOS)
+
+Buildroot
+
+(Linux)
+
+LynxSecure
+
+(Separation kernel)
+
+Lynx Simple Applications (bare-metal apps)
+
+LSA.store
+
+Tools
+
+Questions? Contact Us
+
+Copyright © 2023 Lynx Software Technologies
+
+Privacy Policy

@@ -1,0 +1,378 @@
+URL: https://www.lynx.com/industries/military-avionics
+
+Military Avionics Software Systems | Mission Critical
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+Reducing 
+risk, vendor lock in, cost
+
+FOR MILITARY AVIONICS
+
+Reducing 
+risk, vendor lock in, and cost
+
+for military avionics
+
+INDUSTRY SECTOR DYNAMICS
+
+Across the world, budgets continue to rise. In March 2023, 
+the Pentagon released its initial request for Fiscal Year ‘24
+. In Europe, budgets continue to rise at a pace that outstrips inflation. Once factors like military aid are added, the result is a budget request approaching $1T representing the highest military budget since World War II.
+
+Technology is clearly at the heart of this, and the word we continue to hear (and view being operationalized) is accelerating the time to deployment as the US and its Allies look to maintain its advantages over other world powers. Great servants to the military like the BlackHawk Helicopter and F-16 fighter jet need to be upgraded with programs that include 
+Future Attack Reconnaissance Aircraft (FARA)
+, 
+Future Long Range Assault Aircraft (FLRAA)
+, and
+ F-35 Joint Strike Fighter
+.
+
+Much has been written about the vision of the 
+connected battlefield
+. The implementation of this at a rapid pace requires a massive change in product creation and deployment.
+
+Development must embrace cloud development and harnessing technologies such as machine learning, digital twins, and virtual targets
+
+Secure System Connectivity becomes critical as data is gathered and shared between a diverse set of endpoints (soldiers, UAVs, planes, satellites) and insights made in real-time 
+
+Systems must build in adaptability to add functionality once deployed to extend the useful life of the platforms and ensure our residents, their information, and their systems are protected to the fullest extent
+
+INDUSTRY SECTOR DYNAMICS
+
+Across the world, budgets continue to rise. In March 2023, 
+the Pentagon released its initial request for Fiscal Year ‘24
+. Across Europe, budgets continue to rise at a pace that outstrips inflation. Once factors like military aid are added, the result is a budget request approaching $1B which represents the highest military budget since World War II.
+
+Technology is clearly at the heart of this and the word we continue to hear (and view being operationalized) is accelerating the time to deployment as the US and its Allies look to main its advantages over other world powers. Great servants to the military like the BlackHawk Helicopter and F-16 fighter jet need to be upgraded with programs that include 
+Future Attack Reconnaissance Aircraft (FARA)
+, Future Long Range Assault Aircraft (FLRAA), and F-35 Joint Strike Fighter. 
+Much has been written about the vision of the 
+connected battlefield
+. The implementation of this at a rapid pace requires a massive change in product creation and deployment.
+
+Development must embrace cloud development and harnessing of technologies such as machine learning, digital twins and virtual targets
+
+Secure System Connectivity becomes critical as data is gathered and shared between a diverse set of endpoints (soldiers, UAVs, planes, satellites) and insights made in real time 
+
+Systems must build in adaptability to add functionality once deployed to extend the useful life of the platforms and ensure our residents, their information and their systems are protected to the fullest extent
+
+OF NEARLY 40 MAJOR DEFENSE PROGRAMS ACTIVE IN 2022
+
+0
+%
+
+Can't acquire the required software talent
+
+0
+%
+
+Can not meet expected software schedule
+
+SEGMENT CHALLENGES
+
+Delivering this dramatically increased level of complexity and capability while decreasing development cycles creates several challenges for program execution/management offices, chief architects, and P&L owners:
+
+Reducing program risk
+
+Reducing vendor lock-in 
+
+Reducing cost by embracing modern multicore processors in a safe and secure way
+
+Learn About Lynx's Processes and Experience for DO-178C Standards
+
+HOW LYNX CAN HELP
+
+Reduced Program Risk
+
+DO-178C DAL A certification achieved multiple times
+
+Embracing Linux in safety-critical systems
+
+FAA reusable software certificate to enable reuse of proven software in other programs
+
+Fastest way to reuse proven software
+
+A simple development path to create deterministic systems out of Linux code
+
+Overall alignment with industry standards 
+
+Reducing Vendor lock-in
+
+Most robust support of open standards, including FACE, POSIX, and ARINC
+
+Broadening ecosystem to include Rust language and diverse set of hardware providers
+
+Harnessing proven cloud infrastructure from Amazon, Google, and Microsoft
+
+Reduced Cost
+
+Grounds up software built for maximizing isolation of software applications from each other
+
+The smallest code footprint for hypervisor reduces certification costs
+
+Suggested Partners
+No one company can deliver all technologies for the next generation of securely-connected mission-critical platforms. You can click 
+here 
+to learn about some of our trusted partners, see what we've accomplished together, and explore how we can help you.
+Relevant Industry Standards
+
+FACE
+
+MOSA
+
+Learn About Lynx's Processes and Experience for DO-178C Standards
+
+PAST PERFORMANCE 
+
+Read 
+here
+ to learn more about how we worked with Lockheed Martin to address these and other challenges as the provider of foundational software for technical refresh 3 of the 
+F-35 Joint Strike Fighter
+.
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

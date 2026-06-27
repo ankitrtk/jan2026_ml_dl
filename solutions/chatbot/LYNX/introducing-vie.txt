@@ -1,0 +1,435 @@
+URL: https://www.lynx.com/executive-blog/introducing-vie
+
+Introducing Virtual Integration Environment (VIE)
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            3 min read
+
+Introducing Virtual Integration Environment (VIE)
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Jul 18, 2023 11:23:18 AM
+
+Lynx MOSA.ic™
+
+LynxSecure
+
+software
+
+aerospace & defense
+
+Mission Critical Edge
+
+unikernel
+
+Safety Critical Systems
+
+LynxElement
+
+LynxOS-178
+
+Aerospace
+
+Military
+
+LYNX MOSA.ic for Avionics
+
+Military and Aerospace
+
+Defense
+
+Safety Certification
+
+VIE
+
+Report after report showcases the challenges that the 
+Military and Aerospace
+ market sectors face when delivering programs on time on budget and with the committed level of functionality. 
+
+Growth of Software Complexity in Aerospace Systems - Thousand lines of source code
+
+Graph from McKinsey.
+
+At the core of this is that embedded systems continue to become more complicated. 
+A nice piece from McKinsey from 2022
+ covers a few industry examples. As we are now in a software-defined world, these challenges will continue to grow.  
+We strongly believe our focus should be increasingly centered on “integration”. If there is a compelling, complementary technology to what Lynx offers, we focus on proving that our customers can efficiently and effectively harness the 3rd party technology in a low-risk way. Some of this engagement with the industry will be through the 
+Labs
+ initiative we rolled out in 2CQ23. The “ic” in
+ LYNX MOSA.ic
+ stands for Integration Center. 
+To be more specific, that includes:
+
+A hypervisor, 
+LynxSecure
+, a ground-up design created after 9/11, focused on high reliability, strong isolation between virtual machines, and immutable allocation of resources to applications on a least privilege basis.
+
+LynxOS-178
+, a real-time operating system (RTOS) compatible with industry standards like ARINC, FACE, and POSIX
+
+LynxElement, 
+the industry’s first Unikernel to be based on a safety-certified RTOS. This simplifies the path for customers to create applications and associated services and reuse those modules across programs.
+
+Support for rich operating systems from third parties, including Microsoft Windows
+(R)
+ and various flavors of Linux, including RedHat and Canonical.
+
+As we look at improvements to our LYNX MOSA.ic software framework, part of our DNA is how those new capabilities address this macro challenge.  
+
+One of the regular constraints faced by embedded software developers is the availability/accessibility of the target hardware. Certain functionalities, such as proving deterministic real-time responses, have to harness the hardware; a lot can be accomplished by harnessing powerful server hardware and virtual environments. Many of our customers, such as the Lockheed Martin F-35 program, use Linux and like the ease of migration presented by LynxOS-178 due to its strongest alignment to POSIX compatibility compared to the entire set of real-time operating system offerings in the industry. Code that needs to be certified and/or executed inside tight and predictable time windows is moved across to LynxOS-178.  
+
+We also see our customers explore more with CI/CD development strategies. Rather than forcing our customers to adopt new design flows, it is important that Lynx’s technologies can be incorporated into their flows.  
+In early July, Lynx released a package of software for evaluation by customers and partners that:  
+
+Disaggregates LYNX MOSA.ic into a set of microservices
+
+Provides support for virtual environments as a first-class citizen as compared with physical hardware
+
+Enables customers to create software on servers for Linux and LynxOS-178 
+
+This release, which we call VIE (Virtual Integration Environment), eases the integration for a customer leveraging virtual environments.   
+
+For companies new to Lynx, this reduces the barrier to getting started with LYNX MOSA.ic since it removes the need to procure a physical board. For customers that have committed to using LYNX MOSA.ic, this new software enables customers to create a Cloud-based workflow (initially on-prem, we are committed to adding support for Azure later this year and will work with the market to determine what other options need to be provided). This SDK effectively enables the development and debugging of Linux and LynxOS-178 applications on QEMU for both Intel and Arm targets. 
+
+The diagram below shows how the system is envisioned to be configured. The Lynx DevOps Server hosts the Virtual Target Emulator. There is a Linux-hosted QEMU, and vSwitch supports the LYNX MOSA.ic RTOS or LynxElement (Unikernel) runtime environments. This provides accurate emulation of POSIX/ANSI calls. 
+Client/Server Lynx Target Services (LTS) utility allows users to create/delete and start/stop LynxOS-178 or Unikernel images. Lynx provides CLI and Python APIs to control this.   
+
+To use this package of software, customers would: 
+
+Deploy the Lynx DevOps Server with the Virtual Target Emulator and Manager 
+
+Deploy the client side of the Virtual Target Manager on the MfA CDK workstations 
+
+Build LynxOS-178, Unikernel and Buildroot Linux images 
+
+Use CLI to upload and run the images on the Virtual Target Emulator
+
+Script the deployment and execution of images on the virtual target for CI/CD
+
+If you are interested, please fill out the VIE form on the Labs page and a member of our team will contact you. We see this as the first important step on a journey and are actively seeking out customers and partners who wish to explore, evolve, and broaden the capabilities offered here.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

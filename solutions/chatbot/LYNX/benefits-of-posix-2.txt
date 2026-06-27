@@ -1,0 +1,435 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/benefits-of-posix?hsLang=en
+
+What Are the Benefits of POSIX for Embedded Systems?
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            5 min read
+
+What Are the Benefits of POSIX for Embedded Systems?
+
+ James Deutch | Principal Field Applications Engineer
+
+ : 
+
+                Sep 20, 2019 10:33:00 AM
+
+embedded systems
+
+TCO
+
+TTM
+
+development
+
+POSIX®
+
+_______________
+
+Lynx Software Technologies is committed to open standards. POSIX
+®
+—an open standard based on 
+UNIX
+ operating systems and their APIs—brings a powerful set of features and capabilities to the table for embedded application development, resulting in benefits to software vendors including Lynx itself, its partners and its customers. The following list is a brief set of answers to the question “What are the benefits of POSIX” to our customers—the builders of complex safety- and security-critical embedded software systems.
+
+ABOUT LYNX
+
+Lynx Software Technologies is the premier Mission Critical Edge company that enables safe, secure and high-performance environments for global customers in the aerospace, military and federal markets. Since 1988, companies have trusted Lynx’s real-time operating system, virtualization and system certification experience, which uniquely enables mixed-criticality systems to be harnessed and deliver deterministic real-time performance and intelligent decision-making. Together with a growing set of technology partners, Lynx is realizing a new class of Mission Critical Edge systems that keep people and valuable data protected at every moment.
+
+POSIX Helps to Avoid Vendor Lock-in
+
+Using any software API creates dependency. However, writing applications to a set of proprietary APIs ties those applications to some vendor’s operating system (OS). Of course, the same is true for any home-brew OS or supervisor. I’ve seen multiple large projects incur substantial costs because the developers wrote their applications to proprietary APIs. When they wanted to change the OS (or OS vendor), they realized they needed to rewrite their applications to be as independent of the underlying OS as possible. It would have been much easier (and cheaper) to make the desired changes if they had written their applications using the POSIX APIs from the beginning.
+
+To maximize your application’s portability, minimize its dependence on APIs—especially proprietary APIs. At LYNX, we recommend that our customers refrain from using our OSs (or any vendor’s OS) if they are not absolutely necessary or do not explicitly suit our customers’ long term needs. Some questions to ask yourself when you start using any proprietary APIs are:
+
+Is the OS suitable for the real-time needs of your embedded project?
+
+Does the OS support the next CPU architecture you want to use?
+
+What if you have a falling-out with your OS vendor once they’ve locked you into their proprietary APIs?
+
+These scenarios are not nearly as uncommon as they should be.
+
+POSIX APIs are Valuable, Stable and Publicly Available
+
+POSIX is an IEEE standard. It is published by 
+The Open Group
+ and readily available on the Internet. Using the POSIX standard for your application development frees you from having to rely on proprietary documentation from a single-source vendor—you can simply look the standard up online.
+
+POSIX APIs have been expertly designed and widely standardized to promote portability. They include generally useful abstractions like the filesystem, dynamic memory allocation to processes, threading, math, dates and time, etc. By using POSIX APIs in your applications, you can port your application from OS to OS, system to system, and project to project—all while maintaining the minimum amount of rework required. This not only lightens the burden on engineers, but it can significantly improve time to market (TTM) and total cost of ownership (TCO). (We will return to these business-level benefits in Benefit #5).
+
+The 
+2008 version of the POSIX standard
+ is the version of POSIX incorporated into the FACE™ technical standard. This is also the version that Lynx supports with our 
+LynxOS-178
+®
+ RTOS
+.
+
+Because POSIX is well-designed (its origins date back to the birth of the C programming language at Bell Laboratories), the standard itself has remained stable over time. For example, when we joined the Open Group 
+Future Airborne Capability Environment (FACE)
+ consortium in 2010, they were considering adopting the 2004 version of POSIX. We felt that FACE should use the 2008 version of POSIX, as it was a more recent version of the standard. Lynx decided to join the FACE consortium and successfully lobbied for the members to adopt the 2008 version of POSIX for the FACE standard. Since POSIX has remained stable for decades, even if you were to reference a newer or older version of the POSIX standard, there wouldn’t be many differences.
+
+POSIX Tutorials & Examples Can be Easily Found Online
+
+POSIX-based operating systems are by far the most popular and widely deployed. There’s a wealth of how-to information about POSIX on the Internet—tutorials, examples, and explanations of when you might want to use certain APIs are a boon to engineers that are not only new to POSIX but to those familiar with POSIX as well. For example, you can find information on how to fork-and-exec a process to run a new application, how to use pthread_create() to create a new thread of execution in a multi-threaded application, and how to create and use a timer for an application’s heartbeat.
+
+Even as an engineer with over 30 years’ industry experience designing systems from deeply embedded to high-bandwidth fault tolerant servers, I still search online to see how others are using POSIX and what information people are making available to leverage POSIX further. Search engines are one of my favorite tools to find information on POSIX and I frequently explore websites like Wikipedia and Stack Overflow or browsing various university course materials.
+
+POSIX Increases the Number of Experienced Engineers that Can Work on Your Projects
+
+Engineering experience is frequently cited as a major pain point for builders of complex embedded safety- and security-critical software systems. Linux is based on POSIX—just like Lynx’s RTOSes—and there are hordes of recent graduates and university students that have experience with Linux as well as a large pool of experienced engineers that already program for it. Why not leverage all of that available Linux experience for your own embedded project by using POSIX? You don’t have to use Linux to take advantage of their POSIX experience. When you hire a university graduate with POSIX application development experience, that experience translates from one POSIX family OS to another because the application APIs are designed to be common and portable.
+
+Don’t be limited to using only a select few experienced engineers that know how to use a given set of proprietary operating system APIs. Don’t wait while your new engineers learn those APIs, either. When you use POSIX to build your applications, you gain the ability to leverage both existing and new engineering talent faster.
+
+POSIX improves Total Cost of Ownership (TCO) and Time-to-Market (TTM)
+
+All the points we’ve discussed contribute to lowering your project’s development costs. Let’s review them in light of improving TCO and TTM.
+
+improving TCO:
+
+If you can avoid vendor lock-in by using POSIX, then you are not beholden to an OS vendor for your next project. That gives you the leverage when it comes time to negotiate your contract for the next project, not your OS vendor. If you had written your application with their proprietary APIs, then the OS vendor has the leverage—not you.
+
+Likewise, many organizations underestimate the hidden cost of open-source software. Open-source software is anything but free. Frequently, the engineering cost of maintaining "free" software with the need to watch for patches, apply any newly found patches, and trying to get disinterested third-party developers to fix bugs, becomes too burdensome for their project. If you find that the TCO of an open-source OS is too high, then having written your applications with POSIX will enable you to more easily switch to a proprietary OS (where the support costs are built into the business model).
+
+improving TTM:
+
+With POSIX you are not dependent on any one entity to have thought of a comprehensive and robust set of application APIs. The POSIX standard is powerful and feature rich. Having a rich and well proven set of APIs will speed up development time, which, in turn, reduces engineering costs. Similarly, because POSIX has such a wealth of tutorials and examples on the Internet, if an engineer gets stuck on any particular problem, then he or she can turn to a vast pool of available resources to help solve the problem. This of course also reduces engineering time, which reduces cost.
+
+POSIX can also allow you to staff your project more easily and in a shorter amount of time. This means you can start your project sooner—and perhaps with less expensive engineers, too.
+
+A greater degree of freedom and flexibility to switch OSs and vendors at your discretion, free and easily accessible documentation, a vast knowledge base, boosted engineering expertise, and reduced TTM & TCO are why POSIX is so useful to builders of large and complex safety- and security-critical embedded systems.
+
+Leveraging POSIX for Your Next Project
+
+Lynx has over 30 years’ experience in helping customers across avionics, automotive, and industrial markets to realize the benefits of POSIX for their complex safety- and security-critical embedded software systems. To learn more about how to leverage POSIX for your project, please direct your inquiries to 
+inside@lynx.com
+ or fill out the form linked to the button below, and a representative will reach out to you within 1-2 business days. 
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

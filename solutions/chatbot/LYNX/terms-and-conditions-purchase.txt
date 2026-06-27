@@ -1,0 +1,1038 @@
+URL: https://www.lynx.com/terms-and-conditions-purchase
+
+General Terms and Conditions of Sale
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+Home
+
+Terms and conditions purchase
+
+ General Terms and Conditions of Purchase 
+
+Last Updated June 8, 2026
+
+1.   Interpretation
+
+(a) Defined Terms
+
+As used in these Terms and Conditions of Purchase:
+
+“Buyer” means Lynx Software Technologies Inc. and affiliates.
+
+“Confidential Information” means (i) all information relating in any manner to a party (the “Disclosing Party”) or its business (including, but not limited to, financial statements, budgets and projections, customer identities, potential customers, employees, suppliers, servicing methods, equipment, programs, strategies, analyses, profit margins, and other proprietary information), however documented, that has been or may later be (1) provided or shown to the other party (the “Receiving Party”), including its directors, officers and employees, by or on behalf of the Disclosing Party, including its directors, officers and employees; or (2) obtained from review of documents or property of, or communications with, the Disclosing Party, including its directors, officers and employees, by the Receiving Party, including its directors, officers and employees; and (ii) any and all notes, analyses, compilations, studies, summaries, and other material, however documented, containing or based, in whole or in part, on any information included in subsection (a) (collectively, the "Derivative Materials").
+
+Despite the definition of "Confidential Information" set above, "Confidential Information" excludes information that the Receiving Party demonstrates: (i) was or becomes generally publicly available, other than as a result of a disclosure by the Receiving Party, including its directors, officers and employees, in violation of this Agreement; (ii) is in the lawful possession of the Receiving Party, including its directors, officers and employees, prior to its disclosure by or on behalf of the Disclosing Party, including its directors, officers and employees; or (c) was or becomes available to the Receiving Party, including its directors, officers and employees, on a non-confidential basis prior to its disclosure by or on behalf of the Disclosing Party, including its directors, officers and employees, from a third party that to the Receiving Party’s knowledge after due inquiry is not bound by a similar duty of confidentiality, contractual, legal, fiduciary or other.
+
+“Contract” means the contract for the purchase of Goods or Services, or both. 
+
+“Delivery Address” means the address stated in the Order where the Goods are to be shipped.
+
+“Force Majeure Event” means any act or event, whether foreseen or unforeseen, that meets all three of the following tests: (i) The act or event prevents a party (the “Nonperforming Party”), in whole or in part, from (1) performing its obligations under this Agreement; or (2) satisfying any conditions to the Performing Party’s obligations under this Agreement. (ii) The act of event is beyond the reasonable control of and not the fault of the Nonperforming Party; and (iii) The Nonperforming Party has been unable to avoid or overcome the act or event by the exercise of due diligence. Despite the preceding definition of a Force Majeure Event, a Force Majeure Event excludes economic hardship, changes in market conditions, 
+or insufficiency of funds.
+
+“Nonperforming Party” has the meaning assigned in the definition of Force Majeure Event. “Performing Party” has the meaning assigned in the definition of Force Majeure Event.
+
+“Goods” means the goods (including any installment of the goods or any part of them) described in the Order.
+
+“Order” means Buyer's purchase order to which these Terms apply.
+
+“Price” means the purchase price of the Goods and the charge for Services. “Seller” means the person or entity described in the Order.
+
+“Services” means the services described in the Order.
+
+“Specification” means any plans, drawings, data or other information relating to the Goods or Services.
+
+“Terms” means these Terms and Conditions of Purchase and includes any special terms agreed in Writing between Buyer and Seller.
+
+“Writing” means any written document, including electronic mail.
+
+(b) Statutory References
+
+Any reference in these Terms to a statute is to be construed as a reference to that statute or provision as amended, re-enacted or extended at the relevant time.
+
+2.  Basis of Purchase
+
+(a) The Order constitutes an offer from the Buyer to purchase the Goods or Services, or both.
+
+(b) These Terms apply to the Contract to the exclusion of any other terms on which any quotation has been given to Buyer or subject to which an Order is accepted or purported to be accepted by Seller.
+
+(c) The Order will lapse unless unconditionally accepted by Seller in Writing no later than ten (10) days after the Order’s date.
+
+(d) No variation to the Order or these Terms are binding on Buyer unless agreed in Writing between Buyer and Seller.
+
+3.  Specifications
+
+(a) Buyer shall specify the quantity, quality and description of the Goods and Services in the Order and in any applicable Specification supplied by Buyer to Seller, or as agreed in Writing by Buyer.
+
+(b) Any Specification supplied by Buyer to Seller, or specifically produced by Seller for Buyer, in connection with the Contract, together with copyright, design rights or any other intellectual property rights in the Specification, is the exclusive property of Buyer, and Seller assigns, with full title guarantee to Buyer, all copyright, design rights and other intellectual property for no further consideration, subject only to the payment of the Price. Seller shall not disclose to any third party or use any Specification except to the extent that the Specification is or becomes public knowledge through no fault of Seller, or as required for the purpose of the Contract.
+
+(c) Seller shall comply with applicable regulations and other legal requirements concerning the manufacture, packaging, packing and delivery of the Goods and performance of Services.
+
+(d) Seller shall not refuse a reasonable request of Buyer to inspect and evaluate the Goods during manufacture, processing, or storage at the premises of Seller or any third party prior to shipment, and Seller shall provide Buyer with facilities required for inspection and testing.
+
+(e) If because of inspection or testing Buyer is not satisfied that the Goods will comply in all respects with the Contract, and Buyer informs Seller within seven (7) days of inspection or testing, Seller shall modify its procedures to ensure compliance.
+
+(f) Seller shall mark the Goods in accordance with Buyer's instructions and applicable regulations or requirements of the carrier and properly pack and secure the Goods to ensure safe transit.
+
+4. Prices
+
+(a) Buyer shall specify the Price of the Goods and Services in the Order, and unless otherwise written in the Order is inclusive of all charges for packaging, packing, shipping, carriage, insurance and delivery of the Goods to the Delivery Address and any duties, imposts or levies other than sales tax. Seller shall pay all other taxes, including sales tax, assessments, permits, and fees, however designated, that are levied upon the Contract, the Order or the Goods and Services, except for taxes based upon the income of Buyer. Seller shall not add taxes to invoices without the prior approval of Buyer in Writing.
+
+(b) Seller shall not increase the Price, whether on account of increased material, labor or transport costs, fluctuation in rates of exchange or otherwise, without the prior approval of Buyer in Writing.
+
+(c) Seller shall give Buyer the benefit of any Price reduction occurring before the specified delivery date or the actual delivery date, whichever is later. Seller represents that the Price for the Goods is not less favorable than the price currently extended to any other customer of Seller for the same or similar Goods in similar quantities.
+
+(d) Seller shall give Buyer discounts for prompt payment, bulk purchase or volume of purchase customarily given by Seller.
+
+5. Terms of Payment
+
+(a) Seller shall invoice Buyer on or at any time after delivery of the Goods or performance of Services. Seller shall mail original invoices, government and commercial bills of lading, and air express receipts to Buyer at 910 E. Hamilton Ave., Suite 400, Campbell, CA 95008.
+
+(b) Unless stated otherwise in the Order, Buyer shall pay the Price of the Goods and Services no later than thirty (30) days after receipt by Buyer of a proper invoice from Seller, or if later, after acceptance of the Goods or Services by Buyer.
+
+(c) Buyer may set off against the Price any sums owed to Buyer by Seller.
+
+6. Delivery and Acceptance
+
+(a) Seller shall deliver the Goods to, and Seller shall perform the Services at, the Delivery Address on the date or within the period stated in the Order, during Buyer's usual business hours.
+
+(b) Where the date of delivery of the Goods or performance of Services is to be specified after the placing of the Order, Seller shall give Buyer reasonable notice of the specified date.
+
+(c) Seller shall include packing slips in each case, parcel or container shipped to Buyer showing Buyer's order number, item number, and a complete description of its contents.
+
+(d) If the Goods are delivered, or Services are performed, in installments, the Contract will be treated as a single contract and not severable.
+
+(e) Buyer may reject Goods delivered that do not conform to the Contract. Buyer will not be deemed to have accepted Goods until Buyer has had a reasonable time to inspect the Goods following delivery and after any latent defect in the Goods has become apparent.
+
+(f) Seller shall supply Buyer prior to delivery and performance with any instructions or other information required to enable Buyer to accept delivery of the Goods and performance of Services.
+
+(g) Buyer is not required to return to Seller any packaging or packing materials for the Goods.
+
+(h) Seller shall deliver to Buyer the Goods in merchantable condition free from defects in design, material, and workmanship, and in conformity with any relevant Specification or sample.
+
+(i) Seller shall perform Services using qualified and trained personnel, with due care and diligence and to such high standard of quality as it is reasonable for Buyer to expect in all the circumstances.
+
+7. Risk of Loss and Passage of Title
+
+Risk of damage to, or loss of, the Goods passes to Buyer upon acceptance of the Goods by Buyer in compliance with the Contract.
+
+Title to the Goods passes to Buyer upon acceptance of the Goods, unless payment for the Goods is made prior to delivery, in which case it shall pass to Buyer at the time of payment.
+
+8. Representations and Liability
+
+(a) Seller represents that the Goods are fit for such purposes and uses, if any, as specified by Buyer, or otherwise known to Seller or held out by Seller, and comply with all statutory requirements and regulations relating to the sale of the Goods.
+
+(b) Seller represents that the Goods are free and clear of any lien or other adverse claim against title.
+
+(c) Without limiting any other remedy, if any Goods or Services are not supplied or performed in accordance with the Contract, then Buyer may: (i) require Seller, without expense to Buyer, to repair the Goods; or (ii) require Seller to supply replacement Goods or Services in accordance with the Contract within ten (10) days; or (iii) terminate the Contract with no further obligation to Buyer.
+
+(d) Seller shall indemnify Buyer in full against all liability, loss, damages, costs, and expenses (including legal expenses) awarded against or incurred or paid by Buyer because of or in connection with:
+
+(e) Seller’s breach of any representations given by Seller in relation to the Goods or Services.
+
+(d) Any claim that the Goods infringe, or their importation, use or resale, infringes, the patent, copyright, design right, trademark, or other intellectual property rights of any other person, except to the extent that the claim arises from compliance with any Specification supplied by Buyer.
+
+(e) Any claims made against Buyer based upon, relating to or arising out of any claimed defects in the Goods or Services ordered hereunder.
+
+(f) Any alleged violation by the Goods or in the manufacture or sale of the Goods of any statute, ordinance, or administrative order, rule, or regulation.
+
+(g) Any act or omission of Seller or its employees, agents, or sub-contractors in supplying, delivering, and installing the Goods; and
+
+(h) Any act or omission of any of Seller's personnel in connection with the performance of Services.
+
+(i) Seller's representations (and any consumer warranties, service policies, or similar undertakings of Seller) are enforceable by Buyer's customers and any subsequent owner or operator of the Goods.
+
+9.  Termination
+
+(a) Buyer may terminate the Contract in respect of all or only part of the Goods or Services, or both by giving notice to Seller at any time prior to delivery or performance, in which event Buyer's sole liability will be to pay to Seller the Price for the Goods or Services, or both accepted by Buyer.
+
+(b) Buyer may terminate the Contract without liability to Seller by giving notice to Seller at any time in the event of:
+
+(i) The liquidation or insolvency of Seller.
+
+(ii) The appointment of a receiver or similar officer for Seller.
+
+(iii) The assignment by Seller for the benefit of all or substantially all its creditors.
+
+(iv) The entry by Seller into an agreement for the composition, extension, readjustment of all or
+
+(v) The filing of a petition in bankruptcy by or against Seller under any bankruptcy or debtors' law for its relief or reorganization which is not dismissed within ninety (90) days.
+
+(vi) Seller ceasing, or threatening to cease, to continue business; or
+
+(vii) Buyer reasonably apprehending that any of the events mentioned above is about to occur in relation to Seller and Buyer notifies Seller accordingly.
+
+10. Quality Requirements
+
+(a) Seller shall maintain quality records (such as first article inspection, test reports, and certifications, including chemical and/or physical reports identifiable to the raw materials used) in the performance of the Contract for a minimum of ten (10) years from completion of the Contract. Seller shall maintain a certificate of conformance for the Goods and Services.
+
+(b) Seller shall: (i) protect all packaging materials against corrosion, contamination, deterioration or other spoilage during transit; (ii) protect the Goods to prevent damage during handling and shipment; (iii) individually wrap, bag, or otherwise protect the Goods to prevent part-to-part contact/damage when packaged within a larger pack; and (iv) package components in a manner to prevent twisted and entangled leads. Seller shall be responsible for determining the method of packaging to assure adequate protection during transit.
+
+(c) Buyer is entitled to access Seller’s facility to perform quality inspections verifying conformance to Buyer and industry standards.
+
+(d) Seller shall: (i) provide test specimens for design approval, inspection/verification, investigation, or auditing; (ii) implement and maintain a quality management system; (iii) have control and monitoring processes in place related to the performance of any Goods or Services intended for Buyer; (iv) insure the competency, including any required qualifications of persons; (v) use only Buyer designated or approved external providers; (vi) and notify and obtain approval from Buyer of changes to processes, products, or services, including changes to external providers or location of manufacturer.
+
+(e) Seller represents that Good and Services intended for supply to Buyer will conform to the quality requirements as defined by Buyer, Buyer’s customers,’ and industry standards.
+
+(f) Seller shall protect Goods and Services intended for supply to Buyer against any action which may render the Goods and Services nonconforming. These actions will conform to accepted industry standards and statutory/regulatory requirements.
+
+(g) Seller shall ensure that persons acting on behalf of Seller who are in any capacity performing actions which may impact Goods and Services that will be provided to Buyer are aware of the following:
+
+(i) their contribution to product or service conformity; (ii) their contribution to product safety; and (iii) the importance of ethical behavior.
+
+(h) Seller shall notify Buyer of nonconforming processes, products, or services and obtain approval for their disposition; prevent the use of counterfeit parts.
+
+(i) Seller shall flow down all requirements listed in these Terms and Conditions to Seller’s supply chain for any Goods or Services that are intended for supply to Buyer.
+
+11. General
+
+(a) Confidentiality.
+
+(i) Obligation to Maintain Confidentiality. During and after the applicability of these Terms, the Order, or the Contract, the Receiving Party, including its directors, officers and employees, shall keep the Confidential Information confidential. Without limiting the effect of the previous sentence, the Receiving Party, including its directors, officers and employees, shall not: (1) disclose any of the Confidential Information to any person except (A) with the prior written consent of the Disclosing Party; or (B) as otherwise expressly permitted by these Terms, the Order, or the Contract to which they apply; or (2) use any of the Confidential Information in any way detrimental to the Disclosing Party, it being acknowledged by the Receiving Party that any use other than in connection with the licenses granted herein (the “Permitted Use”) is detrimental.
+
+(ii) Unauthorized Use. Unauthorized Use. The Receiving Party shall give prompt written notice to the Disclosing Party of any unauthorized use or disclosure of the Confidential Information and shall assist the Disclosing Party in remedying each unauthorized use or disclosure. Any assistance does not waive any breach of this section by the Receiving Party, nor does acceptance of the assistance constitute a waiver of any breach of this section.
+
+(iii) Permitted Disclosees. The Receiving Party may disclose Confidential Information to only those of its directors, officers and employees who: (1) require the Confidential Information for the Permitted Use (but to the extent practicable, only the part that is required); (2) are informed in writing by the Receiving Party of the confidential nature of the Confidential Material; and (3) agree in writing to be bound by the obligations of this section.
+
+(iv) Return of Confidential Information. The Receiving Party shall return to the Disclosing Party or destroy all Confidential Information of the Disclosing Party in the Receiving Party’s possession or control and permanently erase all electronic copies of such Confidential Information promptly upon the written request of the Disclosing Party or the expiration or termination of these Terms and Conditions and any purchase order or other agreement to which they apply, whichever comes first, except that the Receiving Party shall be permitted to retain normal security (backup) copies of the Confidential Information where such copies are made as part of the Receiving Party’s normal system management procedures and include other Receiving Party and third party data. (v)
+At the Disclosing Party’s request, the Receiving Party shall certify in writing signed by an officer of the Receiving Party that it has fully complied with its obligations under this section.
+
+(v) Compelled Disclosure.
+
+(a) Notification, Consultation, and Protective Orders. If the Receiving Party, including its directors, officers and employees, (a “Compelled Representative”) is requested, becomes legally compelled or is required, in any case by a court or governmental body, to make any disclosure of Confidential Information, the Receiving Party shall: (1) promptly (but in any event no later than two days after the Receiving Party becomes aware that it is required to make such disclosure) notify the Disclosing Party in writing; (2) consult with and assist the Disclosing Party at the Disclosing Party’s expense in obtaining an injunction or other appropriate remedy to prevent such disclosure; and (3) use its best efforts to obtain at the Disclosing Party’s expense a protective order or other reliable assurance that confidential treatment will be accorded to any Confidential Information that is disclosed.
+
+(b) Right to Disclose. Subject to the provisions of this section, the Receiving Party or the Compelled Representative may furnish that portion and only that portion of the Confidential Information that, in the written opinion of its counsel in form and substance reasonable acceptance reasonable acceptable to the Disclosing Party, the Receiving Party or the Compelled Representative is legally compelled or otherwise required to disclose or else stand liable for contempt or suffer other material penalty.
+
+(vi) Injunctive Relief. The Receiving Party acknowledges and agrees that because (i) an award of money damages is inadequate for any breach of these Terms, the Order, or the Contract to which they apply by the Receiving Party, including its directors, officers and employees, and (ii) any breach causes the Disclosing Party irreparable harm, if there is a breach or threatened breach of this section by the Receiving Party, including its directors, officers and employees, the Disclosing Party is entitled to equitable relief, including injunctive relief and specific performance, without the posting of a bond or other security and, without proof of actual damages.
+
+(vii) Indemnity. The Receiving Party shall indemnify and defend the Disclosing Party, including its directors, officers and employees, against all damages, losses, costs, liabilities, and expenses (including reasonable legal fees and the cost of enforcing this indemnity), arising out of or relating to any unauthorized use or threatened use or disclosure or threatened disclosure by the Receiving Party, including its directors, officers and employees, of the Confidential Information or any other violation of this section.
+
+(viii) Confidentiality of these Terms, the Order, and the Contract. The parties shall not disclose any terms of these Terms, the Order, and the Contract to anyone other than its Affiliates, attorneys, 
+accountants, and other professional advisors under a duty of confidentiality except (1) as required by law; (2) pursuant to a mutually agreeable press release; or (3) in connection with a proposed merger, financing, or sale of such party’s business (provided that any third party to whom the terms of these Terms, the Order, and the Contract are to be disclosed signs a confidentiality agreement reasonably satisfactory to the other party to these Terms, the Order, or the Contract).
+
+(b) Export and Import Laws
+. Buyer and Seller shall comply with all applicable export and import control laws and regulations in their use and distribution of the Goods and, in particular, will not export or re-export the Goods without all required United States and foreign government licenses.
+
+(c) Successors and Assigns. 
+These Terms, the Order, and the Contract bind and benefit Buyer and Seller and their respective permitted successors and assigns.
+
+(d) Assignment and Delegation.
+
+(i) No Assignments. Neither Buyer nor Seller may assign any of their rights under these Terms, the Order, or the Contract, except with the prior written consent of the other party. That party shall not unreasonably withhold its consent. All assignments of rights are prohibited under this subsection, whether they are voluntary or involuntary, by merger, consolidation, dissolution, operation of law, or any other manner. For purposes of this section, (1) a “change of control” is deemed an assignment of rights; and (2) “merger” refers to any merger in which a party participates, regardless of whether it is the surviving or disappearing corporation.
+
+(ii) No Delegations. Neither Buyer or Seller may delegate any performance under the Order or the Contract.
+
+(iii) Ramifications of Attempted Assignment or Delegations. Any attempted assignment of rights or delegations of performance in violation of this section is void.
+
+(e) Notices.
+
+(i) Requirement of a Writing; Permitted Methods of Delivery. 
+Each party giving or making any notice, request, demand or other communication (each, a “Notice”) pursuant to these Terms, the Order, or the Contract shall: (1) give the Notice in writing; (2) cause the Notice to be signed; and (3) use one of the following methods of delivery, each of which for purposes of these Terms, the Order, and the Contract is a writing:
+
+(a) Personal delivery.
+
+(b) Registered or Certified Mail, in each case, return receipt requested and postage prepaid.
+
+(c) Nationally / Internationally recognized overnight courier, with all fees prepaid.
+
+(d) E-mail.
+
+(ii) Addressees and Addresses. 
+Each party giving a Notice shall address the Notice to the appropriate person at the receiving party (the “Addressee”) at the address listed below or to another Addressee or at another address as designated by a party in a Notice pursuant to this section.
+
+Buyer:
+ Lynx Software Technologies Inc.
+
+910 E. Hamilton Ave., Suite 400
+
+Campbell, CA 95008
+
+Attention: Legal Department
+
+Telephone No. (for verification purposes only): (888) 330-5376
+
+E-mail: 
+Legalrequest@lynx.com
+
+Seller:
+ Company Name Mailing Address
+
+Courier Address (if different) Attention:
+
+Telephone No. (for verification purposes only): 
+
+E-mail:
+
+(iii) Effectiveness of a Notice. 
+Except as provided elsewhere in these Terms, the Order, or the Contract, a Notice is effective only if the party giving the Notice has complied with subsections e(i) and e(ii) and if the Addressee has received the Notice. A Notice is deemed to have been received as follows:
+
+(1) 
+Personal Delivery, Mail, and Courier. If a Notice is delivered in person or sent by Registered or Certified Mail or nationally or internationally recognized overnight courier, upon receipt as indicated by the date on the signed receipt.
+
+(2) E-mail. If a Notice is sent by e-mail, upon proof that the e-mail was sent.
+
+(3) Refusal to Accept Notice. If the Addressee rejects or otherwise refuses to accept the Notice, or if the Notice cannot be delivered because of a change in address for which no Notice was given, 
+then upon the rejection, refusal, or inability to deliver the Notice.
+
+(4) 
+Exceptions. Despite the other clauses of this subsection, if any Notice is received after 5:00 
+p.m. (1) on a Business Day where the Addressee is located, or (2) on a day that is not a Business Day where the Addressee is located, then the Notice is deemed received at 9:00a.m. on the next Business Day where the Addressee is located.
+
+(f) Applicable Law; Jurisdiction.
+
+(i) The laws of the State of California govern these Terms, the Order, and the Contract.
+
+(ii) Any party bringing a legal action or proceeding against any other party arising out of or relating to these Terms, the Order, or the Contract or the transactions they contemplate shall bring the legal action or proceeding in the United States District Court for the Middle District of California or in any court of the State of California sitting in Campbell.
+
+(iii)  
+For all legal actions and proceedings arising out of or relating to these Terms, the Order, or the Contract, Buyer and Seller submit to the exclusive jurisdiction of (1) the United States District Court for the Middle District of California and its appellate courts; and 
+(2) any court of the State of California sitting in Campbell and its appellate courts.
+
+(iv) 
+Each party waives to the fullest extent permitted by law (1) any objection which it may now or later have to the laying of venue of any legal action or proceeding arising out of or relating to these Terms, the Order, or the Contract brought in any court of the State of California sitting in Campbell, or the United States District Court for the Middle District of California; and (2) any claim that any such action or proceeding brought in any such court has been brought in an inconvenient forum.
+
+(v) Buyer and Seller agree that the United Nations Convention on Contracts for the International Sale of Goods is specifically excluded from application to these Terms, the Order, or the Contract.
+
+(g) Attorneys’ Fees. 
+In the event any proceeding or lawsuit is brought by Buyer or Seller in connection with these Terms, the Order, or the Contract, the prevailing party in such proceeding shall be entitled to receive its costs, expert witness fees and reasonable attorneys’ fees, including costs and fees on appeal.
+
+(h) Waiver. 
+The failure of either party to require performance by the other party of any provision hereof shall not affect the full right to require such performance at any time thereafter; nor shall the waiver by either party of a breach of any provision hereof be taken or held to be a waiver of the provision itself.
+
+(i) Severability
+. If any provision of these Terms, the Order, or the Contract is determined to be invalid, illegal or unenforceable, the remaining provisions of these Terms, the Order, and the Contract remain in full force, if the essential terms and conditions of these Terms, the Order, and the Contract for each party remain valid, binding, and enforceable.
+
+(j) Captions. 
+The descriptive headings of the articles, sections, and subsections of these Terms, the Order, and the Contract are for convenience only, do not constitute a part of these Terms, the Order, or the Contract, and do not affect these Terms, the Order, or the Contract’s construction or interpretation.
+
+(k) Force Majeure.
+
+(i) Suspension of Performance. If a Force Majeure Event occurs, the Nonperforming Party is excused from: (1) whatever performance is prevented by the Force Majeure Event to the extent prevented; and (2) satisfying whatever conditions precedent to the Performing Party’s obligations that cannot be satisfied. Despite the preceding sentence, a Force Majeure Event does not excuse any obligation by either the Performing Party or the Nonperforming Party to make any payment required under these Terms, the Order, or the Contract.
+
+(ii) Resumption of Performance. When the Nonperforming Party is able to: (1) resume performance of its obligations under these Terms, the Order, or the Contract, or (2) satisfy the conditions precedent to the Performing Party’s obligations, it shall immediately give the Performing Party written notice to that effect and shall resume performance under these Terms, the Order, or the Contract no later than two working days after the notice is delivered.
+
+(iii) Exclusive Remedy. The relief offered by this Force Majeure provision is the exclusive remedy Neither party shall be liable hereunder by reason of any failure or delay in the performance of its obligations hereunder (except for the payment of money) on account of strikes, shortages, riots, insurrection, fires, flood, storm, explosions, acts of God, war, governmental action, labor conditions, earthquakes, material shortages or any other cause which is beyond the reasonable control of such party.
+
+(l) No Agency
+. Nothing contained herein is to be construed as creating any agency, employment relationship, licensorship, principal-agent or other form of joint enterprise between the Buyer and Seller.
+
+(m) Merger.
+ These Terms, the Order, and the Contract constitute the final agreement between the Buyer and Seller. It is the complete and exclusive expression of Buyers’ and Sellers’ agreement on the matters contained in these Terms, the Order, and the Contract. All prior and contemporaneous negotiations and agreements between Buyer and Seller on the matters contained in these Terms, the Order, or the Contract are expressly merged into and superseded by these Terms, the Order, or the Contract. The provisions of these Terms, the Order, and the Contract may not be explained, supplemented, or qualified through evidence of trade usage or a prior course of dealings. In entering these Terms, the Order, and the Contract, neither party has relied upon any statement, representation, warranty, or agreement of the other party except for those expressly contained in this Agreement. There are no conditions precedent to the effectiveness of these Terms, the Order, or the Contract other than those expressly stated in these Terms, the Order, and the Contract.
+
+(n) Amendments. 
+Buyer and Seller may not amend these Terms, the Order, or the Contract, except by written agreement of Buyer and Seller.
+
+(o) Announcements. 
+Neither Buyer or Seller shall issue any press release or make any announcement with respect to these Terms, the Order, or the Contract without the prior written consent of the other party. That party shall not unreasonably withhold or delay its consent.
+
+(p) Further Assurances. 
+Buyer and Seller and their officers and directors shall use all commercially reasonable efforts to take, or cause to be taken, all actions necessary or desirable to consummate and make effective the transactions these Terms, the Order, or the Contract contemplate. After the date of these Terms, the Order, and the Contract, Buyer and Seller and their officers and directors shall use all commercially reasonable efforts to take, or cause to be taken, all further actions necessary or desirable to carry out the purposes of these Terms, the Order, and the Contract.
+
+Terms and Conditions of Sale
+
+Use the link below to see terms and conditions of sale.
+
+ Terms and Conditions of Sale 
+
+Supplemental Terms
+
+Use the links below to see additional supplemental terms.
+
+ Supplemental Terms For SAAS Products 
+
+ Supplemental Terms for Company Hardware and Third Party Hardware 
+
+ Supplemental Terms for Licensed Products 
+
+ Supplemental Terms For Professional Services 
+
+ Supplemental terms for Support Services 
+
+Previous Agreements
+
+Use the links below to see previous agreements.
+
+ Lynx Support Services Agreement - November 2024 
+
+ Lynx Master Services Agreement - March 2024 
+
+ Lynx License Agreement - January 2024 
+
+ Lynx Master Services Agreement - March 2021 
+
+ Seize the Edge 
+
+ The future won’t wait, neither should you. Let’s build, secure, and accelerate your next mission together. Contact us today to get started. 
+
+                Contact Us
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

@@ -1,0 +1,378 @@
+URL: https://www.lynx.com/industries/commercial-avionics
+
+Commercial Avionics Software Technologies | LYNX Software
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+Reducing 
+risk, vendor lock in, cost
+
+FOR COMMERCIAL AVIONICS
+
+Reducing 
+risk, vendor lock in, and cost
+
+for military avionics
+
+INDUSTRY SECTOR DYNAMICS
+
+The future of the global commercial aerospace avionics market looks promising with opportunities in commercial aircraft, regional aircraft, and general aviation. According to 
+this article
+, the global commercial aerospace avionics market is expected to grow with a CAGR of 6.1% from 2021 to 2027. The major growth drivers for this market are increasing aircraft deliveries, replacement of aging aircraft, and growing demand for better safety and digital communication devices.
+Although aviation traditionally uses legacy architecture with limited technology integration, much has changed in the last few years. The industry at large has begun embracing a connected environment. It is digitizing its operations through smart maintenance, digital asset management, fuel consumption optimization, aircraft health monitoring, and connected in-flight safety. The connected aircraft market is expected to 
+grow to $16 billion by 2029
+. 
+
+INDUSTRY SECTOR DYNAMICS
+
+Across the world, budgets continue to rise. In March 2023, 
+the Pentagon released its initial request for Fiscal Year ‘24
+. Across Europe, budgets continue to rise at a pace that outstrips inflation. Once factors like military aid are added, the result is a budget request approaching $1B which represents the highest military budget since World War II.
+
+Technology is clearly at the heart of this and the word we continue to hear (and view being operationalized) is accelerating the time to deployment as the US and its Allies look to main its advantages over other world powers. Great servants to the military like the BlackHawk Helicopter and F-16 fighter jet need to be upgraded with programs that include 
+Future Attack Reconnaissance Aircraft (FARA)
+, Future Long Range Assault Aircraft (FLRAA), and F-35 Joint Strike Fighter. 
+Much has been written about the vision of the 
+connected battlefield
+. The implementation of this at a rapid pace requires a massive change in product creation and deployment.
+
+Development must embrace cloud development and harnessing of technologies such as machine learning, digital twins and virtual targets
+
+Secure System Connectivity becomes critical as data is gathered and shared between a diverse set of endpoints (soldiers, UAVs, planes, satellites) and insights made in real time 
+
+Systems must build in adaptability to add functionality once deployed to extend the useful life of the platforms and ensure our residents, their information and their systems are protected to the fullest extent
+
+AIRLINES CONTINUE TO BE A TARGET FOR CYBER CRIMINALS
+
+0
+%
+
+of all detected cyber-attacks in 2020 were in avionics 
+
+$
+0
+
+a year lost from fraudulent websites alone
+
+See 
+this article
+ for reference. 
+
+SEGMENT CHALLENGES
+
+Delivering this dramatically increased level of complexity and capability while decreasing development cycles creates several challenges for program execution/management offices, chief architects, and P&L owners:
+
+The regulatory oversight of aircraft systems is catching up to the changing landscape now that several systems within an aircraft are interconnected.
+
+More recent standards, such as 
+DO-356
+, “
+Airworthiness Security Methods and Considerations
+,” outline a formal security framework for defining system security risks.
+
+The challenge is how to retrofit the above capability onto existing systems.
+
+Delivering advancements to consumers and airline staff comes with the increased risk of several cybersecurity threats affecting these systems' confidentiality, integrity, and availability.
+
+Recent data revealed that airlines continue to be irresistible targets for cybercriminals, and
+ 61% were targeted in all detected aviation cyberattacks in 2020.
+
+Modem processors have several CPU cores that share resources, which causes challenges in terms of predicting real-time behavior.
+
+New processor architectures, in part led by advancements in the automotive sector, are looking to replicate critical resources to simplify timing analysis.
+
+In the near term, customers must either embrace multicore processors or disable large amounts of chip functionality.
+
+See 
+this article
+ for reference
+
+HOW LYNX CAN HELP
+
+Reduced Program Risk
+
+DO-178C DAL A certification achieved multiple times
+
+Embracing Linux in safety-critical systems, which can be run on LynxSecure to isolate trusted and untrusted elements of the network
+
+FAA reusable software certificate to enable reuse of proven software in other programs
+
+Path to DO-326A and DO-356A certification harnessing DO-178 certification heritage
+
+Increased Immunity to 
+Cyberattacks
+
+Provable separation and isolation
+Attack Surface Reduction
+
+Achieved in part due to the use of hypervisor technology built from the ground up with security in mind. Also supported through the use of 
+unikernel technology 
+which allows the creation of purpose-built applications that only utilize the OS functions necessary for that application
+Deployed Systems Must Continue to Improve Capabilities
+
+Providing a secure way to deliver security updates for identified vulnerabilities and new system functionality. Lynx has proven usage of industry-standard containers and infrastructure to deliver these updates
+
+Harnessing Multicore Processors
+
+CAST-32A White Paper
+
+LynxSecure
+ delivers least privilege system architecture to (immutably) provide only the system resources needed by an application to complete its task
+
+PAST PERFORMANCE 
+
+Learn more about how we worked with 
+Airbus
+ and 
+Collins Aerospace
+ to address these and other challenges using 
+LynxOS 
+and 
+LynxSecure
+, respectively. 
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

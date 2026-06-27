@@ -1,0 +1,418 @@
+URL: https://www.lynx.com/embedded-systems-blog/what-is-sr-iov-and-why-is-it-important-for-embedded-devices
+
+What is SR-IOV and Why is It Important for embedded devices?
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            3 min read
+
+What is SR-IOV and Why is It Important for embedded devices?
+
+ Tim Loveless | Principal Solutions Architect
+
+ : 
+
+                Oct 10, 2019 7:51:00 AM
+
+Single Root I/O Virtualization (
+SR-IOV
+) is the complex name for a technology beginning to find its way into embedded devices.  SR-IOV is a hardware standard that allows a PCI Express device – typically a network interface card (NIC) – to present itself as several virtual NICs to a hypervisor.  The standard was written in 2007 by the 
+PCI-SIG
+ (
+Peripheral Component Interconnect 
+- Special Interest Group) with key contributions from Intel, IBM, Hewlett-Packard, and Microsoft (among others). We can thank the PCI-SIG for the interoperability of the vast range of computer PCI add-in cards and Intel’s famous — in tech circles — 8086 hardware vendor ID that PCI devices report on the bus.
+
+The term 
+Single Root
+ means that SR-IOV device virtualization is possible only within one computer.  It refers to the PCI Express root complex, the core PCI component that connects all PCI devices together.  PCI devices, bridges, and switches are cascaded off the root complex creating a tree structure.  Multi Root I/O Virtualization (MR-IOV) — by contrast — is concerned with sharing PCI Express devices among multiple computers.
+
+Benefits of Virtualization for Data Centers
+
+Virtualization has taken off in cloud datacenters as a means for improving server utilization; that is, putting more software workloads onto a physical server to use up spare capacity.  These software workloads are virtual machines running on top of a hypervisor like 
+Kernel Virtual Machine (KVM)
+, 
+Microsoft Hyper-V
+ or 
+VMware Sphere
+.  
+Virtualization reduces data-center power consumption and costs and is a perfect fit for multi-core processors (MCPs) which often run one virtual machine (VM) per core.
+
+Virtualizing NIC Hardware
+
+Providing network connectivity to VMs on heavily virtualized servers is a challenge.  The hypervisor can share NICs between the VMs using software, but at reduced network speed and with high CPU overhead.  A better approach is to build a single NIC that appears as multiple nics to the software. It has one physical ethernet socket, but appears on the PCI Express bus as multiple NICs.  Such an I/O-Virtualization-capable-NIC replicates the VM-facing hardware resources like ring buffers, interrupts and Direct Memory Access (DMA) streams.  The SR-IOV standard defines how these hardware resources are shared so that hypervisors can find and use them in a common way for all makes and models of SR-IOV capable NICs. The SR-IOV standard calls the master NIC the Physical Function (PF) and its VM-facing virtual NICs the Virtual Functions (VFs).
+
+So, what has all this got to do with embedded?  The first System on Chip (SoC) with built-in SR-IOV capable NIC was released in 2017.  Collapsing both the physical NIC card and motherboard slot into a highly integrated SoC is perfect for embedded use cases, which tend to be rugged and compact, and where add-in cards and their connectors are a liability.  The 
+Intel Denverton SoC
+ combines up to 16 Atom cores with onboard PCI Express and 4 Intel X550 SR-IOV capable 10 Gigabit Ethernet (GbE) NICs.  Impressively, each X550 NIC includes 64 VFs, for a total of 256 VFs onboard inside this chip.  Combined with an embedded hypervisor, this SoC is an excellent consolidation platform.  
+SR-IOV enables efficient I/O Virtualization, so you can provide full network connectivity to your VMs without wasting CPU power.
+  It is well suited to combining separate boxes running RTOS, embedded Linux and Windows-based operator-consoles into one box; saving space, weight and power (SWAP) as well as cost.
+
+Trying SR-IOV with the Lynx MOSA.ic™ Modular Framework 
+
+This week I setup 
+Lynx MOSA.ic
+™
+ on a SuperMicro 
+A2SDi-TP8F
+ board.  This system has a 12 core Intel® Atom® 
+C3858
+ (Denverton) Processor with 32GB of RAM as well as 4 X550 10 
+GbE
+ nics. I used the 
+LynxSecure® Partitioning System
+ to set up the system with 5 VMs — each with 1 CPU core.  
+I chose Buildroot Linux for all Guest OSs (GOSs) because Linux includes Intel’s SR-IOV capable 
+ixgbe driver
+.  In Lynx MOSA.ic™ I assigned the PF to one VM, and VFs to the other 4.  It is important to boot the PF VM first, because it is used to create the VFs. Only once they are created should the other 4 be booted. Sure enough, the 4 VFs came up as completely normal NICs.
+
+Buildroot PV Linux 4.9.81 (x86_64)
+pvlinux3 login: root
+[root@pvlinux3 ~]# lspci -k
+09:10.2 Class 0200: 8086:15c5 ixgbevf
+[root@pvlinux3 ~]#
+[root@pvlinux3 ~]# ifconfig
+enp9s16f2 Link encap:Ethernet  HWaddr 2E:D2:5A:F2:89:8C
+     inet addr:10.20.31.211  Bcast:10.20.31.255  Mask:255.255.255.0
+     UP BROADCAST RUNNING MULTICAST  MTU:1400  Metric:1
+
+SR-IOV is a powerful hardware feature for efficiently sharing PCI Express devices — especially ubiquitous ethernet devices — between VMs in virtualized embedded systems.  
+Integrating the PCI Express bus and SR-IOV nics into one piece of SoC silicon is a game changer for compact and rugged embedded use cases.
+  Lynx expects to see increased SR-IOV adoption as embedded systems are consolidated onto multi-core processors.
+
+Multi-core
+
+Avionics
+
+Demo
+
+Cache-partitioning
+
+Lynx MOSA.ic™
+
+Embedded Blog
+
+Safety
+
+MCP
+
+Systems Architecture
+
+RTOS and Linux - Their Evolving Roles in Aerospace and Defense
+
+Erik Vallow | Director of Technical Product Management
+:  
+Oct 29, 2024 3:00:00 AM
+
+In the critical and demanding world of aerospace and defense, selecting the appropriate software components is not just a technical decision; it's a...
+
+linux
+
+embedded linux
+
+rtos
+
+embedded systems
+
+Read More
+
+TC-16/51: Adding Bottom Up Interference Analysis for MCPs
+
+Mark Brown | Systems Architect
+:  
+Jan 28, 2020 7:54:00 AM
+
+I hadn't heard of "bottom up" avionics certification before I read FAA's TC-16/51. But now, looking back at it, I think the authors from Thales...
+
+Avionics
+
+Multicore
+
+FAA
+
+Safety
+
+TC-16/51
+
+CAST-32A
+
+Certification
+
+MCP
+
+Read More
+
+Lynx & ENSCO Demonstrate Avionics Solutions @ DSEI JAPAN 2019
+
+Dan Westerberg | Senior Systems Engineer
+:  
+Nov 17, 2019 7:53:00 AM
+
+The most formidable challenges of modern avionics development programs are often centered around the safety certification process and the...
+
+Demo
+
+Lynx MOSA.ic™
+
+Events
+
+Embedded Blog
+
+Multicore
+
+FAA
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

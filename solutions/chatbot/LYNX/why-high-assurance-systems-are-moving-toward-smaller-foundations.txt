@@ -1,0 +1,819 @@
+URL: https://www.lynx.com/blog/why-high-assurance-systems-are-moving-toward-smaller-foundations
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+BLOG
+
+June 18, 2026
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+by 
+Lynx 
+
+Share
+
+For years, 
+avionics
+ architects measured success through consolidation. If multiple functions could share a processor, the design was considered efficient. Integrated Modular Avionics (IMA), multicore processors, and increasingly capable systems-on-chip have accelerated that trend, allowing more applications, suppliers, and criticality levels to coexist on a common hardware platform.
+
+Consolidation has delivered significant benefits. It has reduced size, weight, and power (SWaP), lowered hardware costs, and simplified physical system architectures. 
+But as multicore platforms become the foundation for modern avionics and mission systems, a more important question is emerging.
+
+How Much Software Must Be Trusted To Keep Those Functions Separated?
+
+The answer matters because every component placed in the trusted base becomes part of the certification burden. Every line of code at the foundation of the system must be specified, verified, configuration-managed, maintained, and ultimately justified to certification authorities throughout the life of the program. 
+The question is no longer simply how many applications can coexist on a processor, it's 
+how much software must stand between them.
+
+Two Different Philosophies
+
+There are two fundamentally different approaches to building a virtualized, 
+mixed-criticality
+ system. 
+The first relies on a large, feature-rich hypervisor that actively manages the environment. Such platforms often provide scheduling services, device virtualization, health monitoring, shared-resource management, and a broad collection of runtime capabilities intended to support multiple guest operating systems.
+
+The second takes a different approach. Rather than adding services to the foundation, it seeks to minimize the foundation itself. A separation kernel establishes strict boundaries between partitions, assigns resources according to a fixed configuration, and relies on hardware mechanisms to enforce isolation. Everything that is not essential to separation is pushed out of the trusted base. 
+Both approaches can support multiple workloads on a common processor. 
+The difference lies in how much software must be trusted to make that possible.
+
+Why Trusted Base Size Matters
+
+The size of the trusted base has implications that extend far beyond implementation details. 
+In 
+safety-critical
+ systems, trusted software is not merely operational software. It becomes part of the 
+certification
+ argument. As functionality accumulates within a virtualization layer, so does the scope of what must be analyzed and verified. Schedulers, resource managers, device emulation services, monitoring functions, and communication mechanisms all become elements whose behavior must be understood and justified. 
+A larger trusted base may provide additional flexibility, but it also expands the amount of software that carries high-assurance responsibilities. 
+Over the lifetime of a program, that responsibility can become expensive.
+
+Where the Certification Costs Actually Appear
+
+The consequences of architectural choices are often difficult to see during initial integration. They become much more visible when systems evolve, certification activities begin, or modifications are introduced years later.
+
+Trusted Base
+
+A large virtualization layer concentrates significant functionality into a common foundation. Because that foundation participates directly in isolation, resource management, and system behavior, a substantial amount of software becomes part of the trusted computing base.
+
+A minimal separation kernel takes a different approach. By focusing exclusively on partitioning and isolation, it limits the amount of functionality that must be included in the highest-assurance portion of the system. 
+The result is not merely a smaller attack surface from a cybersecurity perspective. It is also a smaller verification surface from a certification perspective.
+
+Partitioning and Worst-Case Timing
+
+Timing analysis has always been challenging in safety-critical systems. Multicore processors have made it significantly more complex. 
+When isolation depends heavily on runtime software decisions, schedulers and resource managers become part of the timing argument. Their behavior must be understood under both normal and worst-case operating conditions. Architectures based on static allocation simplify that picture. When processor resources, memory regions, and I/O assignments are defined before runtime and remain fixed throughout operation, fewer software elements participate in the timing path. The certification effort does not disappear, but the number of variables that must be analyzed is reduced.
+
+Multicore Certification
+
+This distinction becomes even more important on modern multicore processors. 
+Certification guidance such as CAST-32A and AMC 20-193 has shifted the industry's focus toward demonstrating freedom from unintended interference. The challenge is no longer simply proving that an application performs its intended function. Engineers must also demonstrate that neighboring applications, shared resources, and contention mechanisms cannot compromise that behavior.
+
+Architectures that rely extensively on runtime mediation must account for the behavior of the mediating software itself. Resource managers, schedulers, and shared infrastructure become part of the interference analysis. 
+Architectures based on static allocation and hardware-enforced separation begin from a different position. By minimizing runtime decision-making and reducing shared infrastructure, they narrow the scope of what must be analyzed and justified.
+
+The certification challenge remains substantial, but the argument becomes more explicit and easier to bound.
+
+Requirements and Traceability
+
+Certification is ultimately built on requirements. 
+As trusted infrastructure grows, isolation requirements, resource-management requirements, and safety assumptions tend to spread across multiple components and interfaces. Traceability becomes more extensive because the architectural responsibility is distributed across a larger collection of software elements. A smaller foundation concentrates responsibility in fewer places. The isolation model becomes more explicit, and the resulting certification evidence can often be more straightforward to maintain over time.
+
+Delta Certification
+
+Perhaps the most significant differences appear during system evolution. 
+Every long-lived platform changes. New sensors are added. Security updates are introduced. Mission capabilities evolve. Hardware is refreshed. The cost of these changes is rarely determined by the modification itself. It is determined by how far the effects of that modification propagate through the architecture. When substantial functionality is concentrated in a common layer, changes to that layer can have broad implications across the system. Verification activities expand because multiple functions depend on the same infrastructure.
+
+Architectures that minimize shared dependencies naturally limit the scope of change. Updates remain more tightly bounded because fewer functions rely on common runtime services. 
+Over the lifetime of a program, this containment can become one of the most valuable characteristics of the architecture.
+
+Isn't One Function Per Partition Just More Complexity?
+
+A common criticism of highly partitioned systems is that they create too many independent environments to manage. 
+At first glance, the concern appears reasonable. More partitions seem to imply more operating environments, more configurations, and more complexity. But partition count is not necessarily the right metric. The real certification burden is driven by trusted software, assurance level, and verification scope.
+
+A collection of small, tightly bounded partitions running only the software they require may represent a significantly smaller certification effort than a handful of large environments supported by an extensive common infrastructure layer.
+
+The critical question is not how many partitions exist.
+
+The critical question is how much software must be trusted, verified, and maintained within the certification boundary.
+
+Counting partitions is often measuring the wrong thing. Counting what must be certified is usually measuring the right thing.
+
+The Principle That Matters
+
+Virtualization itself is not the issue. 
+The industry has clearly demonstrated the value of consolidating multiple workloads onto shared computing platforms. That trend will continue as multicore processors become even more capable.
+
+The more important question is architectural. 
+What belongs in the trusted base? Every function placed into the foundation becomes a long-term commitment. It becomes software that must be verified, maintained, assessed for cybersecurity impact, evaluated for interference effects, and justified during future certification activities.
+
+In a world of increasing multicore consolidation, tighter schedules, and growing assurance requirements, the most sustainable architectures are not necessarily the ones that do the most in the foundation. 
+They are the ones that require the foundation to do the least. Because when it comes to high-assurance systems, less in the trusted base often means less to certify.
+
+For More Information, 
+Click Here
+
+Lynx
+
+Subscribe Here!
+
+ON THIS PAGE
+
+ Seize the Edge 
+
+ The future won’t wait, neither should you. Let’s build, secure, and accelerate your next mission together. Contact us today to get started. 
+
+                Contact Us
+
+Latest From Lynx
+
+            View All
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

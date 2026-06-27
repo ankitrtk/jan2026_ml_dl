@@ -1,0 +1,270 @@
+URL: https://www.lynx.com/partners/nxp
+
+Partners | NXP
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+LYNX & NXP
+
+WHAT WE'RE DOING TOGETHER
+
+Lynx and NXP have partnered closely to ensure our LYNX MOSA.ic software framework (hypervisor, real-time operating system, Linux, and tools) has been optimized for members of NXP’s LayerScape (Arm-based) product family as well as the Txxx family of power architecture products. Our collaboration extends beyond development to include certification work, including commitments to take our LynxSecure hypervisor to DO-178C DAL A certification. Several aerospace and defense customers use the popular NXP LayerScape 1046A Processor, and this has been where our work has focused.
+More recently, aerospace companies are focusing on cybersecurity certifications such as DO-356, as data gateways need to support secure communication of data outside the plan to enhance the passenger experience as well as improve the effectiveness with which critical information required by the crew (passenger manifests, flight plans, etc.) is exchanged when the plane is on the ground. 
+
+Add a headline.
+
+Lorem ipsum dolor amet food truck affogato cronut freegan skateboard photo booth, tousled pickled 90's wayfarers retro succulents hoodie edison bulb ramps. XOXO seitan tote bag, offal vape air plant disrupt chia plaid taxidermy cloud bread microdosing 8-bit. 
+
+MATERIALS
+
+PRESS RELEASES
+LYNX EXPANDS NXP PROCESSOR SUPPORT FOR ITS LYNXSECURE SEPARATION KERNEL HYPERVISOR
+LYNX BROADENS OPERATING SYSTEM- AND PROCESSOR CHOICE FOR LYNXSECURE
+VIDEOS
+ASK THE EXPERT FEATURING NXP
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

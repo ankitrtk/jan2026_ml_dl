@@ -1,0 +1,385 @@
+URL: https://www.lynx.com/executive-blog/coming-of-age-mission-critical-edge
+
+Coming of Age of the Mission Critical Edge
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            4 min read
+
+Coming of Age of the Mission Critical Edge
+
+ Pavan Singh | VP Product Management
+
+ : 
+
+                May 24, 2022 10:50:46 AM
+
+Lynx MOSA.ic™
+
+"Mission Systems"
+
+Systems Architecture
+
+LynxSecure
+
+machine learning
+
+Mission Critical Edge
+
+Artificial Intelligence
+
+The Mission Critical Edge (MCE) is at a transitionary or “coming of age” stage in its lifecycle. Note that this is a Lynx term that I had coined two years ago. If you see references to “Mission Critical Intelligent Edge”, they really round the same phenomenon. Mission Critical Edge refers to the infrastructure required to design, develop, deploy, and maintain mission critical systems such as avionics, satellites, autonomous vehicles, and critical infrastructure. The mission critical systems are making the transition from being inherently embedded to now requiring the best of both embedded and edge worlds: 
+Embedded
+Deterministic real-time and immutability, safety certifiability, and security compliance, delivered as standalone operating systems based or bare-metal workloads 
+Edge
+Combining embedded and with cloud connected and dynamic workloads such as machine learning, security monitoring that require immutable virtual machines running next to containerized or bare-metal based applications
+Two years ago, I predicted that key edge technology and paradigms such as containers and edge to cloud connectivity would be embraced by mission critical systems. This category of systems has traditionally focused on the stability and reliability at the cost of flexibility and connectivity. There were some early signs of adoption of edge functionality at that time, but it has dramatically accelerated in the last two years.
+
+MCE: From Vision to Realization
+
+In researching materials ahead of writing this blog, I reviewed the progress of technology across a range of industries and use cases. I was taken aback by how much has happened in such a little bit of time. 4-5 years ago, we were thinking of a safety critical or a security critical system that would run on a dedicated hardware platform. Additionally, these systems were carefully developed and once deployed, weren't expected to be modified for 10-15 years. In the case of large planes, dedicated teams are typically responsible for maintenance and would have physical access to dedicated equipment and the aircraft in a hangar. Fast forward to today, the use case looks very different. Containers, operating systems, and bare-metal applications are all running on a single hardware system, constantly interacting with other mission critical systems. These systems are being enhanced, updated, and patched over-the-air in an automated fashion without the need of physical human intervention driving accelerated innovation for autonomous systems during development and after deployment. Tesla, for example, is (in)famous for delivering updates to “full self-driving” over the air. 
+This shift heralds a new era for mission critical systems where, in addition to SWaP (Size, Weight, and Power) and the safety certification, edge capabilities such as adaptability, flexibility and updatability are becoming first class citizens. During this process, system architects and builders have had to reevaluate the design of mission critical edge systems, principally driven by the following factors: 
+Advent of Artificial Intelligence and Machine Learning (AML)
+These systems are transitioning from transducer-driven controllers to sensor-based and machine learning-enabled intelligent autonomous systems. As machine learning algorithms are constantly improving (becoming smaller and more precise), the deployed systems need the flexibility of being able to update the inferencing engine remotely
+Software Innovation Acceleration
+Software teams have grown and are usually distributed across geographies, sometimes due to internal organization, but many times because of the collaboration across multiple vendors and suppliers. 
+Systems of Systems
+Operationally, these systems are no longer using only local operational data and resources. The systems are expected to leverage data or even compute capability from edge compute connected by 5G, other peer similar mission critical systems, or the cloud. Recently US Department of Defense (DoD) authorized multiple cloud providers (Oracle, AWS, Microsoft) to host Top Secret information which means that tactical systems can now benefit from the scale of the cloud.
+
+Where is MCE Being Deployed?
+
+We are seeing a shift toward MCE across different industries. One key use case for MCE is in satellites, especially since once launched there is no physical access. As a part of the initiative called Satellite One, US DoD is evaluating the use of Kubernetes to rapidly deploy software and machine learning workloads on satellites. The satellite is a perfect example of a system that once launched is not physically accessible for maintenance, upgrades, or fixes. Additionally, the rapid software development mechanism must work flawlessly over the entire lifecycle of the satellite, which can range from a few years to decades. 
+In May 2022, General Motors and Red Hat announced a collaboration for providing a functional safety-certified Linux operating system foundation for in-vehicle systems. This announcement is significant in advancing the pace of innovation in the automotive sector by enabling continuous functional safety certification. Traditionally, completing functional safety of systems took years and limited the software-driven innovation that can be allowed in the vehicles. With initiatives like this, the mission critical edge is becoming a reality. 
+Machine learning and the Mission Critical Edge is also becoming a reality on the manufacturing floor. In April 2022, 
+Lynx announced a partnership with Google Cloud
+ that allows a plant operator to seamlessly deploy an inference engine from the cloud directly to the factory production line. This requires that the cloud-connected Kubernetes infrastructure is ready and operating in the production line and withing the space, power, and size limitation that come with the industrial setup. In addition, this infrastructure needs to enforce security while enabling the inference engine to get input from on-prem vision systems and provide insight to the on-prem control systems for action or alert. Lynx has packaged up these technologies and provided a proven solution that can be rapidly deployed on the factory floor or for other mission critical settings such as vehicles, aircrafts, oil and gas pipelines, and renewable energy plants. 
+Lynx developed the separation kernel technology, 
+LynxSecure
+, about a decade ago that is becoming the foundation of the modernization of the mission critical edge. 
+Lynx MOSA.ic
+ is a combination of technologies that are built on 
+LynxSecure
+ and provide all the key underpinnings of systems that need to be security and safety certified while still having the capability to leverage cloud connected workloads. 
+Systems architects, developers, and operators can now confidently create, deliver and maintain systems that meet the stringent real-time, safety and security requirements while leveraging the best of edge and cloud technologies for the mission-critical systems use cases.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

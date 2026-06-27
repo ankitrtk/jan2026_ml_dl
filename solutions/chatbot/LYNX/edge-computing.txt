@@ -1,0 +1,396 @@
+URL: https://www.lynx.com/executive-blog/edge-computing
+
+The "Edge" - More than a buzzword?
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            3 min read
+
+The "Edge" - More than a buzzword?
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                May 1, 2020 10:30:48 AM
+
+Lynx MOSA.ic™
+
+Mindful Musings Blog
+
+Systems Architecture
+
+embedded systems
+
+The technology industry loves its buzzwords and acronyms. Every couple of years it seems there is something new that will cause a paradigm shift, that the world will be “turned upside down,” etc. Bill Gates once said, “We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten.” One of the newer terms to appear is “Edge Computing.” Predictably, there are people forecasting seismic changes in the world order. To quote Peter Venkman from Ghostbusters: “
+Human sacrifice, dogs, and cats living together—mass hysteria.” 
+The reality is less dramatic than a paradigm shift; namely that systems oscillate back and forth from centralized processing to distributed models. A year ago, Gartner placed 
+Edge near the peak of the hype cycle
+. Really, all Edge Computing relates to is an understandable shift of the intelligence back nearer to where data is created.
+
+So, what is “The Edge?” A simple definition is that the edge is the edge of the internet. It is where the internet stops and devices begin. An edge device then is a device that exists (as well as creating, processing, and storing data) at the edge. Cell phones, smart lightbulbs, and smart meters are all edge devices. Note that the “plumbing” of the internet would not be included here, such as routers, firewalls, etc. Some people talk of content distribution networks, where content known to be needed by many consumers would be stored near to them to improve user experience as Edge Computing. For me, it is the first system in the network back from the unit where data is ingested where 
+multiple 
+streams of data are processed, and insight derived, on that data. That maybe a smartphone, a base station. It may indeed be a server blade located in a factory.
+
+So, is there really anything different this time? There is certainly a significant bump in performance requirements for the processing elements. For many cases, there is a maximum power envelope that the system needs to remain inside. Power defines how far an electric vehicle can go on a single charge. Getting another power line delivered to an existing building or factory in order to deliver more functionality is an expensive proposition. Systems need to be viable for a long lifecycle in order for companies to get a return on their investment and that timeline is extending… All in all, 
+evolutionary
+, not revolutionary.
+
+I think that there are two main changes in this cycle:
+
+Many more of these systems have to deliver deterministic real-time (measured in microseconds) behavior to certain situations as the electronics are not assisting a human. They ARE the system. Self-driving vehicles, robotics, drones etc.
+
+With these systems now connected, the impact of a security incursion impacts not just that system itself, but potentially any devices accessible from that network connection. Just think back to the 
+Mirai attack
+ in late 2016.
+
+We hear from our customers that the solution needs to meet these requirements:
+
+Can be deployed on a consolidated board (and in an increasing set of cases, a single chip) to improve system power, footprint and cost
+
+Must run big operating systems like Linux and Windows while also guaranteeing the real-time behavior of it-simply-must-always-respond-this-way elements of the platform. What this means is increased use of hypervisors and, in the case of Lynx, 
+separation kernels
+
+Applications must be compartmentalized to ensure that certain applications cannot cause other elements of the system to fail
+
+One of the changes that means to Lynx is that we need to expand the types of software we can operate within the 
+LYNX MOSA.ic software framework
+. A 
+DO-178 real-time operating system
+ will have limited applicability in some of the new use cases we are pursuing. This is one of the reasons why we announced 
+FreeRTOS support
+ back in February as an alternative OS. Unlike several of our competitors whose primary revenue engine is operating systems, our focus (particularly for applications new to Lynx) is creating proven products around the technology they are familiar with and wish to use.
+
+Further out, I see that where the processing is actually executed will vary over time, based on cost of compute, availability of resources and other factors. Without revealing too much here in the public domain, certain application areas are further ahead than the more traditional areas of industrial automation. Several people at Lynx are looking at what this means in terms of how our products will need to evolve to support this, and I look forward to sharing more of those details in due course.
+
+I heard this week that a specific computer manufacturer is starting to de-emphasize IoT applications as an area to focus on. If I go back to 
+Bill Gates’ quote
+, either that is because the expectations of this emerging space were set so high (and we have all seen those images of hockey stick-like growth) or it is simply that there is an underlying transformation—particularly around business model (which many of us technology types tend to miss)—which is causing the issue. I think the same will hold true in the newest incarnation of on-premises/Home/Network computing technology, namely Edge Computing.
+
+In a way, nothing has changed. Everything is still the same. What we have to look for is the Uber equivalent for industrial IoT. A powerful computer fitting in your hand with a high-performance connection via a cellular network to cloud resources and other users, changed the taxi industry for many of us. What new business will be created as a result of connected devices in a factory?
+
+To learn more about where Lynx fits into the Industrial market, 
+read here
+. To talk with one of our technical specialists or to schedule a zero-obligation whiteboarding session, simply click the Get Started button below. We'd be happy to talk with you about your next project and to see if there is a fit for our technologies in reducing the cost and time-to-market of your next embedded systems design. 
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

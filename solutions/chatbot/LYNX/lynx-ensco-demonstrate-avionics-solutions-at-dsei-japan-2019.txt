@@ -1,0 +1,514 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/lynx-ensco-demonstrate-avionics-solutions-at-dsei-japan-2019
+
+Lynx & ENSCO Demonstrate Avionics Solutions at DSEI JAPAN 2019
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            3 min read
+
+Lynx & ENSCO Demonstrate Avionics Solutions at DSEI JAPAN 2019
+
+ Dan Westerberg | Senior Systems Engineer
+
+ : 
+
+                Nov 18, 2019 2:29:00 PM
+
+Multi-core
+
+Avionics
+
+Demo
+
+Lynx MOSA.ic™
+
+FAA
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+embedded systems
+
+development
+
+real-time
+
+The most formidable challenges of modern avionics development programs are often centered around the safety certification process and the corresponding requirements and costs. Equally as challenging to any large development program are the design and implementation phases where the software application comes to life as it is realized on the target system environment. These phases can be compromised by:
+
+Inevitable schedule pressures
+
+The management of critical path requirements and availability between interrelated software components
+
+Potential mismatches between an application's requirements and a less-than-ideal target operating environment
+
+Simplifying Software Systems Using the Modular Open Systems Approach (MOSA)
+
+The challenges listed above can be addressed with a robust architectural approach that minimizes overall system complexity by:
+
+ Decomposing large, complex software applications into smaller, comprehensible, reusable software components
+
+ Realizing those more manageable components in an operating environment best suited to the component’s requirements
+
+This week at DSEI Japan 2019, Lynx Software Technologies and Ad-Sol Nissin Corp., our long-time strategic partner and distributor, are demonstrating how the LYNX MOSA.ic™ modular development & integration framework addresses these challenges through its Modular Open System Approach (MOSA) for simplifying the development and integration of complex, safety-critical avionics systems.
+
+LYNX MOSA.ic™
+ and its Architectural Configuration Policy provides the ability to strictly partition and assign the resources of a CPU and surrounding embedded system to independent guest operating environments that reside in uniquely isolated virtual machines called ‘rooms’. Guests are provided direct, protected access to assigned hardware resources, such as a GPU or NIC, and have sole responsibility for the driver-level hardware control of the assigned resource.
+
+The Architectural Configuration Policy also provides the ability to specify protected, inter-partition communication (IPC) shared memory pathways between guests, called ‘passageways’. Each Guest represents an independent software component inter-working with other guests in a distributed, modular software architecture.
+
+LYNX MOSA.ic™ Addresses Avionics Challenges
+
+Using LYNX MOSA.ic™ to modularize an avionics application into independent software components, provides the following benefits:
+
+Run multiple independent, isolated software components of mixed-criticality on a single multi-core processor
+
+Minimize system complexity by choosing operating environments that best meet the requirements of each modular application component (perhaps a bare-metal or RTOS Environment A is required for a high assurance, safety-critical application, while a separate, independent embedded Linux Environment B may sufficiently meet the requirements of a less critical application)
+
+Connect independent environments according to your system design, using shared memory and inter-partition communication (IPC) mechanisms, such as FIFO
+
+In collaboration with our partner 
+ENSCO Avionics, Inc.
+, the demonstration on display in our booth at 
+DSEI Japan 2019
+ (
+see diagram below
+) highlights this modular approach to avionics design using LYNX MOSA.ic™ to host two guest environments:
+
+ An IData® Tool Suite avionics display application running on an enterprise-grade Linux
+
+ LynxOS-178® Real-Time Operating System (RTOS), running a flight data simulation application
+
+LynxOS-178®—A Component of LYNX MOSA.ic™ Framework
+
+LynxOS-178
+®
+
+is a native POSIX
+®
+
+hard real-time partitioning operating system developed and certified to FAA DO-178C DAL A safety standards. In the displayed demonstration, the 
+LynxOS-178
+®
+
+guest instance is running a POSIX
+®
+-based application that is generating simulated flight data 
+and sending it 
+to the IData
+®
+ guest and avionics displays
+ via a shared memory inter-partition communication 
+FIFO.
+
+This modular approach to the software architecture highlights the ability to develop safety-critical, high assurance applications in an independent, isolated processing domain that is not reliant upon or impacted by applications that may not have the same high-assurance requirements.
+
+About the ENSCO Avionics IData
+®
+ Tool Suite
+
+The ENSCO 
+IData
+®
+ Tool Suite
+ allows for the rapid development of complex avionics display and mapping solutions, using their 
+“
+Data Driven Architecture and Design Once, Deploy to Many
+”
+ philosophy. For the demonstration on display, a Linux runtime environment was selected as a readily available, robust development environment for developing the IData
+®
+ display application.
+
+Once development is complete, 
+the IData
+®
+ Tool Suite makes it
+ straight-forward to 
+re-target 
+the application
+, without
+ requiring
+ design changes,
+ into a suitable
+, safety-ce
+rtifiable environment, 
+such as Lynx’s LynxOS-178
+®
+ certified RTOS. 
+With
+
+LYNX MOSA.ic™
+, changing the IData
+®
+
+underlying 
+runtime guest from a Linux environment to an RTOS environment is a simple matter of 
+updating 
+the 
+LYNX MOSA.ic™ A
+rchitectural 
+Configuration Policy
+, recompiling the design,
+ and
+
+deploying 
+the
+
+updated
+
+software 
+image to the target system.
+
+Lynx and ENSCO at DSEI Japan 2019
+
+Come
+ visit us at Stand A194 at DSEI Japan 2019 for more information on how the 
+LYNX MOSA.ic™ 
+m
+odular 
+d
+evelopment & 
+i
+ntegration 
+f
+ramework and the ENSCO
+ Avionics
+ IData
+®
+ Tool Suite can address the safety-critical, high assurance requirements of your next project. If 
+you are un
+able to attend DSEI Japan 2019, please contact us at 
+inside@lynx.com
+ or simply click the Get Started button below. We’d love to talk to you about your project and possibly schedule a free whiteboarding session.
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

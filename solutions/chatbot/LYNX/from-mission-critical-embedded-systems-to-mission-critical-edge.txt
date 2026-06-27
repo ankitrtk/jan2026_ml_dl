@@ -1,0 +1,390 @@
+URL: https://www.lynx.com/executive-blog/from-mission-critical-embedded-systems-to-mission-critical-edge
+
+From Mission Critical Embedded Systems to the Mission Critical Edge
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            3 min read
+
+From Mission Critical Embedded Systems to the Mission Critical Edge
+
+ Flavio Bonomi
+
+ : 
+
+                Sep 18, 2020 10:48:08 AM
+
+Mindful Musings Blog
+
+Safety
+
+Security
+
+embedded systems
+
+LynxSecure
+
+company update
+
+Mission Critical Edge
+
+Across a range of industries, there is a broad understanding that the deployment of modern computing resources with cloud native models of software lifecycle management will become ever more pervasive. Placing virtualized computing resources nearer to where multiple streams of data are created is well established. It is the path to address system latency, privacy, cost and resiliency challenges that a pure cloud computing approach cannot address. 
+
+This paradigm shift was 
+initiated at Cisco Systems
+ around 2010, under the label “Fog Computing”, and progressively morphed into what is now known as “Edge Computing”.
+
+That said, the full potential of this transformation in both computing and data analytics, first explored in a Cloud context, which is now shifting towards the physical endpoints where humans and machines interface with big repositories of information and intelligence, is far from being realized.
+
+A most critical next step at this time is to begin bringing what Lynx refers to as the 
+Mission Critical Edge
+ into focus. Mission Critical Edge is born out of the incorporation of requirements typical of embedded computing (security, real-time and safe, deterministic behaviors), into modern networked, virtualized, containerized lifecycle management and data and intelligence rich computing.
+
+This convergence is not easy and is often uncomfortable, it is a clash of cultures and even generations, but is absolutely unavoidable, since physical systems meet the computing and digital world only based on time sensitive exchanges, which need to be predictable to be safe, and should not be exposed to possibly catastrophic cyber-attacks.
+
+Without a fully manifested Mission Critical Edge we will not be able to securely consolidate, orchestrate and enrich with the fruits of data analytics and Artificial Intelligence the many poorly connected, fragmented and aging subsystems controlling today’s physical environments. Without a fully manifested Mission Critical Edge the dreams of transportation autonomy, robotics, industry 4.0 and future energy and heath care revolutions will not occur.
+
+Our vision for the Edge was always aware of the need for this complex but promising technology convergence, ultimately requiring the integration of key elements. Some of these are still maturing, including deterministic networking and data distribution (such as IEEE TSN and 5G), secure, safe and real-time capable virtualization, with software deployment centered on containers and microservices, time-sensitive data analytics and AI, and distributed and QoS aware system management and orchestration. The following image fully captures our multi-dimensional interpretation of a Mission Critical Edge, illustrating key elements such as the system of system topology, multi-core nodes supporting mixed criticality applications, both as Virtual Machines and as Containers, the network infrastructure, optionally time-sensitive, the data distribution, also optionally time-sensitive, the multi-node management and orchestration, local and from the Cloud.
+
+Lynx Software Technologies, with its successful experience in many verticals requiring mission critical solutions in virtualized environments, is poised to play a central role in the manifestation of the Mission Critical Edge.
+
+At the foundation of Lynx’s product offering is LynxSecure, a lean, type-0 hypervisor that enables system architects to precisely define and dedicate CPU, memory and IO resources to specific subjects, or virtual machines. These subjects are isolated from each other. Uniquely, there is no underlying centralized operating system to manage system resources which can be compromised and become a single point of failure. The unique architecture delivered by Lynx is based on seminal work done at SRI in the 1980s on what he called a Separation Kernel approach to secure computing system resource partition.
+
+The current target application for Lynx values features that are typical of mission critical embedded deployments, in areas such as Avionics and Defense. These deployments usually focus on a single computing system in isolation, require immutability in resource allocation after bootup and see remote management of resources as a vulnerability.
+
+Lynx is now also targeting adjacent markets, encompassing the Industrial Internet of Things, Automotive, Robotics, Drones and Satellites. These markets require an infrastructure architecture that matches our definition of Mission Critical Edge, as depicted in the figure above. In the figures below, we illustrate how the Mission Critical Edge architecture applies in two exemplary verticals, Industrial Automation and Automotive.
+
+In order to address the new requirements fitting the Mission Critical Edge, Lynx needed to augment its strong embedded technology foundation by introducing a number of technology extensions, while respecting the fundamental requirements leading to strongly secure, real-time capable and safety certifiable solutions.
+
+We will share more details on these functions in line with product availability but we wanted to give you an early indication on the path that we are headed:
+
+Manageability:
+ Some deployments include a number of interactive mixed criticality systems which need to be remotely managed and configured. The nature of IIoT is such that workloads may evolve over time, and need to support a dynamic networking infrastructure that connects the node to each other and to higher layers of computing (e.g., the Cloud)
+
+Dynamic Resource Allocation:
+ Support for a dynamic, yet predictable, resource allocation approach, including both immutable and fully static subjects, and dynamic partitions, which may request varying amounts of resources
+
+Mission Critical and Efficient Container Support:
+ Modern Edge software is often deployed as Microservices, packaged in Containers. We are evolving our separation kernel hypervisor to provide system designers with a highly partitioned, secure and predictable approach to running containerized software within Lynx subjects
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

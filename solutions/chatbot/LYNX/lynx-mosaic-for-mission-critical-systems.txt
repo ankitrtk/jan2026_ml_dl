@@ -1,0 +1,255 @@
+URL: https://www.lynx.com/resources/lynx-mosaic-for-mission-critical-systems
+
+LYNX MOSA.ic™ for Mission Critical Systems
+
+Products
+
+LYNX MOSAic
+
+LYNX MOSAic for Avionics
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+LYNX MOSA.ic.SCA
+
+SpyKer Product Family
+
+VIE
+
+Legacy
+
+LynxOS
+
+LynxSafe
+
+Professional Services
+
+Support
+
+Support Portal
+
+Support Services
+
+Training
+
+Industries
+
+Armored Ground Vehicles
+
+Commercial Avionics
+
+Critical Infrastructure
+
+LEO Satellites
+
+Military Avionics
+
+Urban Air Mobility
+
+Industry Standards
+
+FACE 
+
+MOSA
+
+Resources
+
+Case Studies
+
+Export Compliance
+
+FAQ
+
+Resource Center 
+
+Videos
+
+About Us
+
+Careers
+
+Contact
+
+How Did We Do?
+
+Distributors
+
+Events
+
+Blogs
+
+Lynx Executive Blog
+
+Lynx Technical Blog
+
+Our Business Model
+
+Our Commitment to National Defense
+
+Partners
+
+Press Releases
+
+The Lab
+
+Feedback
+
+FOR MISSION CRITICAL SYSTEMS
+
+Open  |  Flexible  |  Robust
+
+Introduction
+
+Lynx introduces LYNX MOSA.ic™ for the modernization of mission critical software platforms—providing open flexibility on a robust foundation to meet the rich system functionality program needs of systems deployed in high-threat safety-critical environments (
+Figure 1 - LYNX MOSA.ic modular open architecture
+).
+
+LYNX MOSA.ic embodies the integrated business and technical DoD implementation strategy of the Modular Open Systems Approach (MOSA) defined in Title 10 U.S.Code § 2446a.—Requirement for modular open system approach in major defense acquisition programs. It enables system developers to build systems compositionally using open standards, relying heavily on the reuse of well-tested and certified components.
+
+The LYNX MOSA.ic development environment includes the following cross development kits (CDKs) for building guests of varying size, assurance, and complexity:
+
+Lynx Simple Application (LSA)—“Bare metal” guest environment for simple applications
+
+LynxOS-178
+®
+—FAA DO-178C DAL A certified UNIX-like Real Time Operating System guest environment for real-time and safety critical applications using ARINC, FACE™ or POSIX
+®
+ APIs
+
+Buildroot Linux—Embedded Linux toolchain for general purpose Linux applications
+
+Figure 1 - LYNX MOSA.ic modular open architecture
+
+View
+
+Figure 1 - LYNX MOSA.ic modular open architecture
+
+BENEFITS
+
+Reduce system complexity by decomposing monoliths into distributed architectures
+
+Improve real-time performance predictability through low-level hardware control
+
+Reduce NRE costs by reusing legacy software components
+
+Minimize security vulnerabilities with minimal trusted code-base
+
+Certify fewer lines of code (LOC) through kernel complexity reduction
+
+Certification
+
+DO-178C DAL A certified RTOS
+
+FAA AC_20-148 Reusable Software Component (RSC) certified RTOS
+
+Intel-specific DO-178C DAL A RTOS and network stack quality artifacts
+
+Intel-specific CAST-32A multi-core certification support
+
+FEATURES
+
+RTOS open standards API support
+
+POSIX, FACE, ARINC 653
+
+DO-178C DAL A IPv6 network stack
+
+DO-178C DAL A filesystem
+
+Intel multi-core support
+
+Intel virtualization
+
+Intel cache partitioning
+
+Intel SR-IOV virtual network device support
+
+Legacy application integration
+
+Model-based system design
+
+GBD debugger
+
+RTOS real-time profiling
+
+Embedded Linux application development tools
+
+Bare-metal application development tools
+
+LYNX MOSA.ic vs. Traditional RTOS
+
+Modern critical software systems are challenged to address safety and security requirements and satisfy the needs of rich capabilities, such as:
+
+Cryptographic data protection
+
+Video processing
+
+Machine learning
+
+Autonomous control
+
+Supporting rich features while meeting quality standards impose intractable cost and schedule challenges under traditional platform design, in which all hardware control, real-time scheduling, security, multimedia, and application runtime services are integrated into a common platform (
+Figure 2- Traditional RTOS platform stack
+).
+
+Figure 2 - Traditional RTOS platform stack
+
+View
+
+Figure 3 - LYNX MOSA.ic independent application modules
+
+View
+
+Figure 2 - Traditional RTOS platform stack
+
+Figure 3 - LYNX MOSA.ic independent application modules
+
+Elegant Architecture
+
+New hardware capabilities present new approaches for platform software to minimize stack complexity,overcome performance thresholds, and provide better application portability properties. Prior to CPU virtualization, operating systems (OSes or RTOSes) forced a centralized client-server model of execution behavior, wherein each user application is a client to an OS server that arbitrates the use of physical resources.
+
+With the advances of CPU virtualization, this model (
+Figure 4 - Central Resource Management
+) is no longer necessary. With hardware virtualization, software development and runtime tools can now target distributed behavior models in place of the Client-Server model, where each application runs autonomously against hardware (see Figure 4- Central resource management).
+
+The distributed model (
+Figure 5 - Distributed system architecture
+) immediately reduces the need to context switch, copy, or share data— unlocking higher performance thresholds, better timing control, and improved modular properties such as rapid development & testing, component reuse, and design refactoring. Forgoing the traditionally inherited complexities of a centralized resource management model common to OS and hypervisor designs, LYNX MOSA.ic adapts to the advances in multi-core virtualization to simplify vital platform abstraction layers – isolating computing resources into independent distributed environments which are uniquely capable of managing themselves. The comprehensible, hardware enforced architecture of LYNX MOSA.ic makes inherently complex multi-core system development a viable option when facing the risks of building solutions in highly regulated safety- and security- conscious markets.
+
+Central resource management
+
+Distributed system architecture
+
+Scalable Security
+
+At the foundation of LYNX MOSA.ic is the separation kernel hypervisor—LynxSecure®—developed and maintained in San Jose, California in accordance with FAA DO-178 Safety Quality Standards and DoD Risk Management Framework guidelines. LynxSecure is certified, fielded, and maintained on classified DoD networks. The product has undergone many security assessments including penetration testing and design review by independent government security authorities. DoD programs have greatly benefited from the modular properties of the platform allowing system architects to isolate trusted functions, such as data filters, and crypto components, from more temporal design elements such as physical transport interfaces.
+
+For the last five years, the product has gone through numerous delta certifications showcasing significant cost savings from the reuse of previously certified components that have remained unmodified throughout the lifecycle of a program’s tech refresh period. The technology has also enabled programs to effortless spawn derivative platforms into adjacent programs further maximizing component reuse.
+
+Lynx offers a DoD Risk Management Framework guide to aid the US Army’s security evaluation of the security enforcing properties of the platform (
+Figure 6 - Security Certification Guide Document Overview
+). The package includes NIST security control traceability and Common Criteria Security Target traceability into the underlying kernel design requirements.
+
+Figure 6 - Security Certification Guide Document Overview
+
+View
+
+Figure 6 - Security Certification Guide Document Overview
+
+Scalable safety
+
+The FAA DO-178C safety quality standards for software are noted as the most rigorous and costly development standards imposed on software development projects. In acknowledgement and response to overwhelming development and certification costs, FAA introduces the concept of the Reusable Software Component (RSC) in Advisory Circular AC 20-148—“Because of economic incentives and advances in software component technology, software developers want to develop an RSC that can be integrated into many systems’ target computers and environments with other system software applications, as determined by the integrator or applicant. In these cases, an RSC developer may partially satisfy the applicable RTCA/DO-178B objectives, while the integrator or applicant completes and shows the compliance for the integrated software package, systems aspects, and aircraft certification. Examples of potential RSCs include software libraries, operating systems, and communication protocols.”
+
+Summary
+
+Software platforms are abstraction layers that hide the underlying complexities in managing physical hardware interfaces. Though helpful in reducing the work imposed on application developers, they often neglect the need to minimize their own internal complexities as they strive to accommodate increasing demands for new features. As hardware architectures advance, the purpose of hardware abstraction layers depreciates, forcing platform vendors to choose—either refactor platform abstraction layers to compliment changes or insert adaptation layers that preserve the semantics of legacy designs.
+
+Refactoring yields the most efficient designs, but requires precise, invasive changes to vital code between application services and hardware control interfaces. Lynx is dedicated to this pursuit—to crafting software platforms founded on simple, elegant architectures that adapt to evolving hardware while balancing the need to preserve hosted application compatibility with open standard APIs.
+
+Copyright © 2023 Lynx Software Technologies
+
+Privacy Policy

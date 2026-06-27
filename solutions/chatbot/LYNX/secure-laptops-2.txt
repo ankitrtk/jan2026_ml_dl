@@ -1,0 +1,375 @@
+URL: https://www.lynx.com/executive-blog/secure-laptops
+
+THE COVID-19 EFFECT; INCREASED INTEREST IN SECURE LAPTOPS
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+THE COVID-19 EFFECT; INCREASED INTEREST IN SECURE LAPTOPS
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Jul 9, 2020 12:59:48 PM
+
+Mindful Musings Blog
+
+Systems Architecture
+
+Security
+
+endpoints
+
+LynxSecure
+
+virtualization
+
+laptops
+
+CSFC
+
+Back in March, I wrote a 
+blog about secure laptops
+ based on some work Lynx was doing in this area. I committed to providing some ongoing updates via our website in due course. At the time, this was based some work with a partner that is focused on the Commercial Solutions for Classified (CSfC) program. I hope to be able to share more details in the public domain about this partnership in the not-too-distant future.
+
+In this COVID-19 era, we are seeing several sectors slow down. Higher level autonomous vehicles is one example, with companies like 
+Audi announcing in 2Q20 they are reducing engineering efforts
+ around level 3 autonomy for the A8, preferring instead to focus on level 2 functionality which is seen to be monetizable more quickly. Other sectors like robotics—both in the sky and on the ground—seem to be ramping up, particularly in Asia and North America. Similarly, the inquiries around secure laptops and, increasingly, cloud data center and edge infrastructure, have significantly increased in the past three months. Beyond the types of government organizations that view CSfC functionality as important, a broader range of financial, industrial and healthcare companies are looking to increase the robustness of their devices and network infrastructure.
+
+With work from home set to continue for a long period of time (in some cases like 
+Fujitsu, maybe forever
+!), CIOs have to rethink their network strategies. Companies would traditionally plan for about 20% of their workers to be remote and 80% in an office environment. That scenario has completely flipped. CIOs want functionality like data encryption and VPN to be permanently enabled. Many companies have taken the approach of completely disabled the insertion of USB devices. Increasingly, this needs to be supported with more fine-grained control than simply enabled/disabled. Instead, this functionality should be allowed or prevented on a per VM basis.
+
+Our demonstration platform harnesses an eight core Intel® Core™ i7 processor, with cores allocated for a secure Windows 10 and an unprotected Windows operating system. There are separate disk partitions for each instance. Applications in the protected OS environment have data flows through a corporate or cloud security service via VPN. The unprotected OS is strictly isolated.
+
+We have recently posted up 
+a page on our website
+ that articulates our thoughts about this use case for our LynxSecure separation kernel. We will be adding to this regularly including a video of the demonstration unit. One of our competitors referenced us in one of their 
+recent press releases
+ which shows we are on their radar screen around multicore certification. They have had a somewhat “surprising” approach of doing this over the years especially when they are under threat from rivals, including 
+open letters
+. Maybe we will appear in another piece of their social media soon!
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

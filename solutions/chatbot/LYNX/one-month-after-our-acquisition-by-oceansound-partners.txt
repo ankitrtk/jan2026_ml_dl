@@ -1,0 +1,382 @@
+URL: https://www.lynx.com/executive-blog/one-month-after-our-acquisition-by-oceansound-partners
+
+One Month After Our Acquisition by OceanSound Partners – What’s Ahead?
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+One Month After Our Acquisition by OceanSound Partners – What’s Ahead?
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Jul 29, 2022 12:08:42 PM
+
+"Mission Systems"
+
+hypervisors
+
+software
+
+OceanSound
+
+mission-critical systems
+
+Aerospace
+
+Acquisition
+
+Military
+
+WHAT'S ON THE HORIZON FOR LYNX?
+
+It always irks me when a company acquires another one and promptly announces that nothing will change. Of course, it will! It is simply a case of when and how much. We just passed the month milestone since 
+our acquisition by OceanSound Partners
+ was announced to the industry and it is exactly one month since 
+Tim Reed was announced
+ as taking the helm.
+
+Given this backdrop, I thought it as good point to share (such that I can do in the public domain) some of the initial observations I have noted. On one hand, nothing has changed. Lynx has focused on delivering operating systems, hypervisors, and software frameworks that simplify the way mission critical systems are developed, certified, and deployed. You will see a more maniacal focus on those use cases going forward.
+I see that the “Software Defined Anything” momentum provides opportunities across a diverse set of applications in Military, Aerospace, and Federal sectors. The need to develop resilient, safe, and secure edge software at a fraction of the current cost and lead time is requiring our customers to change their approach. Outside our areas of focus, we continue to read about the impact of systems that are not delivered with a high enough level of quality. Companies' reputations are at risk, and sometimes the 
+consequence of failure is that organizational changes
+ are made at the very top. These pressures are compounded by the well-publicized challenge of the 
+lack of skilled workers facing a range of industries including Defense
+. Our sense is that the markets where Lynx focusses are going be impacted more significantly than others in this regard. While the prior article focused on supply chain issues causing to delays to the assembly and shipment of existing systems, the same problem exists in the engineering teams that are creating the next great thing. Advances in technology will, we feel, will be critical to driving improvements here.
+
+WHAT DOES THIS MEAN IN PRACTICAL TERMS?
+
+EMBRACING "OPEN"
+Lynx focused on POSIX from the get-go. We embrace standards like ARINC and FACE APIs that help our customers avoid lock in. You will see more of this in Lynx’s future.
+EMBRACING "NEW" (DEVELOPMENT PATTERNS)
+Customers often need to create and test software well ahead of hardware availability. Lynx has started to offer support of virtual platforms such as QEMU but needs to, and will do, more in this area. We see customers embracing digital twin technology to test complex functionality well ahead of first flights of new airframes. This is complemented by more continual development/test methodologies which have been harnessed for some time in some industries but which, we believe, will be key to addressing some of the cost and time pressures our customers are facing.
+EMBRACING "GROWTH"
+There are signs of growth in all sorts of areas if you are looking for them. The passing of the 
+CHIPS act
+ this month is one recent example. The share of semiconductor manufacturing has, according to the Semiconductor Industry Association, dropped from 37% back in the 1990s down to 12% today. This is much more than new wafer fabs in Ohio and Arizona. We are seeing new “in America, (primarily) for America” development activity. I like this list (it isn’t complete, but it is pretty good) of 
+non-traditional semiconductor companies
+ that was published this month. I am convinced that this list with include companies from the military and aerospace industries inside the next three years. There will all types of accelerators for artificial intelligence and very specific security functionality to avoid reverse engineering and system compromises. Lynx wants to be a critical ecosystem partner that helps this technology be harnessed into secure, connected platforms on land, sea, and air. 
+Exciting times ahead! I promise to share more over the coming months.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

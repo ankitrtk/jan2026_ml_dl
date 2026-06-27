@@ -1,0 +1,364 @@
+URL: https://www.lynx.com/executive-blog/gnat-pro-ada-version
+
+GNAT PRO ADA Version 21.6: AdaCore Partners with Lynx to Deliver Ada Language Support Alongside the LYNX MOSA.ic Software Framework
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+GNAT PRO ADA Version 21.6: AdaCore Partners with Lynx to Deliver Ada Language Support Alongside the LYNX MOSA.ic Software Framework
+
+ LYNX Software Technologies
+
+ : 
+
+                Mar 16, 2023 2:00:00 AM
+
+AdaCore has partnered closely with Lynx to deliver Ada language support alongside its LYNX MOSA.ic software framework that comprises a real-time operating system (LynxOS-178), Linux and hypervisor (LynxSecure) technology.
+Traditional approaches to building virtualized embedded software architectures that are robust and secure have placed much of the burden on a hypervisor and/or OS. This can create platform dependencies that impact performance, as well as cause several architecture challenges due to:
+
+Shared address space
+
+Shared CPU privilege
+
+Common arbitration points
+
+Global resource pools
+
+Compounding code branches and control flow timing
+
+Large co-dependent code bases that need to be certified
+
+The more complexity that lies hidden between applications and hardware, the cloudier the path to system comprehensibility and robustness. Lynx’s objective with MfA is to reduce software stack dependencies and minimize the hidden complexities between independent application modules and hardware.
+The MfA model of partitioning is a “Software-assisted Hardware Partitioning Model” meaning that all partition boundaries of application spaces are exclusively hardware-enforced according to a model consciously designed and formally described by an architect. In this model, when an application violates a partition boundary, hardware first catches the violation and requests software assistance from the Separation Kernel Hypervisor to manage the exception. More can be found out about LYNX MOSA.ic in this 
+technical backgrounder
+.
+This AdaCore release provides a cross compiler for long-lived and certified safety-critical Ada development for customers creating applications on LynxOS-178 for Intel’s 11th generation core processor (also referred to as “Tiger Lake”). This cross-compiler includes the Ravenscar-Cert runtime library, which is certifiable for Intel platforms and previously certified to DO-178C DAL A on a PowerPC platform. It should also be noted that a full Ada tasking model and a completely single-threaded zero-footprint runtime environment are also available. Support for Ada language versions Ada 83, Ada 95, Ada 2005, and Ada 2012 is included.
+This is a great example that despite the drive towards the next great technology, one of the big considerations for this industry is the support of proven legacy software. Many of our mutual customers want to make system architecture decisions for programs lasting more than 20 years. Customers also have significant amounts of proven code that they wish to reuse on new programs. This is one of the reasons why AdaCore’s and Lynx's commitment to continue providing state-of-the-art software technology to support design decisions made 10+ years ago is so important. In keeping with that theme, GNAT Pro 21.6 works with newly announced Ada-aware tools such as GNATstudio and GNATcheck 23.
+To find out more information about LYNX MOSA.ic,
+ click here
+.
+For more information about GNAT Pro from Adacore,
+ click here.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

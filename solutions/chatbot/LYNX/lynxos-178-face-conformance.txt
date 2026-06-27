@@ -1,0 +1,400 @@
+URL: https://www.lynx.com/executive-blog/lynxos-178-face-conformance
+
+LynxOS-178 Achieves FACE Conformance for Two Processor Architectures
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            1 min read
+
+LynxOS-178 Achieves FACE Conformance for Two Processor Architectures
+
+ Lynx Software Technologies
+
+ : 
+
+                Apr 7, 2023 12:29:16 PM
+
+Future Airborne Capability Environment (FACE™)
+
+"Mission Systems"
+
+Systems Architecture
+
+FACE™
+
+LynxSecure
+
+unikernel
+
+LynxElement
+
+LynxOS-178
+
+MOSA
+
+Sensor Open System Architecture
+
+Arm
+
+PowerPC
+
+FACE Technical Standard
+
+FACE Conformance
+
+SOSA
+
+x86
+
+Global armed services are looking at strategies and techniques to open up systems and reduce vendor lock. These programs are often deployed for decades, so these architectures need to be resistant to changes in the supply chain, capable of advancing functionality to keep systems globally competitive against all adversaries, and functionally safe and secure. Virtually every presentation from the US Armed Services is driving a Modular Open Systems Approach (
+MOSA
+), and includes acronyms like FACE (Future Airborne Capability Environment), SOSA (Sensor Open System Architecture), and other open capability standards.  
+
+Earlier this week, we received confirmation from the Future Airborne Capability Environment (FACE) Consortium that 
+LynxOS-178
+, our DAL A certified real-time operating system, had passed the conformance testing for version 3.1 of the FACE specification for two processor architectures: Arm and Intel.
+
+If you are new to FACE, 
+this article
+ by our VP of Engineering provides a great background and is a quick read.
+This white paper discusses that a supplier cannot simply claim FACE conformance. Instead, the process mandates a 3rd party verification authority (VA) to perform the testing. The FACE Conformance Program provides the conformance criteria and processes necessary to ensure that UoCs (Unit of Conformance – In our case, this is a software component) are developed according to the FACE Technical Standard. These criteria and processes require the verification, certification, and registration of the UoC. In our case, we chose 
+LDRA
+ as our VA.
+
+Click each image to download the PDF
+
+We have to be careful, though, not to think that our work is done by simply aligning to standards. While they describe interfaces of libraries that applications can link into to use operating system services, these interfaces only include descriptions for software that can run in the user application space. The standards lack descriptions of expected behavior and side effects that can inform real-time and hazard analysis. They do not account for the system information needed to build, integrate, and configure a comprehensive system to behave correctly. They also do not cover software components that reside in the operating system itself, such as drivers and health monitors. 
+
+Those are the areas where Lynx focuses on delivering differentiated standards-based platforms through:
+
+LynxSecure
+ which enables architects to partition resources and allocate components as individual virtual machines, and
+
+LynxElement
+ (Unikernel) which can be used as the runtime environment for each individual component instead of traditional guest OSs to improve resource utilization and timing properties
+
+Some great reading on how these can assist system architects can be found in this article written by Will Keegan (page 26 of 
+this edition of Military Embedded
+).
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

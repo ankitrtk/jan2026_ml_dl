@@ -1,0 +1,349 @@
+URL: https://www.lynx.com/executive-blog/three-horizons
+
+Lynx Product Directions: The Three Horizons
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            1 min read
+
+Lynx Product Directions: The Three Horizons
+
+ Michel Genard | CSPO & Board Member
+
+ : 
+
+                Aug 30, 2023 11:50:43 AM
+
+We have defined three fundamental horizons that have become a framework for everything we do at Lynx. The first horizon is what I will call platform play, which is fundamentally how we can deliver more software value to the customers so that they can do less on the platform and more on the application. Think about the operating system and hypervisor and, more broadly, include aspects of middleware and Linux. Linux is a critical piece of our thinking and another asset you can run on the infrastructure. We also include toolings that enable the customer to develop their application more efficiently.  
+
+Horizon two is where we start to embrace cloud-native and DevOps or DevSecOps methodologies. What you can expect from a roadmap and offering point of view is for Lynx to enable customers not just to use DevOps and DevSecOps, but to augment their pipeline with what they need to develop and deploy devices that incorporate technology like LYNX MOSA.ic into their platform. 
+Overall, Horizon 2 is fundamentally a productivity play. This is really about assisting the customer in accomplishing things faster, better, and in a more predictive way to increase the overall quality of their device.  
+Horizon 3 enables the customer to orchestrate and service their device once field-deployed. Think about things such as a feedback loop, which is how you are enabling observability of the deployed device and enabling the device to send back information about the device's health or cybersecurity risk or anything else. Most services can be deployed into those devices.  
+These three horizons are not being worked on sequentially. While most of our efforts, at least in the public domain, have been associated with 
+LYNX MOSA.ic
+ as a platform, we have already accomplished a bit of two and are touching on horizon three. 
+The path to get there will include internal development, partnerships, and acquisitions. The 
+Military and Aerospace
+ markets are clearly struggling in this world of mounting system complexity to deliver projects on time and inside cost estimates. The “IC” in LYNX MOSA.ic stands for integration center. This means that if there is acceptable technology in the marketplace, we will be looking to prove the operation of that technology within the LYNX MOSA.ic software framework instead of creating our own technology. We will also take on the task of proving the operation of compelling, complementary technology with LYNX MOSA.ic. This means ensuring guest operating systems (and therefore customers’ legacy software) are executed unmodified inside LYNX MOSA.ic. You will hear more about that in due course. 
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

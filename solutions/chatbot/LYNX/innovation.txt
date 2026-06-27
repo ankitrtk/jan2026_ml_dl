@@ -1,0 +1,297 @@
+URL: https://www.lynx.com/innovation
+
+Innovation Lab
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+Innovation Lab
+
+We've got big ideas
+ and want you to take part! Lynx welcomes participation from customers, partners, subject matter experts, academia, and more. What are you waiting for?
+
+Innovation Lab
+
+We've got big ideas
+ and want you to take part! Lynx welcomes participation from customers, partners, subject matter experts, academia, and more. What are you waiting for?
+
+Our Intention
+
+Lynx Board Member, Michel Genard shares the thought behind why Lynx Labs were created.
+
+Multicore Research
+
+CAST-32A is simply not enough. Lynx is involved in research programs around the globe including the 
+European MASTECS program
+
+Cybersecurity
+
+The industry needs to shift to planning for systems to be compromised. Hypervisors are at the perfect place in the stack to identify normal and abnormal behavior to the system. Our friends at DESE have cofounded work in this leading to the creation of LynxElement and demos of separation kernels ability to contain threats. 
+Lynx is exploring how some of its patent portfolio can be exploited to improve system resiliency.
+
+Next-Generation Hardware Support
+
+Intel, Arm and RISC-V are creating new processor architectures, in part to address the certifiability of multicore architectures and in part to improve system robustness. Intel’s equivalent of Arm’s big.LITTLE architecture in Alder lake, and Arm’s isolation islands are two examples. This changes how optimized software should behave.
+
+Virtual Integration Environment (VIE)
+
+The industries that we serve are being challenged to execute faster while maintaining/improving system safety and security levels. Lynx has created modular components of its technology as a first step towards integrating our technology in customers CI/CD flows. We believe we have to come to you as opposed to you coming to us. This also involves work around enabling virtual environments as first class citizens to physical ones.
+
+Open Source
+
+Another aspect of increased development speed is exploring how military and defense markets can harness the good from open source. Lynx is exploring how to embrace most widespread hardware used by the open source community (Example – Raspberry PI) and how/if certain elements of its code bases can be used there to assist our customers in reducing program risk, cost, and development timelines.
+
+Unikernel
+
+Unikernels enable programs to link in all operating system services in a single address space, obviating the need to switch into a special kernel mode to call a system service. In the unikernel architecture, applications just link to the operating system features needed.
+Because unikernels are no longer context switching and subject to blocking by competing processes, unikernel execution behavior is much easier to observe and characterize. This reality reduces the burden of multicore timing analysis and makes the safety-certification process more manageable. The intrinsic independence and timing properties of a unikernel simply make it a better unit of integration to compose systems where the integrity and predictability of a system is simpler to verify.
+We believe that unikernels, when coupled with a hypervisor, enable architects to compose systems with a higher level of fidelity.
+
+HOW CAN WE HELP YOU?
+
+Let's collaborate. Allow us to assist your teams in achieving business and/or development goals.
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

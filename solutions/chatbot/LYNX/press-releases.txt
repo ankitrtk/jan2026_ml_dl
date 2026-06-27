@@ -1,0 +1,1734 @@
+URL: https://www.lynx.com/press-releases
+
+Lynx Software Technologies | Press Releases
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+Home
+
+Press releases
+
+Press Releases
+
+Stay informed about how Lynx is transforming the landscape of edge computing and safety-critical systems. From innovative product launches to strategic partnerships, Lynx is driving the future of security, performance, and mission-critical applications. Explore our latest press releases to learn about the milestones we’re achieving as we continue to Seize the Edge in high-assurance technologies.
+
+Reset Filter
+
+Showing 
+1
+-
+ of 
+77
+
+Most Recent
+
+Oldest to Newest
+
+A-Z
+
+Z-A
+
+PRESS RELEASE
+
+08 April 2026
+
+Lynx Launches MOSA.ic.AI for Deterministic AI in Safety-Critical Systems, Addressing a $25B Market by 2030
+
+News
+,
+
+Mission Critical Edge
+,
+
+press releases
+,
+
+mission-critical systems
+,
+
+Military and Aerospace
+
+PRESS RELEASE
+
+28 May 2025
+
+Based on Surging Demand, RunSafe Security Seeks DO-178C Flight Safety Certification, Integrates with Lynx's MOSA.ic Platform
+
+PRESS RELEASE
+
+12 May 2025
+
+AdaCore and Lynx Software Technologies Reaffirm Longstanding Partnership to Support DO-178C DAL A-Certified Ada Applications
+
+press releases
+
+PRESS RELEASE
+
+30 April 2025
+
+Lynx and RTOS Leaders Launch Cross-Ecosystem Graphics Processing Unit (GPU) Platform
+
+press releases
+
+PRESS RELEASE
+
+22 April 2025
+
+Lynx Appoints James H. Dickinson, Former Commander of U.S. Space Command, to its Board of Directors
+
+press releases
+
+PRESS RELEASE
+
+25 March 2025
+
+Lynx Selected by Bell to Power the U.S. Army’s Future Long Range Assault Aircraft (FLRAA)
+
+LYNX MOSA.ic enables quick reconfiguration of aircraft for various mission types.
+
+Press Release
+
+PRESS RELEASE
+
+11 February 2025
+
+Lynx Launches Unified Brand Identity to Empower Customers to Seize the Edge™ in Mission-Critical Computing
+
+Unified Brand Integrates Expertise from CoreAVI, Thompson Software Solutions and...
+
+Press Release
+
+PRESS RELEASE
+
+11 February 2025
+
+Lynx Software Technologies Announces Acquisition of Thompson Software Solutions
+
+News
+,
+
+Mission Critical Edge
+,
+
+press releases
+,
+
+mission-critical systems
+,
+
+Acquisition
+,
+
+Military and Aerospace
+,
+
+Thompson Software Solutions
+
+PRESS RELEASE
+
+11 February 2025
+
+Lynx Software Technologies Announces Acquisition of Core Avionics & Industrial
+
+PRESS RELEASE
+
+11 February 2025
+
+Lynx Software Technologies Sees Growing Demand for Timesys Vigiles™ as a Leading SBOM Lifecycle and Vulnerability Management Tool for Edge Applications
+
+PRESS RELEASE
+
+29 October 2024
+
+Lynx Software Technologies Unveils Comprehensive Linux Solutions for Mission-Critical Edge Applications in Aerospace and Defense
+
+PRESS RELEASE
+
+16 October 2024
+
+Lynx Software Technologies and Lockheed Martin Collaborate on Safe, Secure Avionics Systems
+
+News
+,
+
+Avionics
+,
+
+Press Release
+,
+
+Safety
+,
+
+Mission Critical Edge
+,
+
+Safety Critical Systems
+,
+
+Aviation
+,
+
+Lockheed Martin
+
+PRESS RELEASE
+
+12 December 2023
+
+Lynx Software Technologies Announces Acquisition of Timesys Corporation
+
+News
+,
+
+Mission Critical Edge
+,
+
+press releases
+,
+
+mission-critical systems
+,
+
+Acquisition
+,
+
+Military and Aerospace
+,
+
+Timesys
+
+PRESS RELEASE
+
+25 October 2023
+
+Lynx Software Technologies Honored For Engineering Ingenuity with 2023 Military + Aerospace Electronics Innovators Awards
+
+News
+,
+
+Mission Critical Edge
+,
+
+press releases
+,
+
+unikernel
+,
+
+LynxElement
+,
+
+Awards
+,
+
+Military and Aerospace
+
+Press Release
+
+29 March 2023
+
+Lynx Extends Software Framework to Support Communication Protocols for Deterministic Systems Based on NXP Processors
+
+PRESS RELEASE
+
+05 January 2023
+
+Lynx Software Technologies Appoints Ryan D. McCarthy, former Secretary of the U.S. Army, to its Board of Directors
+
+PRESS RELEASE
+
+14 December 2022
+
+New Data From Lynx Software Technologies Reveals DevSecOps Implementation is Top Priority for the A&D Industry
+
+Avionics
+,
+
+software
+,
+
+aerospace & defense
+,
+
+Mission Critical Edge
+,
+
+mission-critical systems
+,
+
+Aerospace
+,
+
+DevSecOps
+,
+
+Defense
+
+PRESS RELEASE
+
+30 November 2022
+
+Lynx Software Technologies Celebrates New Products and Partnerships in 2022
+
+Avionics
+,
+
+Lynx MOSA.ic™
+,
+
+"Mission Systems"
+,
+
+FACE™
+,
+
+Iot
+,
+
+Mission Critical Edge
+,
+
+Google Anthos
+,
+
+OceanSound
+,
+
+Safety Critical Systems
+,
+
+LynxElement
+,
+
+LynxOS-178
+,
+
+Cybersecurity
+,
+
+Ferrous Systems
+,
+
+DAL-A Certification
+,
+
+Military and Aerospace
+,
+
+RunSafe Security
+
+PRESS RELEASE
+
+02 November 2022
+
+Lynx Joins AdaCore and Ferrous Systems to Bring Rust to Embedded Developers
+
+Lynx MOSA.ic™
+,
+
+Press Release
+,
+
+POSIX®
+,
+
+Mission Critical Edge
+,
+
+unikernel
+,
+
+Safety Critical Systems
+,
+
+LynxElement
+,
+
+LynxOS-178
+,
+
+AdaCore
+,
+
+Ferrous Systems
+
+PRESS RELEASE
+
+13 October 2022
+
+Lynx Software Technologies Announces Appointment of Al Maillet as Chief Revenue Officer
+
+Press Release
+,
+
+Mission Critical Edge
+,
+
+Safety Critical Systems
+,
+
+Executive Team
+
+PRESS RELEASE
+
+22 September 2022
+
+Lynx to Sponsor and Present at Global Defence Helicopter
+
+Lynx MOSA.ic™
+,
+
+Press Release
+,
+
+Open Systems
+,
+
+Mission Critical Edge
+,
+
+Safety Critical Systems
+,
+
+Global Defense Helicopter
+
+PRESS RELEASE
+
+20 September 2022
+
+Lynx Software Technologies Announces Appointment of Michel Genard and Ed Dolanski to its Board of Directors
+
+Press Release
+,
+
+board support
+,
+
+Mission Critical Edge
+,
+
+Safety Critical Systems
+,
+
+Lynx Board of Directors
+
+PRESS RELEASE
+
+01 September 2022
+
+Lynx Software Technologies Honored by 2022 Military + Aerospace Electronic Innovators Award
+
+Avionics
+,
+
+Lynx MOSA.ic™
+,
+
+Press Release
+,
+
+Mission Critical Edge
+,
+
+Safety Critical Systems
+,
+
+Awards
+,
+
+Military
+,
+
+Military and Aerospace Electronics
+
+PRESS RELEASE
+
+31 August 2022
+
+Lynx Software Technologies Announces Appointment of Amanda Blum as Chief Financial Officer
+
+Press Release
+,
+
+company update
+,
+
+Leadership
+
+PRESS RELEASE
+
+21 July 2022
+
+Lynx Incorporates certified IPv6 stack Into Flagship Embedded Platform
+
+embedded systems
+,
+
+DO-178
+,
+
+press releases
+,
+
+Safety Critical Systems
+,
+
+LynxOS-178
+,
+
+IPv6
+
+Press Release
+
+15 July 2022
+
+Multicore research from Collins, Lynx, Rapita and BSC wins Best Paper Award at ERTS 2022
+
+Media Alert
+,
+
+Awards
+,
+
+Multicore Research
+
+PRESS RELEASE
+
+29 June 2022
+
+Lynx Software Technologies Announces Appointment of Tim Reed as CEO
+
+Press Release
+,
+
+"Mission Systems"
+,
+
+partner ecosystem
+,
+
+OceanSound
+
+PRESS RELEASE
+
+23 June 2022
+
+Lynx Software Technologies Receives Strategic Investment from OceanSound Partners
+
+Press Release
+,
+
+"Mission Systems"
+,
+
+partner ecosystem
+
+PRESS RELEASE
+
+13 June 2022
+
+Lynx Releases the Industry’s First Commercial Unikernel with POSIX Compatibility
+
+Lynx MOSA.ic™
+,
+
+Press Release
+,
+
+POSIX®
+,
+
+Mission Critical Edge
+,
+
+unikernel
+,
+
+Safety Critical Systems
+,
+
+LynxElement
+
+PRESS RELEASE
+
+04 May 2022
+
+Lynx Software Technologies and OceanSound
+
+News
+,
+
+Press Release
+,
+
+"Mission Systems"
+,
+
+Mission Critical Edge
+,
+
+press releases
+
+PRESS RELEASE
+
+25 April 2022
+
+Lynx Software Technologies Partners with Google Cloud to Support Google Anthos Bare Metal and Google Visual Inspection AI Service
+
+Lynx MOSA.ic™
+,
+
+Press Release
+,
+
+Mission Critical Edge
+,
+
+partner ecosystem
+
+PRESS RELEASE
+
+13 January 2022
+
+Lynx Software Technologies Named IoT Breakthrough's "IoT Security Platform of the Year” For Second Consecutive Year
+
+News
+,
+
+press releases
+
+PRESS RELEASE
+
+01 December 2021
+
+DESE Research Showcases Lynx Software Technologies for Network-Attached Mission Critical Systems
+
+News
+,
+
+press releases
+
+PRESS RELEASE
+
+18 November 2021
+
+Lynx Software Technologies adds new management capabilities to LYNX MOSA.ic
+
+PRESS RELEASE
+
+05 October 2021
+
+LYNX MOSA.ic for Avionics Now Supports 11th Generation Intel® Core™ Processors
+
+News
+,
+
+press releases
+,
+
+intel
+,
+
+partner ecosystem
+
+PRESS RELEASE
+
+16 September 2021
+
+77% of Americans Believe Their Company Has Security Gaps
+
+News
+,
+
+press releases
+
+PRESS RELEASE
+
+25 August 2021
+
+Advantech, Lynx Collaborate on Mission Critical Edge Starter Kit Options for IT/OT Convergence
+
+News
+,
+
+press releases
+,
+
+partner ecosystem
+,
+
+advantech
+
+PRESS RELEASE
+
+12 August 2021
+
+Lynx Software Technologies and the CODESYS Group announce partnership
+
+News
+,
+
+Mission Critical Edge
+,
+
+press releases
+
+PRESS RELEASE
+
+20 July 2021
+
+LYNX MOSA.ic for Avionics Provides Foundation For Collins Aerospace Perigon Computer
+
+News
+,
+
+Avionics
+,
+
+aerospace & defense
+,
+
+Mission Critical Edge
+,
+
+press releases
+
+PRESS RELEASE
+
+15 June 2021
+
+Bosch VHIT (Italy) Partners w/ Lynx Software Technologies to Securely Deploy and Manage Real-time IIoT Quality System in Industrial Settings
+
+News
+,
+
+Mission Critical Edge
+,
+
+partners
+,
+
+press releases
+,
+
+partner ecosystem
+
+PRESS RELEASE
+
+09 June 2021
+
+Survey: 1 in 4 Americans admit to breaking the law while driving, yet 80% Trust a Human Pilot over an Autonomous One
+
+News
+,
+
+Mission Critical Edge
+,
+
+press releases
+
+PRESS RELEASE
+
+20 April 2021
+
+Lynx Software Technologies is Making its LYNX MOSA.ic for Industrial Product Available in the Microsoft Azure Marketplace
+
+News
+,
+
+IIoT
+,
+
+Mission Critical Edge
+,
+
+LYNX MOSA.ic for Industrial
+,
+
+press releases
+
+PRESS RELEASE
+
+30 March 2021
+
+Lynx Launches LynxSafe for Improved Performance and Military Grade Security For Enterprise IT
+
+PRESS RELEASE
+
+10 March 2021
+
+Survey exposes IT security gap: 36% of Americans Have Been Impacted by a Cybersecurity Attack Since the Start of COVID-19 (Or Know Someone That Has)
+
+PRESS RELEASE
+
+11 January 2021
+
+Lynx Wins "IoT Security Platform of the Year"
+
+News
+,
+
+Lynx MOSA.ic™
+,
+
+Press Release
+,
+
+Mission Critical Edge
+,
+
+industrial
+,
+
+partners
+,
+
+LYNX MOSA.ic for Industrial
+
+PRESS RELEASE
+
+02 December 2020
+
+Eurotech and Lynx Software Technologies Announce Partnership
+
+News
+,
+
+Press Release
+,
+
+Mission Critical Edge
+,
+
+industrial
+,
+
+partners
+,
+
+LYNX MOSA.ic for Industrial
+
+Press Release
+
+26 August 2020
+
+LYNX MOSA.ic Supports Gray Eagle UAS Software Modernization
+
+News
+,
+
+Lynx MOSA.ic™
+,
+
+Press Release
+,
+
+aerospace & defense
+,
+
+General Atomics
+,
+
+unmanned systems
+
+Press Release
+
+15 June 2020
+
+Lynx Moves to Strengthen Mission Critical Edge Computing with LYNX MOSA.ic™ Bundles
+
+PRESS RELEASE
+
+11 March 2020
+
+Lynx Announces LynxOS-178 Compliance with FACE™ 3.0 Specifications
+
+FACE™
+
+PRESS RELEASE
+
+09 March 2020
+
+Lynx and CoreAVI Deliver ICP Operating Environment and Secure Virtualized GPU for F-35 Lightning II TR-3 Panoramic Cockpit Display
+
+Press Release
+
+25 February 2020
+
+LYNX MOSA.ic™ Software Framework Gains Momentum at Embedded World
+
+PRESS RELEASE
+
+24 February 2020
+
+Lynx Broadens Operating System and Processor Choice for LynxSecure
+
+FreeRTOS
+
+Press Release
+
+20 February 2020
+
+Lynx Unveils LynxOS v7.1, Providing Migration Path for Existing Deployments
+
+Press Release
+
+06 January 2020
+
+Lynx Names VP of Marketing / Strategic Alliances and VP of Product Management
+
+Press Release
+
+Press Release
+
+16 December 2019
+
+Lynx Expands Leadership Team with Board Level Appointments
+
+Press Release
+
+PRESS RELEASE
+
+09 December 2019
+
+LYNX MOSA.ic™ Selected For F-35 Lightning II Mission System Avionics
+
+PRESS RELEASE
+
+07 October 2019
+
+Lynx Expands NXP Processor Support for its LynxSecure Separation Kernel Hypervisor
+
+Press Release
+
+PRESS RELEASE
+
+13 May 2019
+
+Lynx Makes Key Appointments to Leadership Team
+
+Press Release
+
+10 April 2019
+
+Lynx supports Future of Cybersecurity Workshop at IEEE SoutheastCon 2019
+
+Press Release
+
+Press Release
+
+01 April 2019
+
+Lynx brings LYNX MOSA.ic™ to Hannover Messe
+
+Press Release
+
+PRESS RELEASE
+
+26 February 2019
+
+Lynx Software Technologies Launches LYNX MOSA.ic™ – A Simpler, More Intuitive Way to Build Robust Software Systems
+
+Press Release
+
+PRESS RELEASE
+
+13 February 2019
+
+Lynx Expands European Team to Address Growth Opportunities
+
+Press Release
+
+PRESS RELEASE
+
+11 February 2019
+
+Kontron and Lynx Partner to Deliver Secure Connected Commercial Vehicles
+
+Press Release
+
+10 December 2018
+
+Lynx and Teledyne e2v Reduce Time and Risk for Safety Certifiable PowerPC System Development
+
+Press Release
+
+PRESS RELEASE
+
+04 October 2018
+
+Lynx Present a Better Way to Build Safe and Secure Modern Software Systems at Intel Federal Summit
+
+Press Release
+
+PRESS RELEASE
+
+02 October 2018
+
+Lynx Shows Hypervisor Infrastructure for Certifiably Safe and Secure System Development
+
+Press Release
+
+PRESS RELEASE
+
+25 July 2018
+
+XPedite7674 Supports LynxSecure Safety Bundle for Intel Multi-core Processorsto Deliver Integrated Hardware/Software IMA Development
+
+Press Release
+
+PRESS RELEASE
+
+25 July 2018
+
+Lynx Software Technologies Team with X-ES for Secure-by-Design Multi-core Board Ready for 2nd Gen IMA
+
+Press Release
+
+Press Release
+
+24 July 2018
+
+Concurrent Technologies Expands Product Capabilities with LynxSecure Separation Kernel Hypervisor
+
+Press Release
+
+PRESS RELEASE
+
+20 July 2018
+
+Callen-Lenz and Lynx Software Technologies Team to Accelerate Time to Market for Air Mobility
+
+Press Release
+
+PRESS RELEASE
+
+17 April 2018
+
+Lynx Demonstrates Meltdown Immunised Secure Laptop at RSA
+
+Press Release
+
+PRESS RELEASE
+
+27 February 2018
+
+LynxSecure Provides Safe & Secure Foundation for ETAS Autosar Adaptive Platform
+
+Press Release
+
+PRESS RELEASE
+
+26 February 2018
+
+Lynx Accelerates Secure ADAS Development with LynxSecure Port
+
+Press Release
+
+PRESS RELEASE
+
+22 January 2018
+
+Lynx Customers are Immune to Meltdown
+
+Press Release
+
+PRESS RELEASE
+
+07 November 2014
+
+Lynx Software Technologies Announces Security Critical RTOS Support for Curtiss-Wright’s VPX6-187 Platform
+
+Press Release
+
+PRESS RELEASE
+
+05 June 2013
+
+LynuxWorks Announces LynxOS 7.0 with New Security Features to Protect Embedded Connected Devices
+
+Press Release
+
+PRESS RELEASE
+
+27 November 2012
+
+LynxOS-178 RTOS Deployed by Rockwell Collins in Pro Line Fusion Series of Flight Deck Systems
+
+Press Release
+
+No result found.
+
+Load More
+
+Back to Top
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

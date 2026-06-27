@@ -1,0 +1,489 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/best-real-time-operating-system-rtos-vendors-2020
+
+Best Real-Time Operating System (RTOS) Vendors (2020)
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Best Real-Time Operating System (RTOS) Vendors (2020)
+
+ James Deutch | Principal Field Applications Engineer
+
+ : 
+
+                May 8, 2020 2:16:17 PM
+
+Safety
+
+Certification
+
+rtos
+
+embedded systems
+
+real-time
+
+Technical Blog
+
+ _______________
+
+Lynx Software Technologies has built and supported real-time operating systems (RTOSes) since 1988. We have witnessed hardware and embedded software technologies evolve and have supported our customers through the design, development, integration, certification, deployment, and support of software systems across mission-critical applications in avionics, industrial, automotive, medical, and other markets. We talk with many different companies across these markets every year. Over time, we have learned that— depending on the type of system being built—our technologies and products may not always provide the best fit. And that’s OK.
+
+We want you to choose Lynx products because they make the most sense for your project and understanding your options is critical to that process.
+
+It is not uncommon for companies to ask us, "If we were to not use your products, who would you recommend?" Therefore,  with our customers in mind—and with a sincere respect to the companies listed below—here is a list of who we regard as our most solid competitors in the safety-critical embedded systems space, in alphabetical order.
+
+BlackBerry Limited
+
+Offering: QNX
+
+History:
+
+QNX was originally developed in the 1980s by Canadian company Quantum Software Systems and later renamed QNX Software Systems. QNX Software Systems was acquired by Harmon International Industries in 2004. In 2010 QNX was acquired by BlackBerry Limited (originally known as Research In Motion) from Harman.
+
+QNX is not a part of the FACE consortium, which is a US-only standards body working with the US Department of Defense.
+
+HQ Location: Ottowa, ON, Canada
+
+Market focuses:
+
+Automotive
+
+Medical
+
+Industrial Automation
+
+Defense & Security
+
+Railway
+
+DDC-I, Inc.
+
+Safety-Critical RTOS Offering: Deos
+
+History:
+
+DDC-I was established in 1979 in Denmark, and entered the RTOS market in 2008 when it acquired Deos from Honeywell International.
+
+DDC-I is a member of the FACE Consortium, which is a US-only standards body working with the US Department of Defense.
+
+HQ Location: Phoenix, AZ, USA
+
+Market focuses:
+
+Aerospace & Defense
+
+Space Technologies
+
+Medical
+
+Industrial Devices
+
+Automotive
+
+SYSGO GmbH
+
+Offering: PikeOS
+
+History:
+
+Founded in 1991, PikeOS has been a product offering since 2005. SYSGO is part of the European Thales Group.
+
+SYSGO is not a part of the FACE Consortium, which is a US-only standards body working with the US Department of Defense.
+
+HQ Location: Klein-Winternheim, Germany
+
+Market focuses:
+
+Aerospace & Defense
+
+Automotive
+
+Railway
+
+Industrial
+
+Medical
+
+Wind River Systems
+
+Safety-Critical RTOS Offering: VxWorks 653
+
+History:
+
+An independent company from 1983 to 2009, purchased by Intel in 2009, and sold to TPG Capital in 2018.
+
+WRS is a member of the FACE Consortium, which is a US-only standards body working with the US Department of Defense.
+
+HQ Location: Alameda, CA, USA
+
+Market focuses:
+
+Aerospace & Defense
+
+Automotive
+
+Industrial
+
+Medical
+
+Telecommunications
+
+You may also wish to look at these resources when considering your RTOS options:
+
+Do You Need an RTOS
+
+How to Choose a Real-Time Operating System (RTOS)
+
+What is the Cost of a Board Support Package (BSP)?
+
+What Are the Benefits of POSIX for Embedded Systems?
+
+What is a DO-178B/C Reusable Software Component (RSC)?
+
+What Is SR-IOV and Why Is It Important for Embedded Devices?
+
+Overarching Properties - An Alternative to DO-178
+
+Realizing Modern Automotive Software Environments
+
+POSIX Processes and Virtual Memory
+
+Embedded Best Practices Demonstrated at Arm TechCon 2019
+
+Mitigating the "Noisy Neighbor" with Cache Allocation Technology (CAT)
+
+Lynx MOSA.ic - Delivering the Modular Open System Approach (MOSA)
+
+Design Prevails - Protecting Systems from Meltdown and Spectre
+
+CAST-32A - Significance and Implications
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

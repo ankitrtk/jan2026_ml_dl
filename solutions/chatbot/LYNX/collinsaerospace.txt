@@ -1,0 +1,306 @@
+URL: https://www.lynx.com/casestudies/collinsaerospace
+
+Case Study | Collins Aerospace
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+MISSION CRITICAL EDGE CUSTOMER USE CASE
+COLLINS AEROSPACE
+
+CUSTOMER USE CASE
+
+COLLINS AEROSPACE
+
+WHO IS COLLINS AEROSPACE?
+
+Collins Aerospace, a unit of Raytheon Technologies Corp., is a leader in technologically advanced and intelligent solutions for the global aerospace and defense industry. Collins Aerospace has the extensive capabilities, comprehensive portfolio, and broad expertise to solve customers’ toughest challenges and meet the demands of a rapidly evolving global market.
+
+WHAT IS PERIGON™?
+
+Perigon™, the next-generation flight control and vehicle management computing solution by Collins Aerospace, is a revolutionary technology offering advanced computing power, open-system architecture and flexible configurability supporting future needs across a broad range of applications. Perigon will be able to provide 20 times the processing power of Collins’ existing flight control computers, thousands of which are currently in service on a multitude of platforms worldwide. With its open-system design, Perigon’s high computing power will allow customers to load it with various complex software applications, including autonomous and fly-by-wire flight control, cybersecurity, vehicle management and predictive health maintenance.
+In early 2022, Lockheed Martin Sikorsky-Boeing selected Collins Aerospace to provide all three seating platforms and its Perigon™ computer for the DEFIANT X® advanced utility helicopter, a finalist for the U.S. Army’s Future Long-Range Assault Aircraft (FLRAA) competition. Collins will supply the DEFIANT X helicopter with an armored pilot and co-pilot, cabin crew and troop seats. Read more about it 
+here
+.
+
+WHO IS COLLINS AEROSPACE?
+
+Collins Aerospace, a unit of Raytheon Technologies Corp., is a leader in technologically advanced and intelligent solutions for the global aerospace and defense industry. Collins Aerospace has the extensive capabilities, comprehensive portfolio and broad expertise to solve customers’ toughest challenges and to meet the demands of a rapidly evolving global market.
+
+WHAT IS PERIGON™?
+
+Perigon™, the next-generation flight control and vehicle management computing solution by Collins Aerospace, is a revolutionary technology offering advanced computing power, open-system architecture and flexible configurability supporting future needs across a broad range of applications. Perigon will have the ability to provide 20 times the processing power of Collins’ existing flight control computers, thousands of which are currently in service on a multitude of platforms worldwide. Combined with its open-system design, Perigon’s high computing power will allow customers to load it with a variety of complex software applications, including autonomous and fly-by-wire flight control, cybersecurity, vehicle management and predictive health maintenance.
+In early 2022, Lockheed Martin Sikorsky-Boeing selected Collins Aerospace to provide all three seating platforms and its Perigon™ computer for the DEFIANT X® advanced utility helicopter, a finalist for the U.S. Army’s Future Long-Range Assault Aircraft (FLRAA) competition. Collins will supply DEFIANT X helicopter with armored pilot and co-pilot, cabin crew and troop seats. Read more about it 
+here
+.
+
+WHAT CHALLENGES WERE BEING FACED?
+
+In the early discussions with the United Technologies Group (announced as being acquired by Raytheon Technologies in June 2019), the problem statement was to consolidate the functionality previously implemented in upwards of 50 microcontrollers into a single unit. The motivations here were the usual SWaP focuses:
+
+Size
+
+Weight
+
+Power
+
+WHY IS IT IMPORTANT?
+
+This consolidation needed to be performed while maintaining real-time determinism with requirements for extremely small response times for certain system events. There also needed to be a very high level of robustness and system reliability. Finally, the system needed to scale and be customizable for a range of private, commercial, and military use cases that would include semi- and fully autonomous craft.
+
+WHY WAS LYNX SELECTED?
+
+Collins adopted a system architecture supporting three different processor architectures (Arm, Intel architecture [x86] and PowerPC). They determined that the use of bare metal code could address the determinism requirements while offering a reduction in code size. This directly impacts the cost associated with system certification. This platform is still in development and has been selected as part of the Sikorsky FLRAA bid. It is also being reconfigured for use in other commercial and military applications. Learn more by 
+clicking here
+.
+
+WHAT IS LYNXSECURE?
+
+LynxSecure
+ is a simple and elegant platform technology that controls hardware resources using an intuitive information flow modeling language. It is the foundation of the LYNX MOSA.ic™ framework and was designed to satisfy real-time, high-assurance computing requirements used to regulate military and industrial computing environments, such as NIST, NSA Common Criteria, and NERC CIP. For more information on LynxSecure and our partnership with NXP, 
+click here.
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

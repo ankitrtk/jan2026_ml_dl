@@ -1,0 +1,769 @@
+URL: https://www.lynx.com/supplemental-terms-for-licensed-products
+
+Supplemental Terms for Licensed Products
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+Home
+
+Supplemental terms for licensed products
+
+ Supplemental Terms for Licensed Products 
+
+Last Updated July 29, 2025
+
+1.   Supplemental Terms for Licensed Products
+
+Unless otherwise specifically agreed in writing "Company” (defined below) provides Licensed Products in accordance with the General Terms and Conditions of Sale as supplemented by these Supplemental Terms for Licensed Products ("Supplemental License Terms"). In the event of a conflict between these Supplemental License Terms and the Agreement, these Supplemental License Terms prevail. Capitalized terms not otherwise defined in these Supplemental License Terms have the meanings ascribed to them in the Agreement.
+
+2.  Definitions
+
+2.1    “Authorized User”
+ means an individual under Customer’s control and authorized to use Software.
+2.2    “Build Automation Server” 
+means Customer’s specified compute platform on which Software is installed.
+2.3    “Derivative” means: 
+(i) for copyrightable or copyrighted material, any translation (including translation into other computer languages), port, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (ii) for patentable or patented material, any improvement thereon; and (iii) for material which is protected by trade secret law, any new material derived from such existing trade secret material, including new material that may be protected by copyright, patent or trade secret rights. Only under a Source Code license is Customer permitted to create Derivatives of Software (the “Customer Derivatives”), which can only be for Customer’s internal business purposes.
+2.4    “Documentation” 
+means Company’s user manuals, handbooks, installation guides, API and programming guides, and code comments relating to Software provided by Company to Customer either electronically or in hard copy form.
+2.5    “Floating License” 
+means the right for one Authorized User at a time to use Software that is installed on Customer’s network of computers upon receipt of a token from Company. 
+2.6    “Geographical Location”
+ means the location where Software is permitted to be accessed as specified in an Ordering Document. 
+2.7    “License Term”
+ means the period(s) specified in an Ordering Document during which Customer has a license for Licensed Product.
+2.8    “Licensed Product”
+ means the Software, Documentation or other products licensed by Company to Customer.
+2.9    “Purpose”
+ means: (i) use of the Source Code solely for Customer’s internal business purposes and not for safety certification, commercialization or distribution to third parties; and (ii) to modify and create Derivatives of Software components provided in Source Code, including to provide technical and security support, debugging and fixes for Software licensed to Customer, with the objective of developing and compiling new Executable Code.
+2.10    “Software” 
+means computer programs described in an Ordering Document licensed by Company to Customer, including any Updates provided to Customer pursuant to an Ordering Document, if any, but not including Third Party Products.
+2.11    “Source Code”
+ means human-readable text written in a specific programming language. For these Supplemental License Terms, this term includes the source code underlying Software and includes any Updates.
+2.12    “Target Platform” 
+means any hardware board, platform, or subsystem to which a Company binary Runtime system image, System Runtime Package (SRP) and/or Kernel Downloadable Image (KDI) is authorized by Company to be copied and subsequently executed.
+2.13    “Updates”
+ means any updates, bug fixes, patches, or other error corrections to Software that Company makes available to all licensees of Software. 
+
+3.  License
+
+3.1. License Grant. 
+Upon Customer’s payment of applicable Fees specified in an Ordering Document, Company grants to Customer a limited, non-exclusive, non-sublicensable, and non-transferable, without the right to distribute (except as expressly stated herein), license during the License Term to use Software as specified in an Ordering Document in accordance with these Supplemental License Terms. Customer may make one (1) back-up copy of Software in machine-readable form solely for back-up purposes. The back-up copy must be reproduced with all proprietary notices.
+
+3.2.  Restrictions. 
+Customer shall not use Software or Documentation for any purposes beyond the scope of the license granted in this Ordering Document. Without limiting the foregoing and except as otherwise expressly set forth in this Ordering Document, Customer shall not at any time without written approval by Company, directly or indirectly: 
+(a) incorporate Software or Documentation into non-Company commercial or open-source software or projects;
+(b) permit access to Software to anyone other than the Authorized User as specified in an Ordering Document; 
+(c) remove any proprietary notices from Software or Documentation; 
+(d) use Software, Source Code, or Documentation in any manner or for any purpose that infringes, misappropriates, or otherwise violates any intellectual property right or other right of any person or entity, or that violates any applicable law; 
+(e) distribute, transfer, disclose, or otherwise make available Software or Source Code to any third party in any way or medium, including by posting it on any internet sites either indexed or not (such as GitHub);  
+(f) deploy on a commercial platform, the binaries and/or object files which result from the Customer’s normal use of Software with or without modifications;
+(g)  copy Software or Documentation to any portable media;
+(h) modify Software to remove or suppress the collection of usage metrics or license enforcement; 
+(i) publish any portion of Software, Source Code, Documentation, comments, notes, observations, reports that reference Software or disclose the results of any benchmark testing or comparative or competitive analyses of Software to any third party;
+(j) modify, translate, reverse engineer, decompile, disassemble, create derivative works based on, or copy in whole or in part Software (except for the back-up copy); or
+(k) separate any Java™ technology from the runtime application or use the Java™ technology except in connection with the runtime application.
+
+3.3 Additional License Terms.
+ In addition to the license grant and restrictions set forth in Sections 3.1 and 3.2 above, the additional terms set forth below shall apply with respect to the specific license type described below and, in an Ordering Document, (“Additional Terms”). The Additional Terms will control in the event of an inconsistency with Sections 3.1or 3.2 for the applicable license type.
+(a) Under a Development License: Customer may use Software to create a binary Runtime system image for a Target Platform. If under a perpetual license model, Customer may only use Software on the Authorized Architecture and only in connection with the Authorized Project as specified in an Ordering Document. Customer shall not make copies of a Separation Runtime Package and/or Kernel Downloadable Image for any use other than development and testing without the purchase of a valid Production License.
+(b) Under a Build Automation License: Customer shall not permit any individual to directly deploy to, or debug on the Target Platform from a Build Automation Server;
+(c) Under a Production License: Customer may use Software in a runtime application that is deployed within Customer’s organization, or is sold or distributed by Customer, provided that Customer ensures that these Supplemental License Terms are referenced and flowed down in any applicable end user license agreements that govern such sale or distribution to third party end users. Customer may only make the quantity of runtime application copies of Software as specified in an Ordering Document.
+(d) Under an Internal Research and Development (“IR&D”) License: Customer may use Software for non-commercial internal research and development, prototyping and proof of concept purposes only, but not for any program specific development or production, unless otherwise specified in an Ordering Document.
+(e) Under a Source Code license: Customer may: (i) copy Source Code to a secure storage location that is only accessible to Customer’s Authorized Users who have a legitimate need to use  Source Code for the Purpose in accordance with these Supplemental License Terms  on projects or programs permitted by a corresponding valid Company Development License; (ii) modify Source Code and create Customer Derivatives solely for the Purpose; (iii) provide Source Code, Software and Documentation access to only the Customer’s Authorized Users who have a legitimate need to use Source Code in accordance with these Supplemental License Terms  on projects or programs permitted under a corresponding valid Development License. Customer may not, without a valid Production License, deploy on a commercial platform, the binaries or object files which result from Customer’s normal use of Software with or without modifications.
+(f) Under an OEM Project Certification License and under an Artifact License: Customer may not modify, translate, reverse engineer, decompile, disassemble, or create derivative works based on Source Code.
+(g) Under a Named User License: the License is restricted to use by Customer’s named individual specified in an Ordering Document.
+(h) Under a Floating License: the License is restricted to a Project, Geographical Region, or Enterprise as specified in an Ordering Document.
+(i) Under a Node Locked License: the License is restricted to use on the machine specified in an Ordering Document.
+3.4.  Reservation of Rights.
+ Company reserves all rights not expressly granted to Customer in these Supplemental License Terms. Except for the limited rights and licenses expressly granted under these Supplemental License Terms, nothing in these Supplemental License Terms grants, by implication, waiver, estoppel, or otherwise, to Customer or any third party any intellectual property rights or other right, title, or interest in or to Licensed Products.
+3.5. Customer Responsibilities.
+(a) 
+General.
+ Customer is responsible and liable for all uses of Licensed Products resulting from access provided by Customer, directly or indirectly, whether such access or use is permitted by or in violation of these Supplemental License Terms. Without limiting the generality of the foregoing, Customer is responsible for all acts and omissions of its Authorized Users, including its employees, consultants, contractors, and other representatives, and any act or omission by any Authorized User that would constitute a breach of these Supplemental License Terms if taken by Customer will be deemed a breach of these Supplemental License Terms by Customer. Customer shall make reasonable efforts to make all Authorized Users aware of the provisions in these Supplemental License Terms as they apply to such Authorized Users’ use of Licensed Products and shall cause such Authorized Users to comply with such provisions.
+(c)
+ Prohibition against Copyleft licenses.
+ Customer shall not incorporate, use, or distribute any software or components in conjunction with the Company Offerings if such incorporation, use or distribution would create any right commonly referred to in the software industry as a “copyleft license,” or impose any obligations requiring the Company Offerings or Derivatives to be contributed to an open source community.
+(d) 
+Customer Responsibility for BSPs, firmware, and hardware systems.
+ License and service fees are based upon, and subject to, Customer supplying to Company the applicable target system hardware board support packages (BSPs), firmware, and hardware systems (“Requirements”) that are necessary for Company’s performance. Customer shall ensure that the Requirements are fully production functional, error free, and in conformance with Company’s RTOS and BSP requirements document. Customer shall comply with the requirements detailed in Company’s VkCoreSC-CoreAVI Driver Configuration Request Form, which includes in part Customer’s obligation to : 1) provide a minimum of two complete Target Systems prior to Company’s initiation of services; 2) Purchase all required licenses and tools to support Company’s services; 3) Provide the Target RTOS BSP and ensuring the Target RTOS BSP meets the requirements of Company Document 11-100-11270-Company RTOS Requirements prior to Company’s initiation of services; and 4) Test and develop the Card Support Library (CSL). Customer shall obtain required commercial details from the RTOS vendor to ensure the BSP is available and provided to Company. Customer shall provide to Company all required equipment and demonstrate to Company functionality with Company’s hardware and Software, prior to Company’s initiation of services and no later than the date specified in an Ordering Document or Company’s VkCoreSC-Company Driver Configuration Request Form. Customer shall demonstrate functionality with Company’s hardware and Software onsite at Company’s designated facility. If Customer fails to demonstrate functionality with Company’s hardware and Software at Company’s designated facility by the specified date, Company may, in its sole discretion, take one or more of the following actions: 1) Extend Company’s services completion date by 1.5 days for each day Customer fails to demonstrate functionality; and 2) Perform Customer’s obligations, in whole or in part, either directly or through a subcontractor, on a time and materials basis at the rate specified in Company’s Document 11-100-11270-Company RTOS Requirements.  
+
+4.  Support
+
+Company has no obligation to provide Support Services for any Licensed Products that are modified by Customer or for any Customer Derivatives. 
+
+ Seize the Edge 
+
+ The future won’t wait, neither should you. Let’s build, secure, and accelerate your next mission together. Contact us today to get started. 
+
+                Contact Us
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

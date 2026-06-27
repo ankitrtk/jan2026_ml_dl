@@ -1,0 +1,882 @@
+URL: https://www.lynx.com/blog/deploying-secure-devops-workflows-in-controlled-environments
+
+Deploying Secure DevOps Workflows in Controlled Environments
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+BLOG
+
+September 05, 2025
+
+Deploying Secure DevOps Workflows in Controlled Environments
+
+by 
+Lynx
+
+Share
+
+Modern DevOps pipelines in controlled environments must run entirely on isolated networks with no direct internet access. Implementing a DevOps workflow to handle environment changes, consistent pipeline building, and package/artifact storage proves to add some additional challenges compared to a typical development environment. In this blog post we dive into practical details regarding:
+
+How to build Docker development containers for reproducible development environments. 
+
+Run Gitlab CI/CD pipelines in a self-managed instance. 
+
+Manage dependencies and artifacts via Nexus or Artifactory inside an air-gapped enclave. 
+
+Containerized Dev Environments (Docker + Dev Containers)
+
+Using Docker ensures all developers build and test code in the same environment. The containers produced here can also be utilized within your CI/CD pipeline, minimizing the number of  environment-related errors that may be encountered.
+
+A useful extension for Visual Studio Code (VSCode) is the development container (
+Developing inside a Container
+). A common pattern for the development container is to ensure that it includes the compiler, library dependencies, and developer tools required to properly compile, test, package, and deploy a software product.
+
+It is created by utilizing a Dockerfile to build the container, and a 
+devcontainer.json
+ file to define the container’s configuration (mounts, users, VSCode extensions, etc).
+
+You’ll want to make sure that the base container you derived from has the proper networking configurations and security certificates to communicate with your intranet.
+
+A simple dev
+elopment 
+container's 
+Dockerfile
+ might look like the following:
+
+Dockerfile
+
+//////////////////////CODE BLOCK START////////////////////////////////
+
+FROM secure-baseline:latest # Insert name of security-configured baseline container 
+
+ARG UID=1000 
+
+ARG USER=container-user 
+
+# Setup user and permissions (for dev container) 
+
+RUN useradd -u ${UID} -m ${USER} && \ 
+
+    usermod -aG wheel ${USER} && \ 
+
+    sed -i 's/# %wheel/%wheel/' /etc/sudoers 
+
+USER ${USER} 
+
+//////////////////////CODE BLOCK END////////////////////////////////
+
+With the accompanying devcontainer.json file looking like:
+
+devcontainer.json
+
+//////////////////////CODE BLOCK START////////////////////////////////
+
+// For format details, see 
+https://aka.ms/devcontainer.json.
+ For config options, see the 
+
+// README at: 
+https://github.com/devcontainers/templates/tree/main/src/cpp
+
+{ 
+
+    "name": "Dev Container", 
+
+    "build": { 
+
+        "dockerfile": "${localWorkspaceFolder}/.devcontainer/Dockerfile", 
+
+        "args": { 
+
+            "UID": "1000", 
+
+            "USER": "${localEnv:USER}" 
+
+        } 
+
+    }, 
+
+} 
+
+//////////////////////CODE BLOCK END////////////////////////////////
+
+Airgap Considerations
+:
+
+In controlled networks, build machines cannot pull base images from Docker Hub or utilize a standard package manager setup like apt-get with Ubuntu mirrors. Instead, it is on you to maintain privately deployed registries or mirrors.
+
+Podman
+
+An alternative to Docker is 
+Podman
+, 
+an open-source container engine developed by Red Hat. It’s main standout from Docker is the fact that it’s daemonless, compared to Docker which requires a daemon to be running in the background. Daemons typically run with root privileges, providing an attack vector to malicious actors. With Podman, users can interact with rootless containers, making this simpler to access while increasing security of the container system. 
+
+Many commands you may be familiar with in Docker are still supported with Podman. You can also add the following line to your `~/.bashrc` file:
+
+`alias docker=podman` in order to support your existing Docker infrastructure in the migration to Podman.
+
+Podman also introduces the benefit with the new concept of “pods”. Pods are groups of containers, similar to how Kubernetes operates, that allows users and administrators to group together various Podman containers. This helps support the principle of least functionality and keeping container sizes small. Including this functionality into the Podman command line tool reduces the amount of dependencies that are introduced to your environment as well.
+
+Gitlab CI/CD in a Controlled Network
+
+Gitlab Self-Managed can run entirely offline on-premises. Gitlab's docs refer to these setups as "offline" or "air-gapped" environments (
+Offline environments | GitLab Docs
+).
+
+Inside the controlled network, GitLab runners execute jobs with limited privileges. It is not advised to run containers in privileged mode, as this effectively disables all the container's security mechanisms and exposes the host machine to the user. Be sure to enable the GitLab runner's job cleanup flag (FF_ENABLE_JOB_CLEANUP) to delete all build directories once a job has been finished.
+
+In your Gitlab Admin settings, ensure sign-in restrictions and default visibility are locked down. Default project visibility should be set to 
+Private
+ so that no repo is inadvertently public. Utilize encrypted vault programs to store CI secrets rather than in plaintext.
+
+Internal Artifact Management (Nexus or Artifactory)
+
+With no internet you must mirror (or cache) trusted package repositories locally. Both Sonatype Nexus Repository and JFrog Artifactory excel here. They support proxy repos (which cache remote data) and hosted repos for your own artifacts. In a controlled setup, you typically use them as the sole source of truth.
+
+Sonatype recommends running Nexus under a non-root OS account (with minimal privileges), or in a container to isolate it (
+Securing Nexus Repository
+). Only allow the machine's IP to reach approved external services (if any) and disable all webhooks or remote repo creation if unnecessary. Keep Nexus's 
+audit log
+ enabled to track all config changes, and periodically mine the request logs for unusual activity. Always enforce role-based access control (RBAC) and always give users the least number of privileges they require. Specific roles should be created for CI/CD runners, QA testers, and security analysts.
+
+On the Artifactory side, JFrog's guidance is similar. You can utilize a tarball of dependencies transferred via a secure USB to instantiate your remote repositories to handle dependencies. It's recommended to create separate repositories to be utilized by development teams for the software artifacts that they produce.
+
+These repositories provide a self-managed, secure option for storing RPMs, Debian Packages, OS and Docker images, and more. Gitlab CI/CD can fetch, and upload dependencies and artifacts as required for specifics jobs.
+
+Best Practices and Trade-Offs
+
+Dependency Management: 
+In a closed network, plan how new dependencies enter the system. Common approaches include whitelisting libraries via a ticketed process or fully mirroring public repos. Both Nexus and Artifactory can be used to host private copies of Maven Central, npm register, Docker Hub, etc. A fully mirrored repo (cloning every path and metadata) gives predictability but is storage heavy. Using a proxy repo conserves space (only cache what's needed) but requires careful configuration and may still need external access.
+
+Version Control & CI
+: A self-hosted Gitlab means you control upgrade cadence. Upgrading in an air-gap environment requires staging servers. It is highly recommended to back up Gitlab's DB and repositories frequently in case of corruption.
+
+Audit & Logging:
+ Record everything. Gitlab's audit logs, Nexus's audit logs, OS-level syslogs and network logs – all should be shipped to a central log management system if possible.
+
+Access Control: 
+Enforce least privilege everywhere. For Nexus/Artifactory, map roles to functional teams. Utilize private SSH keys when cloning from Gitlab and set up specific access tokens for your CI/CD runners.
+
+Trade-offs
+: Everything has a bit more friction in an air-gapped environment. Be sure to continuously update mirrored package repositories, Gitlab instances and other software to patch security vulnerabilities. Plan for regular maintenance of windows to patch servers and images.
+
+Conclusion
+
+Building a secure DevOps pipeline and workflow in a controlled environment requires careful planning and airtight workflows. By containerizing development, running a self-hosted Gitlab with no internet dependency, and serving all packages via Nexus or Artifactory, you can achieve a modern build/test/deploy pipeline that meets security requirements. The examples shown above illustrate one approach. In practice, every organization must adapt these patterns to its own security policies and network topology. The principles remain consistent: 
+
+Isolate Aggressively 
+
+Cache Dependencies 
+
+Log and Audit Continuously.  
+
+Done right, even controlled projects can benefit from DevOps speed and automation, with confidence that no data has slipped beyond the perimeter.
+
+Connect with a DevSecOps expert over a call and see how we can help.   
+
+Transform Your DevOps for Controlled Environments
+
+From air-gapped CI/CD pipelines to secure artifact management and containerized development, operating in controlled environments requires isolated tools and an integrated, security-first approach.
+
+Discover expert strategies and proven architectures to modernize your DevOps workflows without sacrificing control, performance, or compliance.
+
+Lynx
+
+Subscribe Here!
+
+ Seize the Edge 
+
+ Lynx is evolving and our commitment to safety, security, and performance is stronger than ever. We are excited to embark on this next chapter with you. If you have any questions or want to learn more about this transition, we are here to help. 
+
+                Contact Us
+
+Related Blogs
+
+            View All
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

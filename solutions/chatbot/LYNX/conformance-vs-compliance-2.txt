@@ -1,0 +1,401 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/conformance-vs-compliance
+
+Conformance vs Compliance – What's in a Word?
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            4 min read
+
+Conformance vs Compliance – What's in a Word?
+
+ LYNX Software Technologies
+
+ : 
+
+                Dec 2, 2020 9:03:01 AM
+
+Anyone who travels with a laptop soon develops a bittersweet relationship with international power adaptor plugs. Sure, they turn your homeland plug into something that approximates to what’s needed. But we’re all too familiar with the questionable connections, the weight that pulls away from the wall, and the bulk that baulks adjacent sockets. Adaptor plugs do a job, but they’re compromised. Compromise is also a familiar bedfellow for safety critical software development lifecycle is littered with similar compromises. But not all of them are quite so obvious.
+
+CODING STANDARDS
+
+In the C and C++ world, most coding defects result from the incorrect usage of relatively few features of the language. The idea of coding standards is that by avoiding the parts of the language that are known to be problematic, defects are avoided, and the software quality improves.
+
+There are countless static analysis tools designed to check adherence to coding standards such as those defined by the MISRA organization. For example, MISRA C:2012 Rule 18.3 states that “
+The relational operators >, >=, < and <= shall not be applied to objects of pointer type except when they point to the same object.” 
+The rationale behind the rule is that attempting to make comparisons between pointers will produce undefined behavior if the two pointers do not point to the same object.
+
+Suppose a particular tool identifies possible transgressions of rule 18.3 by identifying every instance where a relational operator is applied to objects of pointer type, irrespective of the object. Its developers could justifiably claim to check for compliance with MISRA in this regard, because their offering can identify every transgression of Rule 18.3.
+
+It would clearly be better to check the object too, and to only highlight instances where the same object is involved. Such an approach would avoid the “false positives” associated with the valid use of relational operators, and the overhead associated with checking them all.
+
+Much like our power plug adaptor, the static analysis tool will do a compromised job.
+
+SELECTING AN RTOS
+
+This imprecision in the implementation of specifications is a recurring theme. Consider the selection of an RTOS as another example. One of the benefits of working with an operating system that adheres to the POSIX standard is that you’re unlikely to ever be beholden to one particular provider. If you want to switch from one RTOS to another, it’s then just a question of recompilation and away you go.
+
+But is it really that simple? Consider the illustration, which shows the Open Group’s terminology for architectural compliance and conformance.
+
+Now look up the word “compliant” in your dictionary of choice. You’ll find a definition along the lines of “meeting or in accordance with rules or standards.” Repeat the exercise for the word “conformant” and you’ll likely see “compatible or conforming with appropriate standards.” So the two words are synonyms, right?
+
+Well – yes. And no. Perhaps in everyday conversation the words are interchangeable, and lingering on any perceived difference between them would be pedantic. But in the worlds of system and software engineering, the distinction is much more telling.
+
+The Open Group's Illustration of Architecture Compliance and Conformance
+
+The illustration shows what is meant by conformance and compliance in this context. It also highlights the possible degrees of subtle mismatch, capturing in a nutshell the blurring of boundaries between what is defined by a specification and what is implemented in practice.
+
+That raises questions about our assumed portability. For example, if you’ve developed a system deploying an RTOS that includes non-conformant features, any change of RTOS is likely to involve at least a partial a rewrite.
+
+Now suppose your original system used a fully POSIX conformant RTOS, and your selected replacement is conformant, but not fully conformant. How can you be sure that your new OS implements all of the features leveraged in your code base?
+
+Not all of the challenges inherent in non-conformance are quite that transparent. For example, POSIX OS support multiple instances of a program (“processes”). To be conformant with the POSIX standard, processes must be kept separate through the use of memory protection.  
+
+Just because an OS can support some POSIX APIs doesn’t necessarily mean that it supports the POSIX process model with its separation of processes into their own memory address spaces. Without proper address space separation for processes, a bad pointer or invalid memory access can potentially corrupt an entirely different application, corrupt the kernel, crash the system, or lead to bugs that are extremely difficult to understand.
+
+FACE™ SUPPORT
+
+This situation is exacerbated when an operating system is required to support FACE (Future Airborne Capability Environment). 
+
+The FACE Reference Architecture defines three FACE Operating System Segment profiles – namely Security, Safety, and General Purpose. These tailor the Operating System (OS) Application Programming Interfaces (APIs), programming languages, programming language features, run-times, frameworks, and graphics capabilities to meet the requirements of software components for differing levels of criticality.
+
+It is entirely legitimate for OSes to claim FACE compliance to the lesser profiles and yet exclude key POSIX features such as the fork() system call. But the omission of those key features can be a recipe for debugging headaches.
+
+TAKING A STEP BACK
+
+It would be easy to conclude from these examples that the route to success is to seek out the most faithful implementation of every specification and standard applicable to your project.
+
+In some places, like the coding standard checker, that’s likely to be the best solution. But there are subtleties at work here.
+
+We’ve seen that FACE 3.0 does of course include a specification for what constitutes a conformant RTOS. If you choose to specify an RTOS as part of your architecture then full conformance is clearly desirable.
+
+But while FACE 3.0 assumes the use of an RTOS, it does not mandate it. Perhaps a cleaner, more elegant way to address the compliance issue is not to apply an RTOS at all, and to use a modular framework solution instead.
+
+And power adaptor plugs? They come in various shapes and sizes. Some are lighter, slimmer, connect more reliably. But if you swap your power cord to use one that suits the local supply, you’ve no need for an adaptor at all.
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

@@ -1,0 +1,396 @@
+URL: https://www.lynx.com/executive-blog/august-company-update
+
+August company update
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+August company update
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Aug 3, 2020 8:24:29 AM
+
+Mindful Musings Blog
+
+Security
+
+Iot
+
+IIoT
+
+vertical lift consortium
+
+future vertical lift
+
+covid-19
+
+company update
+
+aerospace & defense
+
+FVL
+
+One of the regular topics on LinkedIn and, indeed, in business topics, is about the need for small businesses to focus. I have always struggled with this over my career. In the should-be-post-COVID-19 era, this is really challenging for us… but arguably in a good way!
+
+Some industries are slowing down (automotive production as an example, outside China)
+
+Some industries are accelerating (Military and Robotics as two examples)
+
+The quantitative data in market research reports is largely worthless and customers—my usual source for reliable information—are struggling with the complex landscape of demand from their end customers. So, at least for the near term, that is leading to very long days and a significant amount of context switching between tasks. I thought it might be interesting to share a little bit of what the last week has looked like at Lynx...
+
+Military programs seem to be alive and well
+; This past week, the team needed to deliver detailed responses to three RFIs and provide detailed proposals for two existing customers, one of which focused on covering boot security, key management and anti-tamper issues
+
+Autonomous systems take to the air
+; Lynx is excited to have joined the 
+Vertical Lift Consortium
+. We presented at the latest members’ meeting (below). It’s good to be part of a 
+diverse set of businesses, not-for-profit entities and academic organizations aligned on developing innovative vertical lift technologies to meet warfighter needs
+
+We created a presentation for a UK virtual event being hosted by 
+Electronics Specifier
+ on September 1. I am being videoed next week, giving some thoughts on the automotive industry (spoiler alert, part of the answer is above)
+
+We are bringing a new US PR agency onboard and so we are spending a lot of time (and they are being very patient) listening to a number of us ramble on about our technology and USPs. Welcome on board, 
+Shift Communications
+! We have a lot of exciting things planned in the months ahead.
+
+As I mentioned in a prior blog, we have been surprised with the number of incoming inquiries associated with deploying 
+our technology in secure laptops
+. This is now broadening to, let’s refer to it as Secure IT. The modern method of providing software updates to deployed platforms does have a number of challenges from a system security and reliability standpoint, and we are exploring more about whether we have a competitive, sustainable advantage in this segment. I will update you all soon when I can share more
+
+With physical events still being canceled (we were readying an exciting FACE 3.0 demo for the upcoming event in September, the Expo portion of which has been canceled), we are increasingly focused on webinars and use of video to showcase 
+demos
+ and interesting discussions with partners. We posted this one with 
+Rapita Systems
+ earlier in the week, overviewing the challenges associated with the certification of multicore processor platforms for avionics’ systems.
+
+Thanks for reading this far. I hope you found this interesting. Please 
+let me know
+ what you would like Lynx be talking about in these forums. We will do our best to comply!
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

@@ -1,0 +1,397 @@
+URL: https://www.lynx.com/executive-blog/multicore-certification-not-losing-track-of-our-avionics-heritage
+
+Multicore Certification: Not Losing Track of Our Avionics Heritage
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Multicore Certification: Not Losing Track of Our Avionics Heritage
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Jun 18, 2020 10:12:22 AM
+
+News
+
+Avionics
+
+Mindful Musings Blog
+
+Multicore
+
+Safety
+
+CAST-32A
+
+MCP
+
+Systems Architecture
+
+embedded systems
+
+LynxSecure
+
+virtualization
+
+MASTECS
+
+Earlier this week, Lynx 
+announced
+ a set of products for a number of target applications. Each of these feature a combination of Lynx technology, guest operating systems from third parties and system integrations. Much of the 
+early coverage
+ has discussed our expansion into certain green- and brown-field industrial applications, and we are certainly excited about the opportunities there.
+
+That said, it is important to note that we aren’t doing this at the expense of giving up on our core market of Avionics. One of the items that I am now able to share a few more details on is Lynx’s engagement around the 
+Multicore Analysis Service and Tools for Embedded Critical Systems (MASTECS) project
+, which is supported by the 
+Barcelona Supercomputing Center
+, 
+Marelli
+, 
+Rapita Systems
+, and 
+Raytheon Technology Research Center (RTRC)
+.
+
+Multicore processors are needed for the next generation of mission critical embedded, aerospace and automotive applications, yet there are 
+substantial challenges involved
+ in building safe software systems on multicore processors. The EU-funded MASTECS project has recognized the market need for multicore processor timing analysis to support advanced software functions.
+
+Real-time systems based on a single core processor (SCP) are well understood in the industry, which has adopted a real-time system engineering process built on the constant worst case execution time (WCET) assumption, which states that the measured worst case execution time of a software task when executed alone on a single core remains the same when that task is running together with other tasks. While the assumption of a constant WCET is correct for single core chips, it is NOT true for current multicore processor (MCP) chips, due to interference across cores in accessing shared resources.
+
+As it is now, the interference between cores can cause spikes in worst cases execution times as high as 6X compared to the case of a single core. The problem scales roughly with the number of cores and depends on the intricacies in resource sharing implemented in each specific MCP product. This discovery has deeply shaken the well-established foundations of the systems engineering process used on real-time systems, and has consequently exposed critical challenges towards the safety certification for systems based on multicore architecture.
+
+In many cases, certification has been achieved only when a single core in a multicore system is used. The FAA has promised to allow the use of multiple cores in a multicore processor chip but only if adequate mitigations can be demonstrated to certifiers, based the CAST-32A specifications.
+
+This is the area of focus for the two-year project funded by the Horizon 2020 Initiative. There is a great outline 
+here
+ of the hardware that is being used for this system. You will see this is NOT a simple demo board. This is a Civil Certified Vehicle Management computer which supports three different processor architectures.
+
+Lynx is working closely with the to support the Avionics use case for this platform, providing our 
+LynxSecure separation kernel hypervisor
+. Like many, we are excited to see the conclusions that come out of this program. Hopefully, I will be able to share interim updates in this forum as the program progresses.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

@@ -1,0 +1,305 @@
+URL: https://www.lynx.com/products/lynxos-posix-real-time-operating-system-rtos
+
+LynxOS-178: DO-178C & DO-356 Certified POSIX RTOS for Avionics & Safety-Critical Systems
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+Lynx
+OS-178: DO-178C & DO-356 Certified RTOS for Avionics & Safety-Critical Systems
+
+LynxOS-178 is a commercial off the shelf (COTS) real-time operating system (RTOS) supporting x86, Arm, and PowerPC platforms. It is based on open standards and is designed specifically to fulfill the stringent needs of multithreaded and multiprocess applications in safety-critical real-time systems, providing security and safety through strict, hardware isolation between real-time processes, applications, and the RTOS kernel services and drivers.
+
+This makes it a strong candidate for applications requiring an RTOS with hardware isolation for safety-critical systems.
+
+Lynx
+OS-178: Based on Open Standards
+
+LynxOS-178 is a COTS RTOS supporting x86, Arm, and PowerPC platforms. It is based on open standards and is designed specifically to fulfill the stringent needs of multithread and multiprocess applications in safety-critical real-time systems, providing security and safety through strict, hardware-enforced isolation between real-time processes, applications, and the RTOS kernel services and drivers.
+
+BUSINESS BENEFITS
+
+Most cost- and time-effective path to create certifiable mission-critical systems from Linux development​
+
+Lowest certification costs for Arm, PowerPC, and x86 multicore architectures
+
+Reduced vendor lock-in
+
+DEVELOPMENT BENEFITS
+
+Compatible with ARINC, 
+FACE
+, and POSIX standards​
+
+Certified multiple times to DO-178 DAL A, including an IPv6 networking stack​
+
+Awarded Reusable Software Component (RSC) certificate from the FAA to simplify the path to reuse software across projects
+
+MORE BENEFITS
+
+LOWER PROJECT RISKS AND INCREASE SAFETY
+
+Many companies are using Linux-based PCs to create their application software for embedded systems. LynxOS-178 has the strongest alignment to the POSIX APIs (PSE 53/54 profiles supported) across all suppliers of real-time operating systems (RTOS), which simplifies the migration of real-time and/or safety certifiable software to an RTOS.
+LynxOS-178 supports x86, Arm, and PowerPC multicore processors. This RTOS is available as part of the 
+LYNX MOSA.ic
+ software framework or available to run directly on hardware.
+LynxOS-178 is specifically designed to fulfill the stringent needs of multi-thread and multi-process applications in mission critical systems, providing security and safety through strict, hardware-enforced isolation between applications. This operating system has been certified multiple times to DO-178 DAL A. LynxOS-178 has been deployed in certified commercial and military avionics systems that have flown hundreds of millions of hours. As an RTOS for Integrated Modular Avionics (IMA), LynxOS-178 provides a robust and reliable platform.
+
+CERTIFIED FACE CONFORMANT
+
+The US Government is specifying use of open standards to reduce vendor lock-in. The MOSA standard specifies use of the FACE standard. Lynx supports v3.1, the latest version of the 
+FACE 
+standard.
+
+ARM CONFORMANCE CERTIFICATE
+
+INTEL CONFORMANCE CERTIFICATE
+
+POWERPC CONFORMANCE CERTIFICATE
+
+LET'S CONNECT
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

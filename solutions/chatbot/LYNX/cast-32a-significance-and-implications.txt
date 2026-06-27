@@ -1,0 +1,419 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/cast-32a-significance-and-implications
+
+CAST-32A: Significance and Implications
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            4 min read
+
+CAST-32A: Significance and Implications
+
+ Mark Brown | Systems Architect
+
+ : 
+
+                Nov 15, 2018 10:36:00 AM
+
+Avionics
+
+Multicore
+
+FAA
+
+Safety
+
+TC-16/51
+
+CAST-32A
+
+Certification
+
+MCP
+
+embedded systems
+
+development
+
+real-time
+
+_______________
+
+CAST-32A presents the coordinated position of avionics certification authorities regarding Multi-Core Processors (MCPs).  While today’s aerospace ecosystem could benefit from the use of MCPs, before CAST-32A was published, FAA/EASA had not yet devised a means to obtain certification credit for safety-critical software deployed to an MCP.  Toward that end, the CAST-32A position paper identifies topics of concern that could impact the safety, performance, and integrity of DO-178C aviation software deployed to MCP(s). For each topic, the paper provides a rationale that explains why these topics are of concern and proposes objectives to address the concern. (CAST-32A, “Purpose”, p. 3)
+
+Since relevant avionics software certification documents (DO-178B/C and ED-12B/C) were written before MCPs were used in civil aircraft, those certification guidelines can only address software executing on single-core hardware.  The Certification Authorities Software Team (CAST) is an international team of aviation experts who clarify and harmonize the aviation development ecosystem. Their CAST-32A position is that MCPs could credibly deliver size, weight, power, and cost (SWaP-C) advantages and that today’s aerospace equipment suppliers are interested in using MCPs in their systems.
+
+The consumer device world has fully embraced MCPs and many of the devices used daily by the readers of this paper contain MCPs. Some in fact predict the obsolescence of single-core processors (SCPs) altogether.
+
+Tomorrow’s avionics will most certainly contain more sophisticated avionics, meaning greatly expanded processing power.  MCPs are a major solution to this rapidly expanding need for enhanced computing architectures and processing power; therefore, the aerospace industry in general must consider how best to utilize MCPs in future designs.  But how can MCP challenges be overcome?
+
+Before describing MCP (and CAST-32A’s) topics of concern, which emphasize partitioning and its degradation by interference, first consider the background influencing the use of MCPs.  Engineers and managers who already anticipate using MCPs as hardware targets for their next generation of software will benefit from considering these influences for future designs. 
+
+Single Core vs. Multi-core
+
+The following simplified diagram depicts essential differences between single-core and multi-core:
+
+Single Core vs. Multi-core Diagram (Simplified)
+
+As shown above, each single core (left hand side) is comprised of a set of registers and an associated Arithmetic / Logic processor Unit (ALU).  Multithreaded cores (not shown) may be designed after duplicating the most highly used parts of a single core, e.g., by adding a second register file. In true MCPs (shown above, on the right-hand side), cores are tiled to create a larger set of cores.  Typically, both SCPs and MCPs use a bus interface to access an increasingly rich and complex network of peripheral resources.
+
+Different developers assign varying reasons for utilizing MCP, but common advantages cited are:
+
+Higher performance
+
+Simultaneous execution
+
+Less power and heat per individual instruction executed
+
+Use of multithreaded applications
+
+Supports Moore’s Law (see details herein)
+
+Access to “latest” and often best-in-class commercial technology
+
+New Home for Safety-Critical Real-time Tasks: House, Apartment, or Hotel? 
+
+PC, server, and mobile markets using symmetric multi-processor (SMP) operating systems have greedily gobbled up commodity MCP parts available since 2005. Enterprise server rooms simply scaled up, completing heavier workloads faster.  In contrast to these markets, real-time deadlines and safety concerns characteristic of DO-178C-certified software have delayed the adoption of MCP for avionics software. The topics of concern presented in CAST-32A get at the nub of the difference between SMP operating systems, which have readily scaled up to utilize MCPs, and real-time operating systems which have not.
+
+These concerns are emphasized in many other FAA and RTCA publications; for example, a reference model for real-time processing is given in FAA AR-05/27. In that model, real-time avionics systems are seen as computing a “control law” which takes inputs from sensors and gives outputs to actuators on a fixed periodic basis.  When the actuator controls a flight surface or some other safety-critical aspect of the aircraft, missing the deadline can have catastrophic effects. In these contexts, the most challenging problems facing MCP deployments involve protecting – or partitioning – the software responsible to meet these safety-critical deadlines and ensuring the determinism of unchangeable manufacturer logic designed into the MCP.
+
+In an enterprise context, tasks, processes and threads are encouraged to move out from their home processor more frequently – at a rate which may be compared to Moore’s Law.  In contrast, re-hosting real-time embedded systems raises safety concerns and certification costs which must be considered afresh whenever avionics software is deployed to a different model of processor core.  As a rule, in avionics (and safety-critical) contexts, software requiring deterministic real-time deadlines is more tightly bound to a specific processor core and target board.  Because of this, Moore’s Law both helps and hurts real-time systems.  A plot of Moore’s Law (below) helps to frame these concerns in terms of exponential growth over decades:
+
+A useful metaphor to frame this discussion may be found by considering how to re-host a real-time, safety-critical task from its own dedicated SCP to a “new home.”  Is the new home a (1) permanent dedicated-to-use structure, like a house, (2) a shared-use structure, like an apartment, or (3) a time-shared room, like a hotel?
+
+Is CAST-32A Significant Today? 
+
+In 2014, the FAA released CAST-32, which is obsoleted by CAST-32A.  At the time, independent industry experts, such as David Arterburn, Director of Rotorcraft Systems Engineering and Simulation Center at the University of Alabama at Huntsville, downplayed the short-term prospects of multi-core processing, pointing to the difficulty of understanding and predicting complex interactions within quad-core chips. Arterburn was at the time compiling 36 studies of various Army Aviation PEO-funded working groups. V. H. Dova reports in his evaluation of the technical readiness levels of future Integrated Modular Avionics (IMA2G or 2nd Generation IMA):
+
+‘Arterburn downplayed the significance of the CAST-32 paper, asserting that no multi-core chip installation has actually achieved official airworthiness. He was quick to point out however that the issue would soon come to a head. “Within five years” he predicted, “you won’t be able to buy a commodity single-core processor” (D. R. Arterburn, personal communication, January 22, 2015).’ (as reported in Dova, 2015)
+
+The graph of Moore’s Law (above) supports Arterburn’s prediction.  Not only are commodity MCPs on the rise as SCP production declines, but the red triangle plot of Transistors will inevitably hit a wall stemming from a limit of physics (the minimum size of a semi-conductive crystal) and a cost-benefit limit (the commodity price per transistor).  Leading voices in this prediction include Bob Colwell, formerly Intel’s IA-32 chief architect and Intel Fellow (as reported in MIT Technology Review). Gordon Moore concurs (as reported by Rachel Courtland for the IEEE).
+
+While exponential growth in the number of transistors will cease, the number of logical cores per microprocessor package (or “chip”) has grown exponentially since before 2010. It is this new MCP trend, shown in the graph above as the plot of black diamonds, which CAST-32A addresses.
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

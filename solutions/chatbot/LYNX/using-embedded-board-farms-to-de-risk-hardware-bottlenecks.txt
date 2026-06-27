@@ -1,0 +1,811 @@
+URL: https://www.lynx.com/blog/using-embedded-board-farms-to-de-risk-hardware-bottlenecks
+
+Using Embedded Board Farms to De-Risk Hardware Bottlenecks
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+BLOG
+
+October 23, 2025
+
+Using Embedded Board Farms to De-Risk Hardware Bottlenecks
+
+by 
+Lynx Engineering Team
+
+Share
+
+Most embedded development teams face a familiar challenge: Progress on code development moves along well, but testing on actual hardware becomes a bottleneck. The board needed for testing is either being used by someone else, sitting in another lab, or requires a setup that takes considerable time to configure properly. 
+
+These hardware access issues aren't just minor inconveniences. They can slow down entire development cycles and add unexpected costs to projects. Teams often try various workarounds, buying duplicate setups, shipping boards between locations, or accepting longer development times as inevitable. 
+
+Recently, teams have increasingly turned to "board farms", i.e. hardware setups that can be accessed remotely. Lynx has developed systems that make this approach practical and reliable with hardware that can be present at one or more physical locations but centrally accessed via a single board farm application accessible over Web, CLI and API interfaces. 
+
+What Are Board Farms?
+
+A board farm is essentially a rack of hardware boards that team members can access over the network. Instead of having physical boards scattered across different workstations, everything is consolidated in one location but remains accessible to anyone who needs it.
+
+The Lynx implementation uses controller units they call "Zombies," (Figure 1) each managing up to four boards, with camera feeds so you can see what's happening on each board. They also have input-output controller (IO-CX) (Figure 2) units that handle peripheral switching, things like USB connections, on demand Ethernet switching, SD card access, GPIO control. The whole system is controlled through a REST API, which makes it possible to integrate with existing development tools and CI systems.
+
+Figure 1. Zombie (Hardware provided by Lynx) sits on on-prem network and interfaces with your board. Each zombie can support up to 4 Devices Under Test (DUTs).
+
+Figure 2. Input Output Controller (IO-CX) (Optional: Hardware provided by Lynx) used for low level hardware control; connected between Zombie and Device Under Test (DUT)
+​
+. Connecting the IO-CX provides power control, USB Ethernet hot plug, user controlled GPIO, SDMUX, and an I2C bus.
+
+The Hardware Access Problem
+
+A survey that Lynx conducted with embedded professionals found that although more than half considered remote hardware access essential for their productivity, less than 10% were satisfied with their current arrangements. This suggests that hardware access is a widespread problem.
+
+The challenges are fairly predictable. Teams often have to coordinate who uses which boards, which can create delays and scheduling conflicts. When boards are in different offices or buildings, physically moving them around wastes time and risks damage. At the same time, maintaining multiple identical test setups gets expensive, especially with specialized hardware. And keeping all these different setups synchronized and configured correctly is more difficult than it initially appears.
+
+These aren't just minor workflow issues. When hardware access becomes a bottleneck, it can affect project timelines and budgets in meaningful ways.
+
+How Do Board Farms Help Development Teams?
+
+Centralizing hardware access addresses several of these problems directly.
+
+Shared access:
+ When boards are networked resources rather than physical objects that need to be passed around, multiple people can work more efficiently. Teams report significant reductions in hardware-related delays once they implement this kind of system. 
+
+CI/CT integration:
+ With API control, automated testing can include real hardware, not just simulation. Build systems can power-cycle boards, trigger specific hardware events, or run tests that require actual peripheral devices. This means teams can catch hardware-software integration issues earlier in the development process. 
+
+Remote debugging:
+ Engineers can access serial consoles (Figure 3), view display outputs, and even share sessions with colleagues for collaborative debugging. This is particularly useful for distributed teams or when help is needed from someone who isn't physically present. 
+
+Consistent environments:
+ When everyone uses the same API and infrastructure to interact with hardware, test scripts become more portable, and environments stay more synchronized.
+
+Figure 3. The serial console allows for remote control of the embedded board.
+
+One Workflow for Virtual and Physical Testing
+
+When Lynx acquired Timesys in late 2023
+, the company began integrating board farm technology with our Virtual Integration Environment (VIE) as a way of providing a smoother transition from virtual development environments to real hardware testing.
+
+This makes sense from a development workflow perspective; virtual environments work well for early development and architecture decisions, but eventually real hardware is needed to validate timing, power consumption, and peripheral behavior. Having both virtual and physical resources available through similar interfaces reduces friction when moving between these phases, and the same tests can be used for virtual and physical targets. 
+
+Building and maintaining a reliable board farm that evolves over time is a challenging endeavor, one which Lynx has solved with 
+Embedded Board Farms and Virtual Integrated Environments
+ (EBF and VIE) (Figure 4). 
+
+Figure 4. Virtual Integration Environment (VIE) Client Developer PC interface (Left) and Developer PC connecting to Device Under Test (DUT) via Embedded Board Farm (EBF) (Right).
+
+Practical Results: Board Farms Boost Productivity
+
+Teams using board farms typically see improvements in development cycle times, with some reporting reductions of 30-40% in hardware-related delays. The budget benefits can be significant too, particularly for expensive or specialized boards where centralized access means duplicate hardware isn't needed across multiple workstations.
+
+Perhaps more importantly, when hardware access isn't a constraint, teams tend to test more thoroughly and catch issues earlier in the development process. This can prevent more expensive fixes later on.
+
+What to Consider When Implementing a Board Farm
+
+For organizations thinking about setting up a board farm, starting with a small pilot is typically best, maybe four to eight commonly used boards. The infrastructure requirements aren't too complex; everything can generally fit in a standard equipment rack. 
+
+The key is integrating with your existing workflow. Start by scripting basic operations like power cycling and console access, then gradually expand to more complex test scenarios. Building this into CI systems from the beginning rather than treating it as a separate tool is important. 
+
+Network requirements deserve some attention, especially when planning to stream video or handle high-bandwidth data transfers. Access control is important. Proper authentication and logging are needed to avoid conflicts and maintain security. 
+
+There are some things to watch out for. Without proper access management, scheduling conflicts or configuration problems can develop. The network infrastructure needs to be robust enough to handle the traffic, particularly for video streams and other large data transfers. 
+
+Security should also be carefully considered. While keeping everything behind a firewall provides some protection, proper authentication, authorization, and audit trails are still needed. Making valuable hardware accessible over the network requires standard network security practices. 
+
+Fortunately, Lynx has resolved these issues with our EBF product, so organizations don’t need to develop their own board farms. 
+
+Board Farms Are Becoming Essential in Embedded Development
+
+Hardware bottlenecks significantly impact development productivity and project timelines. Board farms are a practical solution to combat these issues by treating hardware as shared and networked infrastructure rather than scarce physical resources.
+
+The approach that Lynx has developed represents a shift toward more efficient hardware utilization in embedded development. While it requires some upfront investment in infrastructure and process changes, the productivity gains and cost savings down the line justify the effort for most teams. 
+
+For organizations dealing with hardware access constraints, board farms are becoming a standard part of the development infrastructure, similar to version control systems or continuous integration tools. The question is often not whether this approach would be helpful, but when it makes sense to implement it given specific team constraints and priorities. 
+
+Learn more about our 
+Embedded Board Farm
+ product by exploring our 
+detailed guide
+, or 
+contact us
+ for more information or a product demonstration.
+
+Lynx Engineering Team
+
+Subscribe Here!
+
+ON THIS PAGE
+
+ Seize the Edge 
+
+ The future won’t wait, neither should you. Let’s build, secure, and accelerate your next mission together. Contact us today to get started. 
+
+                Contact Us
+
+Latest From Lynx
+
+            View All
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

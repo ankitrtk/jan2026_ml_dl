@@ -1,0 +1,377 @@
+URL: https://www.lynx.com/executive-blog/no-safety-without-security
+
+No safety without security
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            3 min read
+
+No safety without security
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                May 12, 2020 11:11:39 AM
+
+Mindful Musings Blog
+
+Safety
+
+Systems Architecture
+
+Security
+
+embedded systems
+
+FreeRTOS
+
+LynxSecure
+
+Since my last blog on Edge Computing, I have been contemplating Lynx’s positioning with regard to safety or security. Are we providing security or safety? The short answer is that we provide both. But the slightly longer answer is more interesting.
+
+Security and safety are distinct concepts in computing, but they are interdependent.  A self-driving car is safe if it brakes when someone steps in front of it, or if an airbag is guaranteed to be deployed in the event of an accident. Think of a safe system as a system that does not harm the user (or the world); the relationship is internal --> external. Security, on the other hand, prevents a bad actor out in the world from harming the system; a relationship that is more external --> internal. Of course, that “safe” car may be compromised if it is 
+hacked
+, with the controls being taken over by another person, which is where the two concepts overlap.
+
+While security and safety may be distinct properties, you cannot have safety without security. 
+
+For our traditional customers in aerospace and defense, there is a particular focus on safety and enabling customers to certify that what we provide aligns to the system specifications that have been created. In this case, safety is aligned with assurance (the DO-178 safety standard refers, in fact, to Design Assurance Levels E-A). As we start to enter areas like manufacturing plants, security becomes a significantly bigger value proposition. Connected systems present a threat from both malicious and unintended (poorly written code) threats. Much has been written about this area, so I will leave that for another discussion. What I have found fascinating is that factories are increasingly being challenged to be nimble and adept. Instead of creating hundreds or thousands—or even millions of the same thing—there is a desire to swiftly reconfigure equipment to support different builds.
+
+Imagine the supplier of the machine that is creating Coca Cola in Japan for example. In 2016, they created 
+100 new products
+ for that local market. The logistics of managing that manufacturing plant will require equipment that can adjust a number of aspects to create the specific soda variant. This might involve information that is extremely sensitive and so there might be a desire for that software to be written by Coca Cola themselves. For the company whose equipment is making the drink, they need to be able to integrate Coca Cola’s software and ensure that it cannot interfere with the fundamentals of the equipment that is creating the product. Now, replace Coca Cola with a supplier of 3D-printed chassis for customized vehicles—or unique metal for a specific building construction or piece of furniture—and you can see how this type of technology can help revolutionize certain factory workflows.
+
+The other area that has been written about is the intersection of information technology (IT) with operational technology (OT). How do you blend the instructions of what the equipment is configured to do (IT) with what is happening in real-time in the factory (OT)? In this area, the pace of deploying technology severely lags the latest and greatest multi-core technology. Old generations of Windows and probably DOS abound. You have all probably seen the “
+blue screen of death
+” (or BSOD) while walking around an airport, a school, a library, a mall, or a factory.
+
+In the factory environment, the relatively slow pace of change is understandable, since there is a focus on reliability, which translates to increased up-time, reduced accidents, less scrap etc. OT technology is, therefore, separate networks that get connected up to the IT networks at a main console level. The desire is to push this fusion of IT and OT worlds out on the factory floor, so that machines can make better decisions, more quickly. This will need new equipment featuring high performance processors running multiple workloads concurrently that have different tolerances for how quickly they must respond to real time events (marketing fancy types refer to this as “mixed criticality systems”). These systems need to be shown to deliver significant improvements in business outcomes for specific workflows in order for them to be adopted. 
+
+As I mentioned in my last blog, while the foundational piece of the Lynx offering, 
+LynxSecure
+, remains valid in this area, the mix of additional functionality that is placed inside the 
+LYNX MOSA.ic™
+ software framework does change from what is most applicable to the avionics space. We are hard at work creating solutions for this space and we will be sharing more details in the not-too-distant future.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

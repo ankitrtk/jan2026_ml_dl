@@ -1,0 +1,312 @@
+URL: https://www.lynx.com/industries/avionics?hsLang=en
+
+Industries | Avionics
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+Layering the  
+safe, adaptable,  traceable, certifiable
+
+foundation for certified multi-core avionics
+
+CHANGES ACROSS THE AVIONICS INDUSTRY
+
+The International Air Transport Association (IATA) forecasts that global passenger numbers will rising to 7.8 billion annually in 2036. That is everyone on the planet taking at least one flight a year. To match that demand, the aviation industry is continuing to raise output to historic levels. In July 2018 Airbus announced that nearly 37,400 new aircraft are required over 20 years, doubling the world’s passenger fleet to more than 48,000 aircraft.
+Given the increased awareness of the need for sustainability, we are seeing interesting investments to solve this problem. While current propulsion technologies are still wedded to the consumption of fossil fuels, over coming years we will see the increasing electrification of aircraft. As a step towards an eventual goal of a completely electric aircraft, Airbus is developing its E-Fan X hybrid-electric demonstrator, which should fly in 2020. It will replace one of the four engines on a regional jet with a 2MW electric motor.
+As exciting is the advent of urban air mobility (UAM) services. Barriers to entry, relative to those required for a large commercial aircraft at least, are low and a large number of programs are underway for electric vertical take-off and landing (eVTOL).
+While there is enormous change in the industry, at least one thing remains the same: the need for safety.
+
+ASK THE EXPERT
+LYNX VIDEO SERIES
+
+In our latest ASK THE EXPERT video, Lynx and RAPITA discuss the state of multicore and touch on the challenges in building safe, certified multicore systems.
+
+TRANSPORTATION DEMANDS BY 2036
+
+IATA and Airbus forecasts:
+
+0
+
+Global annual passengers
+
+0
+
+Estimated passenger aircraft
+
+CAN DO-178B/C AND FACE™ CO-EXIST?
+
+DO-178C is a software development and certification process used by the United States Federal Aviation Administration (FAA) and European Union Avionic Safety Agency (EASA) to ensure the airworthiness of software components deployed in civilian aircraft.The FACE™ Consortium is a government and industry forum that defines standardized approaches for using open standards with avionic and defense systems in the effort to promote interoperability throughout large scale internet connected systems.
+For designs that that require both airworthiness and global connectivity, does the adoption of standards fit for large scale systems such as FACE impose underlying complexities that make DO-178 certification efforts practically intractable?
+
+SAFETY VS. INTEROPERABILITY 
+
+Safety conscious advocates are unwilling to inherit design complexities that require too much software to develop and maintain that may result in system behavior states that are impossible to reason about and test. Interoperability advocates are unwilling to accept stove pipe implementations that lack interoperability properties and the ability to recoup investments through design reuse. Both camps have legitimate concerns, with the debate escalating in the advent of multi-core designs where the inherent complexity of the system irrefutably increases while the certification design scrutiny also increases. Resolving this conflict requires a platform capable of managing the complexities imposed by the abstraction layers of standard APIs while ensuring that side effects of these complex subsystems cannot interfere with environments classified at the highest assurance level.
+Lynx is engaged in both areas. In addition to the DO-178 certification work, as part of our engagement in the Joint Strike Fighter (JSF) TR-3 modernization program, we also achieved Safety Evidence Assurance Level (SEAL) Level 1 certification. From the FACE perspective, Lynx is conformant to v2.1 of the specification for three processor architectures (Arm, PowerPC and x86) 
+
+3D VIEW
+
+THE FREEDOM TO CREATE
+
+As a platform provider, LYNX acknowledges the need to provide platforms that adapt to evolving hardware yet can be tuned by developers to manage growing levels of software complexity. The platforms must be internally comprehensible and as transparent as possible to allow regulatory authorities to trace and verify assurance claims down to implementation realized in silicon.
+Lynx MOSA.icTM is a development framework that gives developers the ability to integrate complex components as needed, controlling the inherent complexities of their design with the understanding of how their designs are in fact realized in hardware. 
+LYNX MOSA.ic for Avionics is the specific set of Lynx and 3rd party technologies for addressing a number of mission critical avionics applications. Note that earlier versions of this product were referred to as LynxSecure Safety Bundle (LSB). Click below for more details.
+
+REFERENCE DESIGNS - 3D DESIGNS
+
+In the examples below, two distinct multi-core FACE™ systems are implemented:
+
+SYSTEM A
+
+System A (below) shows a design where FACE applications rely on deep abstraction layers implemented across multiple CPU cores. In this design, the potential amount of interference that the FACE guest can generate in the hardware alone will create a challenging analysis exercise to ensure critical applications will meet their timing deadlines.
+System A also shows the impracticality of hosting a critical application on deep abstraction layers that must defend integrity & timing analysis of a complex runtime environment inheriting interference from both the hardware and the layers of abstraction concurrently accessed by co-hosted applications.
+
+SYSTEM B
+
+System B (below) shows a design that minimizes abstraction layers and restricts dependencies to basic software components for running safety critical applications. The FACE portion of the design is limited in hardware access and is only used as a simple transport of packets to maintain network interoperability, while the safety critical applications run autonomously in bare-metal rooms.
+This design gives architects and evaluators precise insight into; (a) where critical applications are running and (b) their dependencies. Evaluators can then measure the worst possible case of interference generated by a given virtual machine. They are also given assurances that there are no internal software platform dependencies on complex abstractions such as syscalls into SMP kernels, internal thread queues, global data locks, and coherency protocols that could make the interference analysis extremely difficult.
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

@@ -1,0 +1,751 @@
+URL: https://www.lynx.com/executive-blog/tag/mission-systems/page/1
+
+The Lynx Perspective | "Mission Systems"
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+LYNX EXECUTIVE BLOG 
+
+Filter by Tag
+
+Show All
+
+"Mission Systems"
+
+AI
+
+AI Applications
+
+Acquisition
+
+Aerospace
+
+Arm
+
+Artificial Intelligence
+
+Aviation
+
+Aviation AI
+
+Avionics
+
+C2
+
+CAST-32A
+
+CSFC
+
+Cybersecurity
+
+DAL C
+
+DO-178
+
+Defense
+
+Drone Delivery
+
+Edge Software
+
+Electronica
+
+Events
+
+F-35
+
+FAA
+
+FACE Conformance
+
+FACE Technical Standard
+
+FACE™
+
+FVL
+
+Flight Operations
+
+Flying Vehicles
+
+FreeRTOS
+
+Future Airborne Capability Environment (FACE™)
+
+GenAI
+
+Google
+
+Google Anthos
+
+IIoT
+
+Iot
+
+LYNX MOSA.ic for Avionics
+
+LYNX MOSA.ic for Industrial
+
+Least Privilege
+
+Lynx MOSA.ic™
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+MASTECS
+
+MCP
+
+MOSA
+
+Military
+
+Military Aviation
+
+Military and Aerospace
+
+Mindful Musings Blog
+
+Mission Critical Edge
+
+Multicore
+
+News
+
+OceanSound
+
+Open Standards
+
+Open Systems
+
+PowerPC
+
+Press Release
+
+RISC-V
+
+SOSA
+
+SR-IOV
+
+Safety
+
+Safety Certification
+
+Safety Critical Systems
+
+Security
+
+Sensor Open System Architecture
+
+Systems Architecture
+
+TCO
+
+TTM
+
+Thompson Software Solutions
+
+Timesys
+
+VIE
+
+Virtual Machines
+
+aerospace & defense
+
+autonomous vehicles
+
+company update
+
+covid-19
+
+development
+
+disruption
+
+drones
+
+embedded systems
+
+endpoints
+
+engineering
+
+eurotech
+
+future vertical lift
+
+hardware
+
+hypervisors
+
+industrial
+
+intel
+
+kubernetes
+
+laptops
+
+linux
+
+machine learning
+
+microsoft
+
+mission-critical systems
+
+partitioning
+
+partner ecosystem
+
+partners
+
+rtos
+
+separation kernel
+
+software
+
+unikernel
+
+vertical lift consortium
+
+virtualization
+
+x86
+
+THE LYNX PERSPECTIVE 
+
+Filter by Tag
+
+Show All
+
+"Mission Systems"
+
+AI
+
+AI Applications
+
+Acquisition
+
+Aerospace
+
+Arm
+
+Artificial Intelligence
+
+Aviation
+
+Aviation AI
+
+Avionics
+
+C2
+
+CAST-32A
+
+CSFC
+
+Cybersecurity
+
+DAL C
+
+DO-178
+
+Defense
+
+Drone Delivery
+
+Edge Software
+
+Electronica
+
+Events
+
+F-35
+
+FAA
+
+FACE Conformance
+
+FACE Technical Standard
+
+FACE™
+
+FVL
+
+Flight Operations
+
+Flying Vehicles
+
+FreeRTOS
+
+Future Airborne Capability Environment (FACE™)
+
+GenAI
+
+Google
+
+Google Anthos
+
+IIoT
+
+Iot
+
+LYNX MOSA.ic for Avionics
+
+LYNX MOSA.ic for Industrial
+
+Least Privilege
+
+Lynx MOSA.ic™
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+MASTECS
+
+MCP
+
+MOSA
+
+Military
+
+Military Aviation
+
+Military and Aerospace
+
+Mindful Musings Blog
+
+Mission Critical Edge
+
+Multicore
+
+News
+
+OceanSound
+
+Open Standards
+
+Open Systems
+
+PowerPC
+
+Press Release
+
+RISC-V
+
+SOSA
+
+SR-IOV
+
+Safety
+
+Safety Certification
+
+Safety Critical Systems
+
+Security
+
+Sensor Open System Architecture
+
+Systems Architecture
+
+TCO
+
+TTM
+
+Thompson Software Solutions
+
+Timesys
+
+VIE
+
+Virtual Machines
+
+aerospace & defense
+
+autonomous vehicles
+
+company update
+
+covid-19
+
+development
+
+disruption
+
+drones
+
+embedded systems
+
+endpoints
+
+engineering
+
+eurotech
+
+future vertical lift
+
+hardware
+
+hypervisors
+
+industrial
+
+intel
+
+kubernetes
+
+laptops
+
+linux
+
+machine learning
+
+microsoft
+
+mission-critical systems
+
+partitioning
+
+partner ecosystem
+
+partners
+
+rtos
+
+separation kernel
+
+software
+
+unikernel
+
+vertical lift consortium
+
+virtualization
+
+x86
+
+"Mission Systems"
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort involving the entire leadership team to define and...
+
+Read More
+
+HOW IS ARTIFICIAL INTELLIGENCE (AI) BEING USED IN AVIATION
+
+Ian Ferguson | VP Marketing
+:  
+Nov 16, 2023 12:57:33 PM
+
+Overcoming Challenges, Embracing Innovation, and Redefining Business Models The concept of “digital transformation” is hardly new. Since the ‘90s, the phrase has become a widely used, some would say...
+
+Read More
+
+Standards: They Are Just The Start
+
+Ian Ferguson | VP Marketing
+:  
+Jun 2, 2023 11:54:50 AM
+
+At Lynx, we see the support of standards for mission-critical systems as just the start. That is because APIs don’t define system behavior and timing. This thoughtful piece by our CTO, Will Keegan,...
+
+Read More
+
+LynxOS-178 Achieves FACE Conformance for Two Processor Architectures
+
+Lynx Software Technologies
+:  
+Apr 7, 2023 12:29:16 PM
+
+Global armed services are looking at strategies and techniques to open up systems and reduce vendor lock. These programs are often deployed for decades, so these architectures need to be resistant to...
+
+Read More
+
+One Month After Our Acquisition by OceanSound Partners – What’s Ahead?
+
+Ian Ferguson | VP Marketing
+:  
+Jul 29, 2022 12:08:42 PM
+
+WHAT'S ON THE HORIZON FOR LYNX? It always irks me when a company acquires another one and promptly announces that nothing will change. Of course, it will! It is simply a case of when and how much....
+
+Read More
+
+Unikernels; A Technology Full of Promise for Mission Critical Systems
+
+Ian Ferguson | VP Marketing
+:  
+Jun 6, 2022 9:00:00 AM
+
+What is a Unikernel? Virtualization technology, whereby multiple operating systems can be run on shared hardware, is extremely well understood if somewhat inefficient in its use of resources. The...
+
+Read More
+
+1
+
+2
+
+              Next
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

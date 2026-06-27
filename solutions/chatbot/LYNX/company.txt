@@ -1,0 +1,1129 @@
+URL: https://www.lynx.com/company
+
+Mission-Critical Edge Platforms | About Lynx Safe and Secure Solutions
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+Home
+
+Company
+
+ The Lynx Mission 
+
+ At Lynx, we believe in a “software-defined everything at the edge” world, one powered by trusted, mission-aligned partnerships that enable organizations to break free from the status quo and drive innovation at the speed of relevance in dynamic, unpredictable environments. This is where Lynx leads. 
+Seize the Edge.™
+
+About Lynx
+
+Mission-Critical Edge Platforms & Secure Solutions
+
+At Lynx, an OceanSound Partners portfolio company, we deliver modular, open standards-based software solutions that redefine the economics of developing, deploying, and maintaining high assurance, mission critical edge platforms. These secure edge computing solutions are designed to drive innovation and operational excellence in today’s most demanding environments.
+
+From advancing aerospace and defense capabilities to transforming commercial and industrial systems, Lynx collaborates across a wide range of industries, including automotive, medical, and critical infrastructure, to deliver tailored, high assurance solutions aligned with specific mission and operational requirements.
+
+Through the strategic acquisitions of Timesys, Thompson Software Solutions, and CoreAVI, Lynx has significantly expanded its technology leadership and product portfolio. This includes enhanced expertise in Linux and open source solutions, on premises engineering to accelerate development timelines, GPU software enablement, safety critical graphics, and AI at the edge.
+
+Deep proficiency in system certification, security, and real time operating systems (RTOS) ensures predictable system performance, robust security, and dependable reliability, delivered on schedule and within budget.
+
+A continued commitment to innovation and collaboration drives modernization of legacy systems and unlocks the full potential of secure edge technologies.
+
+Our Mission
+
+Empowering Customers to Seize the Edge
+
+At Lynx, innovation isn’t just enabled, it’s pioneered. Every day, teams are equipped to design, build, and optimize integrated, cloud-connected platforms that leverage the latest technologies, advanced design methodologies, and cutting edge virtualization strategies. These platforms integrate CPU and GPU technologies to deliver unparalleled performance on multicore architectures, supporting accurate, deterministic decision-making at the mission critical edge.
+
+Secure edge computing solutions from Lynx are built for robust security, dependable reliability, and uncompromised performance. With support for AI at the edge, edge computing capabilities, a wide range of operating environments, open source ecosystems, and industry-leading services, these solutions accelerate development and deployment with speed, intelligence, safety, and precision.
+
+From advancing aerospace and defense to safeguarding autonomous systems, protecting critical infrastructure, and transforming medical innovation, the mission at Lynx remains steadfast, to be a trusted partner in redefining what’s possible for complex, safety critical, and cyber-resilient systems.
+
+ Learn More About Our Strategic Acquisitions
+
+Our Journey
+
+Seizing the Edge of Possibility
+
+Since our founding, Lynx has been at the forefront of innovation, developing 
+mission-critical edge platforms
+ that redefine 
+what’s
+ possible. Through strategic acquisitions of 
+Timesys
+, Thompson Software Solutions, and 
+CoreAVI
+, 
+we’ve
+ expanded our 
+expertise
+ to deliver comprehensive solutions that integrate certification, security, and high-performance computing.
+
+Together with our customers, 
+we’ve
+ built a legacy of overcoming challenges, modernizing legacy systems, and unlocking the potential of edge technologies.
+
+Our Growth Story
+
+Building the Future of Edge Computing
+
+Our growth story traces its transformation from a niche RTOS provider into a global leader in secure, safety-critical edge computing. Through rapid organic growth and strategic acquisitions, Lynx has expanded its team, footprint, and technology portfolio to meet the rising demands of aerospace, defense, and other mission-critical industries, delivering trusted platforms that scale with the complexity of modern systems.
+
+Learn More About Our Growth
+
+ Our Business Approach: Excellence at the Edge 
+
+At Lynx, we prioritize our customers, deliver certifiable, safe, secure solutions, and drive innovation. Whether collaborating with Aerospace & Defense leaders or Commercial enterprises, we align our strategy with your goals to help you Seize the Edge.
+
+Expertise Across Diverse Markets
+
+For Aerospace & Defense:
+
+Mastery in navigating complex certification processes,
+ ensuring compliance with industry standards such as DO-178C, DO-356A.
+
+Proven track record of secure and reliable performance in mission-critical environments.
+
+A trusted partner to leading defense contractors, government agencies, and global military programs.
+
+For Commercial Industries:
+
+Flexible and scalable solutions tailored 
+to meet unique business and operational needs.
+
+Accelerated deployment to bring innovations to market quickly and efficiently.
+
+Forward-thinking designs 
+that adapt to 
+emerging
+ trends, ensuring long-term viability and innovation.
+
+This balanced approach allows us to provide reliable platforms that address challenges and unlock new opportunities for every customer.
+
+Strategic Growth: Building for the Future
+
+To strengthen our ability to deliver secure edge computing solutions, we’ve partnered with industry leaders:
+
+Timesys Corporation
+
+Enhancing our Linux-based security and development tools with over two decades of open-source expertise. Acquired on December 12, 2023. 
+
+Thompson Software Solutions
+
+Expanding our focus on aerospace and defense with specialized engineering and integration capabilities. Acquired on January 9, 2024.
+
+CoreAVI
+
+Bringing safety-critical GPU and AI capabilities to support next-generation autonomy and graphics rendering. Acquired on November 13, 2024.
+
+ Trusted by Industry Leaders 
+
+          Contact Us
+
+ Customer Testimonials 
+
+Partnering for Mission-Critical Success
+
+At Lynx, collaboration with customers is central to addressing unique challenges, reducing complexity, and delivering mission-critical success. Whether modernizing existing systems or building new platforms, Lynx serves as a trusted partner for secure edge computing solutions that perform when it matters most.
+
+ Our Case Studies 
+
+ Advancing the Edge of Avionics  
+
+A major aerospace manufacturer partnered with Lynx to integrate LYNX 
+MOSA.ic
+™, developing a 
+mission-critical edge platform
+ for their next-generation 
+aircraft
+. 
+Our
+ solution provided a secure, certifiable environment, reducing development time and ensuring compliance with stringent industry standards.
+
+                          Learn More About Lynx MOSA.ic™
+
+ Stats 
+
+ 25x 
+
+ Increase in processing power for avionics systems. 
+
+ 30% 
+
+ Reduction in time-to-certification for critical software. 
+
+ 100% 
+
+ Compliance with safety and security standards. 
+
+ Our Case Studies 
+
+ Securing Industrial Control Systems  
+
+An industrial automation leader 
+leveraged
+
+Lynx
+ tools to implement 
+secure edge computing solutions
+ across their control systems. 
+Our
+ proactive monitoring and security patches fortified the company’s infrastructure, safeguarding operations from evolving cyber threats.
+
+                          Discover How We Ensure Security
+
+ Stats 
+
+ 95% 
+
+ Reduction in vulnerability management time. 
+
+ 80% 
+
+ Decrease in cyber incidents post-deployment. 
+
+ 24/7 
+
+ Coverage with real-time threat detection.  
+
+ Our Case Studies 
+
+ Enhancing Autonomous Vehicle Safety  
+
+Lynx
+ collaborated with an automotive innovator to enhance the safety and reliability of their autonomous vehicles. Using 
+our
+ safety-critical GPU platforms, the company achieved 
+mission-critical edge platform
+ functionality for real-time decision-making and adherence to safety certifications.
+
+ Stats 
+
+ 99.9% 
+
+ Uptime in real-time data processing. 
+
+ 50% 
+
+ Faster time-to-market for autonomous systems. 
+
+ 100% 
+
+ Certification with automotive safety standards. 
+
+Looking Ahead: A New Era of Edge Innovation
+
+The future belongs to those who push boundaries and embrace change. At Lynx, our commitment to 
+Seize the Edge
+ drives us to continuously innovate, partner, and evolve to meet the needs of an ever-changing world. Together, 
+we’ll
+ deliver the next generation of 
+mission-critical edge platforms
+ for a secure, innovative future.
+
+ 2023 Military + Aerospace Electronics Innovators Award 
+
+ Lynx’s LynxElement unikernel was recognized among the top software for mission-critical applications, showcasing our commitment to engineering excellence. 
+
+ 2022 Military + Aerospace Electronics Innovators Award 
+
+ The Lynx MOSA.ic for Avionics platform earned top honors for advancing secure, flexible technology in aerospace and defense. 
+
+ 2021 IoT Breakthrough Award 
+
+ Recognized as “IoT Security Platform of the Year,” Lynx MOSA.ic™ exemplifies secure edge computing solutions for IoT applications. 
+
+ PSA Certified 
+
+ Lynx’s VigiShield Secure by Design solution achieved PSA Certification, underscoring our adherence to best practices and stringent security standards in the industry.  
+
+ FACE Conformance Certificate 
+
+ Lynx received the FACE Conformance Certificate in the Operating System segment, demonstrating our commitment to open standards and interoperability for mission-critical systems.  
+
+ 2017 Military + Aerospace Electronics Innovators Award 
+
+ CoreAVI (now Lynx), in collaboration with Presagis and Wind River, was recognized for the UAV Ground Control Stations Avionics Display with Multi-Touch and Gesture Control, reflecting innovation in military and aerospace technology. 
+
+ Industry Impact 
+
+ Aerospace and Defense 
+
+ Automotive 
+
+ Cybersecurity 
+
+ Open Source 
+
+                    Aerospace and Defense
+
+Our mission-critical edge platforms are integral to modern avionics systems, providing secure and certifiable solutions that meet rigorous industry standards.
+
+                        Call to Action
+
+                    Automotive
+
+By delivering secure edge computing solutions, we support the development of autonomous and connected vehicles, ensuring safety and reliability on the road.
+
+                        Call to Action
+
+                    Cybersecurity
+
+Through proactive security measures and certifications, we fortify systems against evolving threats, 
+maintaining
+ the integrity of critical operations.
+
+                        Call to Action
+
+                    Open Source
+
+Our commitment to open-source development fosters innovation and collaboration, contributing to the advancement of secure and flexible technologies.
+
+                        Call to Action
+
+ What Sets Us Apart  
+
+Success at the edge requires more than just technology, it demands trust, collaboration, and a relentless commitment to excellence. At Lynx, we provide:
+
+Mission-Critical Edge Platforms:
+ Certifiable solutions designed to ensure safety, security, and performance in the most demanding environments.
+
+Secure Edge Computing Solutions
+:
+
+Cutting-edge platforms that prioritize proactive security measures and resilience.
+
+Tailored Support
+: 
+Collaborative partnerships that simplify complexity and 
+optimize results.
+
+Through every solution, we help our customers 
+Seize the Edge of performance and innovation.
+
+ Management Team 
+
+ TIM REED 
+
+ CHIEF EXECUTIVE OFFICER AND BOARD MEMBER 
+
+Read Bio
+
+ AL MAILLET 
+
+ CHIEF REVENUE OFFICER 
+
+Read Bio
+
+ AMANDA BLUM 
+
+ CHIEF FINANCIAL OFFICER 
+
+Read Bio
+
+ MICHEL GENARD 
+
+ CHIEF STRATEGY & PRODUCT OFFICER AND BOARD MEMBER 
+
+Read Bio
+
+ WILL KEEGAN 
+
+ CHIEF TECHNOLOGY OFFICER 
+
+Read Bio
+
+ WOLFGANG KIRBY 
+
+ VICE PRESIDENT OF PROFESSIONAL SERVICES 
+
+Read Bio
+
+ RABIH MAALOUF 
+
+ SENIOR VICE PRESIDENT OF ENGINEERING AND DELIVERY 
+
+Read Bio
+
+ ANGELA ROTHE 
+
+ VICE PRESIDENT OF HUMAN RESOURCES 
+
+Read Bio
+
+Prev
+
+Next
+
+ TIM REED 
+
+Tim held various management roles prior to joining Lynx, including at Green Hills where his experience spanned leading their professional services team, overseeing sales, and managing new product launches. His expertise includes engineering and management roles for the development of real-time operating systems, hypervisors, and compiler toolchain technologies.
+ He led the professional services organization and oversaw sales channels and new product launches. His experience spans automotive, industrial, aerospace, and defense end markets, and he brings expertise in software robustness, formal verification, and the use of new programming languages in safety- and security-critical applications. Tim graduated with a B.S. in Engineering and Applied Science from the California Institute of Technology.
+
+Title:
+
+ CHIEF EXECUTIVE OFFICER AND BOARD MEMBER 
+
+LinkedIn
+
+ AL MAILLET 
+
+Al Maillet, Chief Revenue Officer, oversees the Company’s go-to-market function, strategic account management, and sales operations. With longstanding experience in the aerospace and defense end markets, Al will focus on accelerating Lynx's organic growth initiatives. He was previously with Mercury Systems, a global commercial technology company serving the aerospace and defense industry, where he served as the Vice President of Product Line Sales. He has also held several senior growth-focused roles at technology companies spanning multiple end markets, including WindRiver, Qognify, IneoQuest Technologies, Redline Trading Solutions, and NextHop Technologies. Al holds a B.S. in Computer Science from the University of Massachusetts Lowell.
+
+Title:
+
+ CHIEF REVENUE OFFICER 
+
+LinkedIn
+
+ AMANDA BLUM 
+
+Amanda Blum, Chief Financial Officer, oversees the company’s financial operations and compliance functions. Amanda brings over 13 years of financial leadership experience. Most recently, she served as the Corporate Controller of Green Hills Software. Before that, she held various finance leadership roles at Sientra, Inc.. In this publicly held medical device company, she gained a wide range of experience from SEC reporting to M&A. Prior to Sientra, Amanda worked for Nasif, Hicks, Harris & Co., LLP, where she did audit and tax work. She received her B.A. in Business Economics with an emphasis in Accounting from the University of California, Santa Barbara.
+
+Title:
+
+ CHIEF FINANCIAL OFFICER 
+
+LinkedIn
+
+ MICHEL GENARD 
+
+Michel Genard brings over three decades of experience in critical edge software, where he has held executive positions both in business and product management. Previously, he served as Vice-President of Product Management at Wind River, an established provider of embedded safety and security solutions. At Lynx, Michel's primary focuses are driving corporate and product strategy, messaging/branding and M&A. He also serves as an advisor and board member to other private companies.
+
+Title:
+
+ CHIEF STRATEGY & PRODUCT OFFICER AND BOARD MEMBER 
+
+LinkedIn
+
+ WILL KEEGAN 
+
+As Chief Technical Officer, Will Keegan leads the technology direction across all the Lynx product lines. He has been instrumental in developing key security technologies within Lynx to broaden the reach of the existing products, focusing on cyber-security, cryptography and virtualization. Will joined Lynx in 2011 as the director of security solutions, with responsibility for the LynxSecure product line. Before Lynx, he was a product developer at Objective Interface Systems, Inc., responsible for product engineering of real-time middleware and high-assurance cryptographic network technologies. He holds a BS in Computer Science from the University of Texas.
+
+Title:
+
+ CHIEF TECHNOLOGY OFFICER 
+
+LinkedIn
+
+ WOLFGANG KIRBY 
+
+Wolf brings more than 40 years of experience in military avionics and safety-critical systems engineering. He began his career as a college co-op with General Dynamics supporting the F-16 program and stayed with the company through the mergers that formed Lockheed Martin, where he worked across major platforms including the F-16, F-35 (JSF), C-130J, C-5, and several special mission aircraft. He also spent time with Excelergy leading overseas integration efforts before returning to Lockheed Martin, where he most recently led the Special Mission Project Engineering team prior to retiring earlier this year.
+
+Wolf holds a BEE from Georgia Tech, an MSEE from UT Arlington, and a Master of Science in Engineering Management from SMU.
+
+Wolf and his wife recently relocated to Amelia Island, Florida. Outside of work, he enjoys running, recently completing a marathon in every U.S. state, and has recently taken up gravel biking. He is a strong believer in servant leadership, building high-performing teams, and maintaining clear accountability with customers and stakeholders.
+
+Title:
+
+ VICE PRESIDENT OF PROFESSIONAL SERVICES 
+
+LinkedIn
+
+ RABIH MAALOUF 
+
+Rabih brings more than 15 years of global engineering leadership experience, most recently as Vice President of Worldwide Engineering at Wind River, where he led R&D across real-time operating systems (RTOS), cloud infrastructure, and IoT platforms.
+
+His background in embedded systems, cloud-native transformation, and scaled R&D operations makes him uniquely equipped to drive Lynx’s delivery mission, ensuring our products and services meet the complex needs of regulated, performance-critical programs across defense aviation, autonomous vehicles, and industrial automation. 
+
+Title:
+
+ SENIOR VICE PRESIDENT OF ENGINEERING AND DELIVERY 
+
+LinkedIn
+
+ ANGELA ROTHE 
+
+Angela Rothe brings over 25 years of HR leadership experience to Lynx Software Technologies as our Vice President of Human Resources for the global platform. In this role, she leads HR strategy and operations, driving excellence across the organization.
+
+Prior to joining Lynx, Angela served as the Global Executive Director of People Operations at Ogilvy & Mather, a world-renowned advertising agency. There, she established the North America People Operations function and spearheaded the global implementation of Workday.
+
+Angela also spent 21 years at Deloitte. In her final six years with the firm, she served as the Head of People for Deloitte Digital, a globally recognized, award-winning creative consultancy, where she successfully integrated eight acquisitions over five years.
+
+Angela holds both a bachelor’s and master’s degree in accounting from the University of Denver and has been a Senior Professional in Human Resources (SPHR) since 2013. Her expertise in organizational transformation and commitment to fostering a culture of innovation and excellence make her an invaluable member of the Lynx leadership team.
+
+Title:
+
+ VICE PRESIDENT OF HUMAN RESOURCES 
+
+LinkedIn
+
+Lynx HQ Office
+
+910 E. Hamilton Ave, Suite 400, Campbell, CA 95008
+
+Explore our Office Locations
+
+ Innovation Where It Matters Most 
+
+ Lynx. Seize the Edge with mission-critical edge platforms and secure edge computing solutions that deliver performance and innovation where it matters most. 
+
+                Contact Us
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

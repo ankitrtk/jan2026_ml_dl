@@ -1,0 +1,421 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/tag/lynxos-178
+
+Lynx Software Technologies | Learning Center  | LynxOS-178
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+TECHNICAL ARTICLES
+
+Filter by Tag
+
+Show All
+
+10G
+
+Arm Tech Con
+
+Automotive
+
+Avionics
+
+BSPs
+
+Benchmark
+
+CAST-32A
+
+CVEs
+
+Cache Allocation Technology
+
+Cache-partitioning
+
+Certification
+
+DO-178
+
+Demo
+
+Events
+
+FAA
+
+FACE TIM
+
+Future Airborne Capabilities Environment (FACE™)
+
+Least Privilege
+
+Lynx MOSA.ic™
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+MCP
+
+Multi-core
+
+Multicore
+
+Open Group
+
+Open Standards
+
+Open Systems
+
+PCI-E
+
+POSIX®
+
+Press Release
+
+RAM
+
+Ram Disk
+
+Reference Architecture
+
+SR-IOV
+
+Safety
+
+Security
+
+Single-root IO Virtualization
+
+Standards
+
+Subjects
+
+Systems Architecture
+
+TC-16/51
+
+TCO
+
+TTM
+
+Technical Blog
+
+Trusted Codebase
+
+Virtual Machines
+
+architecture
+
+board support
+
+certifications
+
+costs
+
+development
+
+embedded linux
+
+embedded systems
+
+hardware
+
+hardware interference
+
+hypervisors
+
+linux
+
+meltdown
+
+partitioning
+
+privilege escalation
+
+real-time
+
+reusable software
+
+rsc
+
+rtos
+
+separation kernel
+
+side channels
+
+software
+
+spectre
+
+virtualization
+
+vulnerabilities
+
+LynxOS-178
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer: 
+
+Sep 29, 2023 9:00:00 AM
+
+                    I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software engineers can build guest images and reload them on the fly into the subjects. This gives the ability to...
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer: 
+
+Sep 18, 2023 9:00:00 AM
+
+                    Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk Create a shared read-only RAM disk between two subjects
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

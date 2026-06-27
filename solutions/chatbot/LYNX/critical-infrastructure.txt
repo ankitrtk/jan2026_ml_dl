@@ -1,0 +1,365 @@
+URL: https://www.lynx.com/industries/critical-infrastructure
+
+Critical Infrastructure Protection Company | Lynx Software
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+CRITICAL INFRASTRUCTURE 
+When is it safe and secure?
+
+CRITICAL INFRASTRUCTURE
+
+When is it safe and secure?
+
+Reducing 
+risk, vendor lock in, and cost
+
+for military avionics
+
+INDUSTRY SECTOR DYNAMICS
+
+On March 2, 2023, the Biden administration released its long-awaited 
+National Cybersecurity Strategy
+. The release occurs after significant cyber intrusions and ransomware attacks, including 
+SolarWinds
+, 
+Microsoft Exchange
+, 
+Colonial Pipeline
+, and
+ JBS Foods
+. The Strategy’s vision is to secure the promise of the digital future by making the ecosystem:
+
+Defensible, where cyber defense is less complex, affordable for everyone, and more effective
+
+Resilient by minimizing the impact of cyber incidents and errors
+
+Values-aligned, where values like economic security and prosperity, respect for human rights, trust in democracy, and an equitable and diverse society shape and are reinforced by the digital world
+
+While the focus above is US policy, similar policies have either been passed or are progressing through governmental bodies in other parts of the world.
+
+INDUSTRY SECTOR DYNAMICS
+
+Across the world, budgets continue to rise. In March 2023, 
+the Pentagon released its initial request for Fiscal Year ‘24
+. Across Europe, budgets continue to rise at a pace that outstrips inflation. Once factors like military aid are added, the result is a budget request approaching $1B which represents the highest military budget since World War II.
+
+Technology is clearly at the heart of this and the word we continue to hear (and view being operationalized) is accelerating the time to deployment as the US and its Allies look to main its advantages over other world powers. Great servants to the military like the BlackHawk Helicopter and F-16 fighter jet need to be upgraded with programs that include 
+Future Attack Reconnaissance Aircraft (FARA)
+, Future Long Range Assault Aircraft (FLRAA), and F-35 Joint Strike Fighter. 
+Much has been written about the vision of the 
+connected battlefield
+. The implementation of this at a rapid pace requires a massive change in product creation and deployment.
+
+Development must embrace cloud development and harnessing of technologies such as machine learning, digital twins and virtual targets
+
+Secure System Connectivity becomes critical as data is gathered and shared between a diverse set of endpoints (soldiers, UAVs, planes, satellites) and insights made in real time 
+
+Systems must build in adaptability to add functionality once deployed to extend the useful life of the platforms and ensure our residents, their information and their systems are protected to the fullest extent
+
+THE MOST DEVASTATING CYBER-ATTACK IN HISTORY
+
+0
+
+seconds was all it took for NotPetya to fully infect one system
+
+$
+0
+
+estimated total damages as a result of this same attack
+
+See 
+this articl
+e
+ for reference. 
+
+SEGMENT CHALLENGES
+
+Delivering this dramatically increased level of complexity and capability while decreasing development cycles creates several challenges for program execution/management offices, chief architects, and P&L owners:
+
+Requires moving antiquated on-premises networks to the cloud and multi-cloud environments, which comes with increased risks
+
+There is a need to understand the data risks within IT networks and infrastructure swiftly. Once data risk is identified, the next step is planning how to protect it.
+
+Threats continue to evolve, in all likelihood, at an increased pace, with technologies like xGPT being applied by hackers.
+
+See 
+this article
+ for reference
+
+HOW LYNX CAN HELP
+
+Infrastructure Modernization
+
+Support of diverse set of server infrastructure including Intel and Arm-based server platforms
+
+Linux used as a guest operating system for 
+LynxSecure
+
+Harnessing proven cloud infrastructure from Amazon, 
+Google
+, and 
+Microsoft
+
+Security is Not Static
+
+Provable Separation and Isolation
+
+Isolation of applications from each over to (immutably) minimize the impact of system compromises on other areas of the system
+
+Attack Surface Reduction
+
+Hypervisor technology is built from the ground up with security in mind
+
+Unikernel technology 
+ allows the creation of purpose-built applications that only utilize the OS functions that are necessary for that application
+
+Hypervisor as a threat-detection mechanism is a novel approach to detecting potential system or network intrusions
+
+Hypervisors are placed in an ideal location in the software stack to gather important system information, which can then be used for assessing system health
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

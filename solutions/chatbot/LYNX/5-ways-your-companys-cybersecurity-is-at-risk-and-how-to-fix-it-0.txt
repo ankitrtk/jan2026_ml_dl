@@ -1,0 +1,395 @@
+URL: https://www.lynx.com/executive-blog/5-ways-your-companys-cybersecurity-is-at-risk-and-how-to-fix-it-0
+
+Cybersecurity Costs of Remote Work
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            3 min read
+
+Cybersecurity Costs of Remote Work
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Nov 17, 2021 4:39:58 PM
+
+Mindful Musings Blog
+
+Security
+
+endpoints
+
+LynxSecure
+
+As the world enters a new era of remote and hybrid work, the risks to network security become more complex. Over the last 18 months, the pandemic has created an unprecedented shift in the modern workforce. Employees, avoiding COVID-19, have found themselves more vulnerable to a different type of virus. From phishing to ransomware, highly sophisticated cyberattacks have targeted employees both at home and in the office. With the rapidly growing cybersecurity threats, it is crucial now more than ever to understand the risks from working at home versus working in the office and employ strong security measures wherever you choose to work. 
+
+Every day, security teams around the world discover new risks arising from remote work. For example, many employees unknowingly put their company’s data at risk by using their personal devices for work. In a recent 
+survey 
+we conducted via Pollfish, 76% of American respondents use their personal devices for work at least sometimes, and 75% use cloud-based services to store and manage their work data. The survey also found that the majority of employees surveyed indicated their company allows them to use work computers for personal purposes. 
+
+Furthermore, employees feel their companies are not doing enough to ensure a secure remote workplace. The same survey states that “since they started working remotely, many respondents said their company has not doubled down sufficiently on strengthening security policies and measures.” Roughly 60% say that their companies are not prohibiting the use of apps that do not meet the standard security. Nearly the same amount (58%) say that their companies have not implemented antivirus software, and a large percentage (48%) are not aware of any corporate cybersecurity policy at all. 
+
+While companies are responsible for implementing strategies to secure their data, employee IT behavior can cause problems as well. Here are a few examples of bad habits and risks to keep in mind when working remotely:
+
+Bad Habits in Remote Work
+
+Weak and/or Reused Passwords
+
+It’s time to refresh those old passwords that you’ve been hanging on for years. Weak passwords are usually short and associated with some information about you that can be easily guessed. Those can be the biggest security risk and are the easiest way for cybercriminals to gain access to your system, especially when the same password is used across several platforms. As an example, the Colonial Pipeline cyberattack was affected using a compromised password 
+
+Unencrypted File Sharing
+
+You might think the encrypted data you share within your company’s network is secure, but that’s usually not the case. Many corporate files are encrypted when stored but not while being shared or moved. Sensitive data such as restricted company, employee or client information can be intercepted in transit leading to identity theft, ransomware and more.
+
+Working in public places
+
+Working from a public network is rarely a good idea. Having your screen exposed to everyone around you, taking work calls and leaving your devices unattended  greatly increases the risk of cybersecurity. In addition, public Wi-Fis have been known to have weak security layers. 
+
+Risks from Remote Work
+
+Relaxed Security Protocols
+
+At most offices, IT managers operate and provide security for the entire network. At home, you are in charge of your own security. Companies can only do so much to protect their data. On the other hand, it is up to you to maintain a secure network at your home. 
+
+Email Scams
+
+Phishing is also one of the main hazards of remote work. These are widely recognized as the number cause for data breaches and anyone can fall for them. Working from home with a low-security Wi-Fi (and, often, disabled-by-user VPN services) can increase these kinds of activities and it will be difficult to minimize the risk without an IT administrator available at all times. 
+
+LynxSafe - The Secure Laptop Solution
+
+To help prevent these issues, Lynx Software has developed LynxSafe, a secure laptop solution that sequesters personal and work use applications. By separating the two types of work and data, IT organizations are able to control the course of information to verify its confidentiality and prevent unauthorized access to corporate data. Another critical aspect of LynxSafe is that information-flow control gives integrity for sensitive security cases.
+
+For these two key features to function, LynxSafe also dives deep into your laptop configuration, which supplies: 
+
+A separate domain for protecting data in transit with two VPNs
+
+Isolation of the Windows environment for the user
+
+A separate domain for protecting data at rest
+
+An isolated management domain to allow for secure updates
+
+Lynx is working hand in hand with laptop providers and other hardware vendors to set a higher standard for cybersecurity and minimize security threats. 
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

@@ -1,0 +1,344 @@
+URL: https://www.lynx.com/products/lynxos-178-do-178c-certified-native-posix-partitioned-rtos-more-info
+
+LynxOS-178C POSIX Real Time Operating System | More Info
+
+Products
+
+LYNX MOSAic
+
+LYNX MOSAic for Avionics
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+LYNX MOSA.ic.SCA
+
+SpyKer Product Family
+
+VIE
+
+Legacy
+
+LynxOS
+
+LynxSafe
+
+Professional Services
+
+Support
+
+Support Portal
+
+Support Services
+
+Training
+
+Industries
+
+Armored Ground Vehicles
+
+Commercial Avionics
+
+Critical Infrastructure
+
+LEO Satellites
+
+Military Avionics
+
+Urban Air Mobility
+
+Industry Standards
+
+FACE 
+
+MOSA
+
+Resources
+
+Case Studies
+
+Export Compliance
+
+FAQ
+
+Resource Center 
+
+Videos
+
+About Us
+
+Careers
+
+Contact
+
+How Did We Do?
+
+Distributors
+
+Events
+
+Blogs
+
+Lynx Executive Blog
+
+Lynx Technical Blog
+
+Our Business Model
+
+Our Commitment to National Defense
+
+Partners
+
+Press Releases
+
+The Lab
+
+Feedback
+
+ADDITIONAL INFORMATION
+
+ARCHITECTURE & OVERVIEW
+
+LynxOS-178 is a COTS RTOS supporting x86, Arm, and PowerPC platforms. It is based on open standards and is designed specifically to fulfill the stringent needs of multithread and multiprocess applications in safety-critical real-time systems, providing security and safety through strict, hardware-enforced isolation between real-time processes, applications, and the RTOS kernel services and drivers.
+
+FUTURE AIRBORNE CAPABILITY ENVIRONMENT
+
+The Future Airborne Capability Environment (FACE™) standard is designed to enhance the U.S. military aviation community’s ability to improve software reuse, accelerate war-fighter capabilities, and facilitate the adoption of new technologies.
+The FACE™ Consortium is composed of industry and government member organizations, their representatives, and advisors, creating an acquisition-neutral setting where industry can work together with government customers to produce open standards and to influence procurement and policy.
+Lynx Software Technologies is an Associate Sponsor of the FACE™ Consortium, which operates under The Open Group. FACE™ defines the framework for creating a common operating environment that supports applications across multiple Department of Defense avionics systems.
+LynxOS-178® secure real-time operating system have been confirmed as conformant to version 3.1 of the FACE™ standard for Arm, Intel® x86 and PowerPC® platforms.
+
+PRODUCT DETAILS
+
+RTOS for DO-178B/C Certification of Secure Multithread, Multiprocess Applications
+
+LynxOS-178 provides previously certified software and artifacts in order to fully satisfy, right out of the box, the DO-178B/C level A requirement that every line of software in the system be verified with Modified Condition/Decision Coverage. The DO-178B/C certification process is so time- and labor-intensive that vendors may experience an output of just 125 lines of code per man-month. Testing of complex code could quickly add up to millions of dollars.
+
+RTOS with a Secure System Tradition
+
+LynxOS and LynxOS-178 have been deployed in millions of safety-critical applications worldwide, including multiple military and aerospace systems certified to DO-178B/C, up to level A. LynxOS-178 is a FAA-recognized Reusable Software Component (RSC) and provides previously certified software and artifacts so that developers can speed their safety-critical systems to market. LynxOS-178 certified software provides full DO-178B/C traceability through requirements, design, code, test, and test results. Real-time systems programmers also get a boost with Lynx Software Technologies' DO-178B/C RTOS training courses.
+
+Full FAA Acceptance at DO-178B/C Level A
+
+As an FAA-recognized Reusable Software Component (RSC) that meets the objectives of RTCA/DO-178B/C, LynxOS-178 may be used on more than one project without having to regenerate certification artifacts.
+
+LynxOS-178 RSC is more than just a set of DO-178B/C artifacts. The documentation set includes a detailed partitioning and interface analysis that focuses on time, space and resource partitioning as well as timing margin analysis so developers can allocate budgets to use operating system services. The set of RSC guidance documentation includes requirements, design data, test suites and coverage analysis to meet DO-178B/C requirements.
+
+Full Requirements-Based Testing (Structural Coverage) on 100% of Code
+
+One of the most costly efforts of DO-178B/C level A certification is the requirements-based testing, also known as the Structural Coverage requirement. For DO-178B/C level A, the code is required to be verified with Modified Condition/Decision Coverage (MCDC), which means that every point of entry and exit in a program must have been invoked at least once in testing, every decision in the program must have taken all possible outcomes at least once, and each condition in a decision must have been shown to independently affect that decision's outcome.
+
+LynxOS-178 satisfies the 100 percent MCDC structural coverage requirement out-of-the-box, allowing systems developers to concentrate on their applications rather than trying to get those last lines of system code exercised for system certification.
+
+Unmatched Interpartition Communication Capabilities
+
+LynxOS-178 offers developers the flexibility of advanced networking features that are unmatched by the competition. The Lynx Certifiable Stack provides users with TCP/IP, UDP, ARP, ICMP, IGMP, FTP and TFTP protocols on a per partition basis certifiable up to DO-178B/C Level A. Users can configure network applications with SNMPv3 and SNTP for added flexibility. Applications can also make use of the ARINC-653 ports interface to communicate across partition boundaries. These ARINC ports can be configured on multiple hardware modules to make communication with other applications seamless.
+
+POSIX
+
+The POSIX standards provide for communication between an application and the underlying operating system. Because POSIX conformance ensures code portability between systems, it is increasingly mandated for commercial applications and government contracts. LynxOS-178 offers POSIX.1 conformance and supplies all the services specified by POSIX 1.b (real-time extensions) and POSIX 1.c (threads extensions). The POSIX real-time and thread extensions are later additions to the original POSIX.1 standard, and they have extensive applicability for real-time and embedded systems. The real-time extensions include priority scheduling, real-time signals, clocks and timers, semaphores, message passing, shared memory, asynch and synch I/O, and memory locking. The threads extensions include specifications for thread creation, control, and cleanup; thread scheduling; thread synchronization; and signal handling.
+
+ARINC 653 Services
+
+LynxOS-178 conforms to the ARINC 653-1 Application Executive Software (APEX) Interface defined by the ARINC 653-1 standard and provides the following system service groups in accordance with the ARINC 653-1 standard:
+
+ARINC 653 Partition Management:
+ services related to partition management. GET_PARTITION_STATUS and SET_PARTITION_MODE are Partition Management service requests.
+
+ARINC 653 Process Management:
+ services related to process management. GET_PROCESS_ID and GET_PROCESS_STATUS are Process Management service requests.
+
+ARINC 653 Time Management:
+ services related to time management. TIMED_WAIT and PERIODIC_WAIT are Time Management service requests.
+
+ARINC 653 Interpartition Communication:
+ services responsible for communication between processes residing in different partitions. There are two types of Interpartition Communication services:
+
+Sampling Port Services:
+ A sampling port is a communication object allowing a partition to access a channel of communication configured to operate in sampling mode. CREATE_SAMPLING_PORT and WRITE_SAMPLING_MESSAGE are Sampling Port Services service requests.
+
+Queuing Port Services:
+ A queuing port is a communication object allowing a partition to access a channel of communication configured to operate in queuing mode. CREATE_QUEUING_PORT and SEND_QUEUING_MESSAGE are Queuing Port Services service requests.
+
+ARINC 653 Intrapartition Communication:
+ services responsible for communication between processes residing in the same partition. There are four types of Intrapartition Communication service requests:
+
+Buffer Services:
+ A buffer is a communication object used by processes of a same partition to send or receive messages. CREATE_BUFFER and SEND_BUFFER are Buffer Services service requests.
+
+Blackboard Services:
+ A blackboard is a communication object used by processes of the same partition to send or receive messages. CREATE_BLACKBOARD and DISPLAY_BLACKBOARD are Blackboard Services service requests.
+
+Semaphore Services:
+ A counting semaphore is a synchronization object commonly used to provide access to partition resources. CREATE_SEMAPHORE and WAIT_SEMAPHORE are Semaphore Service service requests.
+
+Event Services:
+ An event is a synchronization object used to notify the occurrence of a condition to processes that may wait for it. CREATE_EVENT and SET_EVENT are Event Services service requests.
+
+ARINC 653 Health Monitoring:
+ The Health Monitor (HM) is invoked by an application calling the RAISE_APPLICATION_ERROR service or by the OS or hardware detecting a fault. LynxOS-178 achieves system security through Virtual Machine (VM) brick-wall partitions of time, memory and resources. Real-time systems programmers get a boost with Lynx Software Technologies' DO-178B/C RTOS training courses.
+
+Each RTOS partition performs like a stand-alone real-time operating system. System events in one RTOS partition can neither share resources nor interfere with events in another RTOS partition (except for "VM0," a partition with special root privileges).The DO-255-compliant system partitioning allows secure RTOS execution of applications of various DO-178B/C criticality levels—concurrently—in different partitions on the same processor, according to the needs of the product. For example, the OS can run a DO-178B/C level A application in one VM while a level C application is running in another. The LynxOS-178 RTOS partitioning involves exclusive access of three kinds: time, memory and resources.
+
+Time Partitioning in the RTOS
+
+Time partitioning is done through a fixed-cyclic time-slice scheduler, which allocates periods of time to each partition. During each time slice, only processes in the assigned partition are permitted to execute. LynxOS-178 implements an ARINC 653-1-based time partition scheduling algorithm that gives each partition fixed execution time so that the system can be deterministically safe.
+
+Memory Partitioning
+
+Memory partitioning is achieved by dividing RAM into discrete blocks of non-overlapping physical address space. Each RTOS partition is assigned one and only one block of memory. Within the partition, the virtual address spaces of various processes are mapped to memory from the assigned memory block.
+
+Resource Partitioning
+
+Resource partitioning means that each device can be assigned to only one partition of the RTOS. This means that a fault in a device or its driver will be contained within a single RTOS partition. Each partition mounts a RAM-based file system for data storage. The file systems are private to the individual partitions and are never shared with other partitions.
+
+Multiple Processes and Threads
+
+Within each RTOS partition, LynxOS-178
+®
+ supports a multiprocess, multithreaded environment in which real-time applications can run seamlessly, make system calls, and use device drivers. The RTOS can run a shell on a serial port for a developer to interact directly with the target machine. The RTOS device drivers permit mounting an external disk drive to facilitate testing and data capture. LynxOS-178 also handles errors and exception conditions that applications do not, or cannot, trap.
+
+Mountable File System Support
+
+LynxOS-178 implements a POSIX
+®
+-compliant file system interface that supports the creation of fully functional file systems in DRAM, Flash, and so on. These file systems can be mounted read-write or read-only for additional flexibility in safety-critical environments.
+
+Dynamic Device Driver
+
+Applications and drivers are not required to be linked to the operating system and can, therefore, be isolated, limiting re-certification efforts for the full operating system when only an application or driver needs modification.
+
+In the LynxOS-178 RTOS architecture, the RTOS components are "system software." POSIX system services and the LynxOS-178 RTOS kernel are reusable software components. The CSP (CPU Support Package), device drivers, BSP (Board Support Package), and configuration tables (VCT) may vary on different boards or microprocessors.
+
+The application software that executes within a partition on the target system is usually supplied by a system integrator. LynxOS-178 is designed to be independent of its underlying hardware platform. A unique BSP and CSP provide the hardware-specific services to LynxOS-178. An application's only interaction with LynxOS-178 is through its documented Application Programming Interface (API).
+
+Boot Code
+
+The boot code boots the host processor and performs the appropriate level of power on self-test (POST) to assure correct operating conditions of a limited set of hardware devices. The boot code is in the firmware module on the Kontron (formerly Thales) VMPC6x board.
+
+CPU Support Package (CSP)
+
+The CSP contains all the processor family-specific routines, including the MMU, floating point, and processor exception handlers. The CSP routines are linked with the LynxOS-178 kernel.
+
+Board Support Package (BSP)
+
+The BSP contains routines for initializing and controlling hardware on the target system. The primary responsibilities of the BSP are:
+
+Interface with boot and shutdown software
+
+Establish virtual address map for onboard I/O Interface with the interrupt controller
+
+Provide default handlers for error-signaling interrupts
+
+Interface with the PCI controller
+
+Interface with the system time (tick timer)
+
+Device Resource Manager (DRM)
+
+The PCI Device Resource Manager (DRM) is platform-independent. The primary responsibilities of the PCI DRM are:
+
+Locate the PCI devices
+
+Manage ownership of PCI devices
+
+Map devices into virtual address space
+
+Provide access to the PCI configuration space
+
+The BSP and the DRM are linked with the LynxOS-178 kernel.
+
+Static Device Drivers
+
+The static device drivers are software components that isolate specific details of hardware devices from application software components. Items such as hardware-dependent interrupt handlers (for example, power warn and load shed) and kernel threads are added to the kernel with device drivers. Static device drivers are linked with the kernel.
+
+Static Device Info Files
+
+The static device info files are used to configure the static device drivers for devices available in the target system. There are one or more info files per device driver. The static device info files are linked with the LynxOS-178 kernel.
+
+Dynamic Device Drivers
+
+The dynamic device drivers are hardware access routines for optional devices on the target system. These device drivers are stored in the file system and installed after the LynxOS-178 kernel is booted, but before partitioning is invoked.
+
+Dynamic Device Info Files
+
+The dynamic device information files are used to configure the dynamic device drivers for optional devices on the target system. There can be one or more information files per device driver. These device info files are stored in the file system and installed after the LynxOS-178 kernel is booted, but before partitioning is invoked.
+
+POSIX (System Services)
+
+The system services are linked with the application code (C or C++) and run in processor user mode. Application Programming Interfaces (API) include:
+
+POSIX API—provides POSIX 1003.1, 1003.1b, and 1003.1c operating system services
+File system—provides a file system with a POSIX API
+IEEE floating point services—provide services to configure floating point responses
+
+System admin services, available to VM0 (that is, VM zero) only, include:
+
+File system admin services—mount, ffsck, mkffs
+
+Scheduler service—create pinit(), initialize scheduler, and others
+
+High water mark services—get_resource_entry()
+
+LynxOS-178 library—dr_install(), setgroups()
+
+Kernel
+
+The LynxOS-178 kernel is statically linked with the CSP, BSP, and static device drivers to create the LynxOS-178 operating system. During initialization, dynamic device drivers are dynamically linked with LynxOS-178 and effectively become part of the operating system.
+
+Common Initialization (cinit)
+
+cinit is the first POSIX process to run after the LynxOS-178 kernel is initialized. cinit executes with operating system root privileges. It reads the Virtual machine Configuration Table (VCT) and creates VM partitions within LynxOS-178.
+
+The primary responsibilities of cinit are as follows:
+
+Validate and read the VCT
+
+Load dynamic device drivers Initialize system wide environment variables
+
+Mount the file systems
+
+Initialize the scheduler
+
+Respond to partition fatal errors as defined in the VCT
+
+Partition Initialization (Pinit)
+
+At the point in the LynxOS-178 initialization where the OS is able to run partitions, partitions, cinit transforms into a unique Pinit process in each partition. Pinit, as the first process in the partition, completes initialization of the partition's environment and transforms into the application software for the partition. Pinit executes with operating system root privileges.
+
+LynxOS-178 has two configurations: a certifiable production configuration for the delivery of safety-critical software and a powerful development RTOS configuration enhanced with development tools to accelerate product time-to-market.
+
+LynxOS-178 RTOS Production Configuration
+
+The production configuration of LynxOS-178 has a feature set that has complete DO-178B/C artifacts and traceability for level A certification of the LynxOS-178 kernel and libraries.
+
+LynxOS-178 RTOS Development Configuration
+
+The development configuration (a superset of the production configuration) has additional features that assist in application development and debugging on LynxOS-178:
+
+More kernel features—TTY, ptrace, skdb, and CodeTEST hooks, for example
+
+Shells and utilities—Bash, TFTP application, zmodem, ps, gzip, high water mark utilities, and additional file system utilities such as ls, cat, mkdir, copy, and rm
+
+Debuggers—Standard gdbserver
+
+Additional device drivers, such as SCSI drivers Note that these additional features do not have supporting DO-178B/C artifacts and are intended for use during development only.
+
+Virtual Machine Configuration Table (VCT)
+
+The VCT contains configuration information to create VMs within LynxOS-178. Each VCT also contains a Virtual Machine/partition configuration profile for each software application. This information is used to allocate system resources to the application software, defining a valid configuration of the target system as determined by the user. The VCT contains information based on the set of applications loaded on the target system.
+
+Kernel Downloadable Image (KDI)
+
+A LynxOS-178 RTOS Kernel Downloadable Image (KDI) is a single downloadable image containing the LynxOS-178 RTOS and a file system. The file system is a UNIX-style root file system with a POSIX API. It contains the minimum system software necessary for cinit to complete its initialization tasks. It also contains file system mount points for all other file systems used by any VM (Virtual Machine). A RAM disk is created on /mnt and mounted for each VM partition.
+
+All file systems specified in the VCT (Virtual Machine Configuration Table) are mounted in directories created on the RAM disk. Read-write file systems are mounted only for the VM partition that owns the file system. Read-only file systems are mounted for all partitions. This way, the read-write file systems are visible to only the VM partition that owns the file system, and read-only file systems are visible to all VM partitions.
+
+LET'S CONNECT
+
+Copyright © 2023 Lynx Software Technologies
+
+Privacy Policy

@@ -1,0 +1,909 @@
+URL: https://www.lynx.com/blog/what-is-cache-coloring
+
+What is Cache Coloring and How Does it Work?
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+BLOG
+
+January 21, 2025
+
+What is Cache Coloring and How Does it Work?
+
+by 
+Tim Loveless | Principal Solutions Architect
+
+ Multicore 
+,
+
+ Safety 
+,
+
+ TC-16/51 
+,
+
+ CAST-32A 
+,
+
+ Certification 
+,
+
+ MCP 
+,
+
+ embedded systems 
+,
+
+ hardware 
+,
+
+ development 
+,
+
+ hardware interference 
+,
+
+ software 
+,
+
+ certifications 
+,
+
+ DO-178 
+
+Share
+
+There are substantial challenges in building secure and safe systems on multicore processors (MCPs). Last level cache contention is undoubtedly the largest source of multicore interference, and a significant challenge for real-time systems. Here we discuss a proposed solution, called cache coloring. Opinions on cache coloring are mixed, sometimes extreme, and the implementation can be difficult and risky. This article aims to demystify cache coloring by clarifying exactly how it works. We hope that the example using a real Intel processor and accurate diagrams allows you to grasp cache coloring without getting lost in lines, sets and ways.
+
+WHO ARE WE?
+
+First, a word about who we are. Lynx Software Technologies has built and supported real-time operating systems (RTOSes) since 1988. We have witnessed hardware and embedded software technologies evolve and have supported our customers through the design, development, integration, certification, deployment, and support of software systems across mission-critical applications in 
+AVIONICS
+, 
+INDUSTRIAL
+, 
+AUTOMOTIVE
+, 
+UNMANNED SYSTEMS
+, 
+DEFENSE
+, 
+SECURE LAPTOPS
+, 
+CRITICAL INFRASTRUCTURE
+, and other markets. In this article, we discuss various approaches to cache coloring to reduce multicore interference, including cache coloring via the memory management unit, an RTOS, a hypervisor, and finally, via hardware.
+
+MULTICORE INTERFERENCE
+
+RTOS vendors are beginning to react to the biggest source of multicore interference – last level cache contention. In a multicore processor, the last level cache (LLC) is shared by all cores and means that a noisy neighbor can have a drastic impact on the worst-case execution time (WCET) of software on other cores. Researchers Bechtel and Yun 
+achieved a slowdown factor of 340
+1
+ using adversarial benchmarks. The slowdown swamps the theoretical 4X speedup expected from a quad core MCP, for example.
+
+What is cache coloring?
+
+Cache coloring is a clever software-only approach to cache partitioning. Modern processors use a set associative cache architecture that is a balance between the simplicity of a direct mapped cache and the silicon cost of a fully associative cache. A side-effect of set associative caches is that only a small number of cache lines, those which reside a multiple of the set size apart, can co-exist in the cache. In normal operation, this is an unavoidable limitation of the cache that slightly reduces the hit rate (by approximately 2%)
+2
+. When designing new processors, semiconductor vendors conduct simulations and carefully choose the cache set size for optimal performance on average. But, if you are clever, this artifact can be used to deliberately divide memory into regions that cannot evict each other from cache. Effectively, to partition the cache artificially.
+
+Cache coloring on Ice Lake
+
+For example, the 
+Intel Core i7-1065G7 (Ice Lake) processor
+3
+ launched in Q3 2019 is a quad core chip with 3 cache levels. Its last level cache is L3. This cache is 8MB in size, with 64 bytes per line and is 16-way set associative. The cache always deals in line-sized chunks; that is, the smallest block of memory that can be cached is 64-bytes. 16-way set associative means that the 8MB cache is divided up into 16 duplicate 512KB (8192 line) chunks called 
+ways
+. A cache 
+way
+ fits over memory like a window repeating exactly every 512KB. Lines have fixed positions within the 
+way
+, so, the first line can only store a single line, (the first one) out of every 512KB block of memory.
+
+Fig. 1 Intel Core i7-1065G7 8MB 16-way set associative L3 cache.
+
+The effect of this is that out of the thousands
+4
+ of 
+first lines
+, repeating every 512KB through memory, 
+any 16
+ can be simultaneously cached. If an application can arrange to exclusively use only those 512KB-apart 64-byte-long memory stripes, that memory effectively forms a tiny private 1024-byte (16 line long) cache.
+
+Fig. 2 Memory lines cacheable by first cache line. Inconvenient for programming.
+
+Writing code that uses memory striped like a venetian blind is incredibly inconvenient. Malloc could be modified to automatically provide memory from stripes, and that could allow variables to be cache partitioned, but it does not help cache partition your code. To make this practical, a way to combine the stripes into contiguous blocks that can be treated like normal memory is needed.
+
+Cache coloring using MMU
+
+As it happens, we already have an efficient and practical way to map memory—the Memory Management Unit (MMU). It can take 4K memory pages, sprinkled from anywhere in memory and map them into one or many contiguous memory blocks. The only snag is that 4K pages are too big for our 64-byte lines. This can be overcome, however, by combining 64 of the 64-byte cache lines together to fill the 4K page (64 X 64-bytes = 4K). Instead of 8192 tiny 1K caches, this gives us 128 larger 64K caches. This approach is called cache coloring. We have built 128 “colors” in memory. If an application has exclusive access to, and stays within its own color then it has its own private subset of the L3 cache. Colors can be combined, to provide larger (but fewer) cache partitions. Combinations of large and small partitions are also possible as long as they are a) a multiple of 4K and b) less than 4MB
+5
+ in size.
+
+Fig. 3 (left) Cache lines grouped into MMU pages and mapped into contiguous blocks of memory.
+
+Problems with cache coloring
+
+Ultimately, cache coloring partially defeats how the cache was designed to operate. The utility of the cache has been diluted by reducing the flexibility of which parts of memory can be cached. The average performance of the entire system will be lower using cache coloring, but cache contention will be reduced and determinism improved. For real-time systems, this should be an overall win, yet the cache coloring concept is a kind of hack that uses the CPU in an unintended way, likely leaving users on their own should they need help with cache coloring from their semiconductor vendor.
+
+Cache coloring suffers from a number of difficulties that, while not insurmountable, make it difficult and risky for RTOS vendors to implement. For one, cache coloring is specific to the cache structure of your CPU. The cache size and number of ways vary depending on the model of your Intel, Arm, or PowerPC CPU. An intelligent implementation could be written to be portable—that is, to sense, adjust and cope with different cache parameters—but the task is not easy. Additionally, future cache architectures may depart from the linear mapping of lines and instead use something like a hash table, which may be hidden or undocumented and could make the reverse engineering necessary to implement cache coloring impossible. Lastly, cache coloring has a large impact on the internal structure of an RTOS. Such an RTOS likely already has memory regions assigned for kernel space, drivers, processes, shared memory, io, ramdisk, ARINC partitions, stack, heap etc. Fitting cache partitioning in so that it co-exists with all that will be a big upheaval and may require compromises in other areas.
+
+Linus on cache coloring
+
+Linus Torvalds is strongly against cache coloring for Linux. In this 2003 
+Linux kernel mailing list discussion
+ with Anton Ertl from the Vienna University of Technology he argues against cache coloring:
+
+“Also, the work has been done to test things, and cache coloring definitely makes performance _worse_. It does so exactly because it artificially limits your page choices, causing problems at multiple levels (not just at the cache, like this example, but also in page allocators and freeing). So basically, cache coloring results in:
+
+–some nice benchmarks (mainly the kind that walk memory very predictably, notably FP kernels)
+–mostly worse performance in "real life"
+–more complex code
+–much worse memory pressure
+
+My strong opinion is that it is worthless except possibly as a performance tuning tool, but even there the repeatability is a false advantage: if you do performance tuning using cache coloring, there is nothing that guarantees that your tuning was _correct_ for the real world case.”
+
+He states later, in the same thread:
+
+“The real degradation comes in just the fact that cache coloring itself is often expensive to implement and causes nasty side effects like bad memory allocation patterns, and nasty special cases that you have to worry about (ie special fallback code on non-colored pages when required). That expense is both a run-time expense _and_ a conceptual one (a conceptual expense is something that complicates the internal workings of the allocator so much that it becomes harder to think about and more bugprone). So far nobody has shown a reasonable way to do it without either of the two.”
+
+And, later still:
+
+“Hey, there have been at least four different major cache coloring trials for the kernel over the years. This discussion has been going on since the early nineties. And _none_ of them have worked well in practice.”
+
+Cache coloring using a hypervisor
+
+Instead of implementing cache coloring in an RTOS, a hypervisor implementation is more elegant. A hypervisor is already using the MMU to map RAM to create guest virtual machines. This is not the regular MMU, but second level address translation (SLAT) provided by the MCP hardware specifically to support virtualization. Intel’s SLAT is called EPT, Extended Page Tables, Arm’s implementation is the Stage-2 MMU. SLAT provides nested MMU paging that allows the hypervisor, running in privileged mode, to map physical memory to create virtual machines. The trick is that those virtual machines have their own MMU, and use it as normal from their own kernel space to create their own (MMU protected as normal) user processes. A guest OS running in this type of virtualized environment is oblivious to the presence of the hypervisor.
+
+A hypervisor’s use of the MMU, “just” to create virtual machines is relatively simple compared with an RTOS. Implementing cache coloring in the hypervisor would be a cleaner approach. The messy mapping of memory stripes would be contained in hypervisor space and completely normal memory presented to guests - a clean and elegant approach that would allow unmodified guest OSs to benefit from cache coloring automatically.
+
+Lynx’s preferred alternative: Hardware cache partitioning
+
+In the last 5 years the major architectures, x86, Arm and PowerPC, have all implemented hardware cache partitioning. Lynx prefers hardware cache partitioning over cache coloring. In our opinion a simple, efficient and officially supported hardware feature is low risk vs any cache coloring implementation.
+
+Cache partitioning on Intel Xeon E5
+
+Intel first 
+implemented hardware cache partitioning
+ in their Intel Xeon E5-2600 v3 family of server processors in November 2016, and following that it is present in all Xeon chips beginning with the Xeon E5 v4 family. Intel’s hardware cache partitioning is called 
+Cache Allocation Technology (CAT)
+ and is part of Intel’s wider Resource Director Technology (RDT) suite. With the latest generation of Intel processors CAT has trickled down and is now present in Atom chips. Intel’s CAT implementation defines a CBM, Capacity Bitmask, register that divides up the LLC. A chip that reports a cache Capacity Bitmask of 16 allows the LLC to be divided into sixteenths. For example, the Atom C3958 released August 2017 has a CBM of 4, the earlier Xeon D-1541 from 2015 has a CBM of 16. The 
+LynxSecure Separation Kernel hypervisor
+ has supported Intel CAT since 2019.
+
+NXP also has a hardware cache partitioning implementation in the e6500 PowerPC cores
+6
+. The e6500-based QorIQ T2080 was released in 2014 and has a 2MB L2 last level cache that is 16-way set associative with a 64-byte line size. LynxSecure supports PowerPC hardware cache partitioning in our beta release for the T2080. NXP defines a set of registers, L2PIR, L2PAR and L2PWR, that allow cache ways to be selectively disabled with the result that the LLC can be divided into sixteenths.
+
+Arm added hardware cache partitioning with Armv8.4-A architecture in 2017. That is, the application variant of Armv8.4. Arm’s hardware cache partitioning is part of their Memory Partitioning and Monitoring (MPAM) extension. LynxSecure does not yet support hardware cache partitioning on Arm.
+
+State of the industry
+
+It is difficult to find the precise status of cache coloring support in the embedded industry. One suspects support for this relatively new feature is sparse. RTOS vendors are naturally cautious talking to their competitors, especially about new features they are lacking. However, DDC-I have a feature called “memory pools” in their RTOS that looks like cache coloring. It is a portable software implementation that provides cache partitioning. DDC-I have 
+4 patents
+ dating from 2008 that cover “cache pooling”, but I doubt that RTOS vendors are avoiding cache coloring due to the DDC-I patents. Enforcing them would be interesting given the number of cache coloring references that predate 2008. Greenhills have something called Bandwidth Allocation and Monitoring (BAM) announced in 2020, however, from public sources it is difficult to discern what BAM is in any detail.
+
+Cache partitioning is valuable for real-time systems, but there is much more to multicore interference than just LLC contention. There are pros and cons to both cache coloring and hardware cache partitioning, but both have their place. Hopefully this article was useful to make an informed decision about types of cache partitioning.
+
+Multicore safety is an area of expertise and active innovation for Lynx Software Technologies. Multicore designs should be approached with caution and careful planning to understand the complexity and minimize risks. Our experience is that there are large pitfalls and no easy solutions. We are engaged in several multicore avionics design and research projects and would be delighted to discuss multicore safety and partitioning strategies for your next project. As ever, Lynx Software is at your service and would be delighted to discuss your next project and any multicore, safety or partitioning features you require.
+
+REFERENCES
+
+Bechtel & Yun,
+ Denial-of-Service Attacks on Shared Cache in Multicore: Analysis and Prevention
+, IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), April 2019.
+
+Fig 5.16 on page 407 of Hennessy & Patterson,
+ Computer Oganization and Design The Hardware/Software Interface – 5th ed.
+ Morgan-Kaufman, 1998.
+
+Intel Ice Lake L3 cache size.
+ https://www.7-cpu.com/cpu/Ice_Lake.html
+
+16,384 in a computer with a typical 8GB of memory installed
+
+The product number of colors X color size must be 8MB or less. The extreme case is 2 colors of 4MB each
+
+NXP e6500 Core Reference Manual
+ section 5.8.4.5, L2 cache partitioning
+
+Tim Loveless | Principal Solutions Architect
+
+Tim Loveless has 25 years’ embedded industry experience in the fields of real-time operating systems, safety critical systems, JTAG tools, and embedded linux. Before joining Lynx Software Technologies as Principal Solutions Architect, he worked as an FAE for Wind River UK, for Intel’s Internet of Things Group and as European Aerospace and Defence FAE Manager for Wind River. Tim’s interests include computer security and macroeconomics. He enjoys podcasts, cycling, and running, while skiing and paddle boarding are rare treats.
+
+Subscribe Here!
+
+ Seize the Edge 
+
+ Lynx is evolving and our commitment to safety, security, and performance is stronger than ever. We are excited to embark on this next chapter with you. If you have any questions or want to learn more about this transition, we are here to help. 
+
+                Contact Us
+
+Related Blogs
+
+            View All
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

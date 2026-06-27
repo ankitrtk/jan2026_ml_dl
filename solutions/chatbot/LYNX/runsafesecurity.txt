@@ -1,0 +1,310 @@
+URL: https://www.lynx.com/partners/runsafesecurity
+
+Partners | RunSafe Security
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+LYNX & RUNSAFE SECURITY
+
+LYNX & RUNSAFE SECURITY
+
+WHAT WE'RE DOING TOGETHER
+
+The current practices of scanning and patching leave mission-critical systems, including weapons, vulnerable to the most common and devastating cyber attacks. 
+Addressing scan results slows development teams and doesn’t address key vulnerabilities; meanwhile, Zero Day Vulnerabilities continue. We hear that within 15 minutes after a vulnerability is disclosed, attackers are attempting to exploit it; this cadence clearly outpaces reactive approaches such as patching.
+
+WHAT WE'RE DOING TOGETHER
+
+The current practices of scanning and patching leaves mission critical systems, including weapons, vulnerable to the most common and devastating cyber attacks. 
+Addressing scan results slows down development teams and doesn’t address key vulnerabilities, meanwhile, Zero Day Vulnerabilities continue. We hear that within 15 minutes after a vulnerability is disclosed, attackers are attempting to exploit it; this cadence clearly outpaces reactive approaches such as patching.
+
+Safeguarding LYNX MOSA.ic
+
+In partnership with RunSafe Security, we bundle their technology as part of our LYNX MOSA.ic product, protecting it against 70% of the most common vulnerabilities with no developer impact. This RunSafe protection applies to the build root Linux operating system, applications, and customer software.
+
+RunSafe published a blog detailing our partnership. Click the 'learn more' button below for more information, and stay tuned for more updates in early 2024, as the RunSafe team intends to release the LynxOS-178 version of the protections. 
+You can also watch a video of a quick demonstration of the RunSafe technology and details on how it is incorporated into the LYNX MOSA.ic development flow.
+
+Memory Safety
+
+Prevalence of Memory Safety Bugs
+
+In compiled code, memory safety bugs are the single largest class of bugs. In the embedded and real-time operating system spaces, compiled code represents the vast majority of code. A few statistics based 
+on research at North Carolina State University
+:
+
+Typically, 70% of the bugs in compiled code are memory safety issues.
+
+Memory safety bugs have a much more severe impact on systems, according to their average severity scores (NVSS). 
+
+59% of memory-related code vulnerabilities have been weaponized, with exploits readily available. 
+
+Memory safety bugs tend to take much longer for developers to fix than non-memory safety bugs (180 days for memory safety vs 90 days for non-memory safety).
+
+Memory Safety
+
+Prevalence of Memory Safety Bugs
+
+In compiled code, memory safety bugs are the single largest class of bugs. In the embedded and real-time operating system spaces, compiled code represents the vast majority of code. A few statistics, based 
+on research at North Carolina State University
+:
+
+Typically 70% of the bugs in compiled code are memory safety issues.
+
+Memory safety bugs have a much more severe impact on systems, according to their average severity scores (NVSS). 
+
+59% of memory-related code vulnerabilities have been weaponized, with exploits readily available. 
+
+Memory safety bugs tend to take much longer for developers to fix, relative to non-memory safety bugs (180 days for memory safety vs 90 days for non-memory safety).
+
+Patching Deployed Systems is Difficult
+
+Time is on the side of the attackers. System deployment cycles in military, aerospace, and federal markets are long. In the case of planes, they can be measured in decades. Patches are hard to deploy to these complex, fielded systems. Meanwhile, highly resourced and skilled attackers develop cyber kill chains, finding (or buying on the dark web) zero days. With RunSafe, Lynx RTOS systems are protected and future-proofed against most of these zero-day attacks without patching.
+
+*SAFEGUARDING LYNX MOSA.IC: LYNX AND RUNSAFE’S SECURITY PARTNERSHIP
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

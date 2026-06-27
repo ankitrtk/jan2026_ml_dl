@@ -1,0 +1,523 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/what-is-single-root-io-virtualization-part-2
+
+Single Root I/O Virtualization (SR-IOV) -Pt 2- LynxOS-178 10G network benchmarkS
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            8 min read
+
+Single Root I/O Virtualization (SR-IOV) -Pt 2- LynxOS-178 10G network benchmarkS
+
+ Tim Loveless | Principal Solutions Architect
+
+ : 
+
+                Mar 16, 2021 12:33:11 PM
+
+Multicore
+
+Safety
+
+MCP
+
+embedded systems
+
+hardware
+
+development
+
+Single-root IO Virtualization
+
+hypervisors
+
+virtualization
+
+software
+
+certifications
+
+Virtual Machines
+
+10G
+
+Benchmark
+
+_______________
+
+Single Root I/O Virtualization (SR-IOV) virtualizes network interface cards (NICs) to allow a single NIC to present itself as dozens of virtual NICs to a hypervisor. It is a hardware standard, part of the 
+PCI-SIG
+ (
+Peripheral Component Interconnect 
+- Special Interest Group) and is heavily used in data centers. It is a key software defined networking (SDN) component that allows data centers to efficiently host internet servers as virtual machines (VMs). SR-IOV provides a pool of hardware virtualized NICs that a cloud computing platform such as 
+OpenStack
+ dynamically assigns to VMs as they are launched. This infrastructure uses Linux orchestration platforms and mainly Linux based enterprise guest OSs.
+
+In our first blog post on the topic (
+Part I
+), we saw that the Intel® Atom® 
+C3858
+ (Denverton) Processor has 4 built-in X550 NICs that present 256 virtual NICs. LynxSecure was used to build a system with 5 Buildroot Linux guests, 4 of which used virtual SR-IOV NICS. 
+This article (Part II), takes the next step and illustrates how to build a system with 3 LynxOS-178 RTOS guests and a Buildroot Linux. LynxSecure is used to assign 14 SR-IOV NICs to the guests before we run benchmarks to measure the overhead of SR-IOV virtual networking. These are high performance 10G b/S NICs, so the benchmarks are also an interesting comparison of Linux vs LynxOS-178 networking performance for UDP and TCP at various packet sizes.
+
+Should you be using SR-IOV for your real-time system?
+
+The first System on Chip (SoC) with built-in SR-IOV capable NIC was released in 2015. Collapsing both the physical NIC card and motherboard slot into a highly integrated SoC is perfect for embedded use cases, which tend to be rugged and compact, and where add-in cards and their connectors are a liability. The 
+Intel Xeon D-1500 SoC
+ - codename Broadwell - combines up to 16 Xeon cores with onboard PCI Express and 2 Intel X550 SR-IOV capable 10 Gigabit Ethernet (GbE) NICs. Impressively, each X550 NIC includes 64 VFs, for a total of 128 VFs onboard inside this chip.  Combined with an embedded hypervisor, this SoC is an excellent consolidation platform. SR-IOV enables efficient I/O Virtualization, so you can provide full network connectivity to your VMs without wasting CPU power. It is well suited to combining separate boxes running RTOS, embedded Linux and Windows-based operator-consoles into one box; saving space, weight and power (SWaP) as well as cost.
+
+How to use SR-IOV for embedded real-time software systems
+
+The main difference when using SR-IOV with an RTOS is that the configuration of virtual NICs and guest OSs is static. The configuration is setup at boot time and remains in place until the embedded system is powered off. The flexibility of creating VMs and assigning them NICs is given to the embedded-system software engineer instead of happening dynamically as the system runs.
+
+The configuration paradigm of embedded systems is largely source-code based. Parameters are hard-coded in the board support package (BSP), network driver, network stack and RTOs itself. This is done to keep the embedded software as small and efficient as possible. Hard-coding allows the RTOS to dispense with the utilities that discover the SR-IOV capabilities, configure them and allow them to be reconfigured on-the-fly. But, without these utilities, how does an embedded engineer build an SR-IOV based embedded system?
+
+Using SR-IOV with the LYNX MOSA.ic™ development framework
+
+The 
+LYNX MOSA.ic
+ embedded virtualization platform can be deployed onto an embedded target system with multiple VMs using SR-IOV virtual NICS. The following technical walk through is intended to showcase a day in the life of an embedded engineer and how the embedded configuration paradigm is applied to SR-IOV.
+
+SR-IOV 
+virtual
+ NICs are called Virtual Functions (VF). The real NIC is called the Physical Function (PF). Software sees the PF like a normal NIC, except it has extra controls to turn on the VFs. VFs appear as subset NICs. This is because some NIC settings are global, like link speed and half vs full duplex. Controls for these global settings are omitted from the VFs because they inherit whatever the PF uses.
+
+LynxOS-178 RTOS supports SR-IOV
+
+SR-IOV support was added to the LynxOS-178 RTOS with the LynxSecure Safety Bundle v1.8 release in April 2020. The support includes a new ethernet driver for Intel 10 gigabit network adapters, including SR-IOV support, for LynxOS-178. The Lynx port comes as 2 drivers, ixgbepf for the Physical Function and ixgbevf for the Virtual Function.
+
+Let’s take a look at how to enable SR-IOV on LynxOS-178, and how to build a LynxSecure hypervisor-based system with multiple virtual machines (VMs) all hooked up with SR-IOV NICs. To make it interesting, we’ll run Linux in one of the virtual machines and finish up with 10G network benchmarks of LynxOS-178 and Linux using both PFs and VFs.
+
+The following 7 steps will be shown:
+
+Retrieve hardware catalogue from Supermicro X10SDV-TLN4F target board
+
+Create a hypervisor system with 3 LynxOS-178s and a Linux guest OS
+
+Configure LynxOS-178 IXGBE Physical Function driver
+
+Configure Virtual Function MAC addresses
+
+Configure LynxOS-178 network devices
+
+Boot up the Supermicro board target board
+
+Netperf 10G Network Benchmarks
+
+We will use a 
+Supermicro X10SDV-TLN4F
+ board. 
+It is an Intel Xeon D-1541 (Broadwell-DE) based system with 8 cores, 32GB of RAM and two Intel X550 10G NICs built in. Each X550 NIC has 64 virtual functions (VFs) and uses 10G Base-T cabling. 10G Base-T cables are like normal RJ-45 network patch cables, but with superior shielding that complies with CAT 6 F/UTP instead of regular CAT 5.
+
+Retrieve hardware catalog from Supermicro X10SDV-TLN4F target board
+
+Lynx’s hardware discovery tool is booted on the Supermicro and the hardware catalog downloaded into the LynxSecure development environment. The catalog includes a 6-page long list of all 128 VFs available on from the 2 X550 NICs.
+
+The hypervisor has named the first X550 NIC NET0. It has a PCI ID of 808615AD and hardware MAC address of 0C:C4:7A:9A:61:EA. The other numbers are the PCI address, for e.g. look at NET1#2, the third (numbered from 0) VF of NET1. 0000:04:10.5 means it is PCI function 5 of PCI device 16 (decimal of 10 hex) on PCI bus 4 in PCI domain 0.
+
+Create a hypervisor system with 3 LynxOS-178s and a Linux guest OS
+
+Lynx’s modelling language is used to define a system with 5 virtual machines and populate them with 3 LynxOS-178 RTOSs, a Buildroot Linux and a virtual device server. The virtual device server provides virtual serial ports for all OSs and makes them available via secure shell (SSH) over the network.
+
+The LynxSecure hypervisor development tools use sensible defaults for RAM size and CPU core count if they are omitted. In this example 1 core is assigned per guest OS, the LynxOS-178 guests get 256MB RAM each and 1024MB is given to Linux.
+
+Note that PF NET0 is assigned to virtual machine pvlynxos178-pf0 and that PF NET1 is assigned to pvlynxos178-pf1. The VFs NET0#3 and NET0#8 are also assigned to pvlynxos178-pf0. A 3
+rd
+ virtual machine, pvlynxos178-2, is given VFs NET0#0, NET0#1, NET0#2, NET1#4 and NET1#5. Lastly, the pvlinux2 virtual machine is given VFs NET0#4, NET0#5, NET0#6, NET1#2 and NET1#3.
+
+Fig 1. The system architecture created by the hypervisor from this configuration.
+
+Configure LynxOS-178 IXGBE Physical Function driver
+
+The driver has a C language struct that is used to tell LynxOS-178 how many physical ports the NIC has and how many VFs you want to enable.
+
+We enable the 2 ports and ask for 9 VFs on each. The other parameters set the driver interrupt polling interval to 0 – which means “from user space” and enable the VF-to-VF internal loopback. Loopback must be enabled otherwise VFs on the same NIC cannot talk to each other.
+
+Configure Virtual Function MAC addresses
+
+MAC (Media Access Control) addresses are unique hardware addresses normally burned into NIC cards during manufacturing. But, with VFs we need to assign them ourselves. Intel’s Linux driver automatically assigns random MAC addresses to the VFs, but with LynxOS-178 MAC addresses are setup in the network stack configuration file. MAC addresses for the network stack configuration of pvlynxos178-pf0 (the VM assigned the NET0 PF), is configured by editing an array called 
+pf2vf_maclist
+.
+
+A similar change is made to the network stack configuration of pvlynxos178-pf1, the VM that owns NET1’s PF.
+
+Configure LynxOS-178 network devices
+
+Each LynxOS-178 RTOS needs configuring to tell it the number and type of network devices assigned to it. This must match the hypervisor configuration. LynxOS-178 is an ARINC 653 RTOS, this means it has partitions to host ARINC applications. The Virtual-machine Configuration Table (VCT) file is a LynxOS-178-wide configuration file used to configure ARINC partitions. Even if you are not using ARINC partitions the root partition, partition 0, is always present and where you setup the network device configuration.
+
+We configure pvlynxos178-pf0 with:
+
+pvlynxos178-pf1 with:
+
+and pvlynxos178-2 with:
+
+Now, all 3 LynxOS-178 RTOSs are built, the hypervisor SRP (system resource package) is built, and the Supermicro board booted from it.
+
+Boot up the Supermicro board target board
+
+On power up, we see vds booting on COM1 and on the VGA monitor. We ssh into vds and connect to pvlynxos178-pf0’s serial console. Using ifconfig, we can check that pvlynxos178-pf0 has the expected network devices.
+
+The MAC addresses of interfaces lcs0, lcs1 and lcs2 confirm that sure enough, they are NET0, NET0#3 and NET0#8.
+
+When using SR-IOV the PFs must be brought up before the VFs. This means we need to prevent the VMs with VFs from starting until the PFs are initialized from another VM. This is done by configuring the hypervisor to leave the pvlynxos178-2 and pvlinux-2 virtual machines suspended at boot time. The LynxOS-178 utility ixgbevf_start is called from pvlynxos178-pf0 (the VM that owns PF0) to initialize all VFs, and to launch the pvlynxos178-2 and pvlinux-2 VMs via a hypercall. They now boot up and find the newly visible VFs. In a deployed system this could be automated by switching hypervisor schedules shortly after startup.
+
+The same ifconfig check is repeated for pvlynxos178-pf1, pvlynxos178-2 and pvlinux-2 to confirm via MAC addresses that they all have the correct network interfaces matching the hypervisor configuration.
+
+Netperf 10G Network Benchmarks
+
+Netperf is an open-source IP network performance measurement tool. Lynx has ported netperf version 2.1pl3 to LynxOS-178. We will use netperf to measure the network performance of the real NIC (the PF) vs SR-IOV VFs and to compare Linux performance with LynxOS-178.
+
+First, from pvlinux-2, check that the link speed is indeed 10G bits/sec using sysfs:
+
+10000 Mb/S equals 10Gb/S, that’s good. The link indicator LED lights also confirm 10G operation.
+
+Next, from pvlynxos178-2, assign an IP address to interface lcs3 and launch the netperf server. The lcs3 interface is NET1#4 in the hypervisor configuration and corresponds to VF4 of NET1.
+
+Switch to pvlynxos178-pf0, assign an ip address to lcs1. Lcs1 is NET0#3 and corresponds to VF3 of NET0: The netperf benchmark is launched with parameters telling it to talk to 10.20.31.204 and do a UDP stream test with a packet size of 4K.
+
+This benchmark result is 4.324 Gbits/sec between two LynxOS-178s running as a VMs under LynxSecure. They were sending traffic via the VF of one NIC to the VF on a different NIC over an ethernet patch cable. This is the virtualization 
+worst case
+, that is, sending packets out from a VM, through a VF, across a network cable, back into a VF and into another VM.
+
+Benchmark Results
+
+This netperf test was conducted for every combination of PF to PF, VF to VF over different NICs, and VF to VF within the same NIC and repeated for Buildroot Linux and LynxOS-178 and packet sizes ranging from 128 bytes up to 16K. Jumbo frames were not used.
+
+UDP performance is similar between LynxOS-178 and Linux. Results consistently improve as packet sizes grows up to a maximum of half line-rate. Linux achieves a maximum of 5.2 Gb/S. LynxOS-178 achieves 5.1 Gbits/sec.
+
+Linux TCP performance is impressive. Bandwidth builds more quickly from smaller packet sizes and reaches a higher peak. It is interesting that Linux exceeds line rate by 40% when communicating between virtual functions within a single NIC. This shows that SR-IOV loopback is faster than sending packets out over a network cable. Linux achieved a maximum of 14.7 Gb/S over loopback, and 9.4 Gb/S through a cable.
+
+LynxOS-178 TCP throughput is lower, and more in line with UDP. LynxOS-178 achieved 4.1 Gbits/sec maximum.
+
+The results show consistent performance across the board and no penalty for using virtual network NICs vs hardware NICS. The standout exception is Linux TCP performance that achieves twice the bandwidth of the other tests and is able to exceed line rate when communicating within a NIC over SR-IOV loopback.
+
+Start leveraging the benefits of SR-IOV with LYNX MOSA.ic
+
+SR-IOV is a powerful and efficient hardware standard that allows ethernet NICs to be shared between VMs in virtualized embedded systems. Now that it is supported by LynxOS-178 it is more accessible than ever. Hypervisor-based systems that include multiple LynxOS-178 and Linux guest OSs and use SR-IOV to provide rich networking functionality are easily constructed. SR-IOV is another string to the hypervisor bow. As well as consolidation, improved security and flexibility, virtualized embedded systems can now add efficient networking to their capability set. As always Lynx Software is at your service and ready to discuss how SR-IOV, a hypervisor, or LynxOS-178 might be useful in your next project.
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

@@ -1,0 +1,390 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/design-prevails-protecting-systems-from-meltdown-and-spectre
+
+Design Prevails: Protecting Systems from Meltdown and Spectre
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Design Prevails: Protecting Systems from Meltdown and Spectre
+
+ Will Keegan | CTO
+
+ : 
+
+                Feb 19, 2018 10:21:00 AM
+
+Press Release
+
+Least Privilege
+
+Systems Architecture
+
+Security
+
+spectre
+
+CVEs
+
+hardware
+
+side channels
+
+privilege escalation
+
+meltdown
+
+vulnerabilities
+
+_______________
+
+Meltdown and Spectre provide insight into building more resilient systems.  Less covered in the press than the vulnerabilities themselves, problems with patching, or “timelines to discovery” is that some systems were, in fact, prepared and protected— requiring no patches, recompiles, or redesigns.  Their distinguishing feature? A separation kernel technology based on the work of John Rushby which provides system developers with a stronger ability to separate critical and non-critical computing environments through increased hardware control.
+
+Separation is the key to safety and security and has guided high assurance system designs for decades.  For safety, partitioning for aviation systems fundamentally relies on separating components to ensure their protection.  For security, the Department of Defense (DoD) relies on modular separation of system design and controlled information flow for securing information in the highest threat environments.  Within these critical contexts, separation failures are safety and security failures.  
+Meltdown is thus a practical litmus test, revealing those who achieved safe and secure separation and those who did not.
+
+What is Meltdown?
+
+Meltdown allows unprivileged attackers to extract memory accessible to an operating system (OS) or hypervisor by exploiting Out of Order Execution (OoOE), a performance optimization technique utilized by nearly all OS kernel designs.  OoOE allows transient deferral of the resolution of user application access permissions to kernel memory, benefiting from address translation caching as data transfers to and from application memory.  Because user process and kernel memory address translation definitions are set in the same page table, the OoOE transient permission check deferral allows attacking applications to directly reference unauthorized kernel virtual addresses in their program, causing the CPU to load unauthorized memory into the cache.  While the CPU eventually throws a memory access exception, it does not restore the state of the cache, allowing the attacker to utilize cache timing analysis for deducing values of transiently referenced kernel memory.
+
+Solution to Meltdown
+
+The simplest solution to Meltdown is page table isolation and least privilege memory access—techniques native to the LynxSecure
+® 
+Separation Kernel.  Within LynxSecure
+®
+, all kernel-to-physical addresses are stored in different page tables from application/guest OS page tables.  Alternative to traditional centralized resource and service oriented designs, LynxSecure
+®
+ is deeply rooted in a truly least privilege design from both a kernel construction and user model perspective.  LynxSecure
+®
+ forces each guest computing environment to run self-sufficiently, decentralizing the control of resources and execution scheduling. 
+
+The autonomy of each guest environment obviates the need for the kernel to provide global services, eliminating the design choice of combining kernel address translation records with guest address translation records.  Without kernel address translation records collocated with user space, all Meltdown attempts to transiently load unauthorized memory addresses in the CPU cache fault immediately—regardless of the OoOE implementation details.
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

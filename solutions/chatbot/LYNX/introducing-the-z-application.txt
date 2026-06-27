@@ -1,0 +1,528 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/introducing-the-z-application
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            8 min read
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+ LYNX Software Technologies
+
+ : 
+
+                Aug 12, 2021 12:06:18 PM
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+_______________
+
+Adhering to functional safety standards is costly and time consuming. For an application to be compliant with the most demanding SIL (IEC 61508), ASIL (ISO 26262), Class (IEC 62304), or DAL (DO-178) in industrial, automotive, medical or avionics applications respectively, the overhead can be considerable.
+
+These functional safety standards have classifications to describe the criticality levels of the software they are applied against. Higher levels of safety criticality require more rigor in the system’s creation. Regardless of the industry sector, they can have a tremendous impact on the code development process from planning, developing, testing, and verification through to release and beyond (Figure 1).
+
+For example, in ISO 26262-3:2011:
+
+“Four ASILs are defined: ASIL A, ASIL B, ASIL C and ASIL D, where ASIL A is the lowest safety integrity level and ASIL D the highest one….
+In addition to these four ASILs, the class QM (quality management) denotes no requirement to comply with ISO 26262.”
+[1]
+
+Figure 1: Examples of functional safety standard criticality classifications
+
+In common with many other functional safety standards, ISO 26262 helps to minimize development overhead by permitting the separation of a software system into software items with the aim of placing as little of the system as possible into the more critical classes.
+
+In ISO 26262, the process is known as ASIL tailoring. Figure 2 shows one example used in the standard, showing how an ASIL D requirement can be decomposed.
+
+Figure 2: ASIL D decomposition in accordance with ISO 26262-9:2011 Figure 2
+
+ACHIEVING SEPARATION
+
+Achieving adequate separation between software items is vital to the integrity of this approach, and there are many ways to achieve that. Ways to separate software items include:
+
+Hardware separation
+
+Partitioning RTOS (sidebar)
+
+Separation kernel (hypervisor)
+
+Z-apps, Z-functions and Z-schedulers
+
+This requirement for domain separation is common across the safety critical sectors, as can be demonstrated by now considering the example of aeronautical systems.
+
+HARDWARE SEPARATION
+
+The traditional approach to maintaining the separation of many systems in aircraft was to simply keep them physically separate. The separation of an airliner entertainment system from the flight control system provides a clear illustration of separation matters in this environment.
+
+Federated avionics architectures make use of distributed avionics functions that are packaged as self-contained units (LRUs and LRMs). Integrated Modular Avionics (IMA) architectures move away from this hardware centric approach by employing a high-integrity, partitioned environment that hosts multiple avionics functions of different criticalities on a shared computing platform.
+
+Whatever the mechanism deployed, the degree of separation is less easy to achieve when there is a requirement for systems to communicate.
+
+PARTITIONING RTOS
+
+In such cases, the established approach for many years has been the adoption of a hard real-time partitioning operating system (OS) that can be certified in accordance with functional safety standards (sidebar).
+
+The development and maintenance of a real-time operating system (RTOS) to meet the demanding objectives of FAA DO-178B/C DAL A is a considerable undertaking, and consequently the use of such an RTOS represents a significant investment for any system developer.
+
+RTOSes have long been the de facto approach to designing highly critical systems and have undoubtedly contributed to the enviable reputation of passenger aircraft safety (Figure 3). However, they are also inevitably complex, and have substantial footprints.
+
+For many applications, there are now more optimal solutions from both a safety and a security perspective (sidebar next page).
+
+Figure 3: LynxOS-178 is a native POSIX, hard real-time partitioning OS certified to 
+FAA DO-178B/C DAL A safety standards
+
+SEPARATION KERNEL (HYPERVISOR)
+
+The suboptimal footprint, complexity, and costs associated with an RTOS can be sidestepped through the use of minimalized, simplified applications. That approach requires the use of an alternative mechanism to fulfill the kind of sophisticated multi-tasking requirements traditionally addressed by an RTOS, which is where a separation kernel hypervisor can help (sidebar).
+
+Traditional hypervisor implementations introduce complexity through dynamic operations. In contrast, the advantage of a separation kernel hypervisor (such as LynxSecure) lies in the simplicity of its derivation from a static partitioning system that leverages a configured hardware platform to create independent, isolated hardware instances (or subsystems) for virtual machines (VMs).
+
+Each VM is able to run just enough RTOS to get its job done. At one extreme, a VM might host an entire open source RTOS such as
+ FreeRTOS
+ or 
+Micrium µC/OS
+. Another, separate VM might host a “bare metal” application – that is, an application that uses no operating system at all. Any combination of these VMs can be combined into a system.
+
+Figure 4: LynxSecure is a separation kernel hypervisor that allows the direct control of system behavior through a system architecture specification written by the developer and enforced by the processor
+
+Figure 4 illustrates how each VM hosts its own OS or bare metal application, each of which is booted without any further interference from the hypervisor. Any inter-process communication (IPC) mechanisms specified at configuration are initiated at boot to provide communication paths between applications where needed. The result is a system that facilitates the ideal environment for each application hosted by the hypervisor with no underpinning OS, none of the “superuser” privileges associated with traditional hypervisors, and hence no associated vulnerabilities.
+
+This ability to allocate the best RTOS, OS, or bare metal environment for each subsystem helps tremendously. If the most critical parts of the application can be configured to be a bare metal application, then the amount of code that needs to be certified to the highest certification levels can be minimized. But what if the critical real-time elements of the system demand more complexity than such an architecture can provide? Does the inevitable use of an RTOS, even as a hypervisor guest, leave us with a familiar problem?
+
+ENTER THE Z-APPLICATION
+
+A “Z-app” (short for Z-application) is a collection of separation kernel virtual machines. The Z-app concept addresses the needs of application developers looking to achieve sophisticated, hard real-time behavior complete with function protection and domain separation, while avoiding the overheads inherent in RTOS use.
+
+Z-app was originally conceived to address an issue in the automotive sector. The classic AUTOSAR stack implementation used in that industry runs all functions in a flat address space and uses a microcontroller RTOS (typified by the ETAS RTA-OS) to schedule them. Such an approach offers no domain separation or function protection.
+
+This problem was resolved by introducing a flexible scheduler (“Z-scheduler”) hosted by a dedicated VM. Replacing the scheduling functionality found in RTA-OS, Z‑scheduler is a function caller that jumps into a separate memory dimension using hypervisor context switch “hypercalls”. AUTOSAR functions are implemented as “Z-functions” in separate VMs, hence providing the required scheduling capability coupled with domain and function protection.
+
+When the concept of z-apps was created, it was soon recognized that this architecture could be applied across many industry sectors. Many critical applications have functionality that demands sophisticated scheduling capabilities, but have safety- and security-critical requirements that make function protection and domain separation paramount, and the drawbacks of an RTOS undesirable (sidebar
+[2]
+).
+
+Z-APPLICATION ARCHITECTURE
+
+Today’s Z-application is a collection of separation kernel hypervisor virtual machines that belong to a common execution group. Each Z-app instance establishes a conventional framework for bare-metal applications, modelling a program stack such that a program runtime creates a standard memory layout to organize the execution flow of functions within a main program (Figure 5).
+
+In practice, at runtime, Z-app mimics a conventional computer program such that the Z-scheduler takes the role of the “main” entry point. Each Z-function is allocated its own VM (or “room”) such that it is the equivalent of a method or function in a conventional program, but with the benefit of protection via separation. Global/heap memory and stack memory are allocated and utilized exactly as they would be in a conventional program.
+
+Figure 5: Z-app architecture showing how Z-function and Z-scheduler VMs are hosted, and how shared memory is leveraged
+
+SCHEDULING
+
+Unlike an RTOS – which typically manages thread priority scheduling in an inaccessible “black box” scheduler – scheduling in a Z-app becomes the responsibility of the application running in guest space in the form of its Z-scheduler. The Z-apps characteristics not only ensure that address space separation is maintained, but also makes the implementation of custom schedules much easier.
+
+The Z-scheduler calls the Z-functions (zFns) according to a scheduling algorithm that is customizable to suit each application. For example, Figure 6 illustrates a Z-scheduler implementation of a periodic scheduler with HW timer-enforced budgets.
+
+Figure 6: Z-scheduler implementation of a periodic scheduler with HW timer-enforced budgets
+
+TIME DONATION
+
+As shown in Figure 7, time donation functionality is also available, allowing a Z-function to donate the remainder of a time-slice to another Z-function. The implementation mechanism is wrapped to look like standard C language function calls.
+
+Figure 7: Time donation functionality is available to each Z-function
+
+Measurement libraries and constructs are available to provide metrics for analysis, including time in a Z-function, time remaining after return (slack), time expiration exceptions, and various PMU values. The architecture and its features lend themselves to hierarchical scheduling, allowing VMs to run in accordance with independent scheduling schemes and priority groups.
+
+CERTIFICATION CONSIDERATIONS
+
+As previously established, the overhead of certification is a primary concern in many of the sectors likely to have a use for this technology. The integrity afforded by the function protection and domain separation characteristics have been discussed, but perhaps less obviously the modularity of the discrete Z-functions aids reuse and aids behavior analysis. For examples, consider aerospace applications both in the civil and defense sectors.
+
+DEFENSE
+
+The applicability of the Z-app approach in medical devices and the automotive industry further extends to aerospace and defense industries where it represents an evolutionary step for MOSA (Modular Open Source Architecture) design.
+
+Figure 8 shows a design where Future Airborne Capability Environment (FACE™) applications rely on deep abstraction layers implemented across multiple CPU cores. In this design, the potential amount of interference that the FACE guest can generate in the hardware alone will create a challenging analysis exercise to ensure critical applications will meet their timing deadlines.
+
+This illustration also shows the impracticality of hosting a critical application on deep abstraction layers that must defend integrity & timing analysis of a complex runtime environment inheriting interference from both the hardware and the layers of abstraction concurrently accessed by co-hosted applications.
+
+Figure 8: A traditional FACE reference design using Linux and RTOS
+
+The system illustrated in Figure 9 shows a design that minimizes abstraction layers and restricts dependencies to basic software components for running safety critical applications. The FACE portion of the design is limited in hardware access and is only used as a simple transport of packets to maintain network interoperability, while the bare-metal safety critical applications run autonomously.
+
+Figure 9: A FACE reference design based on Z-app technology
+
+This design gives architects and evaluators precise insight both into where critical applications are running, and into their dependencies. Evaluators can measure the worst possible case of interference generated by a given virtual machine. They are also given assurances that there are no internal software platform dependencies on complex abstractions such as “syscalls” into SMP kernels, internal thread queues, global data locks, and coherency protocols that could make the interference analysis extremely difficult.
+
+CIVIL AEROSPACE
+
+One of the most significant recent changes in the civil aviation computing world is the increasing push to adopt multicore processors. They are important not only because they will help to meet the needs of modern avionics systems, but more pragmatically because their use will sidestep potential long-term single-core processor availability issues.
+
+In response to this scenario, the Certification Authorities Software Team (CAST) published Position Paper CAST-32A named ‘Multicore Processors’ (often referred to as just ‘CAST-32A’). This paper identifies topics that could impact the safety, performance, and integrity of airborne software systems executing on multicore processors and provides objectives intended to guide the production of safe multicore avionics systems (sidebar).
+
+Multicore processors (MCPs) introduce an extra level of complication. They genuinely do run multiple processes in parallel instead of using rapid scheduling to present that illusion, as single-core processors do. Unlike single processor applications, the task of finding a schedule of N tasks on M processor cores such that all tasks meet their deadline has no efficient algorithm other than brute force.
+
+Exacerbating that problem, in multicore processors hardware interference channels cause the execution-time distribution to spread. Instead of a tight peak, the distribution is wide with a long tail. The challenge of the multicore safety problem is therefore to robustly prevent such interference without drastically reducing the MCP's performance.
+
+The inherent characteristics of the Z-app concept make the objectives specified by CAST‑32A with reference to worst-case execution time (WCET) and interference analyses considerably simpler to achieve than for a similar system implemented by leveraging an RTOS. Z-functions are not bottlenecked by a common system service layer and kernel, and each has an independent performance counter set. Z-function execution is under the system developer’s control, and the independence and modularity of the hypervisor-based architecture make the system state much easier to visualize.
+
+SUMMARY
+
+Adhering for functional safety standards is demanding in terms of both time and money. Across the safety critical sectors, there is an increasing desire to adopt multicore processors, to address the security concerns heightened by a seemingly unassuageable thirst for connectivity.
+
+The conventional approach has been to adopt an RTOS, but the inherent lack of flexibility and overhead associated with that approach – coupled with a drive to minimize certification costs through segregation and other means– makes it suboptimal for many applications.
+
+The emergence of Z-applications fills the void where simple, bare-metal, VM-hosted applications are not sufficiently sophisticated, and where RTOS are simply too unwieldy to provide an ideal solution. Such an approach brings benefits across the critical sectors. ASIL tailoring in automotive in accordance with ISO 26262 provides a standards compliant mechanism to minimize the criticality of each code item through decomposition. By implementing those items as Z-apps, their footprint is minimized and their separation from less critical applications is assured. Class decomposition in medical devices in accordance with IEC 62304 plays a similar role.
+
+Impressive credentials. But perhaps these characteristics really shine brightest in critical multicore applications where the independence and modularity of the hypervisor-based architecture make the system state much easier to visualize, and promise a breakthrough in the WCET conundrum. Nowhere is that more applicable today than in the world of avionics systems.
+
+FOOTNOTES
+
+[1]
+ While pedantically QM denotes no additional requirements are specified — it assumes normal QM processes [e.g., AITF 16749] are adequate — you will have done the hazard analysis and risk assessment (HARA), and so would have to be complying with 26262.
+
+[2]
+ https://ulir.ul.ie/bitstream/handle/10344/2085/2010_Hinchey,M.pdf?sequence=2
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

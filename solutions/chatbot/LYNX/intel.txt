@@ -1,0 +1,287 @@
+URL: https://www.lynx.com/partners/intel
+
+Partners | Intel
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+LYNX & INTEL
+
+LYNX & INTEL
+
+WHAT WE'RE DOING TOGETHER
+
+Lynx and Intel have partnered closely to ensure our LYNX MOSA.ic software framework (hypervisor, real-time operating system, Linux, and tools) has been optimized for processors from the Xeon and Atom product families. Our collaboration extends beyond development to include certification work, ensuring SEAL and DO-178C DAL A certifications are in place for particular components:
+
+Elkhart Lake
+
+TigerLake
+
+Ice Lake
+
+In summary, if it’s a “Lake” from Intel – the chances are that Lynx is supporting it with software that harnesses all possible hardware hooks in the underlying processor to deliver strong isolation between applications running in virtual machines and guarantee performance levels no matter what else is happening in the system.
+
+MATERIALS
+
+CASE STUDY
+LOCKHEED MARTIN - JOINT STRIKE FIGHTER
+PRESS RELEASES
+LYNX SOFTWARE TECHNOLOGIES TEAM WITH X-ES FOR SECURE-BY-DESIGN MULTI-CORE BOARD READY FOR 2ND GEN IMA
+LYNX MOSA.IC FOR AVIONICS NOW SUPPORTS 11TH GENERATION INTEL® CORE™ PROCESSORS
+PRODUCT HIGHLIGHTS
+AVIONICS SOFTWARE PLATFORM
+SOLUTIONS BRIEFS
+CERTIFICATION WITH INTEL® MULTI-CORE PROCESSORS
+AVIONICS SOFTWARE FRAMEWORK
+WEBINARS
+AIRWORTHINESS ENABLEMENT WITH MULTI-CORE PROCESSORS
+FLYING INTO THE FUTURE WITH SAFETY-CRITICAL AI CAPABILITIES
+
+ADDITIONAL MATERIALS
+
+CONTACT US
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

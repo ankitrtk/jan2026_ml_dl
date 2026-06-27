@@ -1,0 +1,307 @@
+URL: https://www.lynx.com/embedded-systems-blog/tag/face-tim
+
+Lynx Software Technologies | Technical Blog | FACE TIM
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+LYNX TECHNICAL BLOG
+
+RTOS and Linux - Their Evolving Roles in Aerospace and Defense
+
+Oct 29, 2024 by Erik Vallow | Director of Technical Product Management
+
+In the critical and demanding world of aerospace and defense, selecting the appropriate software components is not just...
+
+TC-16/51: Adding Bottom Up Interference Analysis for MCPs
+
+Jan 28, 2020 by Mark Brown | Systems Architect
+
+I hadn't heard of "bottom up" avionics certification before I read 
+FAA's TC-16/51
+. But now, looking back at it, I think...
+
+Lynx & ENSCO Demonstrate Avionics Solutions @ DSEI JAPAN 2019
+
+Nov 17, 2019 by Dan Westerberg | Senior Systems Engineer
+
+The most formidable challenges of modern avionics development programs are often centered around the safety...
+
+Embedded Best Practices at Arm Tech-con
+
+Oct 17, 2019 by James Deutch | Principal Field Applications Engineer
+
+Lynx participated in this year’s Arm TechCon with a booth in the expo hall, where we demoed 
+Lynx MOSA.ic
+ and its...
+
+What is SR-IOV and Why is It Important for embedded devices?
+
+Oct 10, 2019 by Tim Loveless | Principal Solutions Architect
+
+Single Root I/O Virtualization (
+SR-IOV
+) is the complex name for a technology beginning to find its way into embedded...
+
+Realizing modern Automotive Software Environments
+
+Oct 9, 2019 by Chris Barlow | Technical Product Manager
+
+The complexity of today’s automobiles is increasing with every new model on the market. A modern car can contain...
+
+Field Notes: Sept 2019 Face™ TIM
+
+Sep 24, 2019 by James Deutch | Principal Field Applications Engineer
+
+Last week I was able to spend several days at the Open Group Future Airborne Capability Environment (FACE™) Technical...
+
+Multi-core cache allocation technology (CAT) demo
+
+Sep 20, 2019 by Tim Loveless | Principal Solutions Architect
+
+This week saw LYNX’s cache partitioning feature for Lynx MOSA.ic™ demonstrated for the first time at the Collins...
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

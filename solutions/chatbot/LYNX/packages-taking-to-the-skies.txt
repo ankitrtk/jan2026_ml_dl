@@ -1,0 +1,375 @@
+URL: https://www.lynx.com/executive-blog/packages-taking-to-the-skies
+
+Packages Taking to the Skies
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Packages Taking to the Skies
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Aug 23, 2022 9:00:00 AM
+
+Mindful Musings Blog
+
+Security
+
+rtos
+
+software
+
+Virtual Machines
+
+drones
+
+Drone Delivery
+
+Flying Vehicles
+
+DAL C
+
+We are approaching the time when delivery of packages could be via the sky as opposed to via the street. 
+According to McKinsey
+, there could be 1.5 million deliveries made this way during 2022. This compares to 660 thousand for the prior three years. It is interesting to me that the vast majority of these are expected to be in Latin America. I think part of this is the hesitation of economies like North America and Europe to jump into launching services until there is more regulation and certification of platforms. Prior to joining Lynx Software Technologies, I was lucky enough to get involved with UNICEF and saw some of the amazing things that their innovation unit was involved with, using technology to make meaningful differences in countries like Rwanda, Malawi, and Brazil. Some of this included the delivery of 
+medical supplies via drones
+ to address the last mile problem.
+
+We WILL see these services roll out in more developed economies in due course. Unlike the grandiose and, frankly, unrealistic expectations that were set around the proliferation of self-driving vehicles, I think the industry is being more prudent about how soon this form of transportation will be available for us to engage.
+A report report
+ came to the somewhat unstartling conclusion that this method of delivery would be greener than the conventional delivery-by-diesel-truck option. That said, it was interesting to see some quantified numbers extrapolated from some testing of quadcopters including:
+- 2% of the carbon emissions of a medium sized delivery truck
+- 94% less energy consumed per parcel
+There are some massive challenges associated with sourcing battery technology that, I feel, are not being talked about enough. The United Kingdom needs more than double the existing on-land supply of cobalt. Sourcing metals from mines in rainforests and lowland forests has a wide set of ramifications. How the US will be able to achieve the goal of 
+“100% pollution-free electricity by 2035"
+ remains to be seen. All of that is outside the scope of what Lynx can address, so I will not delve deeper on that topic.
+What we ARE seeing are changes as to how flying platforms will be certified and regulated. It was relatively straightforward when all flying vehicles would take off and land from an airport. The arrivals of drones changes that as the take-off and landing points could be a much wider set of locations inside a city.
+We have seen a number of trials that were effectively Linux-based PCs. This was great for quickly proving out system functionality, especially in controlled environments. The focus of many of the customers we are talking to, is turning to the path to system certification and increased system robustness. The aerospace industry outlines a series of certification levels which are based on impact of that system if it goes wrong. There is a 
+good summary here
+ as to the different levels. While things do vary, most of the companies we are engaged with are pursuing DAL C.
+Linux shouldn’t be thrown out. It provides an incredibly rich ecosystem of software packages that can be quickly adopted and remains the fastest path for the delivery of new software patches to address security flaws. The key is in parsing out and isolating the critical system elements that need to be certified and placing these in a separate virtual machine, typically on top of a real-time operating system. For software providers like us, there is a need to provide evidence packages that show how our software behaves which, in turn, the system supplier will take to the FAA or equivalent in other countries to achieve certification at the system level. These mixed criticality systems will be at the heart of this next generation of (very!) mobile delivery systems.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

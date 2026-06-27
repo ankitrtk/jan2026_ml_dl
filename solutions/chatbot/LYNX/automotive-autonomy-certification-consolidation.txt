@@ -1,0 +1,359 @@
+URL: https://www.lynx.com/executive-blog/automotive-autonomy-certification-consolidation
+
+Shifts in the Automotive Industry
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Shifts in the Automotive Industry
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Jan 29, 2020 12:15:00 AM
+
+Mindful Musings Blog
+
+In my 
+first blog
+, I mentioned that one of the reasons I joined Lynx Software Technologies was that I thought a number of additional markets were going to need and value the functionality that Lynx provides for mission critical systems.
+
+As many of you are aware, the 
+automotive market
+ is undergoing some significant transformations itself. It is fair to say that the vision that the proliferation of self-driving vehicles where the humans can simply sit back and watch infotainment or engage in work tasks is further out than many articulated. I personally believe it will happen. It is really a case of defining the timeline. For it to be realized, there needs to a significant improvement in the energy efficiency, cost and footprint of the electronics. The Intel Xeon + nVidia technology being used in the prototypes simply has to be changed and there is a race between a wide set of companies to be the market share and profitability winners in this segment.
+
+We are certainly seeing a significant uptick in performance requirements as car manufacturers look to consolidate functionality into a smaller set of electronic control units (ECUs). What we are also seeing is a need to blend a range of operating systems on these heterogeneous platforms, combining the use of rich operating systems on which a wide set of applications can be (almost immediately) deployed, while providing guaranteed real-time determinism for certain functions as well as ensuring immunity from security attack. In our core market of avionics, the mission critical computers simply have to work. Without revealing confidential details, aircraft that can be carrying extremely valuable resources simply have to get to their desired destination even if certain systems are obliterated. Our approach to hypervisors in this space has been “less is more”; minimum functionality in the hypervisor makes for a system that is simpler to certify and simpler to manage. The source code in level 4 (let’s ignore level 5 for now) autonomous vehicles is an order of magnitude higher than that for aircraft….hundreds of millions of lines of code. While the operating systems, the connectivity and the speed of decision making will vary from the avionics arena, our core approach to solving the problem remains the same. Electronics in new vehicles is so expensive that the traditional approach of building in redundancy isn’t going to cut it. Cars will need to have “limp to safety” modes which could involve the infotainment system becoming the processing subsystem is the ADAS computational units cease working…
+
+A number of suppliers are looking at ways to lock customers into their technology. Given the longevity that these platforms must remain deployed and viable, we think this is a challenging path. I spoke to an operating system company this month with a view to seeing if/how we could partner with them in this area. They directly said, “we have no interest in being virtualized, we have our own hypervisor and that allows us to be hard for us to be ousted from designs”. Yeah, pretty direct. Let’s not mention their name directly for now. Both the semiconductor and embedded software industries have seen significant acquisition activity in the last few years. I am predicting that we are heading into an “AI Winter” from a semiconductor perspective, with sharp adjustment in the AI semiconductor space of company valuations and people taking a long hard look at business metrics rather than be carried along by the buzzword excitement.
+
+Car manufacturers cannot be locked into a specific hardware vendor or software vendor in this nascent time for this dynamic market. The ability to nimbly adjust system functionality based on market feedback is going to be absolutely critical and this is not simply about what is deployed when the car is purchased. We believe this industry is going to look for modular approaches that enable hardware and software upgrades for purchased vehicles and we are excited about engaging with customers and partners around our existing 
+product portfolio
+ as well as advancing the capabilities we can offer to enable robust software stacks for autonomous platforms as part of our roadmap.
+
+Thanks for reading to the end! If you have any comments or indeed would like to suggest topics you’d like to hear us write opinions about, please 
+email us
+.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

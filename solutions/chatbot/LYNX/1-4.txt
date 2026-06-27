@@ -1,0 +1,507 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/tag/certification/page/1
+
+Lynx Software Technologies | Learning Center  | Certification
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+TECHNICAL ARTICLES
+
+Filter by Tag
+
+Show All
+
+10G
+
+Arm Tech Con
+
+Automotive
+
+Avionics
+
+BSPs
+
+Benchmark
+
+CAST-32A
+
+CVEs
+
+Cache Allocation Technology
+
+Cache-partitioning
+
+Certification
+
+DO-178
+
+Demo
+
+Events
+
+FAA
+
+FACE TIM
+
+Future Airborne Capabilities Environment (FACE™)
+
+Least Privilege
+
+Lynx MOSA.ic™
+
+LynxElement
+
+LynxOS-178
+
+LynxSecure
+
+MCP
+
+Multi-core
+
+Multicore
+
+Open Group
+
+Open Standards
+
+Open Systems
+
+PCI-E
+
+POSIX®
+
+Press Release
+
+RAM
+
+Ram Disk
+
+Reference Architecture
+
+SR-IOV
+
+Safety
+
+Security
+
+Single-root IO Virtualization
+
+Standards
+
+Subjects
+
+Systems Architecture
+
+TC-16/51
+
+TCO
+
+TTM
+
+Technical Blog
+
+Trusted Codebase
+
+Virtual Machines
+
+architecture
+
+board support
+
+certifications
+
+costs
+
+development
+
+embedded linux
+
+embedded systems
+
+hardware
+
+hardware interference
+
+hypervisors
+
+linux
+
+meltdown
+
+partitioning
+
+privilege escalation
+
+real-time
+
+reusable software
+
+rsc
+
+rtos
+
+separation kernel
+
+side channels
+
+software
+
+spectre
+
+virtualization
+
+vulnerabilities
+
+Certification
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies: 
+
+Aug 12, 2021 12:06:18 PM
+
+                    _______________
+
+Read More
+
+Who Needs a Hypervisor?
+
+Tim Loveless | Principal Solutions Architect: 
+
+Feb 25, 2021 12:59:58 PM
+
+                    _______________ The standard benefits of a hypervisor are well known and often touted. Every RTOS has its hypervisor and they do genuinely help embedded designers to: Partition multicore processors into virtual machines; an elegant way to...
+
+Read More
+
+What is Cache Coloring and How Does it Work?
+
+Tim Loveless | Principal Solutions Architect: 
+
+Feb 5, 2021 11:52:40 AM
+
+                    _______________ There are substantial challenges in building secure and safe systems on multicore processors (MCPs). Last level cache contention is undoubtedly the largest source of multicore interference, and a significant challenge for real-time...
+
+Read More
+
+Challenges Building Safe Multicore Systems
+
+Tim Loveless | Principal Solutions Architect: 
+
+Jun 15, 2020 8:12:09 AM
+
+                    _______________
+
+Read More
+
+Best Real-Time Operating System (RTOS) Vendors (2020)
+
+James Deutch | Principal Field Applications Engineer: 
+
+May 8, 2020 2:16:17 PM
+
+                    _______________ Lynx Software Technologies has built and supported real-time operating systems (RTOSes) since 1988. We have witnessed hardware and embedded software technologies evolve and have supported our customers through the design,...
+
+Read More
+
+What Is A Separation Kernel?
+
+Tim Loveless | Principal Solutions Architect: 
+
+Mar 22, 2020 12:02:33 PM
+
+                    _______________ Having built both separation kernels and real-time operating systems—and supported customers using both across a wide range of industries—we are familiar with the pros and cons of each software technology, as well as their security,...
+
+Read More
+
+Field Notes: Safety-Critical Systems Symposium 2020
+
+Tim Loveless | Principal Solutions Architect: 
+
+Feb 24, 2020 12:34:50 PM
+
+                    _______________
+
+Read More
+
+TC-16/51: Adding Bottom Up Interference Analysis for MCPs
+
+Mark Brown | Systems Architect: 
+
+Jan 28, 2020 2:20:00 PM
+
+                    _______________ I hadn't heard of "bottom up" avionics certification before I read FAA's TC-16/51. But now, looking back at it, I think the authors from Thales Avionics, including Xavier Jean, PhD, proposed a big change in perspective. In their own...
+
+Read More
+
+Lynx & ENSCO Demonstrate Avionics Solutions at DSEI JAPAN 2019
+
+Dan Westerberg | Senior Systems Engineer: 
+
+Nov 18, 2019 2:29:00 PM
+
+                    The most formidable challenges of modern avionics development programs are often centered around the safety certification process and the corresponding requirements and costs. Equally as challenging to any large development program are the design...
+
+Read More
+
+Overarching Properties: An Alternative to DO-178
+
+Tim Loveless | Principal Solutions Architect: 
+
+Nov 16, 2019 10:20:00 AM
+
+                    _______________ Overarching Properties—an alternative design assurance approach to DO-178C—marks the biggest change in airborne software safety certification since DO-178B was unveiled in 1992. Intended to be more efficient and flexible than...
+
+Read More
+
+1
+
+2
+
+              Next
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

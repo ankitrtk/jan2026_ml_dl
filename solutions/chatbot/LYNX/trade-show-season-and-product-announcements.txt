@@ -1,0 +1,402 @@
+URL: https://www.lynx.com/executive-blog/trade-show-season-and-product-announcements
+
+Trade Show Season and Product Announcements
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Trade Show Season and Product Announcements
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Feb 25, 2020 12:00:00 PM
+
+News
+
+Press Release
+
+Events
+
+Mindful Musings Blog
+
+Safety
+
+rtos
+
+embedded systems
+
+TCO
+
+TTM
+
+development
+
+Open Systems
+
+FreeRTOS
+
+Since the start of the year, the amazing Lynx team has been hard at work in terms of content creation. We have rolled out a wide ranging set of updates to our website, introduced a new 
+set of blogs authored by leaders from across the company
+ and established a YouTube channel with a new set of 
+“ask the expert” video vignettes
+.
+
+In addition, we have been readying ourselves for the trade show busy season, in which we are attending 
+six industry events
+ between February and the end of May, across the US and Western Europe. The most significant of those is Embedded World in Germany, which will be underway at the time this blog goes live. Timed with this event, we rolled out three press releases and hinted at some further product announcements to come in the not-too-distant future. The aim of this blog is to give a quick summary of those releases and some additional context.
+
+LynxOS
+®
+ 7.1 
+— Since the founding of the company in 1988, our customers have deployed the LynxOS real-time operating system in millions of products. Once a system is certified, those customers want to deploy that particular configuration of platform systems for as long as possible. The primary objective of LynxOS 7.1 is to give LynxOS customers a simple migration path to the latest version of the operating system including all of the latest patches as well as upgrading the tool chain giving access to the most recent simulation environments
+
+LYNX MOSA.ic™ 
+— Lynx announced the 
+LYNX MOSA.ic
+ software framework one year ago. We are seeing this software framework be adopted across a wide range of customers that are creating mission critical systems. Public examples include the Joint Striker Fighter. This framework helps accelerate the pace at which customers can create certify and deploy their equipment. We are so excited about its capabilities that we intend to use this framework to help us accelerate the rollout of specific products, focused on addressing specific applications, that consist of a set of internally-developed and external-sourced software technologies that have been proven to work optimally together
+
+FreeRTOS 
+— We like our operating system and it has been deployed at scale across a range of applications. From discussions very soon after I arrived, in order to drive our market growth goals in new applications, it was clear that we would need to embrace a broader set of operating systems that will work out-of-the-box with our secure hypervisor product, 
+LynxSecure
+. Hence, we have announced that we are offering FreeRTOS as a supported guest OS. FreeRTOS is the OS of choice in 20% of designs and we believe that commercial operating systems (particularly RTOSes) will continue to lose traction to open source solutions
+
+FreeRTOS embodies what we think a GuestOS in LYNX MOSA.ic should be:
+
+It’s modular
+
+It provides a path to safety certification
+
+Thanks to the investment by Amazon, there are now a broad set of hooks to assist with cloud connectivity, which will shorten customer development cycles and costs
+
+Based on customer demand, we are starting this engineering work around the Arm architecture, more specifically focusing on the 
+Xilinx Zynq
+ product family.
+
+Feel free to 
+email us 
+ to learn more… or to simply find out what Embedded World 2020 was like given the health concerns and the significant number of companies that canceled at the last minute. From here, it is on to the next event, Aerospace Tech Week. Another booth, another set of important customers, and another set of announcements!
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

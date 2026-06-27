@@ -1,0 +1,415 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/field-notes-sept-2019-face-tim
+
+Field Notes: Sept 2019 Face™ TIM
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Field Notes: Sept 2019 Face™ TIM
+
+ James Deutch | Principal Field Applications Engineer
+
+ : 
+
+                Sep 24, 2019 2:24:00 PM
+
+Multi-core
+
+Avionics
+
+Future Airborne Capabilities Environment (FACE™)
+
+FACE TIM
+
+Technical Blog
+
+Open Group
+
+Open Systems
+
+Open Standards
+
+Standards
+
+Last week I was able to spend several days at the Open Group Future Airborne Capability Environment (FACE™) Technical Interchange Meeting (TIM) and consortium meetings.  For those who are not familiar with either the Open Group or FACE™, the 
+Open Group
+ is a global consortium of hundreds of tool vendors, systems integrators, academics, researchers, and consultants aimed at developing open, vendor-neutral technology standards and certifications for various industries, including Defense & Aerospace.
+
+About the Future Airborne Capability Environment (FACE™)
+
+The FACE™ standard defines the software environment and interfaces for building portable components for US military avionics systems. The FACE™ Consortium is composed of industry and government member organizations, their representatives, and advisers, creating an acquisition-neutral setting where industry can work together with government customers to produce open standards and to influence procurement and policy.  The consortium includes the US Army, Navy, and Air Force, as well as industry partners—such as LYNX—all working towards a set of common goals.
+
+LYNX believes in open standards and their benefits—both to us and to our customers.  With that in mind, LYNX has been a member of the FACE™ consortium since 2010, helping both to guide and to actively contribute to the standard.  Some of the goals of FACE™ are to:
+
+Standardize approaches for using open standards within avionics systems
+
+Lower implementation costs
+
+Promote standards that support a robust architecture and enable quality software development
+
+Use standard interfaces that will lead to reuse of capabilities
+
+Promote portability of applications across systems and vendors
+
+Foster innovation and competition within the avionics industry
+
+The TIM itself is like a mini tradeshow for the US milaero industry. Companies building FACE™-aligned products have booths and give demos to the US military branches and other organizations building aircraft components and systems.
+
+Lynx Demos at the FACE™ TIM
+
+This year, LYNX showed two demos at the TIM; one with 
+GE Aviation
+ and the other with 
+ENSCO
+. The demo with GE Aviation showed LYNX MOSA.ic™ running multiple guest OSes—including a 
+LynxOS-178®
+ guest—and exchanging data packets with GE Aviation's FLAMES environment. GE Aviation drove an 
+Avalex display
+ showing graphical map output as well as touch screen and push-button input.  The ENSCO demo showed LynxOS-178
+®
+ running on a 
+Curtiss-Wright
+ PowerPC system using a 
+CoreAVI
+ graphics driver and running ENSCO’s IData tool suite showing an interactive cockpit display.
+
+It was good to see the FACE™ standard continue to evolve and gain traction at this year’s TIM and consortium meetings.  These meetings are a chance for industry partners like Lynx to meet with people and work on open standards for the US military and 
+avionics industry
+.  It’s quite exciting to talk with people about their future projects and how we can help them. Lynx is looking forward to its continued involvement in the bright and promising future of FACE™.
+
+Learn More
+
+If you’re working on a US military avionics project and want to learn more about how you can use LYNX MOSA.ic™ and/or LynxOS-178
+®
+ to obtain FACE™ conformance, please send us any questions you might have at 
+inside@lynx.com
+ or simply click the "Build Your Solution" button below to tell us about your project. We would be happy to talk to you and we respond to these inquiries within 1-2 business days.
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

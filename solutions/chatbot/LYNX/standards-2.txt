@@ -1,0 +1,402 @@
+URL: https://www.lynx.com/executive-blog/standards
+
+Standards: They Are Just The Start
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Standards: They Are Just The Start
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Jun 2, 2023 11:54:50 AM
+
+"Mission Systems"
+
+Multicore
+
+Systems Architecture
+
+Open Systems
+
+Open Standards
+
+FACE™
+
+LynxSecure
+
+hypervisors
+
+software
+
+Mission Critical Edge
+
+Safety Critical Systems
+
+LynxOS-178
+
+Military
+
+Military and Aerospace
+
+MOSA
+
+FACE Conformance
+
+Safety Certification
+
+At Lynx, we see the support of standards for mission-critical systems as just the start. That is because APIs don’t define system behavior and timing. 
+This thoughtful piece
+ by our CTO, Will Keegan, shares more details about the challenges facing system architects who create deterministic systems for deployment in military and avionics platforms. 
+
+The U.S. Department of Defense’s (DoD) 
+Modular Open Systems Approach (MOSA)
+ aims to design systems with highly cohesive, loosely coupled, and severable modules that can be competitively sourced from independent suppliers. 
+Frank Kendall, US Air Force Secretary, highlighted this importance as a key element 
+regarding the Next Generation Air Dominance (NGAD) aircraft. MOSA calls out support for suppliers to be Future Airborne Capability Environment (FACE) conformant, which 
+Lynx has fully embraced
+ with certificates of conformance for Arm, PowerPC, and x86 architectures. 
+The Program Executive Office (PEO) of the US Army faces the challenge of modular and incremental deployment of software capabilities. The PEO Aviation (AVN) Enterprise has a platform entitled “Aviation Mission Computing Environment” (AMCE) and is developing its Component Specification Model (CSM). 
+The AMCE CSM comprises configurable processing, Software Operating Environment (SOE), and software loading requirements. In May 2023, a paper proposed definitions for software modules, operating system properties, and key technologies for two distinct SOEs:
+
+A mission system SOE
+
+A safety-critical SOE intended to address the Army Aviation Airworthiness Release (AWR) 
+
+This collaborative paper was developed by companies that include Collins Aerospace, JHNA, Lynx, Parry Labs, RTI, and US Army PEO.
+The safety-critical SOE typically includes a Type-1 hypervisor with a Real-Time Operating System (RTOS) that consists of the language run-time, component framework, configuration services, and the FACE Transport Services Segment (TSS) that instantiates lower-level software services in line with other Enterprise Architecture Common Services. 
+
+The team asserts that the safety-critical SOE must also define a Health Monitor in the FACE I/O Services Segment (IOSS) and an ARINC 653 VM API. If multicore processor hardware is used for the safety-critical SOE, IMA’s “robust partitioning” must be achieved, and the effects of interference channels must be mitigated in accordance with 
+CAST-32A 
+or similar guidance.
+The computational subsystem containing a mission-critical SOE requires an operating environment that can rapidly integrate capability. As shown below, due to the relief in certification requirements, the operating system replaces the hypervisor in the Safety Critical System and allows the use of Symmetric Multicore Processing (SMP) at the OS level. It is then possible to use native containers, the general-purpose operating system or the hypervisor to provide the partitioning needed for DAL D-E mission capability application separation.
+
+The Vertical Flight Society is distributing the paper so we cannot provide a copy here. If you have issues tracking it down via that path, feel free to contact us 
+here
+ and we will happily point you in the right direction.
+We are excited about the direction in which this is headed. There is a lot more work to do in fleshing out the next level of detail and we are committed to keeping interested parties apprised of the progress in the coming quarters and years. 
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

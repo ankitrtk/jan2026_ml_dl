@@ -1,0 +1,330 @@
+URL: https://www.lynx.com/products/lynx-mosaic-for-avionics-systems-old
+
+Modular Avionics Software Architecture | LYNX MOSA.ic™
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+INDUSTRY BACKGROUND
+
+The aerospace industry has used the term Integrated Modular Avionics (IMA) to describe a distributed real-time computer network aboard an aircraft which incorporates a number of computing modules. The industry push to improve size, weight, and power (“SWaP”) is causing system architecture to replace numerous discrete systems with fewer, higher performance systems that are capable of supporting avionic software applications of differing safety criticality levels. 
+Furthermore, the long lifetimes of systems, coupled with dramatic increases in system complexity, is pushing the industry to define modular architectures based on open standards to:
+
+Reduce vendor lock in
+
+Enable reuse of proven software across multiple systems
+
+Simplify the use of 3rd party software including that from the open source community
+
+The big challenge for companies participating in this market is how to enable this without compromising system safety and security and ensuring companies’ intellectual property (IP) is preserved. 
+
+LYNX MOSA.IC™
+
+LYNX MOSA.ic 
+is a software framework for building and integrating complex multicore safety- or security-critical systems using independent application modules. See 
+here
+ for more details.
+
+Simply put, 
+LYNX MOSA.ic:
+
+Provides the simplest development path to migrate real-time software and/or code to be certified from Linux to a real-time operating system
+
+Adheres to open standards (ARINC, FACE, etc.) to reduce vendor lock in and simplify software reuse across systems to improve time to market
+
+Is the only RTOS to be awarded a Reusable Software Component (RSC) certificate from the FAA which accelerates and dramatically reduces certification costs for new platforms
+
+The LYNX MOSA.ic for Avionics product combines this functionality with all the documentation and supporting evidence to support a customer in taking a system through DO-178C certification swiftly and cost-effectively.
+
+CERTIFICATION
+
+The software design assurance process for commercial avionics is defined by DO-178C. It prescribes a development process to ensure that the software matches its requirements. The process follows the V-Model, beginning by defining system requirements, then high level requirements, followed by functional requirements and, finally, to writing source code which is compiled into executable binary code. At every stage, testing is performed to verify that the implementation matches the requirements.
+
+Lynx Software Technologies has a strong history of working on safety certifications. Lynx has in-house safety certification expertise and creates its own safety artifacts, as opposed to pursuing an outsourcing strategy. Since 2001 Lynx has taken its real-time operating system, 
+LynxOS-178
+, and 
+LynxSecure
+, the core products in 
+LYNX MOSA.ic
+ through a complete DO178C DAL A certification multiple times.
+
+Lynx focusses on augmenting the ISO9001 process with additional rigor. More specifically, Lynx focuses on adding items associated with life cycle requirements associated with verification independence, structural coverage, data retention and SQA oversight.
+
+One of Lynx’s key differentiators is that it is the only RTOS supplier to have been granted a DO-178B/C Reusable Software Component (RSC). This software collection is recognized as meeting the requirements of RTCA/DO-178B/C and may be used on more than one project without having to regenerate certification artifacts. The FAA grants RSC acceptance as part of a normal certification process, provided that the applicant complies with the guidance policy defined in FAA Advisory Circular AC 20-148. The acceptance allows future users of the DO-178B/C RSC to deploy the software without the added cost and risk of re-certification.
+
+MIXED CRITICALITY
+
+Both 
+LynxOS-178
+
+and 
+LynxSecure
+ support mixed criticality safety deployments (i.e. the hosting of partitioned applications at different DAL levels). Mixed criticality LynxOS-178 and mixed criticality LynxSecure deployments may be used separately or in concert. There are 2 caveats:
+
+Firstly, the partitioning system (LynxOS-178 or LynxSecure or both) must be certified to a DAL level at least as high as the highest DAL application. 
+Secondly, when partitions are hosted on different cores of a multicore processor, additional timing analysis of the system, including applications in their intended final configuration, is necessary to meet CAST-32A/AMC 20-193 multicore safety guidance. The hosting of mixed-criticality safety applications is achieved through various partitioning mechanisms, the details of which Lynx shares with customers under NDA.
+
+BENEFITS OF OUR AVIONICS MODULAR SOFTWARE
+
+Our focus is on reducing program risk, development, costs, and timelines. 
+LYNX MOSA.ic
+:
+
+Is the simplest development path to migrate real-time software and/or code to be certified from Linux to a real-time operating system
+
+Adheres to open standards (ARINC, 
+FACE
+, etc.), enables customers to select best software for their task as opposed to being locked in to a specific vendor
+
+Is the only RTOS to be awarded a Reusable Software Component (RSC) certificate from the FAA which accelerates and dramatically reduces certification costs for new platforms
+
+Guarantees real-time determinism of key subsystems coupled with increased security
+
+ADDITIONAL FEATURES AND BENEFITS
+
+LET'S CONNECT
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

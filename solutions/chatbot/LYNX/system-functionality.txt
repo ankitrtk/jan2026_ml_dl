@@ -1,0 +1,446 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/system-functionality
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            4 min read
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+ James Deutch | Principal Field Applications Engineer
+
+ : 
+
+                Sep 29, 2023 9:00:00 AM
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software engineers can build guest images and reload them on the fly into the subjects. This gives the ability to easily and rapidly create images, and then update them on the target to provide it with new personalities and behaviors – all without having to restart or reboot the target system as a whole.
+
+context and background
+
+Before I discuss how to do that, it is worth providing a quick recap as to what a subject is in the context of a Lynx-powered system. A subject is a set of resources and permissions. Resources include things like RAM, cores, and assigned I/O devices (both physical and virtual). If a subject isn’t assigned a resource, it doesn’t exist as far as a guest running in that subject is concerned. The permissions dictate whether or not a guest running within the subject is allowed to make a hypercall to perform an action like restarting, stopping, pausing, resuming another subject, or restarting the target board. If permission isn’t explicitly given to a subject, its guest doesn’t have the ability to perform that action. A guest is entirely constrained by the subject’s assigned resources and permissions.
+
+when might i want to load a guest image into a subject?
+
+When debugging, to quickly make changes to a subject’s boot image on the fly without having to wait through a board’s whole boot process. 
+
+Why is this helpful?
+
+I am a fan of doing this as a way of bypassing long boot times. This can also be used when there is more than one developer working on subjects on a system. Each developer can change his boot image and restart his subject without having to disturb the other developer’s activities.
+
+When “hoteling” a set or series of guests that need to be swapped in and out on the fly as conditions or requirements change.
+
+Why is this helpful?
+
+Having strong separation between subjects doesn’t mean a system’s design has to be inflexible
+
+Subjects
+
+The diagram below shows two categories of subjects. 
+
+The pair on the left are the subjects that are responsible for loading new images
+
+The pair on the right are the subjects that will get their images updated
+
+For more context on these categories, watch the video to the left
+
+the two subjects on the lefthand side are:
+
+A Lynx Simple Application (LSA), which is a bare-metal app
+
+Buildroot Linux for a gateway
+
+Using a pair of FIFOs for bidirectional communication, one in each direction, the system drives data from the Buildroot Linux to the LSA. The LSA subject has extra permissions to allow it to restart, stop and pause the other subjects. 
+The LSA also has access to the memory regions that hold the boot images for the LynxOS-178 subjects. So, this is read-write access from the LSA's point of view for the two subjects that are being manipulated. For the actual subjects, this is read-only memory as we wish to avoid accidental corruption of their boot images.
+
+.
+
+The gateway itself has two purposes:
+
+Drive the protocol across the FIFOs and instruct the LSA on the task required. The protocol used is called “FIFO Image Transfer Protocol” (FITP) and has proven useful as a proof-of-concept protocol on multiple projects.
+
+Act as a networking bridge for the LynxOS-178 subject. In this example, there is no LynxOS-178 driver for the NIC on this particular box, so we use the richness of the Linux environment and its set of network drivers to bridge the virte1000 connection to the gateway onto the physical NIC device. This enables the user to connect to LynxOS-178, debug applications with Luminosity, and do whatever is needed via the network.
+
+Also, note that there is a method to send data between the LynxElement and LynxOS-178 subjects, using sampling and queuing ports.
+
+We provide commands to zero out the boot memory regions to which the LSA has read/write access, to overwrite and put in a new boot image, and then start, stop, pause and resume.
+
+The LynxElement subject is running several tasks including:
+
+Running an echo server
+
+Sending out status information
+
+Seeing how much memory us being used
+
+A sampling port
+
+Queuing ports for sending and receiving threads
+
+Lynx has added a library to the POSIX environment that lets a customer use sampling ports and queuing ports. We've added that capability to POSIX to support both LynxOS-178 and LynxElement subjects.
+
+SHELL SCRIPTS: STEP-BY-STEP
+
+I created a few shell scripts that drive a Buildroot application called the "FITP controller”. This communicates using the FIFO Image Transfer Protocol (FITP) and is used to issue commands across the pair of FIFOs between the gateway and the LSA. Some applications on the LynxOS-178 side are used to talk across the sampling ports and queuing ports, sending and receiving information in JSON format. These applications are listed in the images below.
+
+From the gateway subject, we use the FITP controller to
+
+Load an image into the LynxElement subject’s boot image region and then issue the command to restart it.
+
+Load an image into the LynxOS-178 subject and restart that.
+
+Observe the current behavior.
+
+Change the messages being output by the LynxElement multi-threaded environment and rebuild it. This is an easy to observe change the LynxElement subject’s behavior.
+
+Then, reload the LynxElement image and restart it. I can just keep iterating through my desired changes as I continue to develop and work with the LynxElement application.
+
+By default, subjects come up in the “running” state, and begin executing as soon as they have their assigned core(s). However, I have chosen to initially have the LynxElement and LynxOS-178 subjects come up in the “stopped” state, so that they're not initially running. I can then kick them off with the FITP controller when I’m ready to run them.
+
+When I change my LynxElement subject, I go into the $ENV_PREFIX/sys/userapp directory, edit my source files, and then build the image with the command “make clean appimage”. I then use shell scripts that SCP the image to the Gateway subject, drive the FITP controller app to wipe the LynxElement subject’s boot region, load the image into the LynxElement subject’s boot region, and then restart the LynxElement subject.
+
+Let’s take a look at an example application and see how we can quickly iterate through some changes while we’re debugging it. Suppose someone has set up a queuing port reader on a LynxElement subject that is expecting to get queuing port messages from a LynxOS-178 subject. The LynxElement subject is making blocking calls waiting for data on that queuing port before echoing the messages out a serial port. I can make a change to the source code to remove that blocking call to the queuing port, rebuild the image, and then quickly push it to the subject and restart it.
+
+I have found that this is a pretty easy development path. I tend to be a fan of modifying one thing at a time and testing it, so this update process is an effective way to accomplish that.
+
+Please engage with us! Tell us if this helped, if you have questions, and if you'd like to see more content like this!
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

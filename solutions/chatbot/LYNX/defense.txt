@@ -1,0 +1,311 @@
+URL: https://www.lynx.com/industries/defense
+
+Industries | Defense 
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+safe, secure, modular
+ software platforms
+
+for national defense
+
+DECADES OF SERVICE
+
+Lynx has a rich history of delivering proven solutions to builders of advanced mission-critical national defense software systems. Whether on the land, in the sea, in the air, or out in space, our technologies form the software foundation for deployed systems worldwide that keep people safe and protect our allied national interests. 
+Systems deployed in high-threat environments such as fighter jets, unmanned aerial vehicles (UAVs), stealth ocean vessels, military transport vehicles, and helicopters, all examples of systems running on Lynx software, require the highest levels of security, safety, and reliability. But as systems grow increasingly complex, the difficulty in delivering adaptable, deterministic, connected and safe open solutions at sustainable lifetime costs also grows. 
+That is why the world's leading software systems providers to military and government end users have increasingly trusted Lynx because of our proven record of delivering innovative platform solutions that meet project requirements while reducing project costs and cutting time to market.
+
+INDUSTRY STANDARDS AND CERTIFICATIONS
+
+From its inception, Lynx has embraced open standards such as UNIX and
+
+POSIX®
+. Our solutions enable embedded application developers to leverage the reuse of existing code, 3rd-party commercial solutions, and open-source applications seamlessly, with unrivaled interoperability and portability among the various platforms. We are also active in industry committees and groups that shape and maintain standards—such as
+ the 
+Open Group Future Airborne Capability Environment (FACE) Consortium
+, ensuring that our customers’ needs are met by the standards we support, keeping our open systems current as standards evolve. 
+More specifically, 
+LynxOS-178 is compliant to FACE™ 
+(Future Airborne Capability Environment ) v3.1. for three processor architectures (Arm, PowerPC, and x86). LynxOS-178 also conforms to the ARINC 653-1 Application Executive Software (APEX) Interface.
+
+Additionally:
+
+LynxOS-178
+ is also the only real-time operating system (RTOS) awarded a
+
+Reusable Software Component (RSC)
+ certificate from the FAA
+
+LynxSecure
+, the software foundation for the 
+LYNX MOSA.ic™, 
+was designed to satisfy real-time, high-assurance computing requirements used to regulate military and industrial computing environments, such as 
+NIST
+, 
+NSA Common Criteria (NIAP)
+, and 
+NERC CIP
+
+LYNX MOSA.ic
+ has been certified to DO-178C DAL A, with the RTOS being certified multiple times to this level across all three supported processor architectures
+
+LYNX MOSA.ic fully embraces the
+
+Modular Open Systems Approach (MOSA)
+
+Are Standards Enough?
+
+SOLUTIONS FOR MISSION SYSTEMS 
+
+Our foundational technology—
+LYNX MOSA.ic™
+—was designed for the modernization of avionic and mission-critical software platforms, providing open flexibility on a robust foundation to meet the program needs of rich system functionality deployed in high-threat safety-critical environments. The intent is in the name of a Modular Open Systems Architecture Integration Center (MOSA.ic).
+LYNX MOSA.ic embodies the integrated business and technical DoD implementation strategy of the Modular Open Systems Approach (MOSA), defined in Title 10 U.S. Code § 2446a. - Requirement for modular open system approach in major defense acquisition programs. LYNX MOSA.ic enables system developers to build systems compositionally using open standards, relying heavily on the reuse of well-tested and certified components.
+
+CONTACT US
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

@@ -1,0 +1,325 @@
+URL: https://www.lynx.com/industries/automotive
+
+Industry Page - Land Vehicles
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+adaptable platforms, traceable platforms, modular platforms, heterogeneous platforms, deterministic platforms, secure platforms
+
+for this decade
+
+PARALLEL DISRUPTIONS
+
+Three fundamental shifts are occurring across the industry.
+
+CONNECTED SYSTEMS
+
+Instead of enclosed systems, they are increasingly being connected to cloud and/or other vehicles. This drives a need for ground vehicles to be resilient against cyber-attacks and less vulnerable in a cyber-contested battlespace. This implies: 
+
+Ability to send and receive encrypted messages across the vehicle data bus to securely update the firmware of electronic  control units (ECUs) 
+
+Virtualization of hardware and software ground vehicle components
+
+THE MOVE TOWARD SELF-DRIVING VEHICLES
+
+Automation dramatically increases the amount of sensing, connectivity, and processing technology in vehicles. Prototypes for level 4 autonomous vehicles are harnessing chips that typically used in server infrastructure. Companies are positioning to be the technology of choice as OEMs focus on improving footprint, power, and cost.
+
+CROSS DOMAIN
+
+Cross Domain Solutions (CDS), also known as high-speed Guard solutions, are integrated software-hardware systems that make secure access to and exchange of sensitive data possible across networks between various levels of security classification, including incompatible security domains.
+
+MANAGING SOFTWARE COMPLEXITY
+
+Modern vehicles now contain more lines of code (LOC) than aircraft, threatening to raise developer costs, delay production, and impair operational safety.
+
+$
+0
+
+Market for armored vehicles in 2026
+
+0
+
+US tactical vehicle accidents outside of combat
+
+2025
+
+Year for the first light electric vehicle demonstrator in US Army 
+
+HARDWARE AND SOFTWARE MUST ADAPT
+
+The market's desire to drive down cost, power, and form factor means that next-generation ECUs are based on high-performance, heterogeneous systems on chips (SoCs). At the same time, consumers need to provide the smartphone user experience demanded by consumers while provably separating internet-connected infotainment systems from critical safety applications. Enabling this updatable functionality without sacrificing platform integrity requires a modular approach to software and hardware.
+
+SECURE, DETERMINISTIC GATEWAYS
+
+The market's desire to drive down cost, power, and form factor means that next-generation ECUs are based on high-performance, heterogeneous systems on chips (SoCs). At the same time, consumers need to provide the smartphone user experience demanded by consumers while provably separating internet-connected infotainment systems from critical safety applications. Enabling this updatable functionality without sacrificing platform integrity requires a modular approach to software and hardware.
+
+LYNX MOSA.IC™
+AUTOMOTIVE DEMO
+
+A demonstration of the LYNX MOSA.ic Automotive platform at Embedded World 2020.
+
+WATCH VIDEO
+
+AVIONICS-GRADE SAFETY
+
+Lynx has enabled high availability and robust platforms for thirty years. The rigors placed on us in the 
+avionics and defense market
+ have ensured that we lock down functionality such that one process cannot interfere with another. In the automotive domain, our separation kernel provides the software foundation that enables customers to mix and match Linux, real-time, and proprietary software in a highly predictive way. 
+Software stacks are highly complex. Lynx makes it easier for companies across the automotive value chain to access the key foundational elements on which they can build their own value-added, highly differentiated components by foregoing the traditional centralized platform stack instead of a simpler, distributed systems architecture.
+
+PARTNERSHIP WITH ETAS
+
+Together with Robert Bosch GmbH, Lynx and ETAS provide a safe, secure, and adaptable foundation for the ETAS RTA-VRTE platform software solution. RTA-VRTE incorporates the AUTOSAR Adaptive standard and supports the next generation of cross-domain and vehicle computer ECUs introduced into upcoming vehicles. Under this partnership, ETAS includes the foundational processor partitioning system of LYNX MOSA.ic to its automotive software stack to significantly enhance ECU and vehicle computer security and safe system separation of domain controllers and vehicle computer ECUs.
+Through LYNX MOSA.ic, ETAS supports the RTA-BSW AUTOSAR solution, the RTA-VRTE AUTOSAR Adaptive platform, and the ESCRYPT embedded security solution, which runs within lightweight, isolated rooms. This combination forms a complete and highly adaptable software platform designed to address real-time automotive use cases requiring the highest levels of safety and security.
+
+ARCHITECTURE & REFERENCE DESIGNS (3D VIEWS)
+
+PARTNERSHIP WITH ETAS
+
+AUTOMOTIVE REFERENCE DESIGNS
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

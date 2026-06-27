@@ -1,0 +1,996 @@
+URL: https://www.lynx.com/rebrand
+
+Rebrand
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+Home
+
+Rebrand
+
+ Welcome to Lynx: Innovating at the Edge 
+
+Lynx Software Tech
+nologie
+s,
+
+Timesy
+s
+, 
+CoreAVI
+, and Thompson Software Solutions Are Now 
+Lynx
+
+Table of Contents
+
+Why This Rebrand Matters
+
+What This Rebrand Means for You
+
+The Reason Behind the Change
+
+Who We Are: The Foundations of Lynx’s Strength
+
+Timesys
+: Embedded Linux & Cybersecurity
+
+CoreAVI
+: Safety-Critical GPU & Compute
+
+Thompson Software Solutions
+: Aerospace & Defense
+
+What’s Changing and What’s Staying the Same
+
+What Happens Next and How This Affects You
+
+Frequently Asked Questions (FAQ) 
+
+Why This Rebrand Matters
+
+A Message from Our CEO
+
+Dear Valued Customers and Partners,
+
+As we enter an exciting new chapter in the evolution of Lynx, I am delighted to share some transformative news with you. At the start of this year, Lynx Software Technologies, along with our trusted subsidiaries—Timesys, Thompson Software Solutions, and CoreAVI—united under a single, bold identity: 
+Lynx
+. This rebranding symbolizes our collective vision, strength, and commitment to driving innovation at the forefront of technology.
+
+Seize the Edge
+ is not just our new tagline; it is a call to action. It reflects our unwavering focus on enabling our customers and partners to lead with confidence in an increasingly connected, intelligent, and secure world. By harmonizing our expertise across safety-critical software, open-source solutions, embedded virtualization, and AI-GPU enablement, we are uniquely positioned to help you achieve unparalleled success at the edge.
+
+Your partnership has been instrumental in shaping our journey, and as we embrace this new identity, our commitment to your success remains steadfast. Together, we will navigate the complexities of modern systems and seize the immense opportunities that lie at the edge.
+
+Thank you for your continued trust and collaboration. We look forward to embarking on this transformative journey with you.
+
+Tim Reed, 
+CEO 
+of Lynx
+
+ What This Means for You 
+
+This unified brand represents:
+
+Integration and Synergy:
+ Bringing together the industry-leading capabilities of Lynx Software Technologies, Timesys, Thompson, and CoreAVI to deliver comprehensive solutions tailored to your needs.
+
+Commitment to Excellence:
+ Continuing to deliver the trusted products, services, and support that have defined each of our brands for decades.
+
+Innovation and Growth:
+ Expanding our portfolio to provide state-of-the-art solutions in cybersecurity, certification, and edge orchestration, empowering you to meet tomorrow’s challenges today.
+
+New Digital Presence: 
+Our new website serves as the hub for our integrated solutions, resources, and support—designed for clarity, ease of access, and a seamless digital experience. Additionally, we have unified our social presence under 
+Lynx 
+across 
+LinkedIn
+, 
+X (formerly known as Twitter)
+, and 
+YouTube
+, ensuring a cohesive brand of experience across all platforms. 
+
+ The Reason Behind the Change 
+
+Lynx is evolving to simplify our brand, strengthen our identity, and unify our 
+expertise
+ across 
+safety-critical software
+, 
+embedded virtualization
+, 
+open-source security
+, and 
+AI-driven GPU solutions
+. By integrating the talent and technology from 
+Timesys
+, 
+CoreAVI
+, and Thompson Software Solutions, we can drive innovation 
+faster, smarter, and with more impact
+ than ever before.
+
+With this transformation, we are: 
+
+Creating a stronger, more unified presence
+ in the industry.
+
+Enhancing our ability to serve customers
+ with seamless solutions.
+
+Expanding our expertise
+ in cybersecurity, certification, and edge orchestration.
+
+Who We Are: 
+ The Foundations of Lynx’s Strength
+
+Our new identity builds upon decades of leadership, expertise, and innovation from three industry pioneers:
+
+Timesys:
+Embedded Linux & Cybersecurity
+
+Timesys brought embedded Linux leadership, offering real-time operating systems (RTOS), security solutions, and custom Linux development services for mission-critical systems. Now part of Lynx, Timesys’ expertise in embedded Linux, SBOM management, cybersecurity, and open-source solutions continues to thrive, supported by Lynx’s expanded resources and innovative solutions. 
+
+ Learn More About the Timesys Rebrand  
+
+CoreAVI:
+Safety-Critical GPU & Compute
+
+CoreAVI has been instrumental in advancing high-performance GPU technologies for safety-critical compute applications in aviation, automotive, and industrial applications. Their expertise in certified GPU solutions and safety-critical graphics now enhances Lynx’s ability to push the boundaries of mission-critical edge systems, ensuring reliability, security, and performance. 
+
+ Learn More About the CoreAVI Rebrand  
+
+Thompson Software Solutions:
+Aerospace & Defense
+
+Thompson Software Solutions was a leader in aerospace and defense systems, providing modular software and certification solutions that met the most stringent regulatory requirements. Now part of Lynx, Thompson’s commitment to safety, security, and modular systems enhances Lynx’s ability to deliver best-in-class solutions to global industries. 
+
+ Learn More About the Thompson  Rebrand  
+
+ What’s Changing and What’s Staying the Same? 
+
+What’s Staying the Same
+
+Our Core
+
+Our mission:
+ Delivering safe, secure, and high-performance solutions for mission-critical systems.
+
+Trusted teams and services:
+ You will continue working with the same experts and receiving the same reliable support.
+
+Our commitment to excellence:
+ Lynx remains focused on driving innovation and meeting the highest industry standards.
+
+What’s New
+
+A Unified Brand
+
+Doing Business as Lynx:
+ We are now simply Lynx—not “Lynx Software” or “Lynx Software Technologies.” This reflects our unified identity and focus.
+
+A new logo:
+ Representing the strength and synergy of our unified vision.
+
+Updated color palette and fonts:
+ Modern, bold, and adaptable.
+
+Refined brand messaging:
+ Clearer, more concise, and focused on next-gen mission-critical edge solutions.
+
+A new website:
+ A 
+single, streamlined hub
+ for Lynx’s solutions, services, and resources—designed for clarity, ease of use, and a seamless customer experience.
+
+ What Happens Next and How This Affects You 
+
+Lynx remains your 
+trusted partner
+ for safety-critical innovation. Here is what this means for you:
+
+No disruptions:
+ Your products, services, contracts, and support remain unchanged.
+
+Stronger expertise:
+ Access to 
+expanded resources and solutions
+ across embedded security, real-time computing, and open-source safety.
+
+Continued collaboration:
+ The same dedicated teams, now with 
+greater capabilities to drive innovation
+ in mission-critical environments.
+
+The transition to Lynx is already underway, and we are here to help every step of the way:
+
+Explore our new website:
+ This site now serves as the single hub for Lynx’s integrated solutions, resources, and support.
+
+Connect with us:
+ Reach out to your 
+existing contacts
+—they remain the same.
+
+Join the conversation:
+ Follow us on 
+LinkedIn and other platforms
+ for updates.
+
+Have any questions?
+ We are here to help. 
+Contact us
+.
+
+Frequently Asked Questions (FAQ)
+
+What’s changing with the rebrand?
+
+Lynx Software Technol
+ogies
+, 
+Timesys
+, 
+CoreAVI
+, and 
+Thompson Software Solutions
+ have united under the single brand Lynx. Our 
+mission
+, 
+solutions
+, and 
+commitment 
+to safety-critical innovation remain the same, but now with ex
+panded 
+ex
+pertise
+ and a streamlined customer experience.
+
+Why did Lynx integrate Timesys, CoreAVI, and Thompson Software Solutions?
+
+By uniting under one cohesive brand, we enhance our ability to deliver world-class solutions and support to our customers across industries. This integration strengthens our 
+expertise
+ and allows us to innovate more efficiently.
+
+What is new with Lynx?
+
+We
+ have
+ expanded our capabilities by integrating the streng
+ths of 
+Ti
+mesys
+, 
+CoreAVI
+, and Thompson Software Solutions into Lynx’s mission-critical offerings. This enables us to better address complex challenges and deliver solutions that exceed expectations across aerospace, defense, and commercial markets.
+
+Will my support team change?
+
+No, your existing contacts and support teams 
+remain
+ the same. The new Lynx has the same team 
+yo
+u have
+ worked with, now with even more resources and capabilities to address your needs.
+
+Will I still have access to the same products and services?
+
+Yes, all your existing products and services 
+remain
+ unchanged. The difference is that we now offer expanded capabilities and 
+innovat
+ive solutions
+ thanks to the co
+mbined 
+st
+rengths
+ of 
+Timesys
+, 
+CoreAVI
+, and Thompson Software Solutions.
+
+How does this impact my current projects or contracts?
+
+There is no impact 
+on
+ your ongoing projects or contracts. You will continue working with the same teams and have access to all the products and services you rely on. Additionally, Lynx’s expanded 
+expertise
+ means 
+y
+o
+u will
+
+benefit
+ from even greater innovation and support moving forward.
+
+What does the new company name mean for me?
+
+Our official company name is now simply Lynx—not “Lynx Software” or “Lynx Software Technologies.” This change reflects our unified identity and focus.
+
+What does the new website mean for me?
+
+Our new website provides a streamlined, integrated hub for Lynx’s solutions, making it easier to find the information and resources you need.
+
+Where can I learn more?
+
+For more details, visit our website, contact us below, or reach out to your Lynx representative.
+
+                      Contact Us
+
+ Seize the Edge with Lynx 
+
+ Lynx is evolving and our commitment to safety, security, and performance is stronger than ever. We are excited to embark on this next chapter with you. If you have any questions or want to learn more about this transition, we are here to help. 
+
+                Contact Us
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

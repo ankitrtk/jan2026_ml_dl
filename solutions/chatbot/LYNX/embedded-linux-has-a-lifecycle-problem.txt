@@ -1,0 +1,992 @@
+URL: https://www.lynx.com/blog/embedded-linux-has-a-lifecycle-problem
+
+Embedded Linux Has a Lifecycle Control Problem
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+BLOG
+
+June 01, 2026
+
+Embedded Linux Has a Lifecycle Control Problem
+
+SBOMs, CVE monitoring, BSP maintenance, secure implementation, and long-term support all depend on the same thing: knowing what shipped, what changed, and what your team can prove.
+
+by 
+The Lynx Linux Team
+
+Share
+
+Getting an embedded Linux product to boot, pass tests, and ship is hard enough.
+
+For connected products with long field lives, release day is also the point where a different kind of work begins.
+
+The software keeps aging. Open source packages pick up new CVEs. Kernel assumptions drift away from the original design. BSPs become harder to patch. Customers ask for SBOMs. Security teams ask for vulnerability status. Regulators and partners ask for evidence. Product teams ask whether the platform can be supported for years, not quarters.
+
+Engineering is left tying all of that back to a device architecture that may have been frozen long before these questions became urgent.
+
+Most embedded teams are not ignoring security. The harder truth is that the work is often split across separate motions: SBOM generation, CVE monitoring, BSP maintenance, secure boot, patching, audit evidence, customer reporting, and engineering remediation.
+
+Each one has a reason to exist. Taken separately, they leave gaps.
+
+The shift now is to treat them as one lifecycle problem. Know what shipped. Understand what applies. Fix, mitigate, or document the risk. Keep the platform maintainable. Preserve the evidence.
+
+That is the operating model embedded Linux teams are being pushed toward.
+
+The Market Is Asking Teams to Prove More About What They Ship
+
+Software transparency has moved from a best-practice conversation into ordinary customer and partner due diligence.
+
+The 
+NTIA defines a Software Bill of Materials
+ as a formal record of the components and supply chain relationships used to build software. That framing matters because an SBOM is more than a file format. It is a way to make the software supply chain visible.
+
+CISA's SBOM consumption guidance
+ pushes the point further. SBOMs are most useful when they help suppliers and consumers make better decisions about software integrity, releases, updates, notifications, and vulnerability mitigation.
+
+Embedded teams are feeling that pressure directly. Black Duck's 
+State of Embedded Software Quality and Safety 2025
+ report
+ found that more than 70% of surveyed organizations are required to produce an SBOM, with customer or partner requirements outranking regulation as the largest driver.
+
+That commercial signal matters. SBOMs are becoming part of how customers evaluate supplier risk.
+
+The same survey points to a familiar squeeze: growing system complexity, tight release timelines, quality compromises, faster adoption of AI coding assistants, and uneven confidence in governance around AI-generated code. Embedded software teams are being asked to move faster, use more open source, prove more about what they ship, and support products longer.
+
+This is an ownership problem as much as a tooling problem.
+
+When a customer asks for an SBOM, they are really asking whether you can explain your software supply chain after the product leaves the building.
+
+When a security team asks for CVE status, they need to know whether the product can be triaged, patched, mitigated, or defended.
+
+When a product team asks for long-term support, they need confidence that the Linux platform can survive the actual field life of the device.
+
+The demand is shifting from "can you ship this?" to "can you keep standing behind it?"
+
+Fragmentation Usually Starts With Reasonable Decisions
+
+Most teams do not set out to build a fragmented security process.
+
+It happens in small, practical responses.
+
+A customer asks for an SBOM, so someone generates one. Security asks for CVE status, so the team adds a scanner or feed. A critical CVE lands, so engineering starts manual triage. The BSP gets old enough that only one person really understands it. Secure boot comes up late, so the team tries to add controls around an architecture that was never designed for them. An audit arrives, and everyone reconstructs old decisions from tickets, spreadsheets, build notes, and memory.
+
+Each response solves the visible problem in front of the team.
+
+The pattern becomes dangerous when visibility lives in one place, patch decisions in another, BSP knowledge in someone's head, compliance evidence in a spreadsheet, and no shared operating model ties the product's security story together over time.
+
+That is how teams end up with activity everywhere and ownership nowhere.
+
+A familiar pain from embedded engineering and product-security conversations is the gap between release confidence and field reality. Leaders may see a successful release, while engineers remember the compromises, accepted risks, and late-stage tradeoffs behind it.
+
+Lifecycle risk often hides there, in the work that made release possible but never found a long-term owner.
+
+SBOMs Become Evidence the Moment a Customer Asks the Next Question
+
+An SBOM can satisfy an immediate request. It also creates the next round of questions.
+
+What changed between releases? Which products are affected by this CVE? Which components were patched? Which risks were deferred? Why was this vulnerability marked not affected? What evidence can you provide?
+
+A static SBOM does not answer all of that by itself. It needs product mapping, release context, vulnerability monitoring, decision history, and a connection back to the software that actually shipped.
+
+OpenSSF frames the challenge clearly
+: SBOMs are becoming part of everyday software practice, but teams still need to turn SBOM data into trusted risk-management decisions across engineering, security, legal, and operations.
+
+That is the useful opening for embedded teams.
+
+Treat the SBOM as the foundation for product security operations. Map it to products and versions. Use it to support vulnerability review. Keep it connected to release decisions. Let it answer "what happened when risk changed?" rather than only "what is in this build?"
+
+Embedded software makes this harder than a simple package inventory. The build system, kernel configuration, BSP, package selection, and release branch all shape the answer.
+
+Lynx Vigiles
+ is built around that embedded reality, with SBOM-aware CVE monitoring, curated vulnerability intelligence, and workflows that connect vulnerability data to the software shipping in the device.
+
+The value of the SBOM shows up after the file is generated.
+
+CVE Visibility Needs Product Context
+
+More vulnerability data does not automatically create better vulnerability decisions.
+
+A generic feed can tell you what might be vulnerable. It cannot fully understand your shipped image, BSP, kernel configuration, backported patches, build flags, package variants, or whether a vulnerable feature is present and reachable in the product.
+
+Without that embedded context, CVE management becomes alert management.
+
+Teams chase findings that may not apply. Engineers repeat the same triage work. Security teams struggle to explain status. Product teams lose confidence in release readiness. The organization has more data, yet decisions still feel slow and brittle.
+
+Embedded teams need product-specific triage:
+
+Does this CVE affect a component that ships?
+
+Is the vulnerable path included and reachable?
+
+Has the fix already been backported?
+
+Would the upstream patch destabilize the BSP?
+
+Is mitigation a better answer than patching?
+
+Can the decision be explained later?
+
+CISA's SBOM consumption guidance
+ points in the same direction: SBOMs should support releases, updates, notifications, and vulnerability mitigations. They are useful when they drive action.
+
+The tooling market is racing to claim more of that surface area: scanners in builds, scanners in pull requests, scanners in IDEs, dashboards for components, dashboards for vulnerabilities, dashboards for policy. Each tool can make one slice of the problem more visible.
+
+The harder step is turning that visibility into embedded-specific decisions.
+
+A dashboard can raise awareness. Lifecycle control needs a way to decide what matters, act on it, and preserve the rationale.
+
+BSPs Are Part of the Security Posture
+
+A BSP can feel stable for a long time because the board still boots.
+
+Booting is a low bar for long-term maintainability.
+
+For embedded Linux products, the BSP shapes the kernel baseline, hardware enablement, driver behavior, update path, boot flow, and patch strategy. Once the product is in the field, the BSP becomes part of the security posture.
+
+If the BSP is fragile, poorly documented, heavily customized, vendor-abandoned, or owned by one or two specialists, every future security response gets harder.
+
+A kernel patch can threaten board stability. A package update has to survive the build system, image constraints, hardware assumptions, and test process. A security fix becomes a question of whether the platform can safely absorb change.
+
+This is where long-term maintenance becomes a product security function.
+
+The 
+EU Cyber Resilience Act
+ reflects the broader move toward lifecycle responsibility. The European Commission describes the CRA as addressing inadequate cybersecurity in products and the lack of timely security updates, with the goal of making products with digital elements more secure throughout their life cycle.
+
+That expectation lands hard in embedded Linux. Many products stay in the field longer than the support windows, vendor SDKs, and engineering assumptions they launched with.
+
+Lynx's Linux OS and BSP Maintenance
+ offering is built around long-term security updates, BSP maintenance, vulnerability response, documentation, and release support for embedded Linux platforms, including Yocto Project, Buildroot, and Timesys Factory environments.
+
+The board may still be stable. The risk keeps moving.
+
+Secure by Design Has to Survive the Platform
+
+Secure by Design is easy to say and expensive to retrofit.
+
+For embedded Linux, it shows up in practical platform decisions: secure boot, signed updates, rollback protection, encrypted storage, key handling, kernel hardening, service isolation, update integrity, and release evidence.
+
+These controls touch architecture, BSP integration, build workflows, test strategy, manufacturing, field operations, and long-term maintenance.
+
+CISA's Secure by Design guidance
+ puts responsibility on manufacturers, including ownership of customer security outcomes and a commitment to transparency and accountability.
+
+NIST's Secure Software Development Framework
+ makes a related lifecycle argument: secure software practices need to be integrated into software development lifecycle models because many SDLC models do not address software security in enough detail on their own.
+
+For embedded teams, this becomes very concrete. If security controls are missing from the Linux image and BSP early, later implementation has to fight the product's existing architecture. That adds friction, delays, and risk.
+
+Platform security belongs in implementation work, not policy language.
+
+A product becomes more secure when requirements are engineered into the platform, validated in the release process, and maintained over time.
+
+Lynx VigiShield
+ focuses on production-ready security foundations inside embedded Linux platforms, including secure boot, hardening, storage protection, and update security.
+
+Secure by Design becomes real when the shipped platform can carry it.
+
+AI Makes Provenance Harder to Fake
+
+AI-assisted development does not create an entirely separate lifecycle problem. It adds pressure to one embedded teams already have.
+
+The embedded software survey also found broad adoption of AI-powered coding assistants and open source AI models, while confidence in governance around AI-generated code has not fully caught up. It also found that some organizations know developers are using AI tools outside policy.
+
+The issue is provenance.
+
+Embedded teams already have to understand where code and components come from, which licenses apply, which vulnerabilities matter, what changed between releases, and how decisions were made. AI-assisted development adds another path for code to enter the product without clean origin, review, license clarity, or security validation.
+
+If a team cannot consistently answer what entered the codebase, where it came from, how it was reviewed, and what obligations it carries, AI widens the gap.
+
+That does not argue against AI. It argues for folding AI usage into the same lifecycle discipline as open source components, third-party packages, vendor code, and internal reuse.
+
+AI-assisted development raises the cost of weak provenance.
+
+Visibility Is Necessary. Ownership Closes the Loop.
+
+SBOMs, CVE feeds, scanners, dashboards, and reports all matter.
+
+They still leave a hard question for engineering: who turns visibility into a product decision?
+
+A dashboard can show what might be vulnerable. It cannot patch a BSP, maintain a release branch, backport a fix, implement secure boot, validate an update path, or explain a remediation decision to a customer.
+
+Many embedded teams are running into this gap. They have more visibility than before, while the hard work still lands on engineering.
+
+Someone has to decide whether the CVE applies. Someone has to choose whether to patch, mitigate, defer, or document. Someone has to maintain the kernel branch. Someone has to keep the BSP supportable. Someone has to turn a security requirement into platform behavior.
+
+Detection is the beginning of the work.
+
+Lynx's embedded Linux platform
+ positioning spans tailored Linux distributions, vulnerability management through Vigiles, long-term support, custom platform adaptation, and support for deployed systems over 10+ years.
+
+A scanner can tell the team where to look. A lifecycle model gives the team a way to act.
+
+Lifecycle Control Looks Like Connected Answers
+
+Lifecycle control is an operating model for keeping embedded Linux secure, supportable, and defensible after release.
+
+It lets the team answer the questions that keep arriving after shipment.
+
+Lifecycle question
+
+Required capability
+
+What shipped?
+
+SBOMs mapped to products and releases
+
+What changed?
+
+Release-to-release software visibility
+
+What is vulnerable?
+
+Continuous CVE monitoring
+
+What applies?
+
+Embedded-specific triage
+
+What action did we take?
+
+Patch, mitigation, deferral, or documented rationale
+
+Who can fix it?
+
+BSP, kernel, OS, and security engineering support
+
+Can we prove it?
+
+Customer-ready evidence and decision history
+
+Can we keep doing this?
+
+Long-term OS and BSP maintenance
+
+The practical work is to connect these capabilities, so each SBOM request, CVE alert, BSP issue, and security control does not become its own isolated project.
+
+Know what is in the product. Understand what matters. Engineer the fix. Maintain the platform. Prove what happened.
+
+That is the difference between managing security activity and owning the embedded Linux lifecycle.
+
+Build Linux You Can Keep Standing Behind
+
+Embedded Linux gives teams flexibility, speed, and access to a massive open source ecosystem.
+
+That flexibility carries long-term responsibility.
+
+Every package, patch, kernel decision, BSP customization, security control, and update mechanism becomes part of the product's life in the field. When those pieces are managed separately, risk accumulates in the gaps. When they are connected, the team has a clearer path from release to sustainment.
+
+The real work is keeping the platform secure, supportable, and defensible for the life of the product.
+
+That is the work behind 
+Embedded Linux Lifecycle Control
+: helping teams build, secure, maintain, and prove Linux-based platforms across the full device lifecycle.
+
+If your team is dealing with SBOM requests, CVE noise, aging BSPs, security-control gaps, or unclear long-term support ownership, start there.
+
+You can also 
+talk to Lynx about the embedded Linux lifecycle problem
+ if the issue is already showing up in your release process, customer reviews, or maintenance backlog.
+
+Lynx Engineering Team
+
+Subscribe Here!
+
+ON THIS PAGE
+
+ Ship Linux You Can Stand Behind For Years 
+
+ Lynx helps you build, secure, maintain, and prove the platform your product depends on – from first boot through long-term field support. 
+
+                Talk to an Embedded Linux Expert
+
+Latest From Lynx
+
+            View All
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

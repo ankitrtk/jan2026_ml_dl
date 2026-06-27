@@ -1,0 +1,1782 @@
+URL: https://www.lynx.com/blog/securing-your-linux-configuration-kernel-hardening
+
+Securing your Linux Configuration (Kernel Hardening)
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+BLOG
+
+January 21, 2025
+
+Securing your Linux Configuration (Kernel Hardening)
+
+by 
+Nathan Barrett-Morrison
+
+ embedded systems 
+,
+
+ development 
+
+Share
+
+Preface
+
+A Linux kernel configuration is a file which defines all of the enabled (or disabled) options which are compiled in to your kernel. If you have not seen one before, they generally reside in the kernel’s build directory with a filename of “.config”. They are sometimes collapsed in to a
+
+defconfig
+
+(default config) file which only shows options which were not already selected by default.
+
+This discussion will present many configuration tables in the form of:
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+OPTION1=Y
+
+Architecture to which this option applys (X86 and/or ARM)
+
+Kernel versions in which OPTION1 exists
+
+A description of OPTION1
+
+OPTION2=is not set
+
+Architecture to which this option applys (X86 and/or ARM)
+
+Kernel versions in which OPTION2 exists
+
+A description of OPTION2
+
+In this case, it is recommended that the fictional option,
+
+OPTION1
+, is selected (
+CONFIG_OPTION1=y
+) in your kernel’s .config or defconfig file. It is also recommended that
+
+OPTION2
+
+is disabled (
+CONFIG_OPTION2=is not set
+) in your kernel’s .config or defconfig file.
+
+The option descriptions are sometimes difficult to interpret and may require further research. If you find an option that you’d like to know more information about, you may have to inspect the
+
+kernel source
+, search
+
+LWN
+, search
+
+Patchwork
+, or use your web search engine of choice.
+
+Understanding Configuration Selections
+
+When Linux kernel hardening, there are generally four categories of reason for which a configuration item may be enabled or disabled:
+
+Adding an additional level of protection against a known exploit by enabling a configuration item. For example:
+
+Mitigating Spectre attacks with
+
+CONFIG_RETPOLINE=y
+
+(which traps the processor’s speculative execution paths for indirect address calls by using a return trampoline).
+
+Disabling a configuration item or subsystem which is known to be exploitable. For example:
+
+Disabling the USB networking subsystem (
+USB_USBNET=is not set
+), so that applications using network-based IPC(Inter-Processor Communication) mechanisms may not be inadvertently exposed through a USB port.
+
+Disabling /dev/mem access to physical memory (
+DEVMEM=is not set
+), so that physical memory cannot be easily modified.
+
+Enabling general security strengthening features in the kernel (which may necessarily protect against a presently known attack). For example:
+
+Reducing the risk of memory page leakage by enabling page poisoning (
+PAGE_POISONING=Y
+) to overwrite any potentially sensitive information upon freeing.
+
+Enabling
+
+Security-Enhanced Linux
+
+Disabling any unused kernel configuration options. If you don’t need it, disable it. As an added bonus, doing so may also improve your boot times.
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+RETPOLINE=Y
+
+X86_32, X86_64
+
+4.15-4.20, 5.0-5.17
+
+Avoid speculative indirect branches in kernel (Spectre Mitigation)
+
+USB_USBNET=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+2.6.22-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+If enabled, this adds USB networking subsystem support to the kernel
+
+DEVMEM=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+4.0-4.20, 5.0-5.17
+
+Do not allow access to physical memory via /dev/mem
+
+PAGE_POISONING=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.6-4.20, 5.0-5.17
+
+Fill the pages with poison patterns after free_pages() and verify the patterns before alloc_pages. The filling of the memory helps reduce the risk of information leaks from freed data. This must be enabled from the boot cmdline with page_poison=1
+
+The latter two options can help to protect against exploits which have not yet been discovered or released into the public domain (e.g. zero-day exploits) by reducing your kernel’s exploitable attack surface.
+
+Analyzing, understanding, and modifying the kernel configuration with these tasks in mind is not trivial. Furthermore, in a large project it may not be clear exactly who is using which kernel configuration option. This can result in iterative backstepping until you arrive at a final configuration which works for your entire team.
+
+There’s also a maintenance burden once you have created your final configuration. When you upgrade your kernel, many of the configuration options will have been removed and renamed. This will require another assessment and configuration period. Keeping your kernel up to date is extremely important, as security features are continuously added and revised in newer kernels. Starting a project with a long term stable (LTS) kernel is recommended, as an LTS kernel provides smaller (and sometimes backported) version increments to resolve security flaws (e.g upgrading from 5.0.x to 5.0.y). Such patches are provided until the long term stable support period ends.
+
+Cost-Benefit Analysis
+
+Not all configuration items provide the same cost-benefit as others. To some extent, most options will have an impact in these key areas:
+
+Compile Time
+
+This is especially true for security features which are checked by the compiler during compile time. For example,
+
+GCC_PLUGIN_STACKLEAK=Y
+
+will block uninitialized stack variable attacks through the use of a compiler plugin which searches for and initializes such variables.
+
+This should not be considered a concern. Added compilation time is well worth the added security.
+
+Kernel Binary Size
+
+This is usually not a concern. Adding and removing features may change the kernel size by a few megabytes, which is generally negligible on modern systems.
+
+Boot time
+
+For example,
+
+DM_CRYPT=y
+, which adds drive encryption capabilities to your kernel, will add additional non-neglibile boot time to your system. This is because it may require booting in to an Initial Ram Filesystem, retreiving your disk encryption key, and ultimately mounting the encrypted disk through the device mapper subsystem. All of these steps add time to the boot process.
+
+Processor Load
+
+This is perhaps the most concerning option and must be determined by trial and error. If every available security option is enabled on a slower ARM processor, there may be too much overhead to reliably run your processes (at a reasonable latency).
+
+For example, erasing memory with
+
+PAGE_POISONING=Y
+
+will use CPU cycles. The amount of overhead added will be dependent upon factors such as your CPU and RAM speed.
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+GCC_PLUGIN_STACKLEAK=Y
+
+ARM64, X86_32, X86_64
+
+5.2-5.17
+
+This blocks most uninitialized stack variable attacks, with the performance impact being driven by the depth of the stack usage, rather than the function calling complexity. The performance impact on a single CPU system kernel compilation sees a 1% slowdown.
+
+DM_CRYPT=Y
+
+ARM, ARM64, X86_32, X86_64
+
+2.6.4-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+Filesystem Hardening (Block Level Encryption via dm-crypt) – Requires userspace support
+
+PAGE_POISONING=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.6-4.20, 5.0-5.17
+
+Fill the pages with poison patterns after free_pages() and verify the patterns before alloc_pages. The filling of the memory helps reduce the risk of information leaks from freed data. This must be enabled from the boot cmdline with page_poison=1
+
+Some configuration items will provide a better cost-benefit. Configuration items which have minimal impact on processor load are most valuable. For example, these add virtually no CPU overhead:
+
+Disabling
+
+DEBUG_BUGVERBOSE
+, which will help ensure that sensitive backtrace information is not leaked upon a kernel BUG() condition.
+
+Enabling
+
+ARCH_HAS_ELF_RANDOMIZE
+, which will make repeat exploits much more difficult by randomizing certain memory locations.
+
+While these will add CPU overhead to some degree:
+
+Enabling
+
+DEBUG_VIRTUAL
+
+will enable some sanity checking in virt_to_page translation at the cost of CPU cycles.
+
+Enabling
+
+INIT_ON_ALLOC_DEFAULT_ON
+
+or
+
+INIT_ON_FREE_DEFAULT_ON
+
+will protect against heap memory leaks by erasing the regions after use, at the cost of erase time.
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+DEBUG_BUGVERBOSE=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+2.6.9-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+Make sure this is not enabled, as it could provide an attacker sensitive kernel backtrace information on BUG() conditions
+
+ARCH_HAS_ELF_RANDOMIZE=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.1-4.20, 5.0-5.17
+
+Randomized locations for stack, mmap, brk, and ET_DYN
+
+INIT_ON_FREE_DEFAULT_ON=Y
+
+ARM, ARM64, X86_32, X86_64
+
+5.3-5.17
+
+More expensive form of INIT_ON_ALLOC_DEFAULT_ON. The primary difference is that data lifetime in memory is reduced, as anything freed is wiped immediately, making live forensics or cold boot memory attacks unable to recover freed memory contents.
+
+INIT_ON_ALLOC_DEFAULT_ON=Y
+
+ARM, ARM64, X86_32, X86_64
+
+5.3-5.17
+
+All page allocator and slab allocator memory will be zeroed when freed, eliminating many kinds of “uninitialized heap memory” flaws, especially heap content exposures.
+
+DEBUG_VIRTUAL=Y
+
+ARM, ARM64, X86_32, X86_64
+
+2.6.28-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+Enable some costly sanity checks in virtual to page code. This can catch mistakes with virt_to_page() and friends.
+
+Using multiple kernel configurations (development and production) can be an option. While it is wise to develop on a prototype system that most closely resembles a production system (as to not cause unforseen bugs in changing timing conditions and loads between configurations), some security options be too cumbersome to reasonably develop on. If you’re writing a kernel driver and you need to use a tracing tool or read a core dump, then certainly enable them while developing.
+
+Categories of Linux Kernel Hardening
+
+In the Timesys Kernel Hardening Analysis Tool, the kernel security options have been divided into various groups. This categorization is by no means a definitive separation; some options could be further categorized or applied to multiple categories.
+
+Memory Protection
+
+Memory exploits are classes of attack in which an entity is able to retrieve or modified privileged information about the system. These can be further categorized into:
+
+Stack Overflow Protections: These are security features which seek to prevent access to and tampering of stack variables in memory. A stack canary (an arbitrary value sitting at the top of the stack, which, if modified, alerts the kernel of tampering) is sometimes mentioned in these protections.
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+INIT_STACK_ALL_ZERO=Y
+
+ARM, ARM64, X86_32, X86_64
+
+5.9-5.17
+
+Initializes everything on the stack with a zero value. This is intended to eliminate all classes of uninitialized stack variable exploits and information exposures, even variables that were warned to have been left uninitialized. (Strongest, safest)
+
+GCC_PLUGIN_ARM_SSP_PER_TASK=Y
+
+ARM
+
+5.2-5.17
+
+Generates a separate stack canary value for each task, so if one task’s canary value is leaked it does not cause all other tasks to become vulnerable.
+
+STACKPROTECTOR=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.18-4.20, 5.0-5.17
+
+This option turns on the “stack-protector” GCC feature. This feature puts, at the beginning of functions, a canary value on the stack just before the return address, and validates the value just before actually returning. Stack based buffer overflows (that need to overwrite this return address) now also overwrite the canary, which gets detected and the attack is then neutralized via a kernel panic.
+
+STACKPROTECTOR_STRONG=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.18-4.20, 5.0-5.17
+
+Adds the CONFIG_STACKPROTECTOR canary logic to additional conditions related to variable assignment.
+
+STACKPROTECTOR_PER_TASK=Y
+
+ARM, ARM64
+
+5.0-5.17
+
+Use a different stack canary value for each task
+
+VMAP_STACK=Y
+
+ARM64
+
+4.9-4.20, 5.0-5.17
+
+Enable this if you want the use virtually-mapped kernel stacks with guard pages. This causes kernel stack overflows to be caught immediately.
+
+SCHED_STACK_END_CHECK=Y
+
+ARM, ARM64, X86_32, X86_64
+
+3.18-3.19, 4.0-4.20, 5.0-5.17
+
+Additional validation check on commonly targeted structure. Detect stack corruption on calls to schedule()
+
+STACKLEAK_METRICS=is not set
+
+ARM64, X86_32, X86_64
+
+5.2-5.17
+
+If this is set, STACKLEAK metrics for every task are available in the /proc file system.
+
+STACKLEAK_RUNTIME_DISABLE=is not set
+
+ARM64, X86_32, X86_64
+
+5.2-5.17
+
+If set, allows runtime disabling of kernel stack erasing
+
+GCC_PLUGIN_STACKLEAK=Y
+
+ARM64, X86_32, X86_64
+
+5.2-5.17
+
+This blocks most uninitialized stack variable attacks, with the performance impact being driven by the depth of the stack usage, rather than the function calling complexity. The performance impact on a single CPU system kernel compilation sees a 1% slowdown.
+
+Heap Overflow: These are security features which seek to prevent heap memory exposure and modification.
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+STRICT_KERNEL_RWX=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.11-4.20, 5.0-5.17
+
+If this is set, kernel text and rodata memory will be made read-only, and non-text memory will be made non-executable. This provides protection against certain security exploits (e.g. executing the heap or modifying text)
+
+SLAB_FREELIST_HARDENED=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.14-4.20, 5.0-5.17
+
+Harden slab freelist metadata: Many kernel heap attacks try to target slab cache metadata and other infrastructure. This options makes minor performance sacrifices to harden the kernel slab allocator against common freelist exploit methods. Some slab implementations have more sanity-checking than others. This option is most effective with CONFIG_SLUB.
+
+SLAB_FREELIST_RANDOM=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.7-4.20, 5.0-5.17
+
+Randomizes the freelist order used on creating new pages. This security feature reduces the predictability of the kernel slab allocator against heap overflows.
+
+COMPAT_BRK=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+2.6.25-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+Do not disable heap randomization
+
+INET_DIAG=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+2.6.14-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+Do not allow INET socket monitoring interface. Assists heap memory attacks
+
+User Copy Protection: These are security features which seek to prevent memory exploitation during kernel and userspace memory transfer transactions.
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+HARDENED_USERCOPY=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.8-4.20, 5.0-5.17
+
+This option checks for obviously wrong memory regions when copying memory to/from the kernel (via copy_to_user() and copy_from_user() functions) by rejecting memory ranges that are larger than the specified heap object, span multiple separately allocated pages, are not on the process stack, or are part of the kernel text. This kills entire classes of heap overflow exploits and similar kernel memory exposures.
+
+HARDENED_USERCOPY_FALLBACK=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+4.16-4.20, 5.0-5.15
+
+This is a temporary option that allows missing usercopy whitelists to be discovered via a WARN() to the kernel log, instead of rejecting the copy, falling back to non-whitelisted hardened usercopy that checks the slab allocation size instead of the whitelist size.
+
+HARDENED_USERCOPY_PAGESPAN=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+4.8-4.20, 5.0-5.17
+
+When a multi-page allocation is done without __GFP_COMP, hardened usercopy will reject attempts to copy it. There are, however, several cases of this in the kernel that have not all been removed. This config is intended to be used only while trying to find such users.
+
+HAVE_HARDENED_USERCOPY_ALLOCATOR=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.8-4.20, 5.0-5.17
+
+The heap allocator implements __check_heap_object() for validating memory ranges against heap object sizes.
+
+Information exposure: Options which are selected to limit exposure to privileged information.
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+X86_UMIP=Y
+
+X86_32, X86_64
+
+5.5-5.17
+
+If enabled, a general protection fault is issued if the SGDT, SLDT, SIDT, SMSW or STR instructions are executed in user mode. These instructions unnecessarily expose information about the hardware state.
+
+PROC_PAGE_MONITOR=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+2.6.28-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+Do not expose process memory utilization via /proc interfaces
+
+PROC_VMCORE=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+2.6.37-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+Do not export the dump image of crashed kernel
+
+DEBUG_FS=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+2.6.11-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+Do not enable debugfs, as it may expose vulnerabilities
+
+Kernel Address Space Layout Randomization (KASLR): A security method by which kernel memory structures are randomized in order to prevent repeat or replay-style attacks.
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+ARCH_HAS_ELF_RANDOMIZE=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.1-4.20, 5.0-5.17
+
+Randomized locations for stack, mmap, brk, and ET_DYN
+
+RANDOMIZE_BASE=Y
+
+ARM64, X86_32, X86_64
+
+4.7-4.20, 5.0-5.17
+
+In support of Kernel Address Space Layout Randomization (KASLR), this randomizes the physical address at which the kernel image is decompressed and the virtual address where the kernel image is mapped, as a security feature that deters exploit attempts relying on knowledge of the location of kernel code internals.
+
+RANDOMIZE_MEMORY=Y
+
+X86_64
+
+4.8-4.20, 5.0-5.17
+
+Randomizes the base virtual address of kernel memory sections (physical memory mapping, vmalloc & vmemmap). This security feature makes exploits relying on predictable memory locations less reliable.
+
+SLAB_FREELIST_RANDOM=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.7-4.20, 5.0-5.17
+
+Randomizes the freelist order used on creating new pages. This security feature reduces the predictability of the kernel slab allocator against heap overflows.
+
+GCC_PLUGIN_RANDSTRUCT=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.13-4.20, 5.0-5.17
+
+Randomizes layout of sensitive kernel structures
+
+Reducing Attack Surface
+
+These are configuration options which can be selected to reduce the potential for exposure to unknown zero-day attacks by limiting the attack surface as much as we can. These are options that reduce the amount of information exposure and compiled-firmware attack surface (Again: If you don’t need it, disable it).
+
+Kernel Replacement Attacks: Methods in which a kernel binary could be replaced during runtime.
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+HIBERNATION=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+2.6.23-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+Do not support hibernation. Allows replacement of running kernel.
+
+KEXEC=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+2.6.16-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+Do not allow system to boot another Linux kernel
+
+KEXEC_FILE=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+3.17-3.19, 4.0-4.20, 5.0-5.17
+
+Do not allow system to boot another Linux kernel
+
+Module Security Attacks: These are attacks which can be performed by loading a tainted, custom, module in to a system or maliciously modifying a pre-existing module’s memory. The mitigations for this mostly consist of restricting execution regions, making such regions read-only, and signature checking prior to loading modules.
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+MODULES=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+You should not allow for modules to be loaded unless you have the proper signing and signature checks enabled. Allowing the kernel to load unsigned modules can be dangerous
+
+STRICT_MODULE_RWX=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.11-4.20, 5.0-5.17
+
+Module text and rodata memory will be made read-only, and non-text memory will be made non-executable. This provides protection against certain security exploits (e.g. writing to text)
+
+MODULE_SIG=Y
+
+ARM, ARM64, X86_32, X86_64
+
+3.7-3.19, 4.0-4.20, 5.0-5.17
+
+Enable module signature verification
+
+MODULE_SIG_ALL=Y
+
+ARM, ARM64, X86_32, X86_64
+
+3.9-3.19, 4.0-4.20, 5.0-5.17
+
+Automatically sign all modules during modules_install (so we don’t have to do this manually)
+
+MODULE_SIG_SHA512=Y
+
+ARM, ARM64, X86_32, X86_64
+
+3.7-3.19, 4.0-4.20, 5.0-5.17
+
+Sign modules with SHA-512 algorithm
+
+MODULE_SIG_FORCE=Y
+
+ARM, ARM64, X86_32, X86_64
+
+3.7-3.19, 4.0-4.20, 5.0-5.17
+
+Require modules to be validly signed
+
+DEBUG_SET_MODULE_RONX=Y
+
+ARM, ARM64, X86_32, X86_64
+
+Varies depending on architecture
+
+Helps catch unintended modifications to loadable kernel module’s text and read-only data. It also prevents execution of module data.
+
+Reducing Syscall Exposure: Syscalls are interfaces in which user-space and kernel-space can communicate and access each other. Some legacy syscalls may be exploitable and are generally not required on modern systems. Disabling syscalls when possible is a good way to reduce your attack surface.
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+SECCOMP=Y
+
+ARM, ARM64, X86_32, X86_64
+
+Varies depending on architecture
+
+This kernel feature is useful for number crunching applications that may need to compute untrusted bytecode during their execution. By using pipes or other transports made available to the process as file descriptors supporting the read/write syscalls, it’s possible to isolate those applications in their own address space using seccomp. Once seccomp is enabled via prctl(PR_SET_SECCOMP), it cannot be disabled and the task is only allowed to execute a few safe syscalls defined by each seccomp mode.
+
+USELIB=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+4.5-4.20, 5.0-5.17
+
+If enabled, this allows the libc5 and earlier dynamic linker usblib syscall. Should no longer be needed.
+
+MODIFY_LDT_SYSCALL=is not set
+
+X86_32, X86_64
+
+4.3-4.20, 5.0-5.17
+
+Linux can allow user programs to install a per-process x86 Local Descriptor Table (LDT) using the modify_ldt(2) system call. This is required to run 16-bit or segmented code such as DOSEMU or some Wine programs. It is also used by some very old threading libraries. Enabling this feature adds a small amount of overhead to context switches and increases the low-level kernel attack surface. Disabling it removes the modify_ldt(2) system call.
+
+LEGACY_VSYSCALL_NONE=Y
+
+X86_32, X86_64
+
+4.4-4.20, 5.0-5.17
+
+There will be no vsyscall mapping at all. This will eliminate any risk of ASLR bypass due to the vsyscall fixed address mapping. Attempts to use the vsyscalls will be reported to dmesg, so that either old or malicious userspace programs can be identified.
+
+X86_VSYSCALL_EMULATION=is not set
+
+X86_32, X86_64
+
+3.19, 4.0-4.20, 5.0-5.17
+
+If set, this enables emulation of the legacy vsyscall page.
+
+Security Policy Attacks: These are attacks which attempt to gain elevated (root) privileges within a system, generally through the use or execution of a misconfigured binary or file. Mitigations for this mostly rely on Linux Security Modules (LSMs) which extend discretionary access control (DAC) or implement mandatory access control (MAC, Security-Enhanced Linux).
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+SECURITY=Y
+
+ARM, ARM64, X86_32, X86_64
+
+2.5.50-2.5.75, 2.6.0-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+This allows you to choose different security modules to be configured into your kernel.
+
+SECURITY_YAMA=Y
+
+ARM, ARM64, X86_32, X86_64
+
+3.4-3.19, 4.0-4.20, 5.0-5.17
+
+This selects Yama, which extends DAC support with additional system-wide security settings beyond regular Linux discretionary access controls. Currently available is ptrace scope restriction. Like capabilities, this security module stacks with other LSMs. Further information can be found in Documentation/admin-guide/LSM/Yama.rst.
+
+SECURITY_WRITABLE_HOOKS=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+4.12-4.20, 5.0-5.17
+
+If SECURITY_SELINUX_DISABLE must be set, make sure this is not set. Subsequent patches will add RO hardening to LSM hooks, however, SELinux still needs to be able to perform runtime disablement after init to handle architectures where init-time disablement via boot parameters is not feasible. Introduce a new kernel configuration parameter CONFIG_SECURITY_WRITABLE_HOOKS, and a helper macro __lsm_ro_after_init, to handle this case.
+
+SECURITY_SELINUX_DISABLE=is not set
+
+ARM, ARM64, X86_32, X86_64
+
+2.6.6-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+Do not allow NSA SELinux runtime disable
+
+SECURITY_LOCKDOWN_LSM=Y
+
+ARM, ARM64, X86_32, X86_64
+
+5.4-5.17
+
+Enables the lockdown LSM, which enables you to set the lockdown=integrity or lockdown=confidentiality modes during boot. Integrity attempts to block userspace from modifying the running kernel, while confidentiality also restricts reading of confidential material.
+
+SECURITY_LOCKDOWN_LSM_EARLY=Y
+
+ARM, ARM64, X86_32, X86_64
+
+5.4-5.17
+
+Enable lockdown LSM early in init
+
+LOCK_DOWN_KERNEL_FORCE_CONFIDENTIALITY=Y
+
+ARM, ARM64, X86_32, X86_64
+
+5.4-5.17
+
+The kernel runs in confidentiality mode by default. Features that allow the kernel to be modified at runtime or that permit userland code to read confidential material held inside the kernel are disabled.
+
+SECURITY_SAFESETID=Y
+
+ARM, ARM64, X86_32, X86_64
+
+5.1-5.17
+
+SafeSetID is an LSM module that gates the setid family of syscalls to restrict UID/GID transitions from a given UID/GID to only those approved by a system-wide whitelist. These restrictions also prohibit the given UIDs/GIDs from obtaining auxiliary privileges associated with CAP_SET{U/G}ID, such as allowing a user to set up user namespace UID mappings.
+
+SECURITY_LOADPIN=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.7-4.20, 5.0-5.17
+
+Any files read through the kernel file reading interface (kernel modules, firmware, kexec images, security policy) can be pinned to the first filesystem used for loading. When enabled, any files that come from other filesystems will be rejected. This is best used on systems without an initrd that have a root filesystem backed by a read-only device such as dm-verity or a CDROM.
+
+SECURITY_LOADPIN_ENFORCE=Y
+
+ARM, ARM64, X86_32, X86_64
+
+4.20, 5.0-5.17
+
+If selected, LoadPin will enforce pinning at boot. If not selected, it can be enabled at boot with the kernel parameter “loadpin.enforce=1”.
+
+System Architecture
+
+Many security features are architecture specific because of a specific hardware level reason (differing instruction set, caches, branch predictors, and more) or merely because they have not been implemented on a specific architecture. Looking at DEBUG_SET_MODULE_RONX, we find that it was a relatively recent addition for ARM and ARM64 architectures.
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+DEBUG_SET_MODULE_RONX=Y
+
+X86_32, X86_64
+
+2.6.38-2.6.39, 3.0-3.19, 4.0-4.10
+
+Helps catch unintended modifications to loadable kernel module’s text and read-only data. It also prevents execution of module data.
+
+DEBUG_SET_MODULE_RONX=Y
+
+ARM64
+
+3.18-3.19, 4.0-4.10
+
+↑
+
+DEBUG_SET_MODULE_RONX=Y
+
+ARM
+
+3.14-3.19, 4.0-4.10
+
+↑
+
+Looking at the Spectre and Meltdown variants, there are differing options depending on architecture as well:
+
+Expected Conditional
+
+Architectures
+
+Kernel Versions
+
+Note
+
+HARDEN_BRANCH_PREDICTOR=Y
+
+ARM, ARM64
+
+4.16-4.20, 5.0-5.17
+
+(Spectre related) Speculation attacks against some high-performance processors rely on being able to manipulate the branch predictor for a victim context by executing aliasing branches in the attacker context. Such attacks can be partially mitigated against by clearing internal branch predictor state and limiting the prediction logic in some situations.
+
+RETPOLINE=Y
+
+X86_32, X86_64
+
+4.15-4.20, 5.0-5.17
+
+Avoid speculative indirect branches in kernel (Spectre Mitigation)
+
+Timesys Kernel Hardening Analysis Tool
+
+This tool is available as part of the meta-vigishield layer, learn more about
+
+VigiShield here
+.
+
+This Yocto-based tool can perform some security-minded analysis of your kernel configuration. The tool generates a report that shows the status of many configuration items which we have assessed as being security related.
+
+The output from the Timesys Kernel Hardening Analysis Tool is formatted as a Comma Separated List (CSV). As an example, here are the first few lines from a sample report are:
+
+Detected Kernel Version: 5.0.19
+Detected Architecture: ARM
+Detected configuration at: /mnt/Projects/Yocto/build/tmp/work-shared/qemuarm-uboot/kernel
+Report Generated At: 2022-02-01 12:22:07.088485
+
+Expected Conditional
+
+Status
+
+   Priority
+
+Kernel Versions
+
+Category
+
+Note
+
+GCC_PLUGIN_RANDSTRUCT=Y
+
+FAILED
+
+3 (High)
+
+4.13-4.20, 5.0-5.17
+
+gcc_plugin
+
+Randomizes layout of sensitive kernel structures
+
+GCC_PLUGIN_ARM_SSP_PER_TASK=Y
+
+SKIPPED (Version mismatch)
+
+3 (High)
+
+5.2-5.17
+
+gcc_plugin
+
+Generates a separate stack canary value for each task, so if one task’s canary value is leaked it does not cause all other tasks to become vulnerable.
+
+GCC_PLUGIN_STRUCTLEAK=Y
+
+SKIPPED (Version mismatch)
+
+3 (High)
+
+5.2-5.17
+
+gcc_plugin
+
+This plugin is available to identify and zero-initialize stack variables that may have passed through uninitialized
+
+STACKPROTECTOR=Y
+
+PASSED
+
+3 (High)
+
+4.18-4.20, 5.0-5.17
+
+stack_canary
+
+This option turns on the “stack-protector” GCC feature. This feature puts, at the beginning of functions, a canary value on the stack just before the return address, and validates the value just before actually returning. Stack based buffer overflows (that need to overwrite this return address) now also overwrite the canary, which gets detected and the attack is then neutralized via a kernel panic.
+
+STACKPROTECTOR_STRONG=Y
+
+PASSED
+
+3 (High)
+
+4.18-4.20, 5.0-5.17
+
+stack_canary
+
+Adds the CONFIG_STACKPROTECTOR canary logic to additional conditions related to variable assignment.
+
+INIT_ON_ALLOC_DEFAULT_ON=Y
+
+SKIPPED (Version mismatch)
+
+3 (High)
+
+5.3-5.17
+
+memory_protection
+
+All page allocator and slab allocator memory will be zeroed when freed, eliminating many kinds of “uninitialized heap memory” flaws, especially heap content exposures.
+
+INIT_ON_FREE_DEFAULT_ON=Y
+
+SKIPPED (Version mismatch)
+
+3 (High)
+
+5.3-5.17
+
+memory_protection
+
+More expensive form of INIT_ON_ALLOC_DEFAULT_ON. The primary difference is that data lifetime in memory is reduced, as anything freed is wiped immediately, making live forensics or cold boot memory attacks unable to recover freed memory contents.
+
+STRICT_KERNEL_RWX=Y
+
+PASSED
+
+4.11-4.20, 5.0-5.17
+
+3 (High)
+
+memory_protection
+
+If this is set, kernel text and rodata memory will be made read-only, and non-text memory will be made non-executable. This provides protection against certain security exploits (e.g. executing the heap or modifying text)
+
+(MODULE_SIG_FORCE=Y) OR (MODULES=is not set)
+
+FAILED
+
+DESCRIPTION: MODULES
+
+FAILED
+
+1 (Low)
+
+2.5.45-2.5.75, 2.6.0-2.6.39, 3.0-3.19, 4.0-4.20, 5.0-5.17
+
+module_security
+
+You should not allow for modules to be loaded unless you have the proper signing and signature checks enabled. Allowing the kernel to load unsigned modules can be dangerous
+
+DESCRIPTION: MODULE_SIG_FORCE
+
+FAILED
+
+3 (High)
+
+3.7-3.19, 4.0-4.20, 5.0-5.17
+
+module_security
+
+Require modules to be validly signed
+
+In this case,
+
+GCC_PLUGIN_RANDSTRUCT
+
+was not enabled in the kernel configuration file, so the return status is, “
+FAILED.
+”
+
+GCC_PLUGIN_ARM_SSP_PER_TASK
+,
+
+GCC_PLUGIN_STRUCTLEAK
+,
+
+INIT_ON_ALLOC_DEFAULT_ON
+,
+
+STRICT_KERNEL_RWX
+, and
+
+INIT_ON_FREE_DEFAULT_ON
+
+are all options which were available after the 5.0.19 kernel version, so those have been skipped with a, “
+SKIPPED (Version mismatch)
+” message.
+
+The rest of the options were set appropriately and passed (
+STACKPROTECTOR
+
+and
+
+STACKPROTECTOR_STRONG
+).
+
+Modules are also enabled without any forced signature checking, so the OR conditional [
+(MODULE_SIG_FORCE=Y) OR (MODULES=is not set)
+] for that has also failed.
+
+Nathan Barrett-Morrison
+
+Subscribe Here!
+
+ Seize the Edge 
+
+ Lynx is evolving and our commitment to safety, security, and performance is stronger than ever. We are excited to embark on this next chapter with you. If you have any questions or want to learn more about this transition, we are here to help. 
+
+                Contact Us
+
+Related Blogs
+
+            View All
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

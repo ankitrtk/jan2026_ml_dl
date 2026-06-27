@@ -1,0 +1,403 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/intel-do-254-hw-certification-evidence-on-multicore
+
+Intel’s first DO-254 hardware certification evidence – it’s on a MultiCore
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Intel’s first DO-254 hardware certification evidence – it’s on a MultiCore
+
+ Tim Loveless | Principal Solutions Architect
+
+ : 
+
+                Dec 18, 2020 10:52:15 AM
+
+WELL DONE, INTEL
+®
+!
+
+Over the years I’ve read lots of datasheets. They can sometimes be heavy on marketing buzzwords and prone to sweeping statements that oversell their solutions and gloss over gaps. I read this new Solution Brief from Intel and it stopped me in my tracks. This is the best datasheet I have seen in years. This document lays out the flight safety evidence pack (FSEP) that Intel has created for their Denverton processor. They explain in plain language why the pack was created, for whom and the exact safety standard it applies to. For years Intel have closely guarded their intellectual property which has hampered the use of their processors in aviation. This FSEP overturns that reputation. But there is more: Intel goes further and targets this evidence pack at achieving safety certification of a multi-core processor. Multicore certification is the Holy Grail of the aviation safety industry—a goal everyone is working toward, but at the time of writing, remains unachieved.
+
+KEY ASPECTS OF THE BRIEF
+
+In this 
+Solution Brief
+, Intel describes the Flight Safety Evidence Pack (FSEP) they have created to assist aerospace suppliers achieve certification. The document, Airworthiness Enablement of Systems Using Intel
+®
+ Multi-Core Processors, is interesting for three reasons:
+
+It is the first time Intel has created safety evidence for avionics systems. That is, systems certified by the 
+Federal Aviation Administration
+ (FAA) and 
+European Union Aviation Safety Agency
+ (EASA) that require DO-254 artifacts for complex electronic hardware and DO-178 artifacts for complex software. Intel processors have been used in functional safety applications for years, systems that have attained certification to IEC 61508 and ISO 26262 standards for industrial and automotive safety. The difference is that the DO-254 avionics safety standard is 
+more stringent
+ necessitating Intel engage an FAA Designated Engineering Representative (DER) to map IEC61508 and ISO 26262 onto DO-254 to find the gaps.
+
+The FSEP is for a multi-core processor. This is significant because as yet, no multicore safety critical avionics systems exist. Multicore processors expose interference channels present in the hardware that, if not robustly mitigated, are catastrophic for safety-critical real-time systems. The 
+challenge of safety certifying multicore
+ systems is well known in the avionics community. Intel’s FSEP covers shared resource management to address CAST-32A multicore certification requirements. It also includes hardware reliability, single event effect (SEE), failure mode (FMEDA) and proven in use data.
+
+The Solution Brief is specific about the project the FSEP was created for. It describes that the artifacts were created for use by Lockheed Martin for their certification of the Intel Atom C3708 (Denverton) multicore processor onboard the F-35 fighter aircraft. It describes the entire solution stack, including our very own LYNX MOSA.ic for Avionics software platform, used to meet DO-178C certification. Lynx provides:
+
+FAA 
+AC 20-148
+ Reusable Software Component (RSC) certified real-time operating system (RTOS)
+
+DO-178C DAL A RTOS and network stack certification evidence
+
+Intel-specific CAST-32A multi-core certification support
+
+The Lynx software solution supports open standards and APIs (FACE, POSIX), an IPv6 network stack, filesystem and support for Intel virtualization, multi-core, 
+cache partitioning
+, and 
+SR-IOV
+.
+
+LEARN MORE
+
+Learn more about the 
+LYNX MOSA.ic™ development and integration framework
+ and about how LYNX MOSA.ic uniquely 
+leverages Intel processors
+. You can also visit our 
+Learning Center
+ to discover how LYNX MOSA.ic is uniquely suited to deliver the benefits of the Modular Open Systems Approach (MOSA) 
+for defense systems
+. 
+
+Your Next Project
+
+Lynx has over 30 years’ experience in helping customers across avionics, automotive, and industrial markets to most efficiently realize their complex safety- and security-critical embedded software systems. To learn more about how to leverage the right virtualization and RTOS technology for your project, please direct your inquiries to 
+inside@lynx.com
+ or fill out the form after clicking the Get Started button below, and a representative will reach out to you within 1-2 business days. 
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

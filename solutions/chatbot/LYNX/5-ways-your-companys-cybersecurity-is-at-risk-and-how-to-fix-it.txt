@@ -1,0 +1,399 @@
+URL: https://www.lynx.com/executive-blog/5-ways-your-companys-cybersecurity-is-at-risk-and-how-to-fix-it
+
+5 Ways Your Company’s Cybersecurity is at Risk and How to Fix It
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            4 min read
+
+5 Ways Your Company’s Cybersecurity is at Risk and How to Fix It
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Mar 10, 2021 7:24:40 AM
+
+Mindful Musings Blog
+
+Security
+
+endpoints
+
+LynxSecure
+
+Lynx Software recently issued a survey (link to the PR) that found that 36% of Americans have either been impacted themselves or known someone that has been impacted by a cybersecurity attack since the start of COVID-19. The findings indicated several reasons these attacks may be so successful, including the fact that less than half (49%) of respondents said their organization’s cybersecurity has strengthened since the start of the pandemic. With some organizations not taking cybersecurity seriously enough—as well as employee IT behavior leading to increased threat exposure—we have outlined five ways employee and company cybersecurity could be at risk and how these can be fixed throughout and post-pandemic.
+
+Increased cyberattacks during COVID-19
+
+Lynx Software recently issued a survey (link to the PR) that found that 36% of Americans have either been impacted themselves or known someone that has been impacted by a cybersecurity attack since the start of COVID-19. The findings indicated several reasons these attacks may be so successful, including the fact that less than half (49%) of respondents said their organization’s cybersecurity has strengthened since the start of the pandemic. With some organizations not taking cybersecurity seriously enough—as well as employee IT behavior leading to increased threat exposure—we have outlined five ways employee and company cybersecurity could be at risk and how these can be fixed throughout and post-pandemic.
+
+1. Educate employees on risks of using personal devices 
+
+The survey results indicated that 76% of respondents use a personal device for work at least some of the time. These devices run the risk of being much less secure than those issued and managed by a workplace, giving cyber criminals an easier way to attack employee and company data. In fact, in the first few months of the pandemic, the number of phishing attacks targeting smartphones
+ rose more than a third
+. According to the survey, three in ten respondents would not know what actions to take if they sense their device has been attacked. Start by educating employees about the risk that comes with using their personal devices to access corporate networks and signs that indicate they might be a phishing or hacking victim.
+
+2. If you use cloud-based services, make sure they are secure
+
+Three in four respondents shared that they use cloud-based services to store and edit their documents. While this option is popular and can be very efficient for teams to work collaboratively, a breach could give hackers access to personal and business files. Implementing security features to protect fundamental system integrity, data authenticity, and data privacy properties is critical. 
+
+3. Consider safer ways for employees to move files
+
+USB drives are often chosen for transferring items within the workforce as 60% of respondents said they use one to move work files. USB (thumb drives) are risky, as they open organizations up to cybersecurity threats as the drives can also transfer malware, giving large-scale attacks an entryway. Also, the fact that it is a physical item that can be carried around makes it easily lost or stolen.
+ Many companies
+ have taken the approach of completely disabling the insertion of USB devices. Determine how widespread this practice is among your employees and then make any policy clearly known. This is an important step as 48% of respondents are not aware of their company implementing strict IT security policies. 
+
+4. Offer training sessions so employees can do their part in securing networks
+
+The survey findings illustrated that 22% of respondents are not sure if they are able to switch off their Virtual Private Network (VPN) and 22% know they aren’t able to. Since being sent to work from home at the start of the pandemic,
+ many employees have been using a VPN to reach their organization’s resources
+. Make sure employees are aware of whether they are using the corporate VPN or a consumer one through a training session will help them help the organization steer clear of attacks. In fact, 50% of respondents said they would like training sessions around topics such as this.
+
+5. Issue policies around work device expectations
+
+65% of respondents said their company allows them to use their work computer for accessing personal services, but 60% said their company has not prohibited the use of certain apps and tools that do not meet high security standards. Considering the threats to your organizations’ devices from employee use of corporate devices for personal services, align on how this can be accomplished securely and let employees know what is being done as 51% said organizations can make them more aware of the actions being taken against cybersecurity risks by sharing policies.
+
+Since 70% of people surveyed still expect to be working from home at least part time even once vaccinations have been more widely rolled out and office returns are underway, it is crucial that organizations make cybersecurity a priority beyond COVID-19. 
+
+Prioritizing cybersecurity – the secure laptop solution
+
+Don’t know where to start on the actions listed above? To help organizations keep their most critical systems safe, Lynx Software securely partitions work and personal use applications from each other. Lynx is working with providers of laptops to raise the bar for immunity from these hackers. Our approach is founded on the belief that there are two key fundamental properties with are essential for foundational security:
+
+Separation - Separating security functions into different domains and controlling the flow of information between those domains ensures confidentiality
+
+Information-flow control - Integrity for security-sensitive use cases.
+
+Care must also be taken to virtualize different operating environments. These foundational properties create a secure laptop configuration that provides:
+
+Isolation of the Windows environment for the user
+
+A separate domain for protecting data in transit with two VPNs
+
+A separate domain for protecting data at rest
+
+An isolated management domain to allow for secure updates
+
+Neither of those domains that are fundamental to ensuring data security are accessible to the user or directly on the network. Effectively, this extends the company firewall to the place where you are working, be that a house, a coffee shop, or (yes) an airplane. Corporate IT policies are delivered and managed on a per-laptop basis wherever those assets are located. Click below to learn more about how Lynx can help protect your organization’s critical applications.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

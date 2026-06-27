@@ -1,0 +1,276 @@
+URL: https://www.lynx.com/partners/ldra
+
+Partners | LDRA
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+LYNX & LDRA
+
+LYNX & LDRA
+
+WHAT WE'RE DOING TOGETHER
+
+There have been two main threads around our partnership with LDRA:
+
+Structural coverage analysis, also known as code coverage analysis, measures the extent to which software code has been exercised under specific test conditions. It generally refers to source code but can also reference object code verification. Several tier 1 customers creating complex mission-critical platforms need this code coverage analysis.
+From its formation, Lynx has been a believer in open standards. LDRA is a verification authority that supports the Future Airborne Capability Environment (FACE). They act as an independent 3rd party to validate that Lynx’s LynxOS-178 software is truly conformant to this standard. This reduces vendor lock-in for OEMs as they can preserve their investment in software for reuse on new systems. It also drives innovation inside the ecosystem as companies must continue to evolve to win a customer’s business.
+
+Add a headline.
+
+Lorem ipsum dolor amet food truck affogato cronut freegan skateboard photo booth, tousled pickled 90's wayfarers retro succulents hoodie edison bulb ramps. XOXO seitan tote bag, offal vape air plant disrupt chia plaid taxidermy cloud bread microdosing 8-bit. 
+
+MATERIALS
+
+PRESS RELEASES
+LDRA AND LYNX TO DELIVER VERIFICATION AND CERTIFICATION ENVIRONMENT FOR 2ND GENERATION IMA
+LYNX TEAMS WITH LDRA TO VALIDATE CONFORMANCE WITH NEWEST FACE TECHNICAL STANDARD 
+
+ADDITIONAL MATERIALS
+
+CONTACT US
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

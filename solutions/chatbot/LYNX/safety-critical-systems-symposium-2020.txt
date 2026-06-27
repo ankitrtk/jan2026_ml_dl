@@ -1,0 +1,451 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/safety-critical-systems-symposium-2020
+
+Field Notes: Safety-Critical Systems Symposium 2020
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Field Notes: Safety-Critical Systems Symposium 2020
+
+ Tim Loveless | Principal Solutions Architect
+
+ : 
+
+                Feb 24, 2020 12:34:50 PM
+
+Multi-core
+
+Avionics
+
+Demo
+
+Cache-partitioning
+
+Lynx MOSA.ic™
+
+Events
+
+FAA
+
+Safety
+
+TC-16/51
+
+CAST-32A
+
+Certification
+
+MCP
+
+Systems Architecture
+
+Cache Allocation Technology
+
+embedded systems
+
+hardware
+
+development
+
+Technical Blog
+
+Standards
+
+_______________
+
+Lynx exhibited at the 28
+th
+ annual 
+Safety-Critical Systems Symposium 
+on February 11
+th
+ to 13
+th
+ 2020 in York, United Kingdom. The SSS is hosted by the UK 
+Safety-Critical Systems Club
+, a not-for-profit organization whose mission is to raise awareness and facilitate technology transfer in the field of safety-critical systems.
+
+At the symposium, Lynx demonstrated the 
+cache allocation technology
+ capabilities of LYNX 
+MOSA.ic™
+ on a multicore Intel Xeon D-1541 processor and 
+ENSCO’s IData certifiable cockpit display
+ running on 
+LynxOS-178
+®
+.
+
+Presentation highlights included:
+
+Dewi Daniels’s Keynote: 
+The 737 Max Accidents
+
+Emma Arina Taylor’s: 
+Safety in Space: A Changing Picture?
+
+James Sharp’s: 
+A Practical Assurance Approach for Multi-Cores (MCs) Within Safety-Critical Software Applications
+
+The 737 Max Accidents
+
+Dewi Daniels presented a detailed analysis of the 2 tragic crashes in 2018 and 2019 that grounded the 737 MAX fleet to this day (Feb 2020). The presentation looked at the facts in order to debunk myths surrounding the causes of the accidents. Dewi’s opinion is that the accidents were not caused by lack of FAA oversight, lack of pilot training, nor engineering outsourcing inside Boeing; instead, the causes lie with a failure of system safety engineering and a failure of requirements engineering.  Specifically, the lack of redundant angle-of-attack sensors for the 
+MCAS
+ system, and incorrect classification of MCAS as DO-178C DAL-C rather than higher.
+
+Safety in Space: A Changing Picture?
+
+Emma Arina Taylor from the 
+Safety and Reliability Society 
+ (SaRS) began with a description of the risk of space debris to satellites, both the physical damage it can do and the fuel impact of maneuvering to avoid it. She continued with the lesser-known topic of radio frequency regulation in space. As on Earth, radio spectrum is a finite resource in space, but in space, radio is critical for controlling spaceships and satellites moving at high speeds—and potentially unrecoverable from a missed or late command. Emma continued to discuss the space insurance market. The cost of space insurance is acceptable at present, largely because there have been few significant claims. With large space investments such as SpaceX’s Starlink 12,000 satellite constellation being launched the value of assets in orbit is rising fast, but so too is the risk of an accident.
+
+A Practical Assurance Approach for Multi-Cores (MCs) Within Safety-Critical Software Applications
+
+James Sharp from 
+DSTL
+
+described the problems of achieving a multi-core certification including issues such as multi-core interference in shared resources, such as L3 cache, causing problems with WCET (worst case execution time). 
+DSTL’s work on multi-core safety certification predates both CAST-32 and 
+CAST-32A 
+(
+i
+.
+e
+.,
+ is older than 2014
+)
+, but DSTL agree 100% with CAST-32A. 
+Also described in the presentation were the problems of getting information from your real-time operating system (RTOS) vendor about the internals of their hypervisor, and from your silicon vendor on the internals of your multi-core processor. Multi-core hardware is a problem because in the past with the lack of 
+DO-254
+ evidence for the chips, a proven in use argument has been used, but DSTL suspects this won't work for multi-core processor 
+hardware
+. Worse, they worry that with the detailed micro-architectural problems being discovered now, some existing single-core certifications might have to be revisited.
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

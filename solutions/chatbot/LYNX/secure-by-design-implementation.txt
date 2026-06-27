@@ -1,0 +1,1039 @@
+URL: https://www.lynx.com/solutions/secure-by-design-implementation
+
+VigiShield Secure by Design
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+Home
+
+Solutions
+
+Secure by design implementation
+
+ VigiShield Secure by Design 
+
+Security Feature Implementation for Embedded Linux
+
+Build a production-ready security foundation into your embedded Linux platform without trying to stitch secure boot, hardening, storage protection, and update security together one control at a time.
+VigiShield helps device teams implement the core security capabilities most embedded products need inside the Yocto BSP for the target platform, then extend that foundation where the platform, compliance, or deployment model demands more.
+
+            Start the Conversation
+
+            Take the Security and Compliance Gap Self-Assessment
+
+Security Simplified
+
+Need help implementing internal cybersecurity requirements or meeting industry standards?
+
+Looking to collaborate with security experts to bring in best-in-class technologies to secure your devices?
+
+With VigiShield Secure by Design, we’ve distilled the security feature implementation process down into an easy-to-understand security layer that can be configured to meet your current customer and regulatory (e.g. NISTIR 8259A and ETSI EN 303) requirements.
+
+VigiShield leverages widely used open source technologies, enables underlying hardware capabilities for best performance, and implements the security best practices recommended by regulatory and industry-specific bodies (FDA, IEC, etc).
+
+With security built-in using VigiShield, device manufacturers can focus more on innovation during the product development process and get to market faster.
+
+Requirement
+
+VigiShield Secure by Design*
+
+ETSI EN 303 645
+
+NIST 8259A
+
+SB-327
+
+Authentication/Password
+
+x
+
+x
+
+x
+
+x
+
+Configuration
+
+x
+
+x
+
+Crypto
+
+x
+
+x
+
+x
+
+Hardening
+
+x
+
+x
+
+x
+
+Logging
+
+x
+
+x
+
+Secure Storage
+
+x
+
+x
+
+x
+
+Update
+
+x
+
+x
+
+x
+
+Take advantage of our purpose-built vulnerability management tool, Vigiles.
+For more than 20 years, Timesys has been the industry’s trusted partner for secure embedded software design and development. We provide device makers and system developers with tools and services to accelerate time to market of more secure products.
+
+VigiShield Security Features
+
+Prevent Firmware Tampering
+
+Secure Boot / Chain of Trust
+
+Ensure your device is not running tampered software by verifying its authenticity before execution. Establish software authenticity all the way from the bootloader to user applications by implementing:
+
+Verified bootloader (NXP i.MX / QorIQ, Qualcomm Snapdragon, TI Sitara, Atmel SAMA5, Xilinx Zynq, NVIDIA® Jetson™, STM32MP1, Intel® x86 and Atom™, etc.) integrated with Yocto, Buildroot and more
+
+Linux kernel verification (FIT image, SoC specific mechanisms)
+
+Root filesystem verification (dm-verity, FIT image)
+
+Keep Your IP and User Information Safe
+
+Device Encryption and Secure Storage
+
+You can protect IP and sensitive user information by encrypting data/software. It is also critical to protect the key used for encryption using a secure storage mechanism. Additionally, software that handles confidential data should run from within a hardware/software-isolated environment. We provide:
+
+Anti-cloning (IP and Data Protection)
+
+Key management and secure key storage
+
+Data protection using encryption — In use, in motion, and at rest
+
+Trusted Platform Module (TPM)
+
+Device identity and authentication
+
+Keep Your Updates Safe
+
+Secure Software Updates
+
+Our solution provides a mechanism to update/deploy software securely and deny unauthorized software installs. We provide:
+
+Over-the-air (OTA) updates of the software on your embedded system
+
+Package updates
+
+Full OS updates
+
+Signing of packages and images
+
+Server authentication
+
+Prevention of unauthorized rollback
+
+ Secure Communication 
+
+Keep Your Data In Transit Secure
+
+Ensure the connection from the device to the cloud and/or any external devices is protected. VigiShield secures device communication:
+
+Authenticated and encrypted connections
+
+Protection of device certificates/keys
+
+Use best-in-class ciphers
+
+ Security Audit Logs 
+
+Keep A Paper Trail
+
+Record any runtime security violations/breaches on the target system. VigiShield has:
+
+Encrypted audit logs with user authentication
+
+Customizable policies for recording security incidents
+
+Lock It Down
+
+Hardening
+
+Our Linux kernel hardening service focuses on system configurations needed to reduce your product’s attack surface, decrease risk of compromise, and minimize breach impacts including:
+
+Access and authorization
+
+Vulnerabilities
+
+Logging of all user access
+
+Logging of access level changes by any program
+
+Disabling unused services and ports
+
+Addressing issues from penetration testing reports
+
+Security-oriented configurations for packages and kernel
+
+Know Where Your Software Comes From and Stay Resilient
+
+Software Supply Chain Security
+
+VigiShield Secure by Design helps you gain visibility into your software supply chain and secure it by:
+
+Choosing the right open source software
+
+Implementing end-to-end framework for supply chain integrity
+
+End-to end-review of system security
+
+SBOM and vulnerability report
+
+ Cases 
+
+ Medical Device Manufacturer Secures Autoclaves with VigiShield 
+
+A leading medical device manufacturer improved the security of their connected autoclave products using VigiShield. Faced with the challenge of protecting proprietary software and preventing unauthorized code from running on their devices, they turned to VigiShield to enhance product security while streamlining development.
+
+VigiShield helped implement a comprehensive security solution, beginning with a robust chain of trust from the bootloader through to the applications within the Yocto build environment. The integration included signing the bootloader, securing kernel updates, disabling unnecessary access points, and applying file system integrity checks. The manufacturer also benefited from training and consulting services that ensured seamless integration of security features into their build process.
+
+The result was a significantly more secure product, with enhanced hardening techniques, encrypted key storage, and advanced counterfeit protection, all while maintaining a smooth development workflow.
+
+ Cases 
+
+ Energy Supply and Automation Provider Secures Product Line with VigiShield 
+
+A leading energy supply and automation solutions provider turned to VigiShield to secure their new product line. Faced with the need to protect critical information and meet stringent customer security requirements, the company implemented VigiShield for robust encryption, software authentication, and secure updates.
+
+The company transitioned their build environment from Buildroot to Yocto, standardizing security across i.MX7 and i.MX6 platforms, focusing on custom i.MX7D design. VigiShield helped implement secure boot, encrypted file systems, and safeguarded communication channels, ensuring a strong chain of trust from the bootloader to the root file system. Additionally, key management and verification processes were established using PKCS11-based access and secure signature verification through trust zones. VigiShield also streamlined the update process with A/B partitioning and fallback mechanisms.
+
+With VigiShield, the company successfully deployed a fully audited, secure solution that met all customer requirements and passed a third-party security audit with only minor enhancements. The transition improved product security and maintainability, positioning the company to scale future developments with confidence.
+
+ Cases 
+
+ Defense Electronics Manufacturer Enhances Security with VigiShield 
+
+major defense electronics manufacturer partnered with Timesys to strengthen security in their Linux-based solutions. With limited in-house security expertise, the company relied on VigiShield to implement robust security measures and on Timesys to provide training to their development team.
+
+VigiShield established a secure boot process with a chain of trust extending to the root file system, leveraging Arm TrustZone and Secure OS for added protection. The solution also included OS hardening, encrypted partitions for secure data storage, and key management through CAAM and OP-TEE to prevent cloning and ensure data integrity. Timesys provided comprehensive training, equipping the team to effectively implement these features and maintain security standards moving forward.
+
+The project successfully met all critical security requirements, helping the manufacturer transition from theory to practice while preparing them for future challenges. Timesys delivered a secure, scalable solution, empowering the team with the knowledge and tools to manage security independently.
+
+ Cases 
+
+ EV Charger Manufacturer Enhances Security with VigiShield 
+
+An EV charger manufacturer leveraged VigiShield to secure its public charging stations, ensuring software authentication, user data privacy, and platform hardening. Faced with the challenge of maintaining update mechanisms while integrating new security features, the company turned to VigiShield for comprehensive solutions.
+
+VigiShield implemented secure bootloader authentication, full disk encryption, and secure storage mechanisms using TrustZone and OP-TEE. Additional platform hardening steps included disabling weak protocols and consoles, alongside collaboration with Texas Instruments to optimize the design and leverage undocumented features. Timesys also provided consulting on security integration and manufacturing training, ensuring a smooth and secure product rollout.
+
+As a result, the EV charger manufacturer successfully entered the market with a robust, secure platform that met high security and privacy standards, protecting user data and software integrity.
+
+ Cases 
+
+ Automotive Manufacturer Secures Autonomous Material Handling Devices with VigiShield 
+
+A leading automotive manufacturer relied on VigiShield to secure its autonomous material handling devices, enhancing the confidentiality of user data and proprietary software. With VigiShield’s support, the company implemented advanced security features, and received consulting and training to integrate these solutions into the Yocto build system.
+
+VigiShield helped set up High Assurance Boot (HAB), enabled TrustZone for secure operation, and provided key management strategies. The collaboration extended across multiple regions, resolving issues with OP-TEE and implementing security features such as FIT image creation and bootloader authentication. Timesys also delivered training for secure manufacturing processes, ensuring successful security integration.
+
+The result was a secure and reliable platform that protected data and software, meeting the manufacturer’s requirements, and ensuring smooth deployment in the field.
+
+ Cases 
+
+ Consumer Electronics Company Protects Intellectual Property with VigiShield 
+
+A consumer electronics company secured its innovative product with VigiShield’s anti-cloning solutions and long-term maintenance support. The company needed to protect five years of intellectual property while overcoming limited embedded security expertise within the development team.
+
+VigiShield provided an anti-cloning solution by implementing High Assurance Boot (HAB), encrypted filesystems, and tamper protection using MX6 tamper pins. The integration of security features into the Variscite MX6 SOM platform and firmware update mechanisms ensured that the product maintained robust protection throughout development. VigiShield also supported the company with USB and network update processes, including kernel image signature checks and dm-crypt RFS, and long-term maintenance to address ongoing challenges.
+
+With VigiShield’s expertise, the company successfully protected its intellectual property and achieved a secure product launch, overcoming technical challenges and safeguarding its innovative design.
+
+VigiShield Add-Ons
+
+Yocto/BSP and Security Customizations
+
+Apart from the standard PSA certified VigiShield offering, we provide customizations as part of our Professional Services which covers hardware enablement, Yocto customizations, custom security feature implementations, address issues from penetration testing reports, integration with device management / IoT cloud services, and more!
+
+Out-of-the-box Container Support
+
+Support legacy apps with outdated dependencies, improve productivity by decoupling app development from the platform development schedule, and improve portability and updatability with this container support add-on that ensures app containers can run on different hardware and OS platforms, and be updated without needing to update the base OS. This add-on additionally offers boot time and image size optimizations, pre-integrated docker runtime support in the base OS, tooling to integrate the container into Yocto image, and more.
+
+Security Training
+
+Whether you are new to security, looking for consultation to refine your security requirements or help integrating our solutions into your processes; we can help with our customized security training offerings.
+
+Trusted Applications for Secure OS
+
+For customers seeking enhanced security and key provisioning, we have expertise in implementing “trusted applications” that can be deployed on a secure OS (e.g: OP-TEE, Trusty, etc) running on a trusted execution environment. Ensure your keys are never exposed and vastly reduce the attack surface of your applications by provisioning keys and certificates into the PKCS#11 compatible keystore.
+
+Code-Signing Key Protection
+
+For an additional layer of security, this ready-to-use tooling ensures your keys are never exposed outside of Hardware Security Modules (HSMs) by storing the code signing key on HSMs and requiring the build system to request signing using a PKCS#11 interface. With this feature, you can unify your key management across all products, simplify and standardize your signing process, and ensure that your devices meet compliance standards such as FIPS 140-2, Level 3. This includes signature support for bootloader, fitImage, dm-verity, and firmware update bundles and can easily be integrated into your CI/CD DevSecOps.
+
+Secure manufacturing assistance
+
+We have expertise in developing the manufacturing tooling required for secure software programming and provisioning. We can help integrate your custom or 3rd party solutions for securely storing device certificates.
+
+Manufacturing Protection for i.MX8 and i.MX9
+
+To further help you securely build devices at contract manufacturing facilities and prevent counterfeit attempts, this VigiShield add-on enables you to detect unauthorized production, protect your IP at manufacturing facilities, verify your processors, and ensure SoC authenticity. On networked devices, you’ll be able to authenticate the device with a provisioning server using i.MX manufacturing protection keys. For non-networked devices, encrypt your secrets using i.MX manufacturing protection keys and bundle them with the production image.
+
+Long Term Linux OS security and maintenance
+
+Timesys Linux OS/BSP Maintenance subscription service provides long-term security updates and maintenance of your Linux OS. Using this service, device manufacturers can rely on timely security updates that can be deployed to devices in the field with the secure and robust OTA update mechanism included in VigiShield.
+
+System Security Audit and Review
+
+By performing a risk analysis, our audit services can help you determine what potential threats your system might encounter and what should be secured.
+
+VigiShield System Security Baseline
+
+PSA Certified
+
+NXP i.MX8
+
+ST STM32MP SoCs
+
+NXP i.MX6
+
+NXP QorIQ
+
+Xilinx Zynq, Ultrascale+
+
+NVIDIA Jetson
+
+Qualcomm Snapdragon
+
+TI Sitara AM6xx
+
+Microchip/Atmel SAMA5
+
+Intel x86 and Atom
+
+Reduce the attack surface of your device
+
+Improve the security posture of your device by auditing, hardening, optimizing your software footprint, and implementing secure boot and chain of trust.
+
+Avoid production delays by securing your software supply chain
+
+Avoid the rework and cost overruns that come with deploying security too late in design. Leverage detailed SBOMs and an end-to-end framework to ensure the integrity of your software supply chain.
+
+SEE THE SOLUTION YOU NEED?
+
+Start the Conversation
+
+Stop worrying about how you are going to find the engineering time and in-house expertise to give your product the professional architecture and security attention it needs.
+
+Schedule a Conversation Today
+
+Learn More About MOSA.ic
+
+            Explore insights and innovations to help you Seize the Edge
+
+BLOG
+
+Consolidation Without Compromise: Mixed Criticality as a Property of the Architecture, Not a Checkbox In The Datasheet
+
+BLOG
+
+Why High-Assurance Systems Are Moving Toward Smaller Foundations
+
+BLOG
+
+The Edge Is Becoming Software-Defined: Why the Foundational Layer Is the Leverage Point For the Next Decade
+
+BLOG
+
+The Convergence Tax: The Hidden Cost of Consolidating Workloads Onto a Foundation That Was Not Built For It
+
+ Schedule a Demo for Your Use Case 
+
+ Detect, filter, triage, and remediate vulnerabilities with the industry’s first Software Composition Analysis and CVE monitoring tool targeted at embedded Linux. 
+
+                Schedule a Live Demo Now
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

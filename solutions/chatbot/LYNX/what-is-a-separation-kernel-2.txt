@@ -1,0 +1,679 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/what-is-a-separation-kernel
+
+What Is A Separation Kernel?
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            14 min read
+
+What Is A Separation Kernel?
+
+ Tim Loveless | Principal Solutions Architect
+
+ : 
+
+                Mar 22, 2020 12:02:33 PM
+
+Safety
+
+Certification
+
+MCP
+
+Least Privilege
+
+Systems Architecture
+
+Security
+
+Trusted Codebase
+
+architecture
+
+linux
+
+rtos
+
+embedded systems
+
+hardware
+
+vulnerabilities
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+_______________
+
+Having built both separation kernels and real-time operating systems—and supported customers using both across a wide range of industries—we are familiar with the pros and cons of each software technology, as well as their security, safety, reliability, and adaptability impact on complex system designs. Yet despite providing strong security and safety benefits and being the foundation of some of the world’s 
+largest mission-critical systems
+, separation kernels remain largely unknown and poorly understood. In this article, we hope to:
+
+Bring some clarity to the topic of separation kernels vs. real-time operating systems (RTOSes) and embedded hypervisors
+
+Discuss the benefits and drawbacks of using a separation kernel as the software foundation of your embedded systems design
+
+Introduce LynxSecure
+®
+, our own separation kernel
+
+SEPARATION KERNELS DEFINED
+
+A separation kernel is a special type of bare metal hypervisor that 
+only does separation
+. More specifically, it is a tiny piece of carefully crafted code (as small as 15kB) that utilizes modern hardware virtualization features to (1) define 
+fixed
+ virtual machines (VMs) and (2) control information flows.
+
+Separation kernels contain no device drivers, no user model, no shell access, and no dynamic memory; these ancillary tasks are all pushed up into guest software running in the VMs. This simple, elegant architecture results in a minimal implementation that—while less convenient for desktop use—is an excellent fit for embedded real-time and safety-critical systems. A separation kernel is much more than just a minimal hypervisor implementation, however.
+
+LEVERAGING MODERN HARDWARE
+
+Modern multi-core processors contain a rich set of resources. As well as multiple cores, they include peripherals, memory, and advanced virtualization features that enable them to be treated like a LEGO set of components for building configurations of virtual machines (VMs). Although heavily used in cloud data centers, these modern hardware technologies are often poorly supported by RTOSes and embedded hypervisors.
+
+Separation kernels can be used to partition processor hardware resources into high assurance VMs that are both tamper-proof and non-bypassable and to setup strictly controlled information flows between VMs and peripherals, so that VMs are isolated 
+except where explicitly allowed
+. Think of a separation kernel as a “processor partitioning system” that allows builders of embedded systems to unlock the benefits of modern full-featured multi-core processors.
+
+Figure 1: 2D + 3D views of RTOS vs separation kernel architecture
+
+DELIVERING the modular open systems approach (MOSA)
+
+Implemented properly, separation kernels:
+
+Simplify security and safety analyses
+
+Strengthen assurance properties
+
+Increase hardware control
+
+Unlock modular system design options unattainable from tradition operating system (OS) architectures
+
+Separation kernels allow the design principles of MOSA to be extended and efficiently enforced. With a separation kernel foundation, operating system (OS)-agnostic VM modules avoid vendor lock-in and support a wider spectrum of OS loads; from bare-metal, to RTOS, to enterprise OS. Design freedom and flexibility is enhanced, allowing a “Goldilocks” mix of 
+just enough RTOS
+ to be used. 
+In this sense, separation kernels promote choice by enabling more combinations of technology to fit together.
+
+Read: LYNX MOSA.ic™—Delivering the Modular Open Systems Approach (MOSA)
+
+History
+
+DESIGN AND VERIFICATION OF SECURE SYSTEMS
+
+The separation kernel concept was first described by John Rushby in his 1981 paper
+ Design and Verification of Secure Systems
+. Rushby writes:
+
+“...the task of a separation kernel is to create an environment which is indistinguishable from that provided by a physically distributed system: it must appear as if each regime is a separate, isolated machine and that information can only flow from one machine to another along known external communication lines.”
+
+Rushby’s idea is that separation is too important to be managed by the OS. The OS is large, complex, and responsible for many things, and thus extremely difficult to make “watertight” from a security perspective. He realized that the best way to build a secure computer system would be to factor out the management of separation from the OS into a new kind of kernel focused exclusively on separation. He called this new kernel a separation kernel. The separation kernel should be small and simple enough that it can be intimately examined and fully understood to the point of being formally proved to be correct. In 1982, Rushby went on to describe, in 
+Proof of Separability
+, how to use formal methods to mathematically verify the correctness of such a separation kernel.
+
+Separation kernel use-cases were initially secure workstations responsible for high security Government and 
+DoD
+ applications requiring separation of Top Secret, Secret, and Confidential information classifications. Embedded military network communications systems such as secure radio gateways followed, and more recently separation kernels have found application as a superior hypervisor in embedded systems and in safety-critical avionics systems seeking stronger separation to manage multi-core interference. Despite this, separation kernels have remained a niche concept only really acknowledged in the security industry.
+
+MILS, COMMON CRITERIA, & THE SKPP
+
+Multiple Independent Levels of Security (MILS) is a high-assurance security architecture intended to allow mixed security applications to be hosted on common computer hardware. The 
+Common Criteria for Information Technology Security Evaluation
+ (
+ISO/IEC 15408
+) is an International standard for IT products. Common Criteria defines security 
+evaluation assurance levels 
+(EALs) ranging from EAL1 (least secure) to EAL7 (most secure) to describe the security level achieved by Security Targets (components) being evaluated (tested) against a Protection Profile.
+
+For a few years beginning in 2007, the Common Criteria included a profile for separation kernels called the 
+Separation Kernel Protection Profile
+ (SKPP) that real-time operating system (RTOS) providers such as Lynx, 
+Wind River Systems
+, and 
+Green Hills Software
+ built products toward. Despite being a robust concept, the SKPP was unfortunately 
+sunset
+ in 2011 by 
+NIAP
+ after problems with the first evaluation. The Common Criteria remains a useful standard, but no further SKPP evaluations will be accepted, and the SKPP is effectively dead. Instead, NIAP is directly supporting the certification and accreditation process for critical systems. 
+NIST
+ Special Publication 800-53, “
+Security and Privacy Controls for Federal Information Systems and Organizations
+” is a more general security approach that partly fills the SKPP gap.
+
+Without a standard to measure the security robustness of separation kernels, MILS has more or less failed. The world is a less secure place without a standard like the SKPP, unfortunately, and any virtualization implementation can claim to be secure or to be a separation kernel.
+
+Separation kernels vs. RTOS-based hypervisors
+
+TERMINOLOGY
+
+Type-1 hypervisors are more desirable than Type-2 because they are smaller, faster, and more secure. So, if you are hosted on anything less than a general-purpose OS (like Windows), it is advantageous to call yourself Type-1. The term has been over-used, however, such that anything hosted on less than a GUI-less enterprise Linux is described as Type-1. As we shall see, a separation kernel—as described by John Rushby—is even smaller and more secure than other hypervisors.
+
+Separation kernels appear similar to traditional RTOS-based Type-1 hypervisors, and the terms are often conflated. Many OSes and RTOSes have been 
+extended
+ to make them into hypervisors and are described as either separation kernels, Type-1 hypervisors, bare-metal hypervisors, embedded hypervisors, or real-time hypervisors. In Lynx’s opinion, these are all 
+hosted
+ hypervisors, that is, Type-2 hypervisors. Even if the host-OS is a small RTOS it is 
+still an OS
+. Lynx believes that separation kernels are the only un-hosted, i.e., bare-metal, hypervisor implementation. This is an important distinction that RTOS vendors want to blur because it helps them sell more RTOSes and locks their RTOS deep into the foundation of your embedded system.
+
+Separation kernels have no business taking on ancillary RTOS functions. Even if those functions are really small (as they are in an RTOS), it is not their size that matters, but their complete absence, which makes a separation kernel clean, secure, robust, and RTOS-agnostic.
+
+COMMON HYPERVISOR ARCHITECTURE
+
+Just about all hypervisors follow a centralized open architecture. This includes “bare-metal,” Type-1, Type-2, “embedded,” and “real-time” hypervisors. They are centralized since they are built around a central “master OS” (or RTOS) that owns the hardware resources and manages VMs. They are open since they are able to host any OS in their VMs. In the embedded market, practically all hypervisors are RTOSes that have been extended into a hypervisor. Using such a hypervisor often means you are forced to take (at least a cut down version of) the vendor’s RTOS, even if all guests are exclusively open source.
+
+This is typically done for 3 reasons:
+
+It allows the hypervisor to pig
+gyback on the vendor's existing catalog of RTOS BSPs, mitigating the 
+cost of a BSP
+
+It is easier to create VMs from inside an RTOS that owns all CPU cores, all memory and all devices than it is to write a separation kernel
+
+Vendor RTOS toolchains (IDE and compiler) are often packaged with the hypervisor
+
+Figure 2: Common RTOS / hypervisor architectures
+
+RTOS-BASED HYPERVISORS
+
+Both RTOS-based hypervisors and separation kernels are based on the same hardware virtualization extensions, but there is substantially more code present in an RTOS hypervisor. It will contain device drivers, a dynamic memory heap, and shell access with a password to access a command interpreter for creating, viewing and starting VMs. The RTOS scheduler will be there, scheduling both tasks and VMs. You may also have a console multiplexer to get convenient access to VM guest consoles, and virtual network services to allow VMs to share a physical network interface card (NIC). This code is a security liability and is unacceptable in a separation kernel.
+
+The only code that is common with a separation kernel and an RTOS-based hypervisor is the code that configures the VMs. In a separation kernel, that job is done at boot time, and—for security reasons—the code is “thrown away” once the VMs are configured. This is why the separation kernel VM configuration is static—because the code to change it is purged after boot.
+
+All this extra code in an RTOS-based hypervisor is an attack surface that represents a security risk. It is code running at privileged hypervisor level that, if it goes wrong, has the power to break the system’s security. That code is also infeasibly large to formally prove correct. This ancillary code is valuable and provides useful features, but according to a separation kernel architecture it must not be in the hypervisor, but instead pushed up into guest VMs. The approach of having only the minimum code in a position of power is known as the 
+principle of least privilege
+. OS 
+microkernels
+ follow the same design pattern, that is, they push ancillary operating system components from kernel space into user space.
+
+DISTRIBUTED OPEN ARCHITECTURE
+
+Separation kernels promote a distributed, open systems architecture. It is distributed since there is no master RTOS that owns all the hardware resources. In other words, there is no “traffic cop” RTOS from which other software in the system must request CPU time, memory, and I/O device access via its APIs. Instead, a separation kernel is a set of handlers and a state machine that exposes a subset of the real CPU’s cores, memory, and devices as a VM to the guest OS.
+
+The system is distributed in the sense that the master RTOS is eliminated and the services it provides are distributed into VMs. Each VM is able to run the “Goldilocks” mix of 
+just enough RTOS
+ to get its job done and to suit the needs of your project, be they cost, safety, compatibility, determinism, security, reuse or longevity. A bare-metal VM could run a tight real-time control loop and be certified to high safety assurance, open-source modules such as
+ littlefs
+ and
+ mbedtls
+ (ssl) can be ported in and reused in other bare metal VMs, alongside VMs hosting entire open-source RTOSes such as
+ FreeRTOS
+ or 
+Micrium µC/OS
+. Any combination of such VMs can be combined into a system so that the one-size-fits-all compromise of choosing a single master RTOS is avoided. Your options are open, plentiful and more palatable than being locked into an RTOS.
+
+MODULAR SYSTEMS ARCHITECTURE
+
+With discipline, any software system can be built with a modular system architecture; that is, decomposed into components with well-defined interfaces and responsibilities. Good software is designed this way, but the problem is that only discipline keeps it that way. Programmers code the variables, the APIs, and the scope that creates the modular system architecture. Without discipline, they can just as easily create shortcuts, global variables, and side interfaces that bypass it. Such bypasses create surprises and hidden dependencies, that if allowed to build up over years, result in a system becoming unwieldy and unreliable.
+
+Instead of basing a modular design on processes within an RTOS, you can break out of the OS world and create auxiliary software modules as separation kernel VMs. Such VMs benefit from hardware enforcement of their interfaces. That is, the separation kernel defines what memory regions are accessible to the VM, which are read-only, which are read-write, and which are shared with other VMs. This definition is setup in the MMU by the separation kernel from privileged hypervisor mode and cannot be changed or bypassed by the VM. Peripherals such as serial ports, network interfaces, graphics, and storage devices are also allocated to VMs and access is enforced by the separation kernel using hardware (by programming the interrupt controller and the IOMMU). In this way a highly modular software system architecture can be built with efficient and robust enforcement of module boundaries.
+
+GENERIC VIRTUAL MACHINE BSPS
+
+Guest Operating Systems (GOSes) running inside VMs do still require board support packages (BSPs) to adapt them to the VM memory map and peripherals. But the separation kernel can play a neat trick and map the same minimal set of memory, a serial port and a virtual NIC to the same addresses so that a generic RTOS BSP can be reused for different target boards. This BSP is a working baseline that is more easily extended (versus starting from scratch) to support devices specific to a particular target board.
+
+HARDWARE RESOURCES
+
+A side effect of using a separation kernel is that you need to consider hardware resources more carefully. OSes try to abstract hardware away and make it appear infinite.
+ Virtual memory
+ gives the appearance of limitless RAM and
+ fork()
+ gives the appearance of limitless CPU resources, both important OS features to enable application portability on desktop and server computers.
+
+As a designer using a separation kernel, you must allocate hardware resources to VMs statically at boot time, and any sharing must be specially arranged. It is common to use 1 CPU core per VM and useful to have extra NICs and serial ports to get access to your VMs. Of course, 
+IPC 
+ between VMs as well as virtual devices and time slicing CPU cores are supported, but the point is that a separation kernel, well, separates things. This can be less convenient if you are used to everything being available within one RTOS’s global scope. Especially with embedded systems, hardware resources are invariably constrained. At Lynx we believe it is healthy for embedded engineers to be intimately aware of the limits of their hardware. Without such awareness it is all too easy to overburden the hardware.
+
+Read: Do You Need a Real-Time Operating System (RTOS)?
+
+GUEST OS OVERHEADS
+
+GOSes running in a separation kernel VM do not need to know they are virtualized. They have direct hardware control of their CPU core, their own MMU and their own peripherals. They can happily run in kernel mode and program their MMU as normal to setup their own user-space to run user processes. In sunny day operation there is no hypervisor overhead. This allows GOSes to be run unmodified, a tremendously powerful feature. Lynx has successfully run Windows 7, Windows 10, CentOS, Ubuntu and Android on LynxSecure. Any extra software needed by the GOS, like a BIOS, is put into the VM alongside the GOS. Embedded OSes such
+ FreeRTOS
+, ETAS
+ RTA-OS
+, BAE
+ STOP™ OS
+,
+ LynxOS-178®
+,
+ Buildroot
+ Linux,
+ Yocto
+ Linux, Xilinx
+ PetaLinux
+ also run on LynxSecure. This setup works surprisingly well, it turns out that OSs are content running on constrained hardware subsets.
+
+LYNX
+SECURE
+®
+
+INTRODUCTION
+
+LynxSecure®
+ is a separation kernel as described John Rusby in his 1981 paper 
+Design and Verification of Secure Systems
+. First released as a standalone product in 2006, LynxSecure® is a mature and widely deployed product developed by Lynx Software Technologies. Following initial deployments in high assurance Government applications, the product has been deployed in volume in mission-critical commercial and industrial applications, and across market sectors including automotive, avionics, industrial IoT, robotics, transportation, and UAV's. LynxSecure® has found application as a superior hypervisor in embedded systems and in safety-critical avionics systems seeking stronger separation to manage multicore interference. LynxSecure supports target systems running Intel x86, Arm and PowerPC. Lynx Software Technologies is under contract to safety certify LynxSecure® to 
+RTCA
+
+DO-178C
+ DAL-A. Lynx also offers a 
+NIST
+
+SP 800-53
+ security certification package for LynxSecure®.
+
+VIRTUALIZATION HARDWARE
+
+On Intel x86, the 
+LynxSecure®
+ separation kernel uses VT-x, EPT
+*
+, VT-d
+†
+ and
+ SR-IOV
+ to provide nested CPU control, nested MMU control, DMA isolation and nested DMA control. The hypervisor runs at Ring -1 (VT-x hypervisor mode) and constructs VMs by mapping memory, peripherals, interrupts and DMA to CPU cores. Using hardware to do the heavy lifting is efficient and elegant and results in LynxSecure being a tiny (45KB on x86) but carefully-crafted piece of hardware-intimate code. On startup, LynxSecure’s job is to configure its VMs and then get out of the way. In operation, all that is left are page tables to map guest physical addresses (GPA) into host physical addresses (HPA) and event handlers to redirect interrupts and handle guest hypercalls like reset or power down.
+
+The same hardware features used by LynxSecure (VT-x, EPT, VT-d and SR-IOV) are already heavily used for cloud computing in datacenters. In these systems large Linux-based software stacks such as
+ OpenStack
+ allow virtual machines running internet web servers to be dynamically spun-up and down to respond to changing internet traffic demand. Such systems have pools of virtual storage, compute and network resources that are stuck together in different proportions to create virtual machines
+ tailored
+ for different workloads. This is how the modern Internet “works”. Separation kernels use the exact same proven VT-x, EPT, VT-d and SR-IOV technology, but in an embedded way that configures the VMs at boot up and locks them until powered down.
+
+LYNXSECURE IN PRACTICE
+
+How do you work with LynxSecure in practice? What is the workflow to get your target, VMs and GOSes configured as you want them? Both are great questions, since using a separation kernel is a paradigm shift. You no longer just need a
+ board support package
+ (BSP) to give control of your hardware to a
+ RTOS
+. Instead, your separation kernel must run first.
+
+Setting up LynxSecure is a 2-step process:
+
+Utilize Lynx’s hardware discovery utility to retrieve the hardware catalog from the target. This is a bootable utility on x86, and read from the target board’s
+ device tree file
+ (DTF) on Arm and PowerPC
+
+Use our modeling language to define VMs by allocating resources from the catalog (cores, RAM, devices) and populate VMs with OS images
+
+Once these steps are complete, simply press a button and our tools compile everything into a special binary bootloader file that we call a system resource package (SRP). The SRP boots the target, programs VT-x, EPT
+*
+, VT-d
+†
+ and SR-IOV hardware to build your VMs, copies the OS images in, and runs them. To boot the SRP image, it should be put in the same place where a Linux kernel image would be placed (that is, on a USB stick or HDD for UEFI or syslinux booting, or copied into flash accessible by uboot, etc.).
+
+The “magic” happens in the LynxSecure tool that generates the SRP. This is a special generator tool that knows how to make a bootloader that, when run on the target, configures any valid combination of cores, RAM and devices you choose—into VMs. This tool does a lot of the initialization work normally done by an RTOS BSP. Conceptually it is a sort-of BSP-generator that is able to cope with any BSP configuration. The LynxSecure SRP tool knows about specific SoCs like the Xilinx Zynq UltraScale+, NXP S32V, LS1046A and T2080. Apart from Intel targets, which are largely compatible, supporting a new SoC is a heavy lift for us.
+
+BUILDING SYSTEMS ON LYNXSECURE
+
+What are the practical implications of choosing LynxSecure for your project? Separation kernels rely on advanced virtualization hardware like VT-x, EPT
+*
+, VT-d
+†
+, and as such are only available on high-end CPUs built with hypervisors in mind. But, with Moore’s law on our side, plenty of embedded SoC options are available. On Arm, LynxSecure supports the Armv8-A architecture. Cores that use the Armv8-A include the Cortex-A53 and Cortex-A72 as used by
+ Xilinx
+,
+ NXP
+ and others. The PowerPC e6500 core from NXP also has advanced virtualization hardware and is supported.
+
+SEPARATION KERNELS: AN OPEN SECRET
+
+Separation kernels open up a whole new world of design freedom and flexibility for projects. They provide an important opportunity to make a large impact on the software architecture of your embedded system. The concept is robust, public, mature and proven and yet surprisingly has remained largely untapped. The separation kernel is especially relevant today since it is a beautifully elegant fit for multi-core processors and for processors with advanced hardware virtualization features. With a separation kernel, such a full featured processor can be treated as a Lego set of components from which dozens of combinations of VM configurations are possible. The number VMs and the hardware each one owns can be customized to suit the desired system architecture. VMs can be treated as virtual boards to allow the coarse-grained consolidation of a handful of legacy RTOS-based applications, or you can go to town and define dozens of lightweight VMs connected into a long service chain, or any combination in between. Separation kernels enable these use-cases because they are more efficient than other hypervisors. They rely on hardware to do the heavy lifting and avoid imposing a helper-RTOS on their users. Their small footprint, low overheads and static configuration align well with the needs of embedded, real-time and safety-critical systems.
+
+With a separation kernel, MOSA design principles can be extended beyond application software to VMs and strengthened by enforcing interfaces to those VMs in hardware. Processor hardware resources can be robustly partitioned into almost zero overhead VMs populated with a mix of OSes, RTOSes and bare-metal applications from various vendors. Not only does this break vendor lock-in, but by supporting a wider range of software loads, from full Linux, to RTOSes, and bare-metal applications it allows the “Goldilocks” mix of 
+just enough RTOS
+ to be used.
+
+Mixed criticality safety systems can be constructed that minimize high 
+DAL
+ source lines of code (SLOC) counts to reduce certification costs. Multi-core safety systems can be built extremely minimal to mitigate interference problems, for example, with a VM configuration exclusively using bare-metal applications with no RTOS, no scheduler, no CPU core sharing and no i/o device sharing.
+
+In short, separation kernels enable choice. No vendor—Lynx included—can offer every option, nor does every combination of technology fit together. But what a separation kernel does is open doors and enable 
+more
+
+combinations
+ to fit together than before. As an embedded engineer this gives you more design choice. The choice to be more innovative and the opportunity to build a better product in your market in whatever dimension you choose—be it size, price, flexibility, features, maintainability, security, safety or performance. There are myriad design options, system architectures and software components at your disposal. Be sure to understand the full picture to avoid limiting your options unnecessarily. Don’t accidentally take a hypervisor if a separation kernel would have been better. Take your time, do your research, and keep your options open to find the best technology for your project.
+
+Read: How to Choose a Real-Time Operating System (RTOS)
+
+* Extended Page Tables
+† Equivalent hardware virtualization features are used on Arm (EL2 & SMMU) and PowerPC (E.HV).
+‡ Except for the separation kernel itself
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

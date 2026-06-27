@@ -1,0 +1,632 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/do-you-need-an-rtos-real-time-operating-system
+
+Do You Need a Real-Time Operating System?
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            9 min read
+
+Do You Need a Real-Time Operating System?
+
+ Chris Barlow | Technical Product Manager
+
+ : 
+
+                Nov 11, 2019 10:29:00 AM
+
+Multicore
+
+Systems Architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+_______________
+
+Do Real-Time Operating Systems (RTOSes) consistently provide the most effective platform for realizing your embedded software system design?  Most RTOS vendors seem to think so, frequently citing RTOS benefits while rarely discussing the disadvantages.  Too often, the question "Do You Need an RTOS?" is interpreted, 
+"Which RTOS Do You Need?"
+
+WHO ARE WE?
+
+Lynx Software Technologies has built and supported real-time operating systems (RTOSes) since 1988. We have witnessed hardware and embedded software technologies evolve and have supported our customers through the design, development, integration, certification, deployment, and support of software systems across mission-critical applications in 
+AVIONICS
+, 
+INDUSTRIAL
+, 
+AUTOMOTIVE
+, 
+UNMANNED SYSTEMS
+, 
+DEFENSE
+, 
+SECURE LAPTOPS
+, 
+CRITICAL INFRASTRUCTURE
+, and other markets.
+
+Lynx Software Technologies has 
+built and supported 
+real-time operating systems
+ for safety- and security-critical applications since 198
+8.  Year after year, however, we find that most of the benefits our customers are seeking from an RTOS are 
+not
+ exclusively RTOS benefits.  After all, not all applications need real-time features, nor do all elements in a system design need to be built with the same tools.
+
+More importantly, there are broad system-level benefits that RTOSes themselves cannot often provide, including 
+simplicity; greater openness; stronger partitioning; and more scalable determinism.  
+Therefore, while there are benefits to RTOSes, 
+the most straightforward answer to the question, “Do You Always Need an RTOS?” is “No.” In fact, when customers come to Lynx and say they want to buy one of our RTOSes, one of the first questions we ask them is: “Are you 
+sure?”
+
+HARDWARE ADVANCES HAVE CHANGED THE EMBEDDED LANDSCAPE
+
+Hardware virtualization
+—including 
+Intel's Virtualization Technology (VT-x and VT-d), 
+Armv8-A Virtualization Support
+, and 
+PowerPC's E.HV Functionality
+—has made its way down from high-end server class processors to low-power, low-cost chips, bringing with it fine-grained partitioning and timing control benefits well suited for embedded use.  These advances are important to understand because they have made certain operating system (OS) capabilities redundant.
+
+At its essence, hardware virtualization enables parallel arbitration of CPU resources, such that multiple software actors in a system can directly control portions of the CPU.  Prior to virtualization, it was the responsibility of an RTOS kernel to solely arbitrate CPU resources for maintaining platform integrity, but this is no longer the case.  When the fundamental responsibility of an RTOS is redundant to native hardware assisted capabilities, the hope is that RTOS vendors do the difficult work of adapting and evolving along with the hardware, as opposed to maintaining old RTOS designs.  Therefore, if vendors embrace hardware virtualization to support embedded real-time design goals—which we highly recommend—is it appropriate to call the platform software an RTOS?  We don't think so. 
+
+EVOLVING 
+WITH
+ THE HARDWARE
+
+New hardware capabilities present new approaches for platform software to minimize stack complexity, overcome performance thresholds, and provide better application portability properties.  The following architectural properties must be understood in order to discover whether you are missing out on substantial platform benefits that your RTOS does not have:
+
+The Benefits of Distributed vs. Centralized Design
+
+Heterogeneous Composition
+
+The Principle of Least Privilege
+
+Open Systems
+
+System Comprehensibility vs. Proprietary APIs
+
+DISTRIBUTED VS CENTRALIZED DESIGN
+
+Prior to virtualization, operating systems (OSes) forced a centralized Client-Server model of behavior, wherein each user application is a client to an OS server that arbitrates the use of physical resources (see Figure 1, below).
+
+Figure 1- Centralized Client Application-to-Server OS Behavior Model
+
+This model (above) is no longer necessary. With hardware arbitration, software development and runtime tools can now target distributed behavior models in place of the Client-Server model, where each application would runs autonomously against hardware.  The distributed model (below) immediately reduces the need to 
+context switch
+, copy, or share data—unlocking higher performance thresholds, better timing control, and improved modular properties such as rapid development & testing, component reuse, and design refactoring.
+
+Figure 2- Distributed Application-to-Hardware Behavior Model
+
+HETEROGENEOUS COMPOSITION
+
+Designing for reuse is an investment for future projects. Once you have succeeded in dividing your system into autonomous, distributed components, you then have more choices for building those components using different 
+tool chains.  While this may result in a more complicated development toolset, it can yield substantial savings when reusing mature, tested software components.
+
+Consider a design requiring legacy capabilities to be augmented. Rather than retro-fitting legacy components to include the desired capabilities, the most efficient approach is to reuse the functionality that is proven and to connect that functionality to the 
+required augmented components. 
+
+THE PRINCIPLE OF LEAST PRIVILEGE
+
+Least Privilege
+ architecture is a must for interconnected systems; not having it is like driving without a seat-belt.  At its essence, Least Privilege means that every piece of software running in your design should be operating with only the privileges required to perform its function.  Hardware virtualization makes least privilege architecture a much simpler goal to achieve than relying on a software kernel police application privilege.
+
+In the early days of 
+microkernel 
+architecture, applications, drivers, and the kernel were delicately split into separate contexts—forcing a complicated composition that needed to be carefully interconnected and scheduled to get decent performance.  With hardware virtualization, applications, drivers, and OS kernels do not need to be separated to limit CPU privilege escalation.
+
+For example, if an application that's only concerned with network communications, then it should not have access to the GPU, USB, serial ports, etc.  In the distributed model (above), you can ensure that each autonomous software component only has visibility of the resources it needs and—in contrast to the centralized operating system model—you can enforce this access control in hardware at boot time, preventing any component from granting new access rights at runtime.
+
+There are two main benefits to this approach:
+
+Without knowledge of a given resource, an OS won't dynamically load drivers that are not required for your use case, minimizing the code that's running on your system
+
+Removing the ability for any software to modify access rights at runtime is key to eliminating the possibility of attackers gaining privilege escalation and granting themselves new access rights
+
+In order to follow Least Privilege principles, it is imperative that you can trust that your platform tools do not grant any access rights to any resource; unless you, the developer, explicitly enable them.  (For an example of a Least Privilege Architecture implemented in an automotive design, explore the 
+Lynx Automotive Demo
+ shown at Arm TechCon 2019.)
+
+OPEN SYSTEMS
+
+The essence of “open” systems is low cost portability and component reuse.  Moving from a centralized to distributed system design removes a not-so-obvious technical barrier to achieving these goals.  In the centralized C
+lient-Server OS model, applications rely heavily on whatever happens "under the hood" within the operating system.  These underlying behavioral semantics can vary between versions of an OS API 
+implementation.  Even when API description versions are compatible with other 
+platforms, the resolution of semantics compatibility, 
+license cost, and work necessary to assemble the application on a new platform will most likely be cost-prohibitive.
+
+When applications are aligned with their dependencies as complete images, porting between platforms becomes much less of a technical challenge—
+a challenge that can very much benefit the vendor.  A distributed architecture can give customers greater freedom and flexibility for requesting and utilizing 
+integration tools for 3rd party compiled components
+.  Furthermore, 
+giving application developers the visibility and 
+control to build and manage their entire application dependencies 
+themselves 
+provides developers with greater freedom to filter out unnecessary complexity and an increased ability to define precise system execution behavior.
+
+SYSTEM COMPREHENSIBILITY VS PROPRIETARY APIS
+
+The effort required to follow software code and understand its function at the hardware level is known as 
+comprehensibility. 
+A primary concern of the centralized Client-Server model of the 
+RTOS is that  every task or application is forced to sit at the same level of abstraction (the system API).  This API hides the underlying complexities of the OS which could be 
+simple function calls into libraries (best case), or 
+numerous system calls and context switches (worst case).
+
+Figure 3- A typical system call in a 
+POSIX®-based RTOS
+ (
+showing the abstraction between an application function call and its implementation in kernel space)
+
+On the face of it, this added complexity could be seen as a worthwhile trade-off for a simplified API and added functionality.  However, in order to debug software and understand what is happening ‘under the hood’, the developer often needs to understand (and maintain) a complex web of system calls and context switches.
+
+For example, when writing to a device, the developer might not see any output. Investigating with an oscilloscope on the output pins displays nothing but a flat line.  The developer then must break out the debugger and start stepping through the code one line at a time.  The more layers of abstraction and indirection between that initial ‘write’ function call and the appropriate bits being set (or not!) in hardware registers, the harder it is going to be to track down the root cause of the problem, making the system less comprehensible and much more difficult to maintain.  (See our related articles to learn more about the 
+benefits of POSIX
+®
+).
+
+PARTITIONING—SIMPLER (AND MORE) IS BETTER
+
+Partitioning is the most important capability for maintaining platform integrity.  Safety RTOSes have touted the benefits of time and space partitioning for decades, but a closer look into implementations shows room for improvement in terms of complexity reduction and partitioning features.
+
+Simpler partitioning means stronger partitioning.  Completely removing responsibility of partitioning from an OS kernel (which uses both software and hardware) and instead using the hardware exclusively provides a greater strength of function and is a much simpler mechanism to verify for certification.
+
+More partitioning means stronger partitioning.  Looking closer, 
+RTOSes typically only partition task address spaces and create cyclic windows of execution time for tasks or task groups.  There is a wealth of partitioning features built into hardware virtualization that 
+RTOSes
+ often 
+ignore,
+ such as direct memory access (DMA) channel partitioning, 
+cache partitioning
+ using 
+cache allocation technology (CAT)
+, interrupt masking, instruction set 
+reservations,
+ etc.
+
+SCALABLE DETERMINISM
+
+The chief technical goal of an RTOS is to manage determinism, 
+which is primarily achieved with a scheduler.  
+Deterministic schedulers typically implement 
+priority-preemptive
+ or periodic tasking models.  Both approaches face significant technical challenges on modern multi-core microprocessors when orchestrating race conditions, coherency, resource contention, and 
+timer & asynchronous interrupts across all CPU cores.
+
+As CPU core and peripheral 
+counts increase, so 
+do disruption and software complexity.  
+The most obvious way to reign in determinism on multi-core systems is to simplify the environments that need deterministic behavior by isolating hardware interference.  
+Using 
+hardware-based
+ partitioning capabilities 
+allows
+ simple traditional scheduling techniques 
+to execute as expected.
+
+TRADITIONAL REASONS FOR USING AN RTOS
+
+Having built and supported RTOSes for more than 30 years, we see several common reasons that builders of embedded systems consider purchasing a commercial RTOS. Here are our responses to some of the most common questions we receive around RTOS recommendations:
+
+"I need real-time response..."
+
+So do you always need an RTOS?  No.  There are elegant ways to achieve the guarantees in your requirements that may not require the complexity of an RTOS.
+
+"I'm developing a certified system..."
+
+So do you always need an RTOS?  No.  Hybrid designs can be certified and supported with a 
+heterogeneous, multi-core safety- and security-partitioning framework. 
+
+"I need multi-tasking..."
+
+So do you always need an RTOS?  No.  If flexibility and control of task scheduling are important, then an RTOS may be a good choice, but it may be also overkill—a super-loop, interrupts, a simple scheduler, or Linux may be more appropriate.
+
+"I want my software to be portable to other platforms in future..."
+
+So do you always need an RTOS?  No.  While commercial RTOSes that support standard Application Programming Interfaces (APIs) such as POSIX
+®
+, ARINC 653 and FACE™ will certainly help, if you're only looking for the 
+benefits of POSIX
+®
+ support and you don't need real-time guarantees, then you might be better off with Linux.
+
+"Tool vendors advertise a host of software bundled with their solution..."
+
+So do you always need an RTOS?  No.  The benefits of bundled software really depend on the complexity of the software you want to leverage.  Something complex like a network stack (that's likely to do a lot of background work) might warrant an RTOS on a device that cannot run Linux, but otherwise it is best to first decide that an RTOS is the best choice for your project, 
+then
+ choose one that bundles the software you need.
+
+"I don't want to write hardware bootstrap code..."
+
+So do you always need an RTOS?  No.  There are other ways to 
+mitigate the cost and effort required to obtain a BSP
+.
+
+"I have legacy designs that I want to augment with new functionality..."
+
+So do you always need an RTOS?  No.  If you have legacy code built against a proprietary API, then it might not be worth the cost to port it to an RTOS with a standard API for the sake of future-proofing. The design can often be integrated as a bare-metal binary with a 
+heterogeneous, multi-core safety- and security-partitioning framework
+.
+
+"I want to be able to debug my application..."
+
+So do you always need an RTOS?  No.  Never use tool support as the reason for using an RTOS.  The tools are often included because the complexities of the RTOS require complex trace and debug tools; removing the RTOS simplifies the tools you need to understand the behavior of your software.
+
+DON'T ASSUME YOU NEED AN RTOS
+
+Not every embedded software system design requires a real-time operating system, and one of the biggest mistakes we see developers make is incorrectly assuming an RTOS is needed.  Too often, having 
+chosen a commercial RTOS
+, builders of embedded systems find themselves locked-in to a vendor's proprietary APIs while discovering that their design options have been constrained by a limited set of tools. Given that many of the benefits our customers get out of our RTOSes are not exclusively RTOS benefits, we always consult with them first, looking to minimize development cost, complexity, and design hazards.  Typically, the 
+most optimal 
+solutions end up being hybrid designs (for a comparison of two distinct designs for avionics systems, see the System A vs. System B portion of our 
+Avionics page
+).
+
+MEETING DESIGN GOALS WITHOUT AN RTOS
+
+Modern software systems can be modeled as simpler 
+compositions of distributed functions as opposed to a collection of client applications dependent on a monolithic server.  This allows you to build and describe your platform software 
+by a set of functions, rather than by a singular platform that assumes a superset of opaque functions.
+
+Our conversations with customers are typically less about comparing our products to other RTOSes and more about solving common design challenges such as:
+
+You have a perfectly good working system that runs on an RTOS that you would like to reuse, but you would like to add new security features that the RTOS does not support
+
+You need real-time scheduling for some tasks that were built on a general-purpose OS
+
+You have proprietary schedulers from microcontrollers you would like port to a microprocessor
+
+Your application design is so simple that moving to an RTOS would pose complexity overkill
+
+Your application is so bleeding edge that moving to an RTOS would require significant rework to meet comparable throughput goals seen on Linux
+
+Our advice in all of these situations is:
+
+Reuse as much as you can
+
+Simplify your design as much as possible
+
+Choose the most cost-effective components and tool chain for functional design gaps
+
+YOUR NEXT PROJECT
+
+Figure 3- LYNX MOSA.ic Modular Development Framework
+
+To learn more about how to efficiently realize modular, distributed software architectures, see the 
+LYNX MOSA.ic™ integration framework
+ or 
+Get Started
+ today and tell us about your project. We would be happy to schedule a whiteboarding session with you to discover the most optimal solutions to your challenges. 
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

@@ -1,0 +1,377 @@
+URL: https://www.lynx.com/executive-blog/unikernels-technology-full-of-promise-for-mission-critical-systems
+
+Unikernels; A Technology Full of Promise for Mission Critical Systems
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+Unikernels; A Technology Full of Promise for Mission Critical Systems
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Jun 6, 2022 9:00:00 AM
+
+"Mission Systems"
+
+software
+
+Virtual Machines
+
+unikernel
+
+mission-critical systems
+
+What is a Unikernel?
+
+Virtualization technology, whereby multiple operating systems can be run on shared hardware, is extremely well understood if somewhat inefficient in its use of resources. The original virtualization architecture system was based on the implementation of a number of virtual machines (VMs). Every VM has to run its own instance of an operating system, resulting in a duplication of responsibility. It is also hard to manage such an infrastructure as there are multiple servers which are all independent virtual machines.
+Containers, like Docker and Kubernetes, try to achieve the same concept as virtual machines but eliminate duplication of effort between machines. Instead of loading an entire operating system for an app, containers use the kernel of the host OS while allowing them to sideload app-specific libraries and programs. By adjusting the container and its image, it is possible to fine-tune the specific libraries and configuration your app will use. This results in performance gains without the overhead of running an entire OS.
+The container-based approach has its downsides. The software has to be adapted for usage in containers (containerized), and this can get tricky, especially with legacy codebases. Containers have many more configurations for resource allocation and interop capabilities, so it is quite easy to misconfigure them.
+The next logical step in the progression from VMs to containers is unikernels, which try to push the concepts of containers even further. Unikernels are effectively a set of pre-built binary libraries and do not handle resource allocation. A hypervisor handles direct hardware interoperation. All application-specific system calls are pushed as close to the app as possible. Lynx views unikernels as being able to deliver the security strengths of VM level partitioning with the speed and footprint size benefits attributed to containers.
+
+more on Unikernel technology & our focus
+
+Unikernels are not new. 
+This piece
+ written by Ericsson in 2016 illustrates the distinction between different architecture approaches. There are, however, several issues associated with unikernels which have limited their applications until now. These include:
+
+Debugging. Since a unikernel has no OS running whatsoever, the approach of directly connecting to its shell and investigating does not work
+
+Producing unikernel images is complicated and requires deep knowledge on the subject
+
+Current application frameworks have to adapt and produce documentation on usage in unikernels
+
+The lack of a safety certifiable/certified unikernel for mission critical applications
+
+To provide unikernel technology that is ready for deployment in mission critical applications, a number of areas need to be addressed:
+POSIX and ARINC Compliance
+The industry is shifting to the use of more modular software architectures which drive a need to align with popular APIs like POSIX (and, in the US market, driven by the US Army, the FACE standard)
+Size
+The larger an operating system is, the more time and cost associated with taking the technology through a certification process like DO-178. People use the Source Lines of Code (SLOC) number as an approximate measure of software complexity. For the most stringent versions of this standard, it takes an average of 2-4 hours to take a single line of source code through that process.
+Scheduling
+Several open source unikernels support a preemptive fair scheduling algorithm between tasks, meaning the processor is equally distributed among system users or groups. For mission critical systems, we see a need for non-preemptive scheduling, where the CPU is allocated to the process until it terminates or switches to the waiting state
+This is where our focuses lay and we are excited about announcing more details about our journey in this area very soon.
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

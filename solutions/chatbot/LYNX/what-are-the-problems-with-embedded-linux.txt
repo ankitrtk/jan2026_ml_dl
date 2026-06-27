@@ -1,0 +1,690 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/what-are-the-problems-with-embedded-linux
+
+What Are the Problems with Embedded Linux?
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            14 min read
+
+What Are the Problems with Embedded Linux?
+
+ Tim Loveless | Principal Solutions Architect
+
+ : 
+
+                Jan 13, 2020 10:24:00 AM
+
+linux
+
+embedded linux
+
+rtos
+
+embedded systems
+
+development
+
+_______________
+
+INTRODUCTION
+
+Linux is ubiquitous. It runs most internet servers, inside Android* smartphones, and is used on millions of embedded systems that, in the past, ran Real-Time Operating Systems (RTOSes). Linux can (and should) be used were possible for embedded projects, but while it gives you extreme choice, it also presents the risk of extreme complexity.
+
+All operating systems have benefits and drawbacks. What, then, are the trade-offs between embedded Linux and an RTOS? In this article, we cover some key considerations when evaluating Linux for a new development:
+
+Design your system architecture first
+
+What is Linux?
+
+Linux vs. RTOSes
+
+Free software is about liberty—not price
+
+How much does Embedded Linux cost?
+
+Why pay for Embedded Linux?
+
+Should you buy Embedded Linux or roll-your-own (RYO)?
+
+To fork or not to fork?
+
+Software patching
+
+Open source licensing
+
+Making an informed decision
+
+The important thing is not whether Linux or an RTOS is “the best,” but whether either operating system—or both together—makes the most technical and financial sense for your project. We hope this article helps you make an informed decision.
+
+WHO ARE WE?
+
+Lynx Software Technologies has built and supported real-time operating systems (RTOSes) since 1988. We have witnessed hardware and embedded software technologies evolve and have supported our customers through the design, development, integration, certification, deployment, and support of software systems across mission-critical applications in 
+AVIONICS
+, 
+INDUSTRIAL
+, 
+AUTOMOTIVE
+, 
+UNMANNED SYSTEMS
+, 
+DEFENSE
+, 
+SECURE LAPTOPS
+, 
+CRITICAL INFRASTRUCTURE
+, and other markets
+.
+
+DESIGN YOUR SYSTEM ARCHITECTURE FIRST
+
+It is important to design your system architecture first—before choosing either Linux or an RTOS—because both choices can limit architectural freedom.  You may discover that aspects of your design require neither Linux nor an RTOS, making your design a strong candidate for a heterogeneous approach that includes one or more bare-metal environments (with possibly a Linux and/or RTOS environment as well).  You can learn more about 
+heterogeneous design options
+ and 
+how to choose an RTOS
+ by visiting our 
+Learning Center
+.
+
+Questions to Ask
+
+When considering the software architecture for a new project, system architects need to ask themselves:
+
+Am I willing to bring in resources to support the operating system layer of the software stack?
+
+Are my areas of competitive differentiation, value add and core competency outside the operating system layer?
+
+Are there open source applications available that can help accelerate my time to market?
+
+Is it important to future proof this system (upgrade fielded systems)?
+
+Do I have to pick Linux or an RTOS? Is the right path to use both?
+
+These questions are important when considering the total cost of ownership (TCO) of a Linux-based project vs. an RTOS-based one. There is no right choice based on the technology, only an optimal TCO choice given the required functionality and your team’s engineering expertise.  If you answered yes to one or more of the questions above, then Linux could well be a great choice for you. This article discusses some of the key considerations to help you verify that path.
+
+LYNX KNOWS LINUX
+
+Lynx Software Technologies loves Linux, as do many of our customers. In 2000, we created our own commercial embedded Linux distribution—BlueCat Linux—and at one point renamed ourselves LynuxWorks. Today, both 
+Buildroot
+ Linux and our RTOS—
+LynxOS-178
+®
+—
+are part of 
+LYNX MOSA.ic™
+, our flagship product.
+
+LYNX MOSA.ic™ lets you build embedded systems by mixing embedded Linux, bare-metal, and real-time operating system (RTOS) environments (including competitive RTOSes) in order to balance open source software (OSS) functionality with real-time determinism. Lynx's decades of experience building embedded Linux and our RTOS puts us in a great position to offer impartial advice about both.
+
+WHAT IS LINUX?
+
+The 
+Linux kernel
+ is the
+ largest open source software project
+ in the history of computing, is immensely versatile and scalable, and has support for practically every device driver and protocol you can imagine. The term Linux is widely used incorrectly to mean a complete operating system, which should more correctly be called GNU/Linux. Linux is just the operating system kernel. While the kernel is an important component, it is only one component of hundreds needed to build a functional computer system—called a Linux distribution.
+
+GNU
+ stands for "GNU's Not UNIX" and is a separate project started in 1985 by 
+Richard Stallman
+ under the 
+Free Software Foundation
+ with the aim of restoring the co-operative spirit that prevailed in the early days (1970s) of computing. GNU set out to build a complete UNIX-like operating system unencumbered by the restrictive licensing terms wrapped around most software of the day. By 1991, GNU had completed every component except their kernel, the year that, fortuitously 
+Linus Torvalds
+ publicly released his Linux kernel.
+
+EMBEDDED LINUX VS RTOS
+
+Linux and RTOSes are, in many senses, polar opposites. Comparisons can be divisive, focusing on technical or philosophical differences that "prove" one is better than the other. That is not our aim here. While there are big technical differences, Linux's complexity, philosophy, and licensing properties are often overlooked and will have a profound impact on your embedded project, engineers and company. Planning and forethought are necessary to optimize your embedded project to utilize the strengths of both Linux and RTOSes and avoid nasty surprises. 
+
+Generalizations About RTOSes
+
+Many RTOS vendors will discuss the size benefits of RTOSes compared with Linux, but while size is one consideration, 
+smaller is not necessarily better
+. Every operating system is built to be as small as possible with the features necessary to satisfy its purpose. Instead of focusing on size, you should compare how much of your system’s complete functionality your RTOS or Linux can provide. While there will always be exceptions, in general, an RTOS will have:
+
+A tiny memory footprint, down to 200 KB
+
+Fast boot time, as fast as 100ms
+
+Deterministic behavior (predictability you can bet your life on)
+
+Modest range of middleware (about 50 items; USB, FS, SSL, SSH, IPv4, IPv6, SNMP, WiFi, web server, firewall, sound, graphics, CAN, etc).
+
+The crucial point is that your RTOS vendor coded the RTOS themselves, usually via their in-house engineering department. This work may have been done over many years (probably decades ago), but the price pays for engineers coding the RTOS. This includes adding features, fixing bugs, and supporting new hardware. This is a coding paradigm; if you need to extend the RTOS, plan on writing code.
+
+Generalizations About Embedded Linux
+
+Dozens of embedded Linux distributions are available; semiconductor vendors routinely bundle Linux with their reference design boards, and commercial embedded Linux is available from Wind River, Montavista, Mentor, and others. Distribution builder tools are also available to help you build and customize your own embedded Linux distribution, with 
+Buildroot
+ and 
+Yocto
+ being the most popular. 
+
+In general, embedded Linux will:
+
+Have a modest memory footprint (down to 5MB)
+
+Have a modest boot time (down to 2s)
+
+Not be deterministic (responsive enough for music and voice, but not safety critical applications)
+
+Include a generous range of middleware, 400-odd items
+
+The key point is that embedded Linux is assembled, not coded. Your distribution is built by integrating a few hundred community projects from a selection of 430,000†. This can be done "by hand" to create an RYO Linux distribution, by a commercial embedded Linux vendor, or by an open source framework like Buildroot or Yocto. When purchasing a commercial embedded Linux, the price pays to assemble, integrate, test, and maintain it. If you need to extend it, you will likely be integrating components rather than coding them.
+
+"FREE" SOFTWARE IS ABOUT LIBERTY—NOT PRICE
+
+Linux is freely available to download, but this is not why it is called "free". The term 
+free software 
+is carefully and deliberately defined by the Free Software Foundation to mean software that respects user and community rights. It means that the users have the freedom to run, copy, distribute, study, change and improve the software. You should think of “free” as in “free speech,” not as in “free beer”. 
+
+The Four Essential Freedoms
+
+"A program is free software if the program's users have the 
+four essential freedoms
+:
+
+The freedom to run the program as you wish, for any purpose (freedom 0).
+
+The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+
+The freedom to redistribute copies so you can help others (freedom 2).
+
+The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this."
+
+HOW MUCH DOES EMBEDDED LINUX COST?
+
+Both Linux and a handful of RTOSes are available at no cost, but that's where the similarity ends. RTOSes have a reputation for being expensive—let's say $100,000 per project—a cost that is well bounded and clear up front. Cost-wise, Linux can be deceptive. An embedded Linux system is more complex, more feature rich, and has more source lines of code (SLOC) than an RTOS-based system. Linux also has a vast community of projects of (generally but not always) high quality. Linux's large codebase (both within your system, and available from the community) means that Linux's complexity is almost unbounded.
+
+Without careful management, a Linux project can get out of control, for example hitting an unexpected problem that takes 6 months engineering time to resolve. Funding a fully loaded engineering salary for 6 months (in the USA in 2019) is about $100,000. This risk can be contained by purchasing a commercial embedded Linux. Commercial embedded Linux is tested, guaranteed to work together, and comes with technical support, but also costs money.
+
+Freedom is not about price, but neither necessarily is your choice between RTOS and Linux.
+
+WHY PAY FOR COMMERCIAL EMBEDDED LINUX?
+
+The Linux kernel and the packages needed to assemble an embedded Linux are freely available, but creating a roll-your-own Linux distribution is deceptively hard. Commercial embedded Linux aims to shortcut the process, allowing you to buy a distribution equivalent to what you would have built. Once you have the distribution, you are in complete control with all source code and able to build it. You decide if you wish to re-brand the software, to resell it, or simply to give it away. Effectively, this becomes your RYO distro, but you're standing on the shoulders of giants.
+‡
+
+There is no special embedded or real-time ingredient in commercial embedded Linux. Your vendor has "just" downloaded the Linux kernel, downloaded a few hundred community projects, cross-compiled and integrated the entire lot and offered it for sale. It's the same exercise you would do to roll your own Linux distribution, the difference being that it is tested, supported, and maintained—which is more difficult than you might think.
+
+ROLL YOUR OWN (RYO) LINUX
+
+The main task to roll your own Linux is to build the filesystem.
+
+How to Build a Linux Filesystem:
+
+From the vast community of 430,000† different projects, choose a few hundred that fit your needs. Choose carefully from the projects moving at different speeds, with different roadmaps and release schedules, some growing, some dying. Pick the right mix to suit the features and memory footprint of your device.
+
+Choose your style of system start-up:
+
+UNIX System V init with runlevels and a tree of scripts?
+
+Or systemd, Upstart or BusyBox-init?
+
+Decide on your C standard library
+
+The GNU C Library (glibc) is a safe default and is compatible with everything although at 4MB it is larger than uCLibc's (micro C library) 1MB footprint.
+
+Consider the uCLibc-ng (next generation) fork because uCLibc has not been maintained since 2012.
+
+Check if newlib could be a better option.
+
+Build your filesystem directory structure and populate it with the UNIX commands your system will need (bzip2, cat, chattr, chgrp, chmod, chown, chpasswd, etc, etc), or choose 
+busybox
+ instead. Designed for embedded systems, busybox combines simplified versions of 
+200
+ UNIX utilities in a single executable. It's a great choice to save space and simplify the filesystem if you don't need the power of the full-fat UNIX utilities. 
+
+Solve the dependency tree. Project A requires version x of project B, project B requires version y of library C… repeat.
+
+If targeting a PowerPC or Arm device, take care that the projects you choose are suitable for cross-compilation. Balance stability vs. bleeding edge, and when you make integration changes to fit things together, submit those patches back to avoid accidentally forking.
+
+TO FORK OR NOT TO FORK?
+
+In software engineering, a project fork happens when developers take a copy of source code from one software package and start independent development on it, creating a distinct piece of software. With open source software, there is nothing stopping anyone from forking an existing project. The benefits and disadvantages of forking are:
+
+Benefits of forking
+
+No compromise to schedule or technical detail
+
+Easy to do
+
+Disadvantages of forking
+
+Typically, the new fork is much less popular
+
+Total maintenance is more expensive
+
+Both sides of the fork have fewer developers
+
+SOFTWARE PATCHING
+
+Patches are used to manage code changes in open source software projects. A patch is a specially formatted text file that is created by running the diff utility on two versions of the same file. Diff extracts the differences between the 2 file versions and packages them up neatly into a specially formatted text file that describes what lines to add or remove so that the patch utility can turn the first file into the second. The patch file includes a little context around each change, so that if multiple patches are applied, disturbing the original line numbers, the patch still works.
+
+Keeping Up With Open Source
+
+Patch sets are routinely passed around between project maintainers and developers to share proposed source code changes like bug fixes and new features. If you roll your own Linux, you will inevitably end up making changes to configure and fit the different pieces together. At first, these changes will be modest, but they will grow over time. After a few months, a new mainline kernel as well as updates for other components in your filesystem will be released, containing security updates, bug fixes, performance improvements, and new features. In order to upgrade, you will need to re-apply your old changes, and a few new changes will be needed to accommodate the new baseline as well. Occasionally, one of your patches will fail to apply because the underlying component has changed so drastically that it is unrecognizable. In this scenario, you will have to understand why the component changed so much and figure out how to achieve equivalent functionality with its new version. After a few years, with the pace of Linux, the number of changes you are managing will increase to the point where it overwhelms you.
+
+Contributing Your Changes
+
+A non-networked device may be OK if left frozen in a non-updated state, but the majority of devices require updating and will face the challenge of how to keep up with open source? The answer is clear—merge your changes back into the open source project—but this requires a major shift to the open source mindset that may prove difficult. Contributing to open source will take more work; the code will need to be good quality and avoid breaking anything for other users and you will have to convince the maintainer to accept it. But, once this is done, your change will be carried forward by the community and maintained "for free" in the mainline project. Applying this approach across all the open source components you use will keep you compatible with the mainline and enable you to efficiently upgrade to the latest version. This is the open source community mindset in action—sharing your code for the benefit of everyone.
+
+OPEN SOURCE LICENSING
+
+Software licensing is a large and complex topic. This article is not legal advice. You must consult your lawyer before making decisions having to do with software licensing.
+
+If you are shipping a product containing Linux, the two fundamental software licensing goals are to:
+
+Protect your own source code
+
+Comply with the licensing rules of other people's code
+
+Protect Your Own Source Code
+
+Protecting your own code seems easy; you are in control, and can license it as you choose, including choosing to keep it closed source. But you have to be careful to avoid accidentally including open-source code with your own. Open source code is easily available on the internet and over the years with a team of engineers the risk of taking a cut-and-paste shortcut is non-zero. 
+Black Duck Software
+ offers a commercial product for scanning source and binary code to identify open source software.
+
+Comply with the Licensing Rules of Other People's Code
+
+Assuming your code is "clean", you must still comply with the licensing rules of the other people's code in rest of your Linux based system—a daunting challenge that is difficult to complete exhaustively. Your Linux distribution will include hundreds of community projects (with dozens of files each) that could, in theory, be differently licensed. In practice most projects use the same license for all files and the 
+top 10
+ most popular open source licenses account for 95% of projects. But the long tail of different licenses is so long that it has spawned the 
+Software Package Data Exchange (SPDX)
+, a project to standardize the metadata (name and version information) for software licenses. SPDX catalogues about 1800 different software licenses so that they can be automatically recognized by scanning the source code. The 
+Open Source Initiative
+ lists 96 licenses that comply with its Open Source Definition, but that leaves about 1700 other licenses that, should you come across them, you need to read and comply with manually. Open source software license violations 
+do happen 
+and can result in bad publicity, forced source code disclosure and financial penalties.
+
+Commercial embedded Linux will normally include a convenient list of package licenses and offer Intellectual Property Assurance. Intellectual Property Assurance is a warranty from your vendor that the license of every embedded Linux component is accounted for, has acceptable terms, and is not in conflict.
+
+Open in Spirit (But Not in Practice)
+
+In general, writing a program that runs as an application on Linux is low risk. You retain control of that application, and can do whatever you choose with your software license. The challenge comes when you modify the Linux kernel—licensed under the 
+GNU General Public License v2 (GPLv2)
+—or another open source component in your Linux distribution. In this situation users of your product have the right to copy, distribute, study and change the open source software you modified. In practice this means you need a mechanism for your users to download the source code of your modified embedded Linux distribution.
+
+Various games have been played with the intent, wording and loopholes in the GPLv2 license. For example, TiVo published the source code to its Linux based TV set-top box, but actually building and running it on a TiVo box was impossible because the TiVo hardware is protected by Digital Rights Management (DRM). The TiVo box will only run software that is signed by a digital signature generated by the TiVo manufacturer. DRM is present on the TiVo box to protect video content inside the TiVo box, but this DRM also defeated the spirit of free software. The GPLv3 license was created in response, with the extra obligation that, as well as providing source code, instructions to build and install it on the embedded device must also be included. There is a genuine conflict between DRM and free software, the community remains split and both GPLv2 and GPLv3 remain popular.
+
+Kernel Driver Conflict
+
+Linux kernel device drivers are an interesting open source licensing area. Technically known as Loadable Kernel Modules (LKMs), drivers are separate binary files that are linked with the kernel in order to add support for hardware. When you add a Wi-Fi network interface, a graphics card or a webcam, an LKM is loaded so that the Linux kernel knows how to talk to the new hardware.
+
+The Linux kernel is licensed under GPLv2, but some companies argue that non-GPL LKMs are acceptable. The key phrase in the GPL is the term derivative work. If a driver is a derivative work of the Linux kernel then it is subject to the GPL. This is unclear, you should take legal advice before making project decisions. The challenge is that driver code is often proprietary, so there is pressure to avoid making it open source. Games can be played with software shims and function pointers. For example, a driver can be split into a thin GPL licensed layer that interfaces to a second closed-source, binary only driver.
+
+Tainted Kernels
+
+Another grey practice is to deliver the driver as source code, but under a proprietary license, and have the user compile it as part of an installation script. The idea is that by avoiding distributing the driver, the vendor bypasses the GPL. In response the Linux kernel labels symbols that drivers need to connect to as 
+EXPORT_SYMBOL_GPL
+, and reports the kernel as tainted if a non-GPL driver is loaded. The legal implications of EXPORT_SYMBOL_GPL are unclear, but it does codify the intention of the driver and raise awareness. Porting drivers from other operating systems, UNIX for example, is also interesting. In this case the driver will already be under a different software license, that may be incompatible with GPL, and is clearly not a derivative work of Linux.
+
+Closed Firmware
+
+Wi-Fi drivers are another interesting case. Some modern Wi-Fi adapters are 
+software defined radios
+, where part of the analogue electronics inside are replaced by special low level software (firmware) running inside the Wi-Fi adapter. This enables a smaller, cheaper and more flexible Wi-Fi adapter to be made. The problem is that certain aspects of the radio spectrum, such as frequency-band and transmit-power are regulated by authorities, like the US 
+Federal Communications Commission (FCC)
+. If the Wi-Fi driver is provided in source code, some users will be tempted to boost the transmit power or change the radio band. Such "hacking" may interfere with your neighbors Wi-Fi or emergency services radio and may be illegal.
+
+Stable API Nonsense
+
+Binary drivers are seen as the worst kind of LKM, not only are they in conflict with the GPL, but being closed source a new conflict is created. A company providing a binary driver would like it to be compatible with all Linux versions, that is, they would like the Linux kernel's driver Application Programming Interface (API) to remain stable. In conventional closed-source software API stability is favored, it allows for example, a binary (driver or application) to be compatible with multiple versions of Windows. Open source software works differently. In the Linux kernel, counter intuitively, there is 
+no need to keep the driver API stable
+.
+
+All drivers should be GPL licensed and according to the open source mindset should also be contributed to be part of the kernel. This means that there is no need to keep the driver API stable. If a more efficient interface is found, or a group of drivers need some new kernel feature, kernel developers are free to change the driver API. This works because source code for all drivers is present with the kernel, so the code for all drivers can be updated together to reflect the change. When the kernel API changes, drivers not included with the Kernel (binary drivers and non-GPL drivers) will become incompatible with the Kernel and each will have to be individually updated and re-released by their supplier.
+
+MAKING AN INFORMED DECISION
+
+In many cases, instead of picking Linux or an RTOS, companies are deploying both into a heterogeneous platform. Such a system benefits from Linux’s broad range of proven open source applications while preserving the deterministic elements of the system. Lynx does not sell a commercial embedded Linux product. Rather, we include Buildroot Linux as a Guest Operating System (GOS) with 
+LYNX MOSA.ic™
+, which is built on 
+LynxSecure
+®
+—our separation kernel hypervisor—to allow different OSs to coexist safely and securely.
+
+Open source software is a tremendous asset and has enabled vast amounts of technological progress in the last 30 years. It is easy to get started using Linux in your embedded project, but there are large technical and legal traps for the unwary. Be sure to consider the hidden implications of using open source software—such as forking, long term maintenance and license compliance—to avoid accidental work and nasty surprises. Understand that free software has a substantial cost—remember that "free" is in reference to liberty, not price—and make an informed decision vs commercial embedded Linux if considering rolling your own (RYO). Linux gives you extreme choice, but at the risk of extreme complexity.
+
+FOOTNOTES
+
+* Android is based on the Linux kernel, but does not use GNU components
+
+† 
+430,000 open source projects on 
+SourceForge
+
+‡  
+Linus Torvalds, Richard Stallman, the community, etc
+
+YOUR NEXT PROJECT
+
+Lynx has over 30 years’ experience in helping customers across avionics, automotive, and industrial markets to most efficiently realize their complex safety- and security-critical embedded software systems. To learn more about how to leverage Embedded Linux for your project, please direct your inquiries to inside@lynx.com or click the "Get Started" button below, and a representative will reach out to you within 1-2 business days. 
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

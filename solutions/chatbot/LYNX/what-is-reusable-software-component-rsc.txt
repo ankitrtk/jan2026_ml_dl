@@ -1,0 +1,436 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/what-is-reusable-software-component-rsc?hsLang=en
+
+What is a Reusable Software Component?
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            3 min read
+
+What is a Reusable Software Component?
+
+ Whitfield Thomas | Content Manager
+
+ : 
+
+                Mar 11, 2019 10:45:00 AM
+
+Avionics
+
+Multicore
+
+FAA
+
+Safety
+
+Certification
+
+MCP
+
+Trusted Codebase
+
+architecture
+
+rtos
+
+embedded systems
+
+TCO
+
+TTM
+
+partitioning
+
+development
+
+real-time
+
+POSIX®
+
+costs
+
+rsc
+
+reusable software
+
+A DO-178B/C 
+Reusable Software Component (RSC)
+ is a software collection that is recognized as meeting the requirements of RTCA/DO-178B/C and that may be used on more than one project without having to regenerate certification artifacts.
+
+The FAA grants RSC acceptance as part of a normal certification process, provided that the applicant complies with the guidance policy defined in FAA Advisory Circular AC 20-148. The acceptance allows future users of the DO-178B/C RSC to deploy the software without the added cost and risk of re-certification. This applies to components such as operating systems and networking protocols, which can then be reused (in an unmodified form) across hardware platforms. 
+
+Why is a Reusable Software Component Important?
+
+All software developers reuse what they create. But compliance with DO-178B/C makes reuse difficult because it often requires expensive re-certification efforts. Until now, there was no standard approach to reuse safety-critical software across programs.
+
+Is It Just a Set of Artifacts?
+
+The 
+LynxOS-178
+®
+ RSC is more than just a set of DO-178B/C artifacts. In fact, the RSC follows the guidance of AC 20-148 by addressing the most difficult and critical areas of certification: integration with multiple applications at various levels of DO-178B/C criticality. The documentation set includes a detailed partitioning and interface analysis that focuses on time, space and resource partitioning as well as timing margin analysis so developers can allocate budgets to use of operating system services. The set of RSC guidance documentation includes requirements, design data, test suites and coverage analysis to meet DO-178B/C requirements.
+
+LynxOS-178 RSC for DO-178B/C Certification
+
+The LynxOS-178 RTOS is the first and only time and space-partitioned, FAA-accepted RSC. LynxOS-178 offers the interoperability benefits of POSIX
+®
+ along with support for the ARINC 653 APplication EXecutive (APEX). The LynxOS-178 RSC is designed to be hardware-agnostic, so no changes are required to move the RSC onto other hardware platforms. The LynxOS-178 RSC acceptance applies to a family of PowerPC
+®
+ processors, including the PPC 75x, 74xx. 4xx, 603 and IBM 970.
+
+Economic Benefits of the RSC for Embedded Projects
+
+The economic value of an RSC lies in its ability to do three things:
+
+Reduce engineering labor
+
+Reduce program risk
+
+Reduce cost
+
+When an RSC is properly verified using the foresight of future use, then it is possible to perform verification to most DO-178B/C objectives and not have to revisit these activities if the RSC is not modified in future projects. The LynxOS-178 RSC provides integrators with guidance on how to integrate the RSC into applications and retain certification credit for the RSC.
+
+More importantly, the LynxOS-178 RSC artifacts provide “educational value” to the integrator that reduces engineering labor. This educational value is provided in the form of written guidance and tests that help the integrator assimilate their applications on top of the LynxOS-178 RSC in a timely manner.
+
+This educational value of the LynxOS-178 RSC artifacts provides integrators with a savings of 3-6 months of engineering labor over conventional DO-178B/C artifacts. This learning economy can be consistently applied in future projects. The LynxOS-178 RSC also reduces program risk by focusing certification audits where they should be focused: on the DO-178B/C objectives that remain to be satisfied and the integration of the component into an application.
+
+With a standard set of DO-178B/C artifacts, a certification auditor can examine any part of the artifacts, even those areas that have been examined by someone else. On many occasions, developers who envision low risk with submission of standard DO-178B/C artifacts have found themselves the subject of auditors’ qualitative interpretations that result in added explanations, action items and even additional verification work resulting in a prolonged project schedule.  An auditor’s job is to scrutinize results closely and aggressively find weaknesses in the verification process. Very often it’s impossible to get through an audit the first time, even if the software has been approved before.
+
+The RSC concept avoids this dilemma by focusing the engineering and auditing effort on software integration, not previously verified operating system functions such as message queues.
+
+Lynx Software Technologies’ LynxOS-178 RSC has provided integrators with 6-9 months of schedule savings over conventional DO-178B/C artifacts.  This risk economy can be consistently applied in future projects. Lastly, the value of the LynxOS-178 RSC is to reduce overall cost to our customers. Lynx Software Technologies’ LynxOS-178 real-time operating system comprises approximately 60,000 lines of code.
+
+The effort to verify a time- and space-partitioned operating system of this size is tens of person-years of effort.  The concept is simple; an accepted RSC that meets DO-178B/C objectives saves the integrator the cost of verification of an operating system.
+
+Leverage the RSC for Your Embedded Project
+
+Lynx has over 30 years’ experience in helping customers across avionics, automotive, and industrial markets to realize the benefits of software reuse for their complex safety- and security-critical embedded software systems. To learn more about how to leverage a Reusable Software Component (RSC) for your next project, please direct your inquiries to 
+inside@lynx.com
+ or fill out the form linked to the button below, and a representative will reach out to you within 1-2 business days.
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

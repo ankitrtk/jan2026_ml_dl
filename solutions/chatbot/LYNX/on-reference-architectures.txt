@@ -1,0 +1,452 @@
+URL: https://www.lynx.com/embedded-systems-learning-center/on-reference-architectures
+
+On reference architectures
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            5 min read
+
+On reference architectures
+
+ LYNX Software Technologies
+
+ : 
+
+                Jan 8, 2021 11:57:36 AM
+
+Multicore
+
+Systems Architecture
+
+architecture
+
+CVEs
+
+embedded systems
+
+development
+
+Open Group
+
+Open Standards
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Reference Architecture
+
+What is a reference architecture?
+
+The term “architecture” seems to be in ever increasing use in its technological context. As an extrapolation from the construction term that Frank Lloyd Wright would have been familiar with, its definition as the “overall design of a computing system and the logical and physical interrelationships between its components” is intuitively obvious. The fact that the architecture specifies the hardware, software, access methods and protocols used throughout the system comes as a surprise to no-one.
+
+But then things start to get a little more fuzzy. The terms “solution architecture”, “system architecture”, “reference architecture”, and “foundation architecture” get thrown around with less clarity as to what they mean in real life, and how they apply in a practical sense to the work you are doing. Add that their interpretations aren’t always—and throw in related concepts such as “reference design” and “architectural framework”—and suddenly what was clear becomes confusing.
+
+So, what do all of these terms mean, and how do they relate to each other? The difference between solution architecture and system architecture is a good place to start. It’s largely a matter of scale, with the former applicable to large solutions rather than the systems that collectively make up those solutions. Those are vague definitions, of course, and it’s not difficult to imagine a situation where the distinction is just a matter of perspective.
+
+Unlike solution and system architectures, reference architectures don’t tend to see the light of day in an implemented system; they are pitched at a more theoretical level, designed to guide and constrain the development of solution or system architectures.
+
+Modularity and conformity by design
+
+In many walks of life and particularly in other engineering disciplines we are entirely used to this concept.
+
+Take, for example, your latest vehicle purchase. Perhaps you had the choice of a coupe or convertible; maybe a diesel, gas, or hybrid power plant; and most likely, trim variants ranging from sparse to sporty or luxurious, with compromises in between.
+
+Add extras and color choices, and the number of cars identical to yours are probably few and far between. The range may well accommodate families, couples, and singles; some people looking for performance, others looking for economy; some seeking style, others seeking practicality. And yet each one of them will be recognizably the same model from the same manufacturer.
+
+This is a consequence of the materials used to construct cars and their manufacturing processes which would make it impractical for models to vary too much and too often. And yet the restrictions it brings are beneficial in many ways. The manufacturer can source parts from many different suppliers by ensuring that specifications are met. Common parts benefit from being proven in use across many different use cases. And development engineers can focus on fewer parts, ensuring that the quality of each is optimal.
+
+Now consider that scenario in the context of embedded systems. Unlike vehicle manufacture, the sheer malleability of the software medium places few restrictions on what developers can do. Historically, that has meant that each system often differs significantly from the next without any particular justification outside of the fact that it was implemented differently. That doesn’t prevent competitive tender at the outset, but system upgrades or modifications have always been dependent on a single supplier to do things their way, in their time – and at their prices.
+
+Reference architectures change all that. They introduce constraints to yield some of the benefits taken for granted in manufacturing industry. This position is underlined by the US Department of Defense (DoD) definition, which states that a reference architecture is “an authoritative source of information about a specific subject area that guides and constrains the instantiations of multiple architectures and solutions.”
+
+Because the medium of software development remains much more malleable than that of our automotive analogy, these constraints can be optimized according to circumstance. There may therefore be multiple reference architectures for any given field, each representing a different perspective, at different levels of detail, and for many different purposes. Each provides terms of reference for stakeholders, and a consistency of implementation of technology perhaps through adherence to common standards, specifications, and guidelines. And, in turn, these restrictions provide
+ terms of reference
+ for verification and validation activities.
+[1]
+
+Further abstraction
+
+There is a natural extension to this notion of multiple different reference architectures. Unchecked, the ultimate implementation of that line of thinking might be to have a reference architecture for each system. That would obviously defeat the object!
+
+Architecture frameworks represent an approach to providing structure in order to prevent that from happening. The 
+ISO/IEC/IEEE 42010 Conceptual Model of Architecture Description
+[2]
+defines the term 
+architectural framework
+ as “a common practice for creating, interpreting, analyzing, and using architecture descriptions within a particular domain of application or stakeholder community”
+
+For example, the 
+Open Group’s TOGAF (The Open Group Architectural Framework)
+[3]
+ is popular in enterprise systems where it provides an approach to designing, planning, implementing, and governing an appropriate architecture. It consists primarily of a Technical Reference Model (TRM) which provides a model and classification mechanism of generic platform services, and a Standards Information Base (SIB) which provides a database of standards that can be used to define an organization specific architecture.
+
+Put simply, the architectural framework provides the building blocks from which compliant reference architectures can be constructed. It is therefore entirely possible for two reference architectures to be very different from each other, but to be derived from the same architectural framework. Foundation architectures are generic architectures derived from these same building blocks, suggesting that a foundation architecture could also be a reference architecture.
+
+Architectural concepts in practice
+
+To put those concepts into context, it is useful to consider a practical example. The Modular Open Systems Approach (MOSA) is an integrated business and technical strategy for the assessment and implementation of open standards. It was conceived and is primarily utilized by the US DoD, but conceptually it could be applied to any similar embedded application. Systems designed in accordance with MOSA are required to adhere to five principles:
+
+Establish an enabling environment
+
+Employ modular design
+
+Designate key interfaces
+
+Use open standards
+
+Certify compliance
+
+Such a description fits the ISO/IEC/IEEE 42010 definition of an architectural framework precisely. LYNX MOSA.ic is one example of a foundation architecture that implements MOSA principles. It is designed for building and integrating complex multi-core safety- and security-critical systems using independent application modules.
+
+LYNX MOSA.ic™ Modular Development and Integration Framework
+
+LYNX MOSA.ic enables the construction of multi-core safety- and security-critical systems. Hardware is statically partitioned into “rooms” and “passageways” to host guests, where rooms are collections of hardware resources, and passageways are explicit point-to-point memory regions that link rooms together via standard inter-process communication (IPC) interfaces. Guests are Lynx, legacy, competitor, or partner provided environments for hosting applications.
+
+LYNX MOSA.ic is applicable to several sectors, and the typical configurations for avionics, industrial, and UAV/satellite applications each differs slightly, such that there is a reference architecture for each sector. Within each of those sectors, LYNX MOSA.ic provides the tools to deliver a MOSA – the basis for a working system with a real-life application, and hence representing a system architecture. The flexibility of LYNX MOSA.ic means that it can also be used to integrate other MOSAs - an implementation of a solution architecture.
+
+Conclusions
+
+The terminology surrounding can be confusing, not least because the hierarchical nature of many systems is such that the distinction between terms can largely be a matter of perspective. What is clear is that the hierarchical systems the terms can describe lend themselves to a structured, modular way of thinking that meets the demands of functional safety standards and takes advantage of today’s multicore devices. Perhaps the best way to take advantage of that is to understand how the technology can be made to work for you, without getting too bogged down in the terminology.
+
+[1]
+
+http://acqnotes.com/acqnote/tasks/reference-architecture-arch
+
+[2]
+
+http://www.iso-architecture.org/42010/cm/
+
+[3]
+
+http://www.opengroup.org/public/arch/p3/intro/fa_intro.htm
+
+Tweet
+
+Adjusting System Functionality and Capabilities in LYNX MOSA.ic
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 29, 2023 9:00:00 AM
+
+I recently set up a demo to showcase how a customer can use subjects, also known as rooms, like containers. What I mean by that is that software...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Subjects
+
+Read More
+
+Using and Sharing RAM Disks in LYNXOS-178
+
+James Deutch | Principal Field Applications Engineer
+:  
+Sep 18, 2023 9:00:00 AM
+
+Based on several customers inquiries the purpose of this blog is to outline how to Allocate memory to a RAM disk Mount and unmount a RAM disk ...
+
+Technical Blog
+
+LynxSecure
+
+LynxElement
+
+LynxOS-178
+
+RAM
+
+Ram Disk
+
+Read More
+
+Introducing the Z-Application-Bridging the gap between bare metal and rtos
+
+LYNX Software Technologies
+:  
+Aug 12, 2021 12:06:18 PM
+
+_______________
+
+Safety
+
+Certification
+
+MCP
+
+Systems Architecture
+
+architecture
+
+rtos
+
+embedded systems
+
+development
+
+real-time
+
+LynxSecure
+
+separation kernel
+
+hypervisors
+
+virtualization
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

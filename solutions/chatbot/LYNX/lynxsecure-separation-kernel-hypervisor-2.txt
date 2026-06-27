@@ -1,0 +1,309 @@
+URL: https://www.lynx.com/products/lynxsecure-separation-kernel-hypervisor?hsLang=en
+
+LynxSecure® Separation Kernel Hypervisor
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+LynxSecure: Separation Kernel Hypervisor
+
+LynxSecure is a simple and elegant platform technology that controls hardware resources according to an intuitive information flow modeling language.
+
+LynxSecure: Separation Kernel Hypervisor
+
+LynxSecure is a simple and elegant platform technology that controls hardware resources according to an intuitive information flow modeling language. It is the foundation of the 
+LYNX MOSA.ic™
+ framework and was designed to satisfy real-time, high assurance computing requirements used to regulate military and industrial computing environments, such as NIST, NSA Common Criteria, and NERC CIP.
+
+BENEFITS OF LYNXSECURE
+
+Our focus is on reducing program risk, development costs, and timelines. LynxSecure:
+
+Provides the simplest path to DO-178C DAL A certification for mixed criticality architectures
+
+Is a strong foundational element on which to create secure platforms that harness multicore processors
+
+Provides resiliency to cyberattack through unmodifiable allocation of system resources for each partition (“Least Privilege” model)
+
+FUTURE-PROOFED, CYBER RESILIENT, DETERMINISTIC SOFTWARE PLATFORMS
+
+The Military and Aerospace segment continues to be challenged with the need to improve development cycles and program costs. As systems increasingly become connected, the threat of cyber terrorism rears its head to add a step function in system complexity. These systems need a software foundation that isolates software applications from each other to ensure functions perform precisely as they are intended. There is also a requirement to be able to securely update these platforms with new functionality and/or mitigation techniques to counter latest the cyber threats.
+LynxSecure is a simple and elegant platform technology that harnesses the hardware virtualization capabilities of modern multicore processors. It was designed to satisfy the strictest real-time, high assurance computing requirements used to regulate military and aerospace computing environments, such as NIST, NSA Common Criteria, NERC CIP and DO178C.  
+
+The grounds up design provides the strongest immunity to system attack, with applications immutably allocated the minimum resources required to perform their task (“Least Privilege”). Unlike alternative approaches, there no single point of failure. The separation kernel remains out of the data plane for the system, isolating applications from each other and avoiding the need to include operating system service interfaces (which has been identified as one of the primary system resources targeted by hackers to gain entry to systems).
+
+LynxSecure: Separation Kernel Hypervisor
+
+LynxSecure is a simple and elegant platform technology that controls hardware resources according to an intuitive information flow modeling language. It is the foundation of the LYNX MOSA.ic™ framework and was designed to satisfy real-time, high assurance computing requirements used to regulate military and industrial computing environments, such as NIST, NSA Common Criteria, and NERC CIP.
+
+DISTRIBUTED VS CENTRALIZED
+
+The separation kernel concept enforces a simpler distributed application runtime model on a processor by way of provably separating processor-controlled resources, such that independent applications execute on their own allocation of resources. With such a platform technology in place, the security properties of a software system can be verified by tracing system actors' data access and information flows directly to the physical allocation of resources:
+
+Simply put, LynxSecure harnesses all of the functionality in the underlying platform, such as hardware virtualization, to ensure that each virtual machine will run independently and free of interference—from power on until power off. Additionally, LynxSecure offers advanced resource scheduling and security controls that exceed traditional operating systems and microkernel offerings. These LynxSecure tunables allow developers to explicitly define how a computer platform executes with traceable evidence from specification to instantiation, establishing platform integrity for design patterns that include:
+•  Safety and security domain isolation
+•  Trusted execution environments
+•  Reference monitor plugins such as firewalls and encryption
+
+BUSINESS BENEFITS
+
+Fastest path to DO-178C DAL A certification​
+
+Creates safe, deterministic systems from multicore processors​
+
+Designed from the ground up focused on delivering highest level of resiliency to cyberattack
+
+DEVELOPMENT BENEFITS
+
+Fastest path to DO-178C DAL A certification​
+
+Creates safe, deterministic systems from multicore processors​
+
+Designed from the ground up focused on delivering highest level of resiliency to cyberattack
+
+LET'S CONNECT
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

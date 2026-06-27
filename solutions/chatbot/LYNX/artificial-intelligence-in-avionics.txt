@@ -1,0 +1,529 @@
+URL: https://www.lynx.com/executive-blog/artificial-intelligence-in-avionics
+
+HOW IS ARTIFICIAL INTELLIGENCE (AI) BEING USED IN AVIATION
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            4 min read
+
+HOW IS ARTIFICIAL INTELLIGENCE (AI) BEING USED IN AVIATION
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Nov 16, 2023 12:57:33 PM
+
+Avionics
+
+"Mission Systems"
+
+hypervisors
+
+Mission Critical Edge
+
+Artificial Intelligence
+
+mission-critical systems
+
+Safety Critical Systems
+
+Aerospace
+
+Military
+
+Military and Aerospace
+
+Defense
+
+GenAI
+
+Military Aviation
+
+Aviation
+
+Aviation AI
+
+Flight Operations
+
+AI Applications
+
+Overcoming Challenges, Embracing Innovation, and Redefining Business Models
+
+The concept of “digital transformation” is hardly new. Since the ‘90s, the phrase has become a widely used, some would say an overused, term to describe strategic initiatives organizations undertake to leverage technology and drive innovation in their operations. As our company celebrates its 35th year, the executive team has been giving this concept renewed attention, spurred by the rapid rise of generative AI (GenAI).
+
+What is new is the breadth of operations likely to be affected by this technology. For most businesses, GenAI will likely impact every department, every operation, and every employee. Although we use Artificial Intelligence, this subset is discussed here as Machine Learning (ML), where a machine makes a decision based on a model that consists of many values and then iterates based on the feedback to the previous decisions.
+
+Three main considerations shaping where AI is currently being deployed in aviation, namely:
+
+What is the impact on the system of making a wrong decision
+
+How accurate is the data which you will be using to base your decision
+
+How proprietary is the informational database, since the large language models (LLM) being used at the core of AI decision-making are (today) running on data in the public domain  
+
+AI Augments Human Operation in Aviation
+
+AI-enabled v
+ision 
+is
+ helping in-flight refueling
+ more effectively than a human pilot can accomplish. In 
+a similar way, in 
+certain vehicles where AI can detect lane departure or a need to brake more effectively than a driver, we 
+see AI help
+ing
+ pilots 
+with flight plans and changes. Including 
+alert
+ing
+ the pilot to potential problems with the 
+aircraft
+, 
+support
+ing
+ object avoidance maneuvers
+, 
+and 
+assist
+ing
+ air traffic decision-making
+.
+ It also helps airports with ground operations move aircraft more effectively, reducing fuel use and saving time on turnarounds.  
+
+AI Analysis of Aircraft Information
+
+The increased deployment of sensors in 
+aircraft
+ subsystems created the opportunity to generate vast swathes of data.
+ This is used to provide more accurate predictive maintenance services, saving money and lives.
+
+The AI that cannot be seen: Backoffice 
+Deploy
+ment to 
+Ease Cost, Risk, and Time
+
+The area where AI is being deployed quickly 
+is 
+easing the time, cost, and risk pressures around these projects. For example, 
+GenAI
+ is being explored 
+to
+ accelerate code base testing to ensure that relevant software patches have been deployed to make these systems as immune to cyberattacks as possible.
+
+For safety-critical products like 
+aircraft
+, automobiles
+,
+ and industrial machinery, engineers must ensure that any system updates do not change the device’s fundamental safety capabilities. A key challenge in safety and security engineering is balancing the fun part (innovating and implementing) and the robustness requirements. 
+GenAI
+ presents an opportunity to accelerate the robust engineering piece and help us focus on innovation.
+
+AI as the Savior of Cybersecurity?
+
+We also see deployments of AI where it is used as a key element in increasing the resiliency of systems to cyberattacks. The AI element focuses on learning what normal system behavior looks like, with the intention of identifying “abnormal”. 
+
+KEEPING HUMANS AT HOME
+
+There is a significant shift for military systems to deploy many more 
+cost-effective
+ drones, working in partnership with highly capable fighters like the 
+F-35
+. 
+Many of these are flown by wire today
+ (
+for 
+example
+,
+
+General
+ Atomics Gray Eagle Drone
+)
+, with the pilots safely 
+locate
+d
+ hundreds or thousands of miles away. We see this shift to increasingly autonomous 
+platform operation as
+ p
+a
+rt of the
+ next phase of the military battlefield. The fighters are becoming 
+“
+s
+ervers with wings
+,”
+
+providing
+ edge decision
+-making
+ instead of
+ sending all data back to the cloud. 
+
+The Future of AI in Aviation
+
+As mentioned previously, we do see AI embracing virtually all use cases over time as the challenges start to be overcome: 
+
+For use cases where human lives are at risk, a shift away from deploying humans starts with the data quality 
+
+In aircraft, there is a need to prove to the certification authorities how a system comes to its decisions
+
+At the core of AI is a large set of parameters for which biases are provided. It is therefore quite possible that the reason an AI engine makes a specific decision is challenging to root cause. We will need to see more transparency in decision-making and proof that the datasets are highly accurate before we see all pilots on a commercial 787 being replaced by a machine
+
+Significant concerns around intellectual property have caused many people and companies in this industry to be extremely cautious about embracing GenAI. More specifically, since the large language models use data in the public domain, any data a company provides in the cloud further trains those models
+
+We are at the early stage of seeing new businesses address this
+
+An example of this in our focus areas is “
+Ask Sage
+,” where data is securely provided into an engine that harnesses ChatGPT.  
+
+In conclusion, we feel the world of GenAI can learn a lot from the stories of digital transformation. Digital transformation initiatives have earned their bad rap:
+
+Boston Consulting Group found these programs have a 70% failure rate
+
+Other researchers go as high as 90%
+
+These failures share many common attributes, and at their center is a lack of clear business objectives. Before leaping into the world of GenAI, one needs to consider the “why”. 
+At its core, the allure of GenAI is to automate some type of outcome from this computation. One needs to determine:
+
+The sustainable business value AI will deliver over the useful life of a product or
+
+How it can either replace human capabilities or augment their decision-making
+
+Where The Value IN AI Lies
+
+Neither path is right or wrong, but not having clarity on your value is a misstep.
+
+Many organizations find that from a business perspective, GenAI creates an opportunity for evolution in a company’s business model, enabling, for example, a transition to a subscription-based offering from a “one and done” transaction. Transitioning to AI-enabled processes will be uncomfortable for some. Others will embrace this new way of operating. Encourage a culture of innovation, experimentation, and collaboration across the ecosystem, in which employees are empowered to explore AI-driven ideas and prototype new approaches, and you’ll find that your organization has fully adopted new digital ways of working.
+
+how lynx can support
+
+We provide foundational software focused on keeping applications isolated from each other. With so many companies now harnessing update mechanisms like containers that can be infused with malware, our software ensures that vital system resources are decoupled from the operating systems running those applications; virtual machines are only allowed to access the minimum set of system resources needed to run their applications. Our 
+hypervisor
+ stays out of the dataplane, which again reduces the ability of a hacker to infiltrate and modify the system behavior or extract system secrets. 
+
+Interested in hearing more on our thoughts around GenAI? Read our CEO, Tim Reed's guest feature in Forbes, "
+Here We Go Again: GenAI Ushers In A New Age Of Digital Transformation
+".
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

@@ -1,0 +1,937 @@
+URL: https://www.lynx.com/supplemental-terms-for-support-services
+
+Supplemental terms for Support services
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+Deterministic infrastructure for integrating AI and advanced edge workloads into mission-critical systems. 
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Software Application Development
+
+Accelerate time-to-market with modular, safety-critical software development.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+          Industries
+
+                  Sub Menu 1
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+                  Sub Menu 2
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Our Growth Story
+
+Lynx has transformed over three years into a global leader in secure edge computing.
+
+          Careers
+
+          Resources
+
+                  Blog
+
+                  Datasheets
+
+                  News Features
+
+Skip to content
+
+Log In
+
+Contact Us
+
+          Solutions
+
+                  Products
+
+LYNX MOSA.ic.AI
+
+LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge.
+
+Safe & Secure Operating Environment (MOSA.ic)
+
+Discover a modular open system platform for mission-critical applications.
+
+Linux Solutions
+
+Leverage our secure, scalable Linux solutions tailored for critical industries.
+
+Tooling
+
+Streamline workflows using Virtual Integration Environment and Embedded Board Farm.
+
+Software Composition Analysis
+
+Secure your software supply chain with LYNX MOSA.ic™ SCA’s advanced vulnerability management.
+
+Vulnerability Mitigation & Management
+
+Simplify SBOM management and CVE monitoring for enhanced security.
+
+Safety-Critical Graphics & Edge Compute Solutions
+
+Integrate certifiable graphics and GPU compute into safety-critical applications.
+
+                  Services
+
+Architecture Assessment
+
+Optimize your system's architecture for performance, compliance, and scalability.
+
+Safety & Security Assessment
+
+Accelerate certification and mitigate risks with comprehensive safety and security assessments.
+
+Hardware Platform Enablement
+
+Ensure long-term success with expert hardware integration and lifecycle maintenance.
+
+Training & Mentoring
+
+Empower your team with tailored, hands-on training for safety-critical systems.
+
+Managed Services
+
+Tailored platform solutions with proactive monitoring and customized support for your unique needs.
+
+Graphics Processor Enablement
+
+Deploy high-reliability GPU capabilities in your applications with Lynx's tailored solutions.
+
+Software Architecture and Design
+
+Our partners trust our expert team to deliver modern, certified solutions from design to deployment, resulting in reliable, field-ready products.
+
+          Use-Cases
+
+                  Business Problems
+
+Retrofit Legacy Systems
+
+Upgrade legacy systems cost-effectively using MOSA principles for seamless integration.
+
+De-Risk Projects
+
+Deliver mission-critical projects securely with VIE, Vigiles, and VigiShield for risk mitigation.
+
+Accelerate Program
+
+Optimize workflows and meet compliance faster with EBF, SpyKer, and certification-ready components.
+
+Secure & Protect
+
+Achieve compliance in aerospace, automotive, and IoT with industry-certified security solutions and protect embedded applications against evolving threats.
+
+Manage Obsolescence
+
+Maximize the lifespan of your edge devices and future-proof your deployments with our resilient, scalable solutions and expert support.
+
+Compliance & Regulations
+
+Stay ahead of evolving regulations with solutions designed for resilience and compliance with DO-178C, DO-356A, NIST 800-53, ISO 26262, and more.
+
+                  Technical Use Cases
+
+Bell Flight's FLRAA Program
+
+Bell Flight's MV-75 Cheyenne II is redefining vertical lift, with LYNX MOSA.ic supporting next-gen mission systems for the U.S. Army.
+
+Build, Secure, Maintain Linux
+
+Develop, secure, and maintain embedded Linux systems with Lynx's comprehensive solutions.
+
+MOSA Platform
+
+Leverage open standards to enhance modularity and compliance in mission-critical platforms.
+
+Safety Certification
+
+Simplify safety certification with Lynx's modular, pre-certified solutions.
+
+Security & Cyber Compliance
+
+Safeguard mission-critical applications against evolving threats with Lynx's comprehensive security tools.
+
+Multi-Core and Mixed Criticality
+
+Optimize multi-core systems with Lynx's modular solutions for mixed criticality applications.
+
+Safety Critical Graphics & GPU Compute
+
+Integrate certifiable GPU solutions into mission-critical systems with Lynx's expertise.
+
+F-35 Lightning II TR-3
+
+Learn how LYNX MOSA.ic.AI supports the F-35 Lightning II TR-3 program with modular software architecture, virtualization, and certification-ready avionics.
+
+          Industries
+
+Commercial Aerospace
+
+Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry.
+
+Defense
+
+Ensure reliability and security in defense operations with Lynx's certified, scalable solutions.
+
+Medical
+
+Secure your medical devices throughout their lifecycle with Lynx's real-time vulnerability management and compliance expertise.
+
+Energy
+
+Secure IoT gateways and industrial control systems in the energy industry with Lynx's advanced cybersecurity tools.
+
+Industrial
+
+Achieve long-term device security and streamlined compliance in industrial settings with Lynx.
+
+Space
+
+Explore how Lynx ensures reliability and safety in space applications with our aerospace-grade software.
+
+          Company
+
+                  Company
+
+About
+
+Discover Lynx’s mission to deliver secure, modular solutions for mission-critical edge platforms.
+
+Business Approach
+
+Learn how Lynx’s customer-centric approach accelerates innovation across industries.
+
+Management Team
+
+Meet the leadership team shaping the future of safety and security at the edge.
+
+Careers
+
+Build your career with cutting-edge technology and a collaborative, inclusive culture.
+
+Office Locations
+
+See where Lynx operates around the world to support customers and partners globally.
+
+                  Engage
+
+Partners
+
+Explore our partnerships driving innovation in safety-critical systems across various industries.
+
+Events
+
+Join Lynx at upcoming in-person and virtual events on safety-critical systems and edge technologies.
+
+Press Releases
+
+Stay updated with Lynx's latest news, from product launches and new solutions to key collaborations.
+
+Contact Us
+
+Connect with us to explore our products, services, or partnership opportunities.
+
+Modernizing the Mission Critical Edge
+
+Modernizing AI at the mission edge goes beyond performance. Success depends on architectures engineered for determinism, assurance, and lasting trust.
+
+          CAREERS
+
+Resources
+
+                  Blog
+
+                  Resource Library
+
+                  News Features
+
+                  Standards and Compliance
+
+This is a search field with an auto-suggest feature attached.
+
+There are no suggestions because the search field is empty.
+
+Home
+
+Supplemental terms for support services
+
+ Supplemental Terms for Support Services 
+
+Last Updated July 29, 2025
+
+1.   Supplemental Terms for Support Services
+
+Company will prove certain support services relating to the Company Offerings (“Support Services”) for Customer in accordance with the General Terms and Conditions of Sale (the “Agreement”) as supplemented by these Supplemental Terms for Support Services ("Supplemental Support Services Terms"). In the event of a conflict between these Supplemental Support Services Terms and the Agreement, these Supplemental Support Services Terms prevail. Capitalized terms not otherwise defined in these Supplemental Support Services Terms have the meanings ascribed to them in the Agreement.
+
+2.  Definitions
+
+2.1
+.   
+“Advanced Porting Kit”
+ means source code that may be provided to allow the Company Offerings to function on a specific computing device, board or target platform.
+
+2.2.
+
+ “Customer Support Contact” 
+means the individual(s) designated in the applicable Ordering Document and entitled to Support Services.
+
+2.3. 
+
+"Dedicated Support Manager”
+ means a Company point of contact who is responsible for tracking Customer support requests through Company’s internal processes.
+
+2.4.
+
+ “End of Life Product”
+ means a Company Offering that is at least seven (7) years from the Company Offering release date, but has not been declared an Obsolete Product. Company, in its sole discretion, shall determine when the Company Offering becomes an End of Life Product. Company shall provide written notice to Customer twelve (12) months prior to making a determination that a Company Offering becomes an End of Life Product.
+
+2.5.   “Generally Available Products”
+ means Company Offerings that are less than seven (7) years from the Company Offering release date.
+
+2.6.
+
+ “Non-Standard Platform”
+ means a platform other than what is identified in the release notes of the Company Offering.
+
+2.7.    “Obsolete Products”
+ means Company Offerings that have been determined by Company, in its sole discretion, to no longer be End of Life Products. Company shall provide written notice to the Customer twelve (12) months prior to making a determination that a Company Offering becomes an Obsolete Product.
+
+2.8. 
+
+“Point Patch Updates”
+ means corrections of defects associated with a specific release of the Company Offering.
+
+2.9.   “Reference Platform” 
+means a platform that has been extensively tested and is identified in the release notes of the Company Offering.
+
+2.10.   “Release Updates”
+ means releases that add functionality to a specific version of the Company Offering.
+
+2.11.   “Release Upgrades” 
+means new releases of the Company Offering containing significant enhancements, new features or functionalities.
+
+2.12.   “Source Code”
+ means human-readable text written in a specific programming language. For the purposes of Support Services, this term includes the source code underlying the Company Offering including any Release Updates and Release Upgrades.
+
+2.13.   “Validated Platform” 
+means a platform that has been tested to conform with basic product features. Validated Platforms are identified in the release notes of the Company Offering and may require more configuration tuning by the Customer’s developers or system administrators.
+
+3.  Support Services
+
+3.1.
+    In consideration of the applicable fees paid by Customer as specified in an Ordering Document, Company shall provide the following Support Services, during normal working hours, in support of the Licensed Software Products, to the person(s) designated as a Customer Support Contact:
+
+3.1.1.    General.
+ For Generally Available Products, Company shall provide Release Updates. Company shall not be obligated to develop or provide Release Updates according to any pre-determined schedule. Customer acknowledges that a Release Update implementation may require recompilation of files, and/or making other changes necessitated by the added functionality. Company shall provide Customer with one copy of each new Release Update, without additional charge. Release Updates shall be provided electronically.
+
+3.1.2.    Subscriptions.
+ For Generally Available Products that are licensed under a subscription license, Company shall provide Release Upgrades. Company shall not be obligated to develop or provide Release Upgrades according to any pre-determined schedule. Customer acknowledges that a Release Upgrade implementation may require recompilation of files, and/or making other changes necessitated by errors correction and/or the added functionality. Company shall provide Customer with one copy of each new Release Upgrade, without additional charge. Release Upgrades are included for the quantity of licenses under support. Company shall not be obligated to develop or provide Release Upgrades according to any pre-determined schedule. 
+
+3.1.3.    Platform Support.
+ Company shall provide Support Services for the Reference Platforms. For Non-Standard or Validated Platforms, Customer shall arrange a separate engagement with Company to obtain Support Services. 
+
+3.1.4.    Change of Milestones.
+ For Generally Available and End of Life Licensed Software Products, Company shall provide Point Patch Updates in the event that Customer requires an issue to be addressed prior to the next Release Update. For Obsolete Products, Company may, in its sole discretion, make commercially reasonable efforts to provide point patches on an as-needed basis as defined under a separate engagement with Company. 
+
+3.1.5.    Acceptance. 
+Company shall provide Customer with access to a Support Services portal where Customer Support Contact shall submit Support Services tickets and track Support Services issues. Upon receipt of a Customer inquiry, Company shall perform a priority assessment to determine the priority level to be assigned to each inquiry.
+
+3.2.    Not Included.
+ The following are not included as part of the Support Services:
+
+3.2.1. 
+   Assistance with the theory of operation and/or the functioning of the internals.
+3.2.2. 
+   Participation in and/or assistance with the design process.
+3.2.3.  
+  Application, Library or Device Driver programming and/or code generation.
+3.2.4.  
+  Generation of custom software.
+3.2.5.   
+ Support Services for the new platform that is enabled by the Customer’s use of the Lynx Advanced Porting Kit.
+3.2.6. 
+   Support Services for any binaries or object files which have been built from modified Source Code.
+3.2.7. 
+   Basic training on OS, UNIX and/or programming fundamentals.
+
+3.3.    Frozen Branch. 
+Subject to the payment of applicable fees, for Generally Available and End of Life Products, Customer has an option to request that Company back up and maintain a Customer-identified source code repository branch, including the development tools and infrastructure used to create the Lynx products that are based on that source code (a “Frozen Branch”). Explicitly excluded from Support Services for the Frozen Branch are the following:
+
+3.3.1.   
+ New or current-feature back-porting or retrofit
+3.3.2.  
+  New feature enhancements
+3.3.3. 
+   Updates to the host tool chain(s)
+3.3.4. 
+   Assisting Customer with developing new application(s)
+
+4.  Response and Correction Schedule
+
+4.1.  
+  During normal working hours (exclusive of Company’s regular holidays), Company shall use due diligence and apply commercially reasonable efforts to respond to Customer inquiries according to the response times as specified in Exhibit A attached hereto, based on the applicable level of support purchased pursuant to an Ordering Document.
+4.2.  
+  Following completion of the development of the error correction or resolution, Company shall provide the solution to Customer through a resolution or error correction remedy consisting of sufficient programming and operating instructions as required to complement a solution.
+4.3.  
+  Company may, in its sole discretion, include the resolution or error correction in subsequent Point Patch Updates to the Software.
+4.4. 
+   In some cases, the Software may not conform to the supporting documentation because of a documentation error, rather than a software error, in which case Company shall provide corrections to be applied to the supporting documentation.
+4.5.  
+  Customer shall supply all information reasonably necessary for Company to duplicate the reported problem. Upon receipt of such information, Company shall duplicate the problem. Once the problem has been duplicated by Company, the Target Resolution Period shall commence.
+
+5.  Customer Responsibilities
+
+5.1. 
+   Customer shall be responsible for procuring, installing, and maintaining all equipment, telephone lines, communications interfaces and other hardware and software necessary to operate the Company Offerings and to receive the Support Services from Company.
+
+5.2.  
+  Customer shall supply pertinent configuration data and additional information reasonably necessary for Company to duplicate and prioritize any problems reported by Customer. That is, in the event of an Error, Customer shall provide a sample program separate from Customer’s product(s), which, when executed in conjunction with the Company Offerings on a Reference Platform, clearly illustrates the problem. Customer shall prioritize, in accordance with the relevant priority level, any such problem submitted to Company for resolution. Customer shall supply any additional information reasonably requested by Company and Customer shall make appropriate resources available to assist in the problem identification and resolution. Customer acknowledges that Company shall not be responsible for correcting any difficulties or software errors arising from the Customer's modifications to the Company Offerings or Point Patch Updates. Customer shall apply a test Point Patch Update to ensure that compatible support is provided.
+
+5.3.    Customer shall designate and maintain a maximum of three (3) trained Customer Support Contacts.
+
+6.  Warranty/Disclaimer
+
+6.1.    Warranty. 
+Company warrants that the Support Services will be performed in a professional and workman-like manner consistent with applicable industry standards. If Company receives written notice from Customer of non-conformity with the performance of the Support Services set forth herein, Company will, as Customer’s sole and exclusive remedy and Company’s entire liability for any breach of the foregoing warranty, at Company’s sole option and expense, promptly re-perform any Support Services that failed to meet this limited warranty.
+6.2.    Disclaimer. EXCEPT FOR THE WARRANTY SET FORTH IN SECTION 6.1 ABOVE, COMPANY PROVIDES THE SUPPORT SERVICES “AS IS.” COMPANY DOES NOT WARRANT THE RESULTS OR THE PERFORMANCE OF THE SUPPORT SERVICES ON ANY PROJECTS, EQUIPMENT OR APPLICATIONS NOT SUPPLIED BY COMPANY. COMPANY MAKES AND CUSTOMER RECEIVES NO WARRANTIES OR CONDITIONS, EXPRESS OR IMPLIED, STATUTORY, OR OTHERWISE; AND COMPANY SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Exhibit A
+
+Lynx Support Offering
+
+Premium Support
+
+PremiumPLUS Support
+
+Extended Long Term Support (eLTS)
+
+Frozen Branch Support
+
+Licensed Software Product Lifecycle Phase
+
+General Availability (GA) < 7years from release
+
+End of Life (EOL) 7+ years from release
+
+GA & EOL
+
+Initial Acknowledgement of Customer Inquiry
+
+Within 1 business day
+
+Within 1 business day
+
+Within 1 business day
+
+Within 1 business day
+
+First Technical Response
+
+Within 2 business days
+
+Within 1 business day
+
+Within 2 business days
+
+Within 1 business day
+
+Critical Priority
+
+TRP* within 15 business days
+
+TRP within 10 business days
+
+TRP within 15 business days
+
+TRP within 10 business days
+
+High Priority
+
+TRP within 25 business days
+
+TRP within 15 business days
+
+TRP within 25 business days
+
+TRP within 15 business days
+
+Medium Priority
+
+TRP within 30 business days
+
+TRP within 20 business days
+
+TRP within 30 business days
+
+TRP within 20 business days
+
+Low Priority
+
+Issue addressed in next update or upgrade
+
+Issue addressed in next update or upgrade
+
+n/a
+
+n/a
+
+Dedicated Support Manager
+
+No
+
+Yes
+
+No
+
+Yes
+
+*TRP = Target Resolution Period
+
+PRIORITY OF CUSTOMER INQUIRY
+
+DEFINITION/DESCRIPTION
+
+Critical
+
+An issue that is immediately and directly affecting Customer’s ability to develop or deploy their product
+
+High
+
+An issue that causes Customer either an undue development hardship or will eventually create a Customer deployment problem
+
+Medium
+
+A feature does not work as documented, but a workaround exists, or an immediate fix is not needed
+
+Low
+
+An issue is cosmetic
+
+ Seize the Edge 
+
+ The future won’t wait, neither should you. Let’s build, secure, and accelerate your next mission together. Contact us today to get started. 
+
+                Contact Us
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+© 2026 All rights reserved. 
+
+ Change Cookie Settings 
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+            Privacy Policy
+
+            Terms of Use
+
+            Login
+
+            Contact Us
+
+Follow us on YouTube
+
+Follow us on LinkedIn
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News
+
+            Solutions
+
+Show submenu for Solutions
+
+            Products
+
+            Services
+
+            Use-Cases
+
+Show submenu for Use-Cases
+
+            Business Problems
+
+            Technical Use Cases
+
+            Industries
+
+Show submenu for Industries
+
+            Commercial Aerospace
+
+            Defense
+
+            Medical
+
+            Energy
+
+            Industrial
+
+            Space
+
+            Company
+
+Show submenu for Company
+
+            About
+
+            Business Approach
+
+            Management Team
+
+            Careers
+
+            Contact Us
+
+            Terms and Conditions
+
+            Resources
+
+Show submenu for Resources
+
+            Blog
+
+            Datasheet
+
+            News

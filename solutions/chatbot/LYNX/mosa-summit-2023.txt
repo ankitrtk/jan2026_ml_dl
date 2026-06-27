@@ -1,0 +1,394 @@
+URL: https://www.lynx.com/executive-blog/mosa-summit-2023
+
+FACE TIM/MOSA Summit: September 2023
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+            2 min read
+
+FACE TIM/MOSA Summit: September 2023
+
+ Ian Ferguson | VP Marketing
+
+ : 
+
+                Sep 22, 2023 9:00:00 AM
+
+I am certain that there will be some formal write-ups in the coming days from esteemed journalist channels like Military Embedded, but we thought we would share some of what we heard out of the inaugural MOSA Summit that took place September 18 and 19 in Atlanta.
+
+From what I have read, about 2000 people registered for the event. The usual mix of keynotes and interesting demonstrations in the Expo as with any show. The clear focus was on aviation of course, and given the event title, the obvious statement is that there was a huge focus on modular open systems architecture (MOSA). Presentation after presentation from the US Army stated their commitment to enforcing new systems to align with this. Beyond this, I felt there were three main themes I heard as part of our conversations at our and others’ booths. All of this came from a desire to shrink program schedules. For us, there is no one magic bullet here. There is a set of initiatives that have to happen to reverse the worrying trend of program timelines moving out. The industry needs a significant “shift left” effort and all the companies I spoke to recognized that, were committed to it and were on the way to doing their part.
+
+Open Standards
+
+Beyond MOSA itself, the discussions got into the practicality of implementing FACE. The technical community realizes a “conformant” stamp is a starting point instead of an endpoint. As API specifications don’t define system behavior, the ecosystem must further push into system architecture to create safe and secure templates. One example is several companies that are working closely with the Army on developing the Component Specification Model (CSM) as part of the “Aviation Mission Computing Environment” (AMCE). More details can be found here on our 
+MOSA webpage
+.
+
+Digital Backbones
+
+There was a great demonstration by GE Aerospace and Bell Flight showing how legacy subsystems can supply traffic across a network, connecting subsystems together deterministically and the role of system simulation in this effort. 
+
+Collaboration
+
+With the huge challenge of delivering highly complicated programs in shorter and shorter timeframes, one company simply cannot do everything. Suppliers have to coalesce and create solutions together. Beyond “marketecture”, this has to be real testing of products together and, even better, providing that in a way that it can be delivered as a template around virtual environments to accelerate when work can start. This stand at the US Army PEO booth is an example. (See image to the right.)
+
+For us, we were showing some integration work with three partners:
+
+Avilution
+
+A software start up with a collection of safety-critical microservices that promises to enable aircraft manufacturers and integrators to rapidly design and build a modern flight deck in a fraction of the time.
+Learn more about Avilution 
+here
+
+Savi (previously Tucson Embedded)
+
+A promising FACE Architecture Modeling Environment that we have been connecting to 
+LYNX MOSA.ic
+Learn more about Savi 
+here
+
+RunSafe Security
+
+Providing an innovative cyber-hardening process that transforms vulnerable embedded systems and devices to disrupt attackers. They accomplish this by generating devices that are functionally the same but logically distinct, removing common vulnerabilities that attackers exploit to compromise multiple systems.
+Learn more about RunSafe Security 
+here
+See our video about our partnership
+
+here
+
+our speaking opportunity at the mosa summit
+
+Lynx also had the opportunity to speak during the event on th
+e challenge of the rapid evolution of the FACE technical standard to adequately assess the impact of changes on existing Department of Defense (DoD) acquisitions.
+ By 
+identifying the realities of DoD acquisitions, more informed collaboration can ensue and guide vested parties in the FACE Technical Standard with its continued maturation and application. 
+
+If you would like to hear more about our proposed methodology to leverage the National Defense Industrial Association NDIA MOSA Use Case process to inform the applicability and non-applicability of FACE downstream application within the defense sector while addressing the cost, schedule, and performance trade-offs, please reach out to us and we'd be happy to share our findings.
+
+what are your thoughts?
+
+Did you go to the event? If so, do you agree with our observations? We would love to hear from you. Leave a comment below or
+ get in touch with us
+!
+
+Lynx's Strategic Leap: Unveiling New Capabilities and Vision for Defense-Optimized Software Solutions
+
+Tim Reed | CEO
+:  
+Jan 9, 2024 6:00:00 AM
+
+Strategic Expansions and Future Capabilities in MilAero Market In December, we unveiled Lynx’s acquisition of Timesys, our first major growth since ...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+Cybersecurity
+
+Military and Aerospace
+
+Military Aviation
+
+Timesys
+
+Thompson Software Solutions
+
+Read More
+
+Embracing Innovation, Collaboration, & Growth with Acquisition of Timesys
+
+Tim Reed | CEO
+:  
+Dec 12, 2023 6:00:00 AM
+
+I joined Lynx in June 2022 as a result of the acquisition of Lynx by OceanSound Partners. One of my first priorities was a collaborative effort...
+
+"Mission Systems"
+
+linux
+
+Mission Critical Edge
+
+Aerospace
+
+Acquisition
+
+Military
+
+Timesys
+
+Edge Software
+
+Read More
+
+C2 Server: What Is It? What Can Be Done to Thwart Them?
+
+Ian Ferguson | VP Marketing
+:  
+Dec 5, 2023 12:00:39 PM
+
+what is a c2 server Cybersecurity attacks are on the rise across a diverse set of markets. Behind the more intentional attacks is a desire to extract...
+
+Avionics
+
+Mission Critical Edge
+
+Aerospace
+
+LYNX MOSA.ic for Avionics
+
+Cybersecurity
+
+Timesys
+
+C2
+
+Read More
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

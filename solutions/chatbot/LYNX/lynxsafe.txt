@@ -1,0 +1,328 @@
+URL: https://www.lynx.com/products/lynxsafe
+
+LynxSafe™ | Separation at the Level of Silicon
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+SEPARATION AT THE LEVEL 
+OF SILICON
+
+A new protection solution is needed that can provide the following characteristics:
+
+Isolate the user’s sensitive work environment on a laptop preventing exposure to network threats
+
+Protect the user’s sensitive data so it is not compromised even if the laptop is lost
+
+Allow sensitive corporate assets to be protected from insider threats
+
+Facilitate monitoring of corporate assets and sensitive data that allow for remote backups, remote upgrades and remote disabling of sensitive data
+
+Allow seamless operation of existing work environments on commodity laptops without significant loss of user experience
+
+LynxSafe, a protection solution needed to provide the following characteristics:
+
+Isolate the user’s sensitive work environment on a laptop preventing exposure to network threats
+
+Protect the user’s sensitive data so it is not compromised even if the laptop is lost
+
+Allow sensitive corporate assets to be protected from insider threats
+
+Facilitate monitoring of corporate assets and sensitive data that allow for remote backups, remote upgrades and remote disabling of sensitive data
+
+Allow seamless operation of existing work environments on commodity laptops without significant loss of user experience
+
+MARKET DYNAMICS
+
+In just ten cyber incidents during 2021, over $600 million in cash was stolen or taken as ransom, tens of millions of citizen records were stolen, 40,000 businesses’ IT operations put at risk, one billion airline passenger details compromised and at least one bank was effectively shut down for over a week.
+The COVID-19 crisis caused a prolonged work from home period, with companies like Twitter and Fujitsu offering workers the opportunity to work from home permanently. While this is relatively easy to state, CIOs and CISOs have to adjust their IT networks to support this environment. For users managing sensitive or classified information, a traditional endpoint system cannot be trusted when leaving the confines of the corporate/classified network.
+Traditional operating systems such as Windows, MacOS or Linux/Android that run on endpoints are vulnerable to cyber-attacks, and security updates and anti-virus software cannot be relied on to protect the endpoint. Traditional IT endpoint security solutions rely on either patching the endpoint OS or anti-virus applications that run on the endpoint OS. Either way, a compromised OS allows the threats full access to the endpoint. The sensitive data residing on the endpoint and even the encryption keys that are used to protect the data.
+
+PLATFORM DETAILS
+
+The solution consists of the following elements:
+
+LYNXSECURE 
+SEPARATION KERNEL HYPERVISOR
+
+Hardware-enforced separation and virtualization properties of LynxSecure allow for separate secure domains to exist. Two main domains are constructed:
+
+One that is not secure, connected to the outside world, and handling clear-text unclassified data
+
+A second domain used for handling sensitive or classified data, with no connection to the outside world. Any data transfer to and from this domain is controlled and encrypted and any sensitive information that is stored on the endpoint is also encrypted
+
+Both domains can run standard operating systems and applications, but the OS and applications in the secure domain are isolated from any network borne outside threats.
+
+LYNX MULTI-NODE MANAGEMENT
+
+Lynx offers manageability to perform provisioning and enable the update and upgrade of operating systems and other software functionality running in virtual machines. Lynx’s platform provides tools to integrate with the current MDM (Mobile Device Management) solutions. LynxSafe supports this capability on the device itself, keeping the relevant APIs, messaging and integration required to execute security workflows without compromising security.
+
+INLINE DISC ENCRYPTION
+
+Allows for encryption at the storage speed for the data stored on the disk. This means that even if the endpoint is ever broken into, or stolen, the data is never exposed to a third party.
+
+LYNX SIMPLE APPLICATIONS (LSAs)
+
+LSAs are true bare-metal applications, each running directly on hardware without any underlying operating system components. When needing to meet the strict timing requirements of complex and safety-critical systems, Lynx Advanced Scheduling can be used to precisely control the execution and timing of the LSA components in the system. Communications interconnects provide security-policy enforced, zero copy, fast and low latency communications between critical functions.
+
+CERTIFICATION EVIDENCE 
+
+For more than two decades, Lynx has certified its products within safety critical, military, and commercial aviation systems to DO-178C DAL A and other standards. Lynx provides artifacts and support to our customers who are going through various industry specific certifications.
+
+TOOLS
+
+Lynx tools
+ support LynxOS-178 RTOS, Linux, LSA, and LynxSecure across fundamental tasks including application development, software debug, trace and visualization. Luminosity and SpyKer are Eclipse-based development environments that allow intuitive build and debug of applications and drivers, event trace and visualization for LynxOS-178 and Linux guests. 
+
+CLASSIFIED CERTIFICATION
+
+The platform is extensible to support the most stringent certification requirements such as CSfC (Commercial Solution for Classified applications) defined by the United States Government’s National Security Agency (NSA). The process enables commercial products to be used in layered solutions to protect highly classified information.
+
+MARKET TRENDS
+
+LET'S CONNECT
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top

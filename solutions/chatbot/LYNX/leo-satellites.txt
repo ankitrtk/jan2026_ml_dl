@@ -1,0 +1,358 @@
+URL: https://www.lynx.com/industries/leo-satellites
+
+LEO Satellite Operations Software Solutions | LYNX Software
+
+Skip to the main content.
+
+                      Products
+
+                      LYNX MOSAic
+
+                      LYNX MOSAic for Avionics
+
+                      LynxElement
+
+                      LynxOS-178
+
+                      LynxSecure
+
+                      LYNX MOSA.ic.SCA
+
+                      SpyKer Product Family
+
+                      VIE
+
+                      Legacy
+
+                      LynxOS
+
+                      LynxSafe
+
+                      Professional Services
+
+                      Support
+
+                      Support Portal
+
+                      Support Services
+
+                      Training
+
+                      Industries
+
+                      Armored Ground Vehicles
+
+                      Commercial Avionics
+
+                      Critical Infrastructure
+
+                      LEO Satellites
+
+                      Military Avionics
+
+                      Urban Air Mobility
+
+                      Industry Standards
+
+                      FACE 
+
+                      MOSA
+
+                      Resources
+
+                      Case Studies
+
+                      Export Compliance
+
+                      FAQ
+
+                      Resource Center 
+
+                      Videos
+
+                      About Us
+
+                      Careers
+
+                      Contact
+
+                      How Did We Do?
+
+                      Distributors
+
+                      Events
+
+                      Blogs
+
+                      Lynx Executive Blog
+
+                      Lynx Technical Blog
+
+                      Our Business Model
+
+                      Our Commitment to National Defense
+
+                      Partners
+
+                      Press Releases
+
+                      The Lab
+
+                      Feedback
+
+Search
+
+Search
+
+Toggle Menu
+
+Search
+
+Search
+
+Toggle Menu
+
+        Products
+
+Toggle Menu
+
+        LYNX MOSAic
+
+Toggle Menu
+
+        LYNX MOSAic for Avionics
+
+        LynxElement
+
+        LynxOS-178
+
+        LynxSecure
+
+        LYNX MOSA.ic.SCA
+
+        SpyKer Product Family
+
+        VIE
+
+        Legacy
+
+Toggle Menu
+
+        LynxOS
+
+        LynxSafe
+
+        Professional Services
+
+        Support
+
+Toggle Menu
+
+        Support Portal
+
+        Support Services
+
+        Training
+
+        Industries
+
+Toggle Menu
+
+        Armored Ground Vehicles
+
+        Commercial Avionics
+
+        Critical Infrastructure
+
+        LEO Satellites
+
+        Military Avionics
+
+        Urban Air Mobility
+
+        Industry Standards
+
+Toggle Menu
+
+        FACE 
+
+        MOSA
+
+        Resources
+
+Toggle Menu
+
+        Case Studies
+
+        Export Compliance
+
+        FAQ
+
+        Resource Center 
+
+        Videos
+
+        About Us
+
+Toggle Menu
+
+        Careers
+
+        Contact
+
+Toggle Menu
+
+        How Did We Do?
+
+        Distributors
+
+        Events
+
+        Blogs
+
+Toggle Menu
+
+        Lynx Executive Blog
+
+        Lynx Technical Blog
+
+        Our Business Model
+
+        Our Commitment to National Defense
+
+        Partners
+
+        Press Releases
+
+        The Lab
+
+        Feedback
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Twitter
+
+Youtube
+
+Medium
+
+PROLONGING THE USEFUL LIFE 
+
+OF LOW EARTH ORBIT (LEO) SATELLITES
+
+LEO SATELLITES
+
+Prolonging their useful life
+
+INDUSTRY SECTOR DYNAMICS
+
+The early years of the space race were primarily a competition between superpowers marked by nationalistic exploration and national security interests. Only recently have we experienced significant acceleration down the cost curve:
+ launch costs have fallen 95 percent
+ thanks to reuse, improved engineering, and increased volumes.
+While the US government remains the primary source of funding, private companies, especially new space players, have substantially increased their investment in recent years. If the current momentum continues, commercial funding for space ventures could surpass government funding in the next 20 years. 
+Low Earth Orbit (LEO) satellites are not new. As of the middle of 2021, there were in excess of 6500 satellites in space. Of the 3400 active satellites, most are already deployed in the LEO range. What’s new is the sheer scale of recent proposals. Typically, these satellites weigh (sometimes substantially) less than 500kg. A small satellite has stringent energy constraints, which are challenged by transmission over long distances. Small spacecraft must have active lifetimes of up to five years and so contain photo-voltaic solar panels to generate electrical energy from the sunlight.
+
+SEGMENT CHALLENGES
+
+As discussed above, the satellite industry is undergoing a major transformation, driven by accelerating technology development in the commercial space sector. 
+What we hear is for software, this translates to:
+
+Time to market. These systems are highly complex which is driving companies to worry about aspects like software test automation, system-level modeling, and design validation
+
+With data gathering and communication being two main use cases for this technology there is a need to create effective, updateable Edge Servers in these platforms
+
+Costs and supply chain greatest risks 
+
+Cybersecurity
+
+See 
+this article
+ for reference
+
+INDUSTRY SECTOR DYNAMICS
+
+Across the world, budgets continue to rise. In March 2023, 
+the Pentagon released its initial request for Fiscal Year ‘24
+. Across Europe, budgets continue to rise at a pace that outstrips inflation. Once factors like military aid are added, the result is a budget request approaching $1B which represents the highest military budget since World War II.
+
+Technology is clearly at the heart of this and the word we continue to hear (and view being operationalized) is accelerating the time to deployment as the US and its Allies look to main its advantages over other world powers. Great servants to the military like the BlackHawk Helicopter and F-16 fighter jet need to be upgraded with programs that include 
+Future Attack Reconnaissance Aircraft (FARA)
+, Future Long Range Assault Aircraft (FLRAA), and F-35 Joint Strike Fighter. 
+Much has been written about the vision of the 
+connected battlefield
+. The implementation of this at a rapid pace requires a massive change in product creation and deployment.
+
+Development must embrace cloud development and harnessing of technologies such as machine learning, digital twins and virtual targets
+
+Secure System Connectivity becomes critical as data is gathered and shared between a diverse set of endpoints (soldiers, UAVs, planes, satellites) and insights made in real time 
+
+Systems must build in adaptability to add functionality once deployed to extend the useful life of the platforms and ensure our residents, their information and their systems are protected to the fullest extent
+
+HOW LYNX CAN HELP
+
+Time to Market
+
+Lynx provides tools to enable you to simulate Lynx-based technology with your CI/CD framework
+
+Lynx provides software bills of materials to assist in your ongoing management of the platform
+
+Edge Server
+
+LYNX MOSA.ic provides proven connectivity to standard public clouds including Amazon, 
+Google,
+ and 
+Microsoft
+
+Lynx supports use of industry-standard containers and orchestration frameworks to enable patches and functionality updates to be securely supplied to deployed systems
+
+Cost and Supply Chain
+
+LYNX MOSA.ic
+ aligns with industry standards which improves the reuse of software across programs and between vendors
+
+LYNX MOSA.ic runs on all the popular multicore Arm, PowerPC, Intel, and (shortly) RISC-V processors simplifying the adoption of new hardware if needed 
+
+Cybersecurity
+
+LynxSecure
+ increases system immunity to cyberattack through:
+
+Only providing access to system resources needed by an application
+
+Remains out of datapath to remove chance of rootkit attacks
+
+Suggested Partners
+
+No one company can deliver all technologies for the next generation of securely-connected mission-critical platforms. Click 
+here 
+to learn about some of our trusted partners, see what we've accomplished together, and explore how we can assist you.
+
+MARKET FORECAST
+
+$
+0
+
+Forecast market value (2025)
+
+$
+0
+
+Forecast market value (2026)
+
+See 
+here
+ for reference.
+
+Privacy Policy
+
+© 2026 Copyright Lynx Software Technologies | The information herein is subject to change at any time after the date of publication. Lynx does not guarantee the accuracy of the information herein beyond the date of publication. All third party company and product names mentioned, and marks and logos used, are trademarks and/or registered trademarks of their respective owners.
+
+Twitter
+LinkedIn
+YouTube
+
+Return to Top
